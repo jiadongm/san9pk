@@ -1,0 +1,506 @@
+[
+  {
+    "id": 0,
+    "nameSimplified": "鱼鳞",
+    "environment": "陆战",
+    "role": "步兵速攻",
+    "tacticSystemHint": "步兵系兵法",
+    "rawValues": [
+      15,
+      10,
+      10,
+      10,
+      12,
+      3,
+      4,
+      0
+    ],
+    "recordHex": "00000000000000000f000a000a000a000c000300040000000100010304050739"
+  },
+  {
+    "id": 1,
+    "nameSimplified": "鹤翼",
+    "environment": "陆战",
+    "role": "步兵迎击",
+    "tacticSystemHint": "步兵系兵法",
+    "rawValues": [
+      12,
+      10,
+      10,
+      12,
+      10,
+      4,
+      3,
+      0
+    ],
+    "recordHex": "01000100010001000c000a000a000c000a000400030000000200000206070839"
+  },
+  {
+    "id": 2,
+    "nameSimplified": "锥行",
+    "environment": "陆战",
+    "role": "轻骑机动",
+    "tacticSystemHint": "骑兵/弓骑兵系：具体适配待实测",
+    "rawValues": [
+      13,
+      10,
+      10,
+      12,
+      16,
+      3,
+      2,
+      0
+    ],
+    "recordHex": "02000200020002000d000a000a000c0010000300020000000600010305060839"
+  },
+  {
+    "id": 3,
+    "nameSimplified": "锋矢",
+    "environment": "陆战",
+    "role": "骑兵进攻",
+    "tacticSystemHint": "骑兵系兵法",
+    "rawValues": [
+      15,
+      8,
+      10,
+      9,
+      14,
+      4,
+      1,
+      0
+    ],
+    "recordHex": "03000300030003000f0008000a0009000e000400010000000400000102040739"
+  },
+  {
+    "id": 4,
+    "nameSimplified": "雁行",
+    "environment": "陆战",
+    "role": "弩兵攻城",
+    "tacticSystemHint": "弩兵系兵法",
+    "rawValues": [
+      11,
+      15,
+      10,
+      11,
+      10,
+      4,
+      2,
+      0
+    ],
+    "recordHex": "04000400040004000b000f000a000b000a000400020000000700000203050739"
+  },
+  {
+    "id": 5,
+    "nameSimplified": "箕形",
+    "environment": "陆战",
+    "role": "步骑混合",
+    "tacticSystemHint": "狙击；其余适配待实测",
+    "rawValues": [
+      12,
+      12,
+      10,
+      12,
+      10,
+      3,
+      6,
+      0
+    ],
+    "recordHex": "05000500050005000c000c000a000c000a000300060000000800000204060839"
+  },
+  {
+    "id": 6,
+    "nameSimplified": "长蛇",
+    "environment": "陆战",
+    "role": "机动与奇袭",
+    "tacticSystemHint": "通用机动；具体适配待实测",
+    "rawValues": [
+      9,
+      9,
+      10,
+      7,
+      20,
+      4,
+      7,
+      0
+    ],
+    "recordHex": "0600060006000600090009000a00070014000400070000000000000304070839"
+  },
+  {
+    "id": 7,
+    "nameSimplified": "方圆",
+    "environment": "陆战",
+    "role": "守备与持久",
+    "tacticSystemHint": "防御；具体适配待实测",
+    "rawValues": [
+      9,
+      10,
+      10,
+      15,
+      8,
+      3,
+      8,
+      0
+    ],
+    "recordHex": "070007000700070009000a000a000f0008000300080000000900030405060839"
+  },
+  {
+    "id": 8,
+    "nameSimplified": "井阑",
+    "environment": "攻城",
+    "role": "攻击守兵",
+    "tacticSystemHint": "井阑",
+    "rawValues": [
+      10,
+      40,
+      10,
+      7,
+      9,
+      3,
+      4,
+      200
+    ],
+    "recordHex": "08000800080008000a0028000a000700090003000400c8000700010305060839"
+  },
+  {
+    "id": 9,
+    "nameSimplified": "冲车",
+    "environment": "攻城",
+    "role": "破坏城壁",
+    "tacticSystemHint": "冲车",
+    "rawValues": [
+      10,
+      10,
+      40,
+      8,
+      9,
+      3,
+      4,
+      300
+    ],
+    "recordHex": "09000900090009000a000a00280008000900030004002c010000010305060839"
+  },
+  {
+    "id": 10,
+    "nameSimplified": "发石",
+    "environment": "攻城",
+    "role": "远程攻城",
+    "tacticSystemHint": "发石",
+    "rawValues": [
+      15,
+      20,
+      20,
+      6,
+      9,
+      3,
+      4,
+      300
+    ],
+    "recordHex": "0a000a000a000a000f001400140006000900030004002c010000010305060839"
+  },
+  {
+    "id": 11,
+    "nameSimplified": "象兵",
+    "environment": "攻城",
+    "role": "战象攻城",
+    "tacticSystemHint": "象兵",
+    "rawValues": [
+      20,
+      10,
+      30,
+      12,
+      9,
+      3,
+      4,
+      1000
+    ],
+    "recordHex": "0b000b000b000b0014000a001e000c00090003000400e8030a00010305060839"
+  },
+  {
+    "id": 12,
+    "nameSimplified": "正阵",
+    "environment": "隐藏陆战",
+    "role": "攻守平衡",
+    "tacticSystemHint": "待实测",
+    "rawValues": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      0,
+      8,
+      0
+    ],
+    "recordHex": "0c000c000c000c000a000a000a000a000f000000080000000000000204060839"
+  },
+  {
+    "id": 13,
+    "nameSimplified": "建设",
+    "environment": "特殊",
+    "role": "建设",
+    "tacticSystemHint": "营造/建设用途",
+    "rawValues": [
+      8,
+      8,
+      8,
+      8,
+      18,
+      4,
+      7,
+      0
+    ],
+    "recordHex": "0d000d000d000d00080008000800080012000400070000000000030405060839"
+  },
+  {
+    "id": 14,
+    "nameSimplified": "运输",
+    "environment": "特殊",
+    "role": "运输",
+    "tacticSystemHint": "运输用途",
+    "rawValues": [
+      8,
+      8,
+      8,
+      8,
+      26,
+      4,
+      7,
+      0
+    ],
+    "recordHex": "0e000e000e000e0008000800080008001a000400070000000000030405060839"
+  },
+  {
+    "id": 15,
+    "nameSimplified": "倭",
+    "environment": "异族",
+    "role": "倭军",
+    "tacticSystemHint": "待实测",
+    "rawValues": [
+      20,
+      20,
+      20,
+      20,
+      15,
+      4,
+      8,
+      0
+    ],
+    "recordHex": "0f000f000f000f0014001400140014000f000400080000000100000204060839"
+  },
+  {
+    "id": 16,
+    "nameSimplified": "乌丸",
+    "environment": "异族",
+    "role": "北方胡骑",
+    "tacticSystemHint": "飞射",
+    "rawValues": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      4,
+      8,
+      0
+    ],
+    "recordHex": "1000100010001000140014001400140014000400080000000500000204060839"
+  },
+  {
+    "id": 17,
+    "nameSimplified": "羌",
+    "environment": "异族",
+    "role": "重骑",
+    "tacticSystemHint": "待实测",
+    "rawValues": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      4,
+      8,
+      0
+    ],
+    "recordHex": "1100110011001100140014001400140014000400080000000300000204060839"
+  },
+  {
+    "id": 18,
+    "nameSimplified": "山越",
+    "environment": "异族",
+    "role": "山地作战",
+    "tacticSystemHint": "待实测",
+    "rawValues": [
+      20,
+      20,
+      20,
+      20,
+      15,
+      4,
+      8,
+      0
+    ],
+    "recordHex": "120012001200120014001400140014000f000400080000000100000204060839"
+  },
+  {
+    "id": 19,
+    "nameSimplified": "南蛮",
+    "environment": "异族",
+    "role": "藤甲",
+    "tacticSystemHint": "待实测",
+    "rawValues": [
+      20,
+      20,
+      20,
+      20,
+      15,
+      4,
+      8,
+      0
+    ],
+    "recordHex": "130013001300130014001400140014000f000400080000000100000204060839"
+  },
+  {
+    "id": 20,
+    "nameSimplified": "走舸",
+    "environment": "水战",
+    "role": "基础船只",
+    "tacticSystemHint": "水军系兵法",
+    "rawValues": [
+      10,
+      10,
+      10,
+      10,
+      12,
+      3,
+      4,
+      0
+    ],
+    "recordHex": "14001400140014000a000a000a000a000c000300040000000b00090909090939"
+  },
+  {
+    "id": 21,
+    "nameSimplified": "艨艟",
+    "environment": "水战",
+    "role": "直接攻击",
+    "tacticSystemHint": "水军系兵法",
+    "rawValues": [
+      15,
+      10,
+      30,
+      9,
+      13,
+      3,
+      2,
+      400
+    ],
+    "recordHex": "15001500150015000f000a001e0009000d000300020090010c00090909090939"
+  },
+  {
+    "id": 22,
+    "nameSimplified": "楼船",
+    "environment": "水战",
+    "role": "间接攻击",
+    "tacticSystemHint": "水军系兵法",
+    "rawValues": [
+      13,
+      30,
+      10,
+      12,
+      10,
+      4,
+      8,
+      600
+    ],
+    "recordHex": "16001600160016000d001e000a000c000a000400080058020d00090909090939"
+  },
+  {
+    "id": 23,
+    "nameSimplified": "斗舰",
+    "environment": "水战",
+    "role": "全能水战",
+    "tacticSystemHint": "水军系兵法",
+    "rawValues": [
+      15,
+      20,
+      20,
+      12,
+      11,
+      3,
+      6,
+      800
+    ],
+    "recordHex": "17001700170017000f00140014000c000b000300060020030e00090909090939"
+  },
+  {
+    "id": 24,
+    "nameSimplified": "正船",
+    "environment": "隐藏水战",
+    "role": "轻舟",
+    "tacticSystemHint": "待实测",
+    "rawValues": [
+      10,
+      10,
+      10,
+      10,
+      14,
+      0,
+      8,
+      0
+    ],
+    "recordHex": "18001800180018000a000a000a000a000e000000080000000000090909090939"
+  },
+  {
+    "id": 25,
+    "nameSimplified": "输船",
+    "environment": "隐藏水战",
+    "role": "运输",
+    "tacticSystemHint": "运输用途",
+    "rawValues": [
+      8,
+      8,
+      8,
+      8,
+      17,
+      0,
+      8,
+      0
+    ],
+    "recordHex": "1900190019001900080008000800080011000000080000000000090909090939"
+  },
+  {
+    "id": 26,
+    "nameSimplified": "异船",
+    "environment": "隐藏水战",
+    "role": "连环船",
+    "tacticSystemHint": "水军系兵法",
+    "rawValues": [
+      20,
+      30,
+      30,
+      15,
+      17,
+      4,
+      8,
+      0
+    ],
+    "recordHex": "1a001a001a001a0014001e001e000f0011000400080000000000090909090939"
+  },
+  {
+    "id": 27,
+    "nameSimplified": "无阵",
+    "environment": "状态",
+    "role": "无阵",
+    "tacticSystemHint": "不可用",
+    "rawValues": [
+      8,
+      8,
+      8,
+      8,
+      10,
+      0,
+      8,
+      0
+    ],
+    "recordHex": "1b001b001b001b0008000800080008000a000000080000000000000204060839"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "counts": {
+    "officers": 650,
+    "scenarios": 20,
+    "availabilityRecords": 14000,
+    "relationships": 84,
+    "formations": 28,
+    "recommendations": 400
+  },
+  "notes": [
+    "Traditional-name aliases are reserved but not yet populated.",
+    "Scenario faction membership is not yet available.",
+    "Recommendation scores do not hard-code unverified formation mechanics."
+  ]
+}

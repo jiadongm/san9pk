@@ -1,0 +1,842 @@
+[
+  {
+    "officerIdA": 14,
+    "nameA": "袁术",
+    "officerIdB": 16,
+    "nameB": "袁绍",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 16,
+    "nameA": "袁绍",
+    "officerIdB": 18,
+    "nameB": "袁谭",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 44,
+    "nameA": "王平",
+    "officerIdB": 279,
+    "nameB": "徐晃",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 68,
+    "nameA": "郭图",
+    "officerIdB": 289,
+    "nameB": "审配",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 518,
+    "nameB": "糜芳",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 524,
+    "nameB": "傅士仁",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 642,
+    "nameB": "吕布",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 119,
+    "nameA": "魏延",
+    "officerIdB": 278,
+    "nameB": "诸葛亮",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 119,
+    "nameA": "魏延",
+    "officerIdB": 560,
+    "nameB": "杨仪",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 171,
+    "nameA": "公孙瓒",
+    "officerIdB": 604,
+    "nameB": "刘虞",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 235,
+    "nameA": "周瑜",
+    "officerIdB": 278,
+    "nameB": "诸葛亮",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 243,
+    "nameA": "朱灵",
+    "officerIdB": 326,
+    "nameB": "曹操",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 254,
+    "nameA": "钟会",
+    "officerIdB": 468,
+    "nameB": "邓艾",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 285,
+    "nameA": "申仪",
+    "officerIdB": 555,
+    "nameB": "孟达",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 288,
+    "nameA": "申耽",
+    "officerIdB": 555,
+    "nameB": "孟达",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 289,
+    "nameA": "审配",
+    "officerIdB": 463,
+    "nameB": "田丰",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 289,
+    "nameA": "审配",
+    "officerIdB": 537,
+    "nameB": "逢纪",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 311,
+    "nameA": "曹叡",
+    "officerIdB": 330,
+    "nameB": "曹丕",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 322,
+    "nameA": "曹植",
+    "officerIdB": 330,
+    "nameB": "曹丕",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 326,
+    "nameA": "曹操",
+    "officerIdB": 567,
+    "nameB": "杨修",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 341,
+    "nameA": "孙和",
+    "officerIdB": 362,
+    "nameB": "孙霸",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 349,
+    "nameA": "孙权",
+    "officerIdB": 402,
+    "nameB": "张昭",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 416,
+    "nameA": "张飞",
+    "officerIdB": 642,
+    "nameB": "吕布",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 463,
+    "nameA": "田丰",
+    "officerIdB": 537,
+    "nameB": "逢纪",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 498,
+    "nameA": "马谡",
+    "officerIdB": 621,
+    "nameB": "刘备",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 555,
+    "nameA": "孟达",
+    "officerIdB": 625,
+    "nameB": "刘封",
+    "type": "negative",
+    "intimacyBonus": null,
+    "recommendation": "避免同队",
+    "source": "PTT Koei：兵法和内政连锁组合（2008），减低团队连锁效应"
+  },
+  {
+    "officerIdA": 58,
+    "nameA": "贾诩",
+    "officerIdB": 399,
+    "nameB": "张绣",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 66,
+    "nameA": "乐进",
+    "officerIdB": 422,
+    "nameB": "张辽",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 66,
+    "nameA": "乐进",
+    "officerIdB": 597,
+    "nameB": "李典",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 74,
+    "nameA": "夏侯渊",
+    "officerIdB": 82,
+    "nameB": "夏侯惇",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 74,
+    "nameA": "夏侯渊",
+    "officerIdB": 319,
+    "nameB": "曹洪",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 74,
+    "nameA": "夏侯渊",
+    "officerIdB": 324,
+    "nameB": "曹仁",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 82,
+    "nameA": "夏侯惇",
+    "officerIdB": 319,
+    "nameB": "曹洪",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 82,
+    "nameA": "夏侯惇",
+    "officerIdB": 324,
+    "nameB": "曹仁",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 82,
+    "nameA": "夏侯惇",
+    "officerIdB": 326,
+    "nameB": "曹操",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 83,
+    "nameA": "夏侯霸",
+    "officerIdB": 129,
+    "nameB": "姜维",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 176,
+    "nameB": "黄忠",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 230,
+    "nameB": "周仓",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 376,
+    "nameB": "赵云",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 416,
+    "nameB": "张飞",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 422,
+    "nameB": "张辽",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 502,
+    "nameB": "马超",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 95,
+    "nameA": "关羽",
+    "officerIdB": 621,
+    "nameB": "刘备",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 102,
+    "nameA": "关兴",
+    "officerIdB": 418,
+    "nameB": "张苞",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 111,
+    "nameA": "韩当",
+    "officerIdB": 155,
+    "nameB": "黄盖",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 111,
+    "nameA": "韩当",
+    "officerIdB": 453,
+    "nameB": "程普",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 113,
+    "nameA": "甘宁",
+    "officerIdB": 634,
+    "nameB": "凌统",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 116,
+    "nameA": "关平",
+    "officerIdB": 625,
+    "nameB": "刘封",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 118,
+    "nameA": "颜良",
+    "officerIdB": 531,
+    "nameB": "文丑",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 137,
+    "nameA": "许褚",
+    "officerIdB": 458,
+    "nameB": "典韦",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 146,
+    "nameA": "严颜",
+    "officerIdB": 176,
+    "nameB": "黄忠",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 155,
+    "nameA": "黄盖",
+    "officerIdB": 453,
+    "nameB": "程普",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 176,
+    "nameA": "黄忠",
+    "officerIdB": 376,
+    "nameB": "赵云",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 176,
+    "nameA": "黄忠",
+    "officerIdB": 416,
+    "nameB": "张飞",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 176,
+    "nameA": "黄忠",
+    "officerIdB": 502,
+    "nameB": "马超",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 176,
+    "nameA": "黄忠",
+    "officerIdB": 540,
+    "nameB": "法正",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 182,
+    "nameA": "高览",
+    "officerIdB": 395,
+    "nameB": "张合",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 195,
+    "nameA": "顾谭",
+    "officerIdB": 270,
+    "nameB": "诸葛恪",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 195,
+    "nameA": "顾谭",
+    "officerIdB": 387,
+    "nameB": "张休",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 195,
+    "nameA": "顾谭",
+    "officerIdB": 442,
+    "nameB": "陈表",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 232,
+    "nameA": "周泰",
+    "officerIdB": 257,
+    "nameB": "蒋钦",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 235,
+    "nameA": "周瑜",
+    "officerIdB": 351,
+    "nameB": "孙策",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 238,
+    "nameA": "祝融",
+    "officerIdB": 552,
+    "nameB": "孟获",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 270,
+    "nameA": "诸葛恪",
+    "officerIdB": 387,
+    "nameB": "张休",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 270,
+    "nameA": "诸葛恪",
+    "officerIdB": 442,
+    "nameB": "陈表",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 278,
+    "nameA": "诸葛亮",
+    "officerIdB": 498,
+    "nameB": "马谡",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 278,
+    "nameA": "诸葛亮",
+    "officerIdB": 621,
+    "nameB": "刘备",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 278,
+    "nameA": "诸葛亮",
+    "officerIdB": 690,
+    "nameB": "黄月英",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 319,
+    "nameA": "曹洪",
+    "officerIdB": 324,
+    "nameB": "曹仁",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 351,
+    "nameA": "孙策",
+    "officerIdB": 370,
+    "nameB": "太史慈",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 356,
+    "nameA": "孙尚香",
+    "officerIdB": 621,
+    "nameB": "刘备",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 376,
+    "nameA": "赵云",
+    "officerIdB": 416,
+    "nameB": "张飞",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 376,
+    "nameA": "赵云",
+    "officerIdB": 441,
+    "nameB": "陈到",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 376,
+    "nameA": "赵云",
+    "officerIdB": 502,
+    "nameB": "马超",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 376,
+    "nameA": "赵云",
+    "officerIdB": 689,
+    "nameB": "马云騄",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 387,
+    "nameA": "张休",
+    "officerIdB": 442,
+    "nameB": "陈表",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 416,
+    "nameA": "张飞",
+    "officerIdB": 502,
+    "nameB": "马超",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 416,
+    "nameA": "张飞",
+    "officerIdB": 621,
+    "nameB": "刘备",
+    "type": "positive",
+    "intimacyBonus": 45,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 422,
+    "nameA": "张辽",
+    "officerIdB": 597,
+    "nameB": "李典",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 429,
+    "nameA": "陈宫",
+    "officerIdB": 642,
+    "nameB": "吕布",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 439,
+    "nameA": "陈泰",
+    "officerIdB": 468,
+    "nameB": "邓艾",
+    "type": "positive",
+    "intimacyBonus": 30,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 499,
+    "nameA": "马岱",
+    "officerIdB": 502,
+    "nameB": "马超",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 562,
+    "nameA": "羊祜",
+    "officerIdB": 588,
+    "nameB": "陆抗",
+    "type": "positive",
+    "intimacyBonus": 40,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  },
+  {
+    "officerIdA": 621,
+    "nameA": "刘备",
+    "officerIdB": 649,
+    "nameB": "卢植",
+    "type": "positive",
+    "intimacyBonus": 20,
+    "recommendation": "优先同队",
+    "source": "游侠论坛：兵法连锁概率讨论（2012），亲密度45/40/30/20"
+  }
+]

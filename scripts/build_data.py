@@ -1,0 +1,123 @@
+#!/usr/bin/env python3
+"""Build web-ready JSON from verified SAN9PK analysis CSV files."""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import json
+from itertools import combinations
+from pathlib import Path
+from typing import Any
+
+
+def read_csv(path: Path) -> list[dict[str, str]]:
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        return list(csv.DictReader(handle))
+
+
+def write_json(path: Path, value: Any) -> None:
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def number(value: str) -> int | float:
+    return float(value) if "." in value else int(value)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--source-root", required=True, type=Path, help="Analysis project containing 03_validation/inspections")
+    parser.add_argument("--output-dir", type=Path, default=Path(__file__).resolve().parents[1] / "data")
+    args = parser.parse_args()
+    source = args.source_root / "03_validation" / "inspections"
+    output = args.output_dir
+    output.mkdir(parents=True, exist_ok=True)
+
+    core = read_csv(source / "phase1" / "officer_core_seed.csv")
+    availability = read_csv(source / "phase2" / "scenario_officer_availability.csv")
+    relationships = read_csv(source / "phase2" / "tactic_linkage_relationship_seed.csv")
+    formations = read_csv(source / "phase3" / "formation_definitions.csv")
+    recommendations = read_csv(source / "phase4" / "scenario_linkage_recommendations.csv")
+
+    officers = [{
+        "id": int(row["slot_id"]),
+        "nameSimplified": row["name_simplified"],
+        "nameTraditional": None,
+        "searchAliases": [row["name_simplified"]],
+        "abilities": {field: int(row[field]) for field in ("command", "strength", "intelligence", "politics")},
+        "affinity": int(row["affinity"]),
+        "tactics": row["tactics"].split("、") if row["tactics"] else [],
+    } for row in core]
+    officer_ids = {officer["id"] for officer in officers}
+    if len(officers) != 650 or len(officer_ids) != len(officers):
+        raise ValueError("Officer IDs must contain exactly 650 unique records.")
+
+    scenario_map: dict[str, dict[str, Any]] = {}
+    availability_json = []
+    for row in availability:
+        scenario_map.setdefault(row["scenario_id"], {
+            "id": row["scenario_id"], "year": int(row["scenario_year"]), "month": int(row["scenario_month"]),
+            "title": row["scenario_title"], "dayRaw": int(row["scenario_day_raw"]),
+        })
+        availability_json.append({
+            "scenarioId": row["scenario_id"], "officerId": int(row["slot_id"]), "statusCode": int(row["status_code_raw"]),
+            "statusClass": row["status_class"], "presentAtStart": row["present_at_start"] == "1",
+        })
+    if len(scenario_map) != 20 or len(availability_json) != 14000:
+        raise ValueError("Expected 20 scenarios and 14,000 scenario-officer availability records.")
+
+    relationship_json = [{
+        "officerIdA": int(row["slot_id_a"]), "nameA": row["name_a"],
+        "officerIdB": int(row["slot_id_b"]), "nameB": row["name_b"],
+        "type": row["relation_type"],
+        "intimacyBonus": int(row["intimacy_bonus"]) if row["intimacy_bonus"] else None,
+        "recommendation": row["recommendation"], "source": row["source"],
+    } for row in relationships]
+    negative_pairs = {frozenset((item["officerIdA"], item["officerIdB"])) for item in relationship_json if item["type"] == "negative"}
+
+    formation_json = [{
+        "id": int(row["formation_id"]), "nameSimplified": row["formation_simplified"],
+        "environment": row["environment"], "role": row["role"], "tacticSystemHint": row["tactic_system_hint"],
+        "rawValues": [int(row[f"raw_value_{index:02d}"]) for index in range(1, 9)], "recordHex": row["record_hex"],
+    } for row in formations]
+
+    availability_set = {(item["scenarioId"], item["officerId"]) for item in availability_json if item["presentAtStart"]}
+    recommendation_json = []
+    for row in recommendations:
+        member_ids = [int(value) for value in row["slot_ids"].split("、")]
+        if any(member_id not in officer_ids for member_id in member_ids):
+            raise ValueError(f"Recommendation includes an unknown officer: {row['members']}")
+        if any((row["scenario_id"], member_id) not in availability_set for member_id in member_ids):
+            raise ValueError(f"Recommendation includes unavailable officer(s): {row['members']}")
+        if any(frozenset(pair) in negative_pairs for pair in combinations(member_ids, 2)):
+            raise ValueError(f"Recommendation includes a negative pair: {row['members']}")
+        recommendation_json.append({
+            "scenarioId": row["scenario_id"], "teamSize": int(row["team_size"]), "rank": int(row["rank"]),
+            "memberIds": member_ids, "members": row["members"].split("、"),
+            "linkageScore": int(row["linkage_score"]), "meanPairScore": number(row["mean_pair_score"]),
+            "minAffinityDistance": int(row["min_affinity_distance"]), "meanAffinityDistance": number(row["mean_affinity_distance"]),
+            "intimacyBonusTotal": int(row["intimacy_bonus_total"]), "positiveRelationPairs": row["positive_relation_pairs"].split("；") if row["positive_relation_pairs"] else [],
+            "commonTactics": row["common_tactics_all"].split("、") if row["common_tactics_all"] else [],
+            "tacticSystemCoverage": row["tactic_system_coverage"].split("；") if row["tactic_system_coverage"] else [],
+            "meanAbilities": {"command": number(row["mean_command"]), "strength": number(row["mean_strength"]), "intelligence": number(row["mean_intelligence"])},
+            "meanCapability": number(row["mean_capability"]), "searchMethod": row["search_method"],
+        })
+    if len(recommendation_json) != 400:
+        raise ValueError("Expected 400 recommendations.")
+
+    write_json(output / "officers.json", officers)
+    write_json(output / "scenarios.json", sorted(scenario_map.values(), key=lambda item: item["id"]))
+    write_json(output / "scenario-availability.json", availability_json)
+    write_json(output / "relationships.json", relationship_json)
+    write_json(output / "formations.json", formation_json)
+    write_json(output / "recommendations.json", recommendation_json)
+    write_json(output / "manifest.json", {
+        "schemaVersion": 1,
+        "counts": {"officers": len(officers), "scenarios": len(scenario_map), "availabilityRecords": len(availability_json), "relationships": len(relationship_json), "formations": len(formation_json), "recommendations": len(recommendation_json)},
+        "notes": ["Traditional-name aliases are reserved but not yet populated.", "Scenario faction membership is not yet available.", "Recommendation scores do not hard-code unverified formation mechanics."],
+    })
+    print(f"Wrote web data to {output}")
+
+
+if __name__ == "__main__":
+    main()
