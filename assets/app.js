@@ -1,10 +1,11 @@
 const $ = (id) => document.getElementById(id);
 const state = { officers: [], scenarios: [], availability: [], relationships: [], recommendations: [], selectedOfficerId: null };
+const dataVersion = new URL(import.meta.url).searchParams.get("v") || "1";
 
 async function loadData() {
   const names = ["officers", "scenarios", "scenario-availability", "relationships", "recommendations", "manifest"];
   const data = await Promise.all(names.map(async (name) => {
-    const response = await fetch(`data/${name}.json`);
+    const response = await fetch(`data/${name}.json?v=${dataVersion}`);
     if (!response.ok) throw new Error(`无法读取 ${name}`);
     return response.json();
   }));
@@ -37,7 +38,7 @@ function renderOfficers() {
   const all = visibleOfficers();
   const officers = all.slice(0, 24);
   $("officer-status").textContent = `找到 ${all.length} 名武将，当前显示前 ${officers.length} 名。`;
-  $("officer-list").innerHTML = officers.map((officer) => `<button class="officer-card" type="button" data-officer-id="${officer.id}" aria-pressed="${officer.id === state.selectedOfficerId}"><strong>${officer.nameSimplified}</strong><span>统 ${officer.abilities.command}　武 ${officer.abilities.strength}　智 ${officer.abilities.intelligence}</span><span>相性 ${officer.affinity}</span><div class="affinity-line" style="--affinity:${officer.affinity / 1.5}%"></div></button>`).join("") || "<p>没有符合条件的武将。</p>";
+  $("officer-list").innerHTML = officers.map((officer) => `<button class="officer-card" type="button" data-officer-id="${officer.id}" aria-pressed="${officer.id === state.selectedOfficerId}"><strong>${officer.nameSimplified}</strong><span>统 ${officer.abilities.command}　武 ${officer.abilities.strength}　智 ${officer.abilities.intelligence}　政 ${officer.abilities.politics}</span><span class="affinity-position">相性圈位置 ${officer.affinity} / 149</span></button>`).join("") || "<p>没有符合条件的武将。</p>";
   document.querySelectorAll("[data-officer-id]").forEach((button) => button.addEventListener("click", () => { state.selectedOfficerId = Number(button.dataset.officerId); renderOfficers(); renderDetail(); }));
 }
 
@@ -47,7 +48,8 @@ function renderDetail() {
   const available = state.availability.filter((item) => item.officerId === officer.id && item.presentAtStart).length;
   const related = state.relationships.filter((item) => item.officerIdA === officer.id || item.officerIdB === officer.id);
   const relationships = related.length ? related.map((item) => { const other = item.officerIdA === officer.id ? item.nameB : item.nameA; const label = item.type === "positive" ? `正向关系 +${item.intimacyBonus}` : "避免同队"; return `<li class="relationship-${item.type}"><b>${label}</b><br>${other}</li>`; }).join("") : "<li>未收录特殊关系。</li>";
-  $("officer-detail").innerHTML = `<p class="panel-kicker">武将档案 · #${officer.id}</p><h3>${officer.nameSimplified}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>相性</b><br>${officer.affinity}（0–149 环状）</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>开局可用剧本</b><br>${available} 个</li><li><b>特殊关系</b><br>${relationships}</li></ul>`;
+  const traditionalName = officer.nameTraditional && officer.nameTraditional !== officer.nameSimplified ? `<span class="traditional-name">${officer.nameTraditional}</span>` : "";
+  $("officer-detail").innerHTML = `<p class="panel-kicker">武将档案 · #${officer.id}</p><h3>${officer.nameSimplified}${traditionalName}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>相性位置</b><br>${officer.affinity} / 149（环状距离，不代表能力高低）</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>人物小传</b><br>${officer.biography || "暂无已审核小传。"}</li><li><b>开局可用剧本</b><br>${available} 个</li><li><b>特殊关系</b><br>${relationships}</li></ul>`;
 }
 
 function renderRecommendations() {

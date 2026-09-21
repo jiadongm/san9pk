@@ -9,7 +9,7 @@
     "recommendations": 400
   },
   "notes": [
-    "Traditional-name aliases are reserved but not yet populated.",
+    "Traditional-name aliases and reviewed biographies are available for all 650 officers.",
     "Scenario faction membership is not yet available.",
     "Recommendation scores do not hard-code unverified formation mechanics."
   ]

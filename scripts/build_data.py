@@ -34,16 +34,22 @@ def main() -> None:
     output.mkdir(parents=True, exist_ok=True)
 
     core = read_csv(source / "phase1" / "officer_core_seed.csv")
+    traditional_profiles = read_csv(Path(__file__).resolve().parents[1] / "data-source" / "officer-traditional-profiles.csv")
     availability = read_csv(source / "phase2" / "scenario_officer_availability.csv")
     relationships = read_csv(source / "phase2" / "tactic_linkage_relationship_seed.csv")
     formations = read_csv(source / "phase3" / "formation_definitions.csv")
     recommendations = read_csv(source / "phase4" / "scenario_linkage_recommendations.csv")
 
+    profiles_by_slot = {int(row["slot_id"]): row for row in traditional_profiles}
+    if len(traditional_profiles) != 650 or len(profiles_by_slot) != 650:
+        raise ValueError("Traditional profiles must contain exactly 650 unique officer slots.")
+
     officers = [{
         "id": int(row["slot_id"]),
         "nameSimplified": row["name_simplified"],
-        "nameTraditional": None,
-        "searchAliases": [row["name_simplified"]],
+        "nameTraditional": profiles_by_slot[int(row["slot_id"])]["name_traditional"],
+        "searchAliases": list(dict.fromkeys([row["name_simplified"], profiles_by_slot[int(row["slot_id"])]["name_traditional"]])),
+        "biography": profiles_by_slot[int(row["slot_id"])]["biography"],
         "abilities": {field: int(row[field]) for field in ("command", "strength", "intelligence", "politics")},
         "affinity": int(row["affinity"]),
         "tactics": row["tactics"].split("、") if row["tactics"] else [],
@@ -51,6 +57,8 @@ def main() -> None:
     officer_ids = {officer["id"] for officer in officers}
     if len(officers) != 650 or len(officer_ids) != len(officers):
         raise ValueError("Officer IDs must contain exactly 650 unique records.")
+    if any(profiles_by_slot[officer["id"]]["name_simplified"] != officer["nameSimplified"] for officer in officers):
+        raise ValueError("Traditional profile names do not match the verified core officer list.")
 
     scenario_map: dict[str, dict[str, Any]] = {}
     availability_json = []
@@ -114,7 +122,7 @@ def main() -> None:
     write_json(output / "manifest.json", {
         "schemaVersion": 1,
         "counts": {"officers": len(officers), "scenarios": len(scenario_map), "availabilityRecords": len(availability_json), "relationships": len(relationship_json), "formations": len(formation_json), "recommendations": len(recommendation_json)},
-        "notes": ["Traditional-name aliases are reserved but not yet populated.", "Scenario faction membership is not yet available.", "Recommendation scores do not hard-code unverified formation mechanics."],
+        "notes": ["Traditional-name aliases and reviewed biographies are available for all 650 officers.", "Scenario faction membership is not yet available.", "Recommendation scores do not hard-code unverified formation mechanics."],
     })
     print(f"Wrote web data to {output}")
 

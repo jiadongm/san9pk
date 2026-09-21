@@ -6,8 +6,9 @@
 
 - `id`：游戏人物槽位 ID。
 - `nameSimplified`：当前已验证的简体姓名。
-- `nameTraditional`：繁体姓名预留字段。待与已校订繁体姓名表逐一可靠匹配后填入。
-- `searchAliases`：网页检索用别名；目前包括简体姓名，后续加入繁体与拼音。
+- `nameTraditional`：与游戏槽位一一验证后的繁体姓名。
+- `searchAliases`：网页检索用别名；包括经验证的简体和繁体姓名。拼音尚未加入。
+- `biography`：已审核繁体中文资料表中的简短人物小传。
 - `abilities`：统率、武力、智力、政治。
 - `affinity`：0–149 的环状相性值。
 - `tactics`：已掌握兵法。
@@ -27,4 +28,3 @@
 ## recommendations.json
 
 当前每个剧本提供三人和五人各十组候选。`linkageScore` 仅基于相性接近度和已量化正向关系；能力均值只用于同分排序。`searchMethod` 明确记录候选搜索法，不能解释为全组合最优证明。
-

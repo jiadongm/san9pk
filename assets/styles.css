@@ -38,10 +38,12 @@ h3 { font-size:1.35rem; }
 .officer-card:hover,.officer-card[aria-pressed="true"] { transform:translateY(-2px); box-shadow:4px 5px 0 rgba(30,85,84,.2); border-color:var(--jade); }
 .officer-card strong { display:block; font-size:1.12rem; }
 .officer-card span { display:block; color:var(--muted); font-size:.79rem; }
-.affinity-line { height:4px; margin-top:.8rem; background:linear-gradient(90deg,var(--vermilion) var(--affinity),var(--mist) var(--affinity)); }
+.officer-card .affinity-position { display:flex; align-items:center; gap:.38rem; margin-top:.55rem; color:var(--jade); font:700 .72rem/1.2 Arial,sans-serif; letter-spacing:.025em; }
+.affinity-position::before { content:""; width:.52rem; height:.52rem; border:1px solid var(--jade); border-radius:50%; box-shadow:inset 0 0 0 .12rem #faf7ef; background:var(--jade); }
 .detail-panel { position:sticky; top:1rem; align-self:start; min-height:260px; padding:1.35rem; background:var(--jade-deep); color:#edf0e6; }
 .detail-panel .panel-kicker { margin-bottom:.55rem; color:#dfb35b; font:700 .7rem Arial,sans-serif; letter-spacing:.1em; }
 .detail-panel h3 { margin-bottom:.7rem; }
+.traditional-name { margin-left:.45rem; color:#cbd5d0; font-size:.85rem; font-weight:400; white-space:nowrap; }
 .detail-panel p:last-child { margin-bottom:0; color:#cbd5d0; font-size:.93rem; }
 .detail-list { margin:1rem 0 0; padding:0; list-style:none; }
 .detail-list li { padding:.5rem 0; border-top:1px solid rgba(255,255,255,.16); }
