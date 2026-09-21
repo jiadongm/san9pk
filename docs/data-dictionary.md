@@ -13,9 +13,11 @@
 - `affinity`：0–149 的环状相性值。
 - `tactics`：已掌握兵法。
 
-## scenarios.json 和 scenario-availability.json
+## scenarios.json、scenario-availability.json 和 factions.json
 
 `scenarios.json` 为 20 个剧本的元数据。`scenario-availability.json` 逐行给出剧本与武将的开局状态。`presentAtStart` 为 `true` 时才会进入该剧本的联携推荐候选池；状态 9 尚未验证，因此不会进入推荐。
+
+`factions.json` 为从原始剧本记录验证的势力清单。每项包括剧本 ID、势力 ID、君主槽位与姓名、首府城池 ID；网页以“君主姓名＋势力”显示。无已验证所属势力的武将不会被归入任何势力成员池。
 
 ## relationships.json
 
@@ -27,4 +29,4 @@
 
 ## recommendations.json
 
-当前每个剧本提供三人和五人各十组候选。`linkageScore` 仅基于相性接近度和已量化正向关系；能力均值只用于同分排序。`searchMethod` 明确记录候选搜索法，不能解释为全组合最优证明。
+每个剧本提供全部开局武将的候选，也为每个已验证势力分别提供三人和五人候选。`forceId` 为 `null` 表示全部开局武将；否则候选只来自对应势力成员池。`linkageScore` 仅基于相性接近度和已量化正向关系；能力均值只用于同分排序。`searchMethod` 明确记录候选搜索法，不能解释为全组合最优证明。

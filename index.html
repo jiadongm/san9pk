@@ -28,13 +28,13 @@
         <div class="officer-layout"><div><p id="officer-status" class="result-status" aria-live="polite"></p><div id="officer-list" class="officer-grid"></div></div><aside id="officer-detail" class="detail-panel" aria-live="polite"><p class="panel-kicker">选择一位武将</p><h3>档案详情</h3><p>这里会显示能力、相性、兵法、可用剧本与已收录的联携关系。</p></aside></div>
       </section>
       <section id="recommendations" class="workspace recommendation-workspace" aria-labelledby="recommendations-title">
-        <div class="section-heading"><div><p class="eyebrow">SCENARIO TEAMS</p><h2 id="recommendations-title">剧本组合推荐</h2></div><p>仅从剧本开局可用武将中选取。势力归属仍在解析，暂不提供未经验证的势力筛选。</p></div>
-        <div class="filter-row scenario-controls"><label><span>剧本</span><select id="scenario-filter"></select></label><fieldset class="team-size-control"><legend>人数</legend><label><input type="radio" name="team-size" value="3" checked /> 三人</label><label><input type="radio" name="team-size" value="5" /> 五人</label></fieldset></div>
+        <div class="section-heading"><div><p class="eyebrow">SCENARIO TEAMS</p><h2 id="recommendations-title">剧本组合推荐</h2></div><p>可按剧本和已验证的开局势力筛选；候选只从该势力的已验证成员池中重新计算。</p></div>
+        <div class="filter-row scenario-controls"><label><span>剧本</span><select id="scenario-filter"></select></label><label><span>势力</span><select id="faction-filter"></select></label><fieldset class="team-size-control"><legend>人数</legend><label><input type="radio" name="team-size" value="3" checked /> 三人</label><label><input type="radio" name="team-size" value="5" /> 五人</label></fieldset></div>
         <div id="recommendation-note" class="recommendation-note"></div><div id="recommendation-list" class="recommendation-grid"></div>
       </section>
       <section id="method" class="method-section" aria-labelledby="method-title"><div><p class="eyebrow">METHOD</p><h2 id="method-title">如何阅读推荐</h2></div><div class="method-copy"><p>联携分由环状相性距离与已量化正向关系构成。已知负向关系会直接排除该队伍；统率、武力、智力只在联携同分时用于排序。</p><p>兵法体系覆盖帮助理解部署方向，但阵形的原始数值字段尚未完全解码，因此没有被伪装成精确加权机制。</p><a href="docs/linkage-model.md">查看完整模型与限制</a></div></section>
     </main>
     <footer>资料为《三国志 IX 威力加强版》研究整理。组合为高分候选，并非游戏内触发概率的保证。</footer>
-    <script type="module" src="assets/app.js?v=20260921.2"></script>
+    <script type="module" src="assets/app.js?v=20260922.2"></script>
   </body>
 </html>

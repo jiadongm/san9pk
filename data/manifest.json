@@ -3,15 +3,16 @@
   "counts": {
     "officers": 650,
     "scenarios": 20,
+    "factions": 207,
     "availabilityRecords": 14000,
     "relationships": 84,
     "formations": 28,
-    "recommendations": 400
+    "recommendations": 3728
   },
   "notes": [
     "Traditional-name aliases are available for all 650 officers.",
     "Game-original biographies have not yet been extracted.",
-    "Scenario faction membership is not yet available.",
+    "Scenario faction membership is resolved from original scenario records.",
     "Recommendation scores do not hard-code unverified formation mechanics."
   ]
 }

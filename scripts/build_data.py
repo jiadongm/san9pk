@@ -36,6 +36,7 @@ def main() -> None:
     core = read_csv(source / "phase1" / "officer_core_seed.csv")
     traditional_profiles = read_csv(Path(__file__).resolve().parents[1] / "data-source" / "officer-traditional-profiles.csv")
     availability = read_csv(source / "phase2" / "scenario_officer_availability.csv")
+    factions = read_csv(source / "phase2" / "scenario_factions.csv")
     relationships = read_csv(source / "phase2" / "tactic_linkage_relationship_seed.csv")
     formations = read_csv(source / "phase3" / "formation_definitions.csv")
     recommendations = read_csv(source / "phase4" / "scenario_linkage_recommendations.csv")
@@ -73,6 +74,14 @@ def main() -> None:
     if len(scenario_map) != 20 or len(availability_json) != 14000:
         raise ValueError("Expected 20 scenarios and 14,000 scenario-officer availability records.")
 
+    faction_json = [{
+        "scenarioId": row["scenario_id"], "forceId": int(row["force_id"]),
+        "leaderId": int(row["leader_slot_id"]), "leaderName": row["leader_name"],
+        "capitalCityId": int(row["capital_city_id"]),
+    } for row in factions]
+    if len(faction_json) != 207:
+        raise ValueError("Expected 207 validated scenario factions.")
+
     relationship_json = [{
         "officerIdA": int(row["slot_id_a"]), "nameA": row["name_a"],
         "officerIdB": int(row["slot_id_b"]), "nameB": row["name_b"],
@@ -100,6 +109,10 @@ def main() -> None:
             raise ValueError(f"Recommendation includes a negative pair: {row['members']}")
         recommendation_json.append({
             "scenarioId": row["scenario_id"], "teamSize": int(row["team_size"]), "rank": int(row["rank"]),
+            "forceId": int(row["force_id"]) if row["force_id"] else None,
+            "forceLeaderId": int(row["force_leader_slot_id"]) if row["force_leader_slot_id"] else None,
+            "forceLeaderName": row["force_leader_name"] or None,
+            "candidatePoolSize": int(row["candidate_pool_size"]),
             "memberIds": member_ids, "members": row["members"].split("、"),
             "linkageScore": int(row["linkage_score"]), "meanPairScore": number(row["mean_pair_score"]),
             "minAffinityDistance": int(row["min_affinity_distance"]), "meanAffinityDistance": number(row["mean_affinity_distance"]),
@@ -109,19 +122,20 @@ def main() -> None:
             "meanAbilities": {"command": number(row["mean_command"]), "strength": number(row["mean_strength"]), "intelligence": number(row["mean_intelligence"])},
             "meanCapability": number(row["mean_capability"]), "searchMethod": row["search_method"],
         })
-    if len(recommendation_json) != 400:
-        raise ValueError("Expected 400 recommendations.")
+    if len(recommendation_json) < 400:
+        raise ValueError("Expected global and faction-specific recommendations.")
 
     write_json(output / "officers.json", officers)
     write_json(output / "scenarios.json", sorted(scenario_map.values(), key=lambda item: item["id"]))
     write_json(output / "scenario-availability.json", availability_json)
+    write_json(output / "factions.json", faction_json)
     write_json(output / "relationships.json", relationship_json)
     write_json(output / "formations.json", formation_json)
     write_json(output / "recommendations.json", recommendation_json)
     write_json(output / "manifest.json", {
         "schemaVersion": 1,
-        "counts": {"officers": len(officers), "scenarios": len(scenario_map), "availabilityRecords": len(availability_json), "relationships": len(relationship_json), "formations": len(formation_json), "recommendations": len(recommendation_json)},
-        "notes": ["Traditional-name aliases are available for all 650 officers.", "Game-original biographies have not yet been extracted.", "Scenario faction membership is not yet available.", "Recommendation scores do not hard-code unverified formation mechanics."],
+        "counts": {"officers": len(officers), "scenarios": len(scenario_map), "factions": len(faction_json), "availabilityRecords": len(availability_json), "relationships": len(relationship_json), "formations": len(formation_json), "recommendations": len(recommendation_json)},
+        "notes": ["Traditional-name aliases are available for all 650 officers.", "Game-original biographies have not yet been extracted.", "Scenario faction membership is resolved from original scenario records.", "Recommendation scores do not hard-code unverified formation mechanics."],
     })
     print(f"Wrote web data to {output}")
 

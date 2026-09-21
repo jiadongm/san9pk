@@ -1,0 +1,1451 @@
+[
+  {
+    "scenarioId": "D_Sce001",
+    "forceId": 28,
+    "leaderId": 385,
+    "leaderName": "张角",
+    "capitalCityId": 4
+  },
+  {
+    "scenarioId": "D_Sce001",
+    "forceId": 29,
+    "leaderId": 87,
+    "leaderName": "何进",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 10
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 4
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 2,
+    "leaderId": 347,
+    "leaderName": "孙坚",
+    "capitalCityId": 32
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 4,
+    "leaderId": 601,
+    "leaderName": "刘焉",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 5,
+    "leaderId": 481,
+    "leaderName": "董卓",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 8,
+    "leaderId": 14,
+    "leaderName": "袁术",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 11,
+    "leaderId": 171,
+    "leaderName": "公孙瓒",
+    "capitalCityId": 1
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 13,
+    "leaderId": 604,
+    "leaderName": "刘虞",
+    "capitalCityId": 2
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 14,
+    "leaderId": 115,
+    "leaderName": "韩馥",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 16,
+    "leaderId": 181,
+    "leaderName": "孔融",
+    "capitalCityId": 8
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 17,
+    "leaderId": 618,
+    "leaderName": "刘岱",
+    "capitalCityId": 9
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 18,
+    "leaderId": 471,
+    "leaderName": "陶谦",
+    "capitalCityId": 11
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 19,
+    "leaderId": 175,
+    "leaderName": "孔侑",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 20,
+    "leaderId": 420,
+    "leaderName": "张杨",
+    "capitalCityId": 7
+  },
+  {
+    "scenarioId": "D_Sce002",
+    "forceId": 21,
+    "leaderId": 380,
+    "leaderName": "张燕",
+    "capitalCityId": 6
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 9
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 12
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 2,
+    "leaderId": 351,
+    "leaderName": "孙策",
+    "capitalCityId": 22
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 5,
+    "leaderId": 583,
+    "leaderName": "李傕",
+    "capitalCityId": 16
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 8,
+    "leaderId": 14,
+    "leaderName": "袁术",
+    "capitalCityId": 21
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 10,
+    "leaderId": 642,
+    "leaderName": "吕布",
+    "capitalCityId": 10
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 11,
+    "leaderId": 171,
+    "leaderName": "公孙瓒",
+    "capitalCityId": 1
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 16,
+    "leaderId": 181,
+    "leaderName": "孔融",
+    "capitalCityId": 8
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 18,
+    "leaderId": 471,
+    "leaderName": "陶谦",
+    "capitalCityId": 11
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 19,
+    "leaderId": 175,
+    "leaderName": "孔侑",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 20,
+    "leaderId": 420,
+    "leaderName": "张杨",
+    "capitalCityId": 7
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 21,
+    "leaderId": 380,
+    "leaderName": "张燕",
+    "capitalCityId": 6
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 22,
+    "leaderId": 49,
+    "leaderName": "王朗",
+    "capitalCityId": 25
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 23,
+    "leaderId": 151,
+    "leaderName": "严白虎",
+    "capitalCityId": 24
+  },
+  {
+    "scenarioId": "D_Sce003",
+    "forceId": 24,
+    "leaderId": 627,
+    "leaderName": "刘繇",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 12
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 2,
+    "leaderId": 351,
+    "leaderName": "孙策",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce004",
+    "forceId": 25,
+    "leaderId": 399,
+    "leaderName": "张绣",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 28
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 12,
+    "leaderId": 170,
+    "leaderName": "公孙康",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 31,
+    "leaderId": 100,
+    "leaderName": "韩玄",
+    "capitalCityId": 32
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 32,
+    "leaderId": 141,
+    "leaderName": "金旋",
+    "capitalCityId": 33
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 33,
+    "leaderId": 415,
+    "leaderName": "赵范",
+    "capitalCityId": 34
+  },
+  {
+    "scenarioId": "D_Sce005",
+    "forceId": 34,
+    "leaderId": 619,
+    "leaderName": "刘度",
+    "capitalCityId": 35
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 30
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 3,
+    "leaderId": 502,
+    "leaderName": "马超",
+    "capitalCityId": 16
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce006",
+    "forceId": 12,
+    "leaderId": 169,
+    "leaderName": "公孙恭",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce007",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce007",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce007",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce007",
+    "forceId": 12,
+    "leaderId": 169,
+    "leaderName": "公孙恭",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce008",
+    "forceId": 0,
+    "leaderId": 330,
+    "leaderName": "曹丕",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce008",
+    "forceId": 1,
+    "leaderId": 616,
+    "leaderName": "刘禅",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce008",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 31
+  },
+  {
+    "scenarioId": "D_Sce008",
+    "forceId": 12,
+    "leaderId": 169,
+    "leaderName": "公孙恭",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce008",
+    "forceId": 26,
+    "leaderId": 552,
+    "leaderName": "孟获",
+    "capitalCityId": 43
+  },
+  {
+    "scenarioId": "D_Sce009",
+    "forceId": 0,
+    "leaderId": 311,
+    "leaderName": "曹叡",
+    "capitalCityId": 21
+  },
+  {
+    "scenarioId": "D_Sce009",
+    "forceId": 1,
+    "leaderId": 616,
+    "leaderName": "刘禅",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce009",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce009",
+    "forceId": 12,
+    "leaderId": 168,
+    "leaderName": "公孙渊",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce010",
+    "forceId": 0,
+    "leaderId": 312,
+    "leaderName": "曹奂",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce010",
+    "forceId": 1,
+    "leaderId": 616,
+    "leaderName": "刘禅",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce010",
+    "forceId": 2,
+    "leaderId": 344,
+    "leaderName": "孙休",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 10
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 4
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 2,
+    "leaderId": 347,
+    "leaderName": "孙坚",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 4,
+    "leaderId": 601,
+    "leaderName": "刘焉",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 5,
+    "leaderId": 481,
+    "leaderName": "董卓",
+    "capitalCityId": 16
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 8,
+    "leaderId": 14,
+    "leaderName": "袁术",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 11,
+    "leaderId": 171,
+    "leaderName": "公孙瓒",
+    "capitalCityId": 1
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 13,
+    "leaderId": 604,
+    "leaderName": "刘虞",
+    "capitalCityId": 2
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 14,
+    "leaderId": 115,
+    "leaderName": "韩馥",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 16,
+    "leaderId": 181,
+    "leaderName": "孔融",
+    "capitalCityId": 8
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 17,
+    "leaderId": 618,
+    "leaderName": "刘岱",
+    "capitalCityId": 9
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 18,
+    "leaderId": 471,
+    "leaderName": "陶谦",
+    "capitalCityId": 11
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 19,
+    "leaderId": 175,
+    "leaderName": "孔侑",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 20,
+    "leaderId": 420,
+    "leaderName": "张杨",
+    "capitalCityId": 7
+  },
+  {
+    "scenarioId": "D_Sce011",
+    "forceId": 21,
+    "leaderId": 380,
+    "leaderName": "张燕",
+    "capitalCityId": 6
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 4,
+    "leaderId": 601,
+    "leaderName": "刘焉",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 5,
+    "leaderId": 481,
+    "leaderName": "董卓",
+    "capitalCityId": 16
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 8,
+    "leaderId": 14,
+    "leaderName": "袁术",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 11,
+    "leaderId": 171,
+    "leaderName": "公孙瓒",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 13,
+    "leaderId": 604,
+    "leaderName": "刘虞",
+    "capitalCityId": 2
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 19,
+    "leaderId": 175,
+    "leaderName": "孔侑",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 20,
+    "leaderId": 420,
+    "leaderName": "张杨",
+    "capitalCityId": 7
+  },
+  {
+    "scenarioId": "D_Sce012",
+    "forceId": 21,
+    "leaderId": 380,
+    "leaderName": "张燕",
+    "capitalCityId": 6
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 14
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 2,
+    "leaderId": 351,
+    "leaderName": "孙策",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 10,
+    "leaderId": 642,
+    "leaderName": "吕布",
+    "capitalCityId": 11
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 11,
+    "leaderId": 171,
+    "leaderName": "公孙瓒",
+    "capitalCityId": 1
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 20,
+    "leaderId": 420,
+    "leaderName": "张杨",
+    "capitalCityId": 7
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 21,
+    "leaderId": 380,
+    "leaderName": "张燕",
+    "capitalCityId": 6
+  },
+  {
+    "scenarioId": "D_Sce013",
+    "forceId": 25,
+    "leaderId": 399,
+    "leaderName": "张绣",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 2,
+    "leaderId": 351,
+    "leaderName": "孙策",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 8,
+    "leaderId": 14,
+    "leaderName": "袁术",
+    "capitalCityId": 21
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce014",
+    "forceId": 25,
+    "leaderId": 399,
+    "leaderName": "张绣",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 10
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 14
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 2,
+    "leaderId": 351,
+    "leaderName": "孙策",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce015",
+    "forceId": 25,
+    "leaderId": 399,
+    "leaderName": "张绣",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce016",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce016",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 33
+  },
+  {
+    "scenarioId": "D_Sce016",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce016",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce016",
+    "forceId": 12,
+    "leaderId": 169,
+    "leaderName": "公孙恭",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 0,
+    "leaderId": 330,
+    "leaderName": "曹丕",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 12,
+    "leaderId": 169,
+    "leaderName": "公孙恭",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 35,
+    "leaderId": 321,
+    "leaderName": "曹彰",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 36,
+    "leaderId": 322,
+    "leaderName": "曹植",
+    "capitalCityId": 11
+  },
+  {
+    "scenarioId": "D_Sce017",
+    "forceId": 37,
+    "leaderId": 334,
+    "leaderName": "曹熊",
+    "capitalCityId": 14
+  },
+  {
+    "scenarioId": "D_Sce018",
+    "forceId": 0,
+    "leaderId": 312,
+    "leaderName": "曹奂",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce018",
+    "forceId": 2,
+    "leaderId": 350,
+    "leaderName": "孙皓",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce018",
+    "forceId": 38,
+    "leaderId": 254,
+    "leaderName": "钟会",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce018",
+    "forceId": 39,
+    "leaderId": 468,
+    "leaderName": "邓艾",
+    "capitalCityId": 41
+  },
+  {
+    "scenarioId": "D_Sce019",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce019",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 28
+  },
+  {
+    "scenarioId": "D_Sce019",
+    "forceId": 2,
+    "leaderId": 349,
+    "leaderName": "孙权",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce019",
+    "forceId": 4,
+    "leaderId": 610,
+    "leaderName": "刘璋",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce019",
+    "forceId": 26,
+    "leaderId": 552,
+    "leaderName": "孟获",
+    "capitalCityId": 42
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 0,
+    "leaderId": 326,
+    "leaderName": "曹操",
+    "capitalCityId": 10
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 1,
+    "leaderId": 621,
+    "leaderName": "刘备",
+    "capitalCityId": 37
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 2,
+    "leaderId": 347,
+    "leaderName": "孙坚",
+    "capitalCityId": 22
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 3,
+    "leaderId": 504,
+    "leaderName": "马腾",
+    "capitalCityId": 20
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 4,
+    "leaderId": 601,
+    "leaderName": "刘焉",
+    "capitalCityId": 40
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 5,
+    "leaderId": 481,
+    "leaderName": "董卓",
+    "capitalCityId": 16
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 6,
+    "leaderId": 622,
+    "leaderName": "刘表",
+    "capitalCityId": 29
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 7,
+    "leaderId": 16,
+    "leaderName": "袁绍",
+    "capitalCityId": 3
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 8,
+    "leaderId": 14,
+    "leaderName": "袁术",
+    "capitalCityId": 21
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 9,
+    "leaderId": 425,
+    "leaderName": "张鲁",
+    "capitalCityId": 38
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 10,
+    "leaderId": 642,
+    "leaderName": "吕布",
+    "capitalCityId": 7
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 11,
+    "leaderId": 171,
+    "leaderName": "公孙瓒",
+    "capitalCityId": 1
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 12,
+    "leaderId": 173,
+    "leaderName": "公孙度",
+    "capitalCityId": 0
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 13,
+    "leaderId": 604,
+    "leaderName": "刘虞",
+    "capitalCityId": 2
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 14,
+    "leaderId": 115,
+    "leaderName": "韩馥",
+    "capitalCityId": 5
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 16,
+    "leaderId": 181,
+    "leaderName": "孔融",
+    "capitalCityId": 8
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 17,
+    "leaderId": 618,
+    "leaderName": "刘岱",
+    "capitalCityId": 9
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 18,
+    "leaderId": 471,
+    "leaderName": "陶谦",
+    "capitalCityId": 11
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 19,
+    "leaderId": 175,
+    "leaderName": "孔侑",
+    "capitalCityId": 13
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 21,
+    "leaderId": 380,
+    "leaderName": "张燕",
+    "capitalCityId": 6
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 22,
+    "leaderId": 49,
+    "leaderName": "王朗",
+    "capitalCityId": 25
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 23,
+    "leaderId": 151,
+    "leaderName": "严白虎",
+    "capitalCityId": 24
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 24,
+    "leaderId": 627,
+    "leaderName": "刘繇",
+    "capitalCityId": 23
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 25,
+    "leaderId": 399,
+    "leaderName": "张绣",
+    "capitalCityId": 27
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 26,
+    "leaderId": 552,
+    "leaderName": "孟获",
+    "capitalCityId": 43
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 28,
+    "leaderId": 385,
+    "leaderName": "张角",
+    "capitalCityId": 4
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 29,
+    "leaderId": 87,
+    "leaderName": "何进",
+    "capitalCityId": 15
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 31,
+    "leaderId": 100,
+    "leaderName": "韩玄",
+    "capitalCityId": 32
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 32,
+    "leaderId": 141,
+    "leaderName": "金旋",
+    "capitalCityId": 33
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 33,
+    "leaderId": 415,
+    "leaderName": "赵范",
+    "capitalCityId": 34
+  },
+  {
+    "scenarioId": "D_Sce020",
+    "forceId": 34,
+    "leaderId": 619,
+    "leaderName": "刘度",
+    "capitalCityId": 35
+  }
+]

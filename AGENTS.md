@@ -46,7 +46,7 @@ Run `python3 -m json.tool data/manifest.json` and inspect the generator's valida
 
 - `nameTraditional` and `searchAliases` contain a 650-slot traditional-name mapping. Do not claim pinyin search until it is reliably matched.
 - Game-original biographies have not yet been extracted. Do not display or describe external biographical summaries as game text.
-- Faction ownership has not been reliably extracted. Do not add a faction selector or faction-specific recommendations using guessed data.
+- Scenario faction ownership is verified from the original `forc`/`city`/`bldg` records. Faction-specific recommendations may use only the exported verified member pools; officers without a resolved active-force owner must remain unassigned.
 - Formation hints are explanatory only. Do not turn undecoded raw values into combat weights.
 - Preserve source and confidence notes. Avoid presenting community mechanics as official formulas.
 
@@ -75,7 +75,6 @@ The maintained implementation order is recorded in `docs/roadmap.md`. Follow it 
 The immediate product slice is:
 
 1. Replace the affinity progress bar with a neutral circular-position treatment, add politics to officer cards, and reliably join reviewed Traditional Chinese names to the 650 officer IDs. Add biographies only after extracting and validating game-original text.
-2. Reverse engineer and validate faction membership per scenario before adding the scenario-plus-faction recommendation flow.
-3. Add explicit team ability thresholds, beginning with user-set minimum requirements for each team's highest command, strength, intelligence and politics values.
-4. Build the interactive 0–149 affinity ring only after the core officer and recommendation surfaces are correct and usable.
-5. Treat rankings, range lookup and clustering as later exploratory views. Label derived clusters as analysis, never as official game categories.
+2. Add explicit team ability thresholds, beginning with user-set minimum requirements for each team's highest command, strength, intelligence and politics values.
+3. Build the interactive 0–149 affinity ring only after the core officer and recommendation surfaces are correct and usable.
+4. Treat rankings, range lookup and clustering as later exploratory views. Label derived clusters as analysis, never as official game categories.
