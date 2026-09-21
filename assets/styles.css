@@ -32,6 +32,8 @@ h3 { font-size:1.35rem; }
 .search-field { flex:1; min-width:220px; }
 .search-field input { width:100%; }
 .result-status { margin:.2rem 0 1rem; color:var(--muted); font-size:.9rem; }
+.load-more { display:block; margin:1.25rem auto 0; padding:.65rem 1.1rem; border:1px solid var(--jade); background:transparent; color:var(--jade); cursor:pointer; font:700 .8rem Arial,sans-serif; letter-spacing:.04em; }
+.load-more:hover { background:var(--jade); color:var(--paper); }
 .officer-layout { display:grid; grid-template-columns:minmax(0,1fr) 310px; gap:1.5rem; }
 .officer-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.75rem; }
 .officer-card { display:block; width:100%; padding:1rem; border:1px solid var(--line); background:#faf7ef; text-align:left; cursor:pointer; transition:transform .15s, box-shadow .15s; }

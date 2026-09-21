@@ -12,6 +12,7 @@
 - `abilities`：统率、武力、智力、政治。
 - `affinity`：0–149 的环状相性值。
 - `tactics`：已掌握兵法。
+- `firstAvailable`：最早被观察到可开局使用的历史剧本年月与剧本 ID；这是剧本可用性资料，并非尚未提取的游戏内部精确登场年份字段。无历史剧本开局记录时为 `null`。
 
 ## scenarios.json、scenario-availability.json 和 factions.json
 
@@ -29,4 +30,4 @@
 
 ## recommendations.json
 
-每个剧本提供全部开局武将的候选，也为每个已验证势力分别提供三人和五人候选。`forceId` 为 `null` 表示全部开局武将；否则候选只来自对应势力成员池。`linkageScore` 仅基于相性接近度和已量化正向关系；能力均值只用于同分排序。`searchMethod` 明确记录候选搜索法，不能解释为全组合最优证明。
+每个剧本提供全部开局武将的候选，也为每个已验证势力分别提供三人和五人候选；每组最多保留 30 个，供网页渐进显示。`forceId` 为 `null` 表示全部开局武将；否则候选只来自对应势力成员池。`linkageScore` 仅基于相性接近度和已量化正向关系；能力均值只用于同分排序。`searchMethod` 明确记录候选搜索法，不能解释为全组合最优证明。

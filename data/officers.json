@@ -17,7 +17,12 @@
     "tactics": [
       "奋战",
       "奋迅"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 1,
@@ -37,7 +42,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 2,
@@ -57,7 +67,12 @@
       "破陷",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 3,
@@ -78,7 +93,12 @@
       "齐射",
       "井阑",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 4,
@@ -96,7 +116,12 @@
     "affinity": 38,
     "tactics": [
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 5,
@@ -115,7 +140,12 @@
     "tactics": [
       "营造",
       "石兵"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 6,
@@ -139,7 +169,12 @@
       "齐射",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 7,
@@ -160,7 +195,12 @@
       "奋斗",
       "艨艟",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 8,
@@ -182,7 +222,12 @@
       "井阑",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 9,
@@ -204,7 +249,12 @@
       "发石",
       "教谕",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 10,
@@ -220,7 +270,12 @@
       "politics": 43
     },
     "affinity": 140,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 11,
@@ -242,7 +297,12 @@
       "井阑",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 12,
@@ -262,7 +322,12 @@
       "齐射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 13,
@@ -285,7 +350,12 @@
       "飞射",
       "井阑",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 14,
@@ -306,7 +376,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 15,
@@ -326,7 +401,12 @@
       "奋战",
       "冲车",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 16,
@@ -351,7 +431,12 @@
       "发石",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 17,
@@ -371,7 +456,12 @@
     "tactics": [
       "楼船",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 18,
@@ -391,7 +481,12 @@
     "tactics": [
       "奋战",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 19,
@@ -411,7 +506,12 @@
     "tactics": [
       "发石",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 20,
@@ -431,7 +531,12 @@
     "tactics": [
       "齐射",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 21,
@@ -450,7 +555,12 @@
     "tactics": [
       "奋战",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 22,
@@ -469,7 +579,12 @@
     "tactics": [
       "攻心",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 23,
@@ -488,7 +603,12 @@
     "tactics": [
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 24,
@@ -510,7 +630,12 @@
       "突破",
       "齐射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 25,
@@ -531,7 +656,12 @@
       "奋战",
       "骑射",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 26,
@@ -552,7 +682,12 @@
       "井阑",
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 27,
@@ -571,7 +706,12 @@
     "affinity": 33,
     "tactics": [
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 28,
@@ -593,7 +733,12 @@
       "营造",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 29,
@@ -612,7 +757,12 @@
     "tactics": [
       "奋战",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 30,
@@ -634,7 +784,12 @@
       "齐射",
       "艨艟",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 31,
@@ -653,7 +808,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 32,
@@ -673,7 +833,12 @@
       "齐射",
       "井阑",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 33,
@@ -693,7 +858,12 @@
       "楼船",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 34,
@@ -713,7 +883,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 35,
@@ -739,7 +914,12 @@
       "斗舰",
       "冲车",
       "破陷"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 36,
@@ -758,7 +938,12 @@
     "tactics": [
       "营造",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 37,
@@ -777,7 +962,12 @@
     "affinity": 33,
     "tactics": [
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 38,
@@ -797,7 +987,12 @@
     "tactics": [
       "突破",
       "突进"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 39,
@@ -815,7 +1010,12 @@
     "affinity": 35,
     "tactics": [
       "奋战"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 40,
@@ -838,7 +1038,12 @@
       "营造",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 41,
@@ -858,7 +1063,12 @@
     "tactics": [
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 42,
@@ -879,7 +1089,12 @@
       "齐射",
       "楼船",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 43,
@@ -900,7 +1115,12 @@
       "奋战",
       "冲车",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 44,
@@ -923,7 +1143,12 @@
       "连射",
       "井阑",
       "教谕"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 45,
@@ -943,7 +1168,12 @@
       "齐射",
       "营造",
       "教谕"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 46,
@@ -964,7 +1194,12 @@
       "突破",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 47,
@@ -986,7 +1221,12 @@
       "冲车",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 48,
@@ -1006,7 +1246,12 @@
       "攻心",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 49,
@@ -1025,7 +1270,12 @@
     "tactics": [
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 50,
@@ -1045,7 +1295,12 @@
       "营造",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 51,
@@ -1065,7 +1320,12 @@
       "营造",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 52,
@@ -1088,7 +1348,12 @@
       "破陷",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 53,
@@ -1108,7 +1373,12 @@
     "tactics": [
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 54,
@@ -1128,7 +1398,12 @@
     "tactics": [
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 55,
@@ -1152,7 +1427,12 @@
       "营造",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 56,
@@ -1171,7 +1451,12 @@
     "affinity": 7,
     "tactics": [
       "奋战"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 57,
@@ -1191,7 +1476,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 58,
@@ -1216,7 +1506,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 59,
@@ -1235,7 +1530,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 60,
@@ -1258,7 +1558,12 @@
       "教谕",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 61,
@@ -1278,7 +1583,12 @@
     "tactics": [
       "奋战",
       "奋斗"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 62,
@@ -1297,7 +1607,12 @@
     "tactics": [
       "突破",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 63,
@@ -1318,7 +1633,12 @@
       "奋战",
       "艨艟",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 64,
@@ -1340,7 +1660,12 @@
       "连射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 65,
@@ -1365,7 +1690,12 @@
       "井阑",
       "冲车",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 66,
@@ -1390,7 +1720,12 @@
       "井阑",
       "冲车",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 67,
@@ -1412,7 +1747,12 @@
       "突破",
       "井阑",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 68,
@@ -1432,7 +1772,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 69,
@@ -1453,7 +1798,12 @@
       "奋斗",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 70,
@@ -1471,7 +1821,12 @@
     "affinity": 80,
     "tactics": [
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 71,
@@ -1493,7 +1848,12 @@
       "连射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 72,
@@ -1517,7 +1877,12 @@
       "发石",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 73,
@@ -1537,7 +1902,12 @@
       "奋战",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 74,
@@ -1564,7 +1934,12 @@
       "齐射",
       "连射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 75,
@@ -1583,7 +1958,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 76,
@@ -1603,7 +1983,12 @@
       "骑射",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 77,
@@ -1623,7 +2008,12 @@
       "奋战",
       "骑射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 78,
@@ -1644,7 +2034,12 @@
       "发石",
       "破陷",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 79,
@@ -1664,7 +2059,12 @@
       "齐射",
       "营造",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 80,
@@ -1687,7 +2087,12 @@
       "齐射",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 81,
@@ -1707,7 +2112,12 @@
       "突破",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 82,
@@ -1732,7 +2142,12 @@
       "营造",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 83,
@@ -1754,7 +2169,12 @@
       "突进",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 84,
@@ -1772,7 +2192,12 @@
     "affinity": 19,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 85,
@@ -1793,7 +2218,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 86,
@@ -1812,7 +2242,12 @@
     "tactics": [
       "楼船",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 87,
@@ -1831,7 +2266,12 @@
     "affinity": 90,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 88,
@@ -1857,7 +2297,12 @@
       "楼船",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 89,
@@ -1877,7 +2322,12 @@
       "发石",
       "营造",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 90,
@@ -1901,7 +2351,12 @@
       "井阑",
       "破陷",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 91,
@@ -1922,7 +2377,12 @@
       "骑射",
       "奔射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 92,
@@ -1944,7 +2404,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 93,
@@ -1964,7 +2429,12 @@
     "tactics": [
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 94,
@@ -1983,7 +2453,12 @@
     "affinity": 140,
     "tactics": [
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 95,
@@ -2011,7 +2486,12 @@
       "陷阱",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 96,
@@ -2030,7 +2510,12 @@
     "tactics": [
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 97,
@@ -2053,7 +2538,12 @@
       "奔射",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 98,
@@ -2072,7 +2562,12 @@
     "tactics": [
       "骑射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 99,
@@ -2092,7 +2587,8 @@
       "骑射",
       "齐射",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 100,
@@ -2111,7 +2607,12 @@
     "affinity": 9,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 101,
@@ -2131,7 +2632,12 @@
     "tactics": [
       "突破",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 102,
@@ -2155,7 +2661,12 @@
       "突进",
       "齐射",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 103,
@@ -2177,7 +2688,12 @@
       "突进",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 104,
@@ -2202,7 +2718,12 @@
       "骑射",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 105,
@@ -2222,7 +2743,12 @@
     "tactics": [
       "石兵",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 106,
@@ -2242,7 +2768,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 107,
@@ -2262,7 +2793,12 @@
     "tactics": [
       "奋战",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 108,
@@ -2284,7 +2820,12 @@
       "混乱",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 109,
@@ -2303,7 +2844,12 @@
     "affinity": 7,
     "tactics": [
       "奋战"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 110,
@@ -2325,7 +2871,12 @@
       "齐射",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 111,
@@ -2349,7 +2900,12 @@
       "骑射",
       "艨艟",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 112,
@@ -2368,7 +2924,12 @@
     "affinity": 19,
     "tactics": [
       "突进"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 113,
@@ -2394,7 +2955,12 @@
       "艨艟",
       "斗舰",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 114,
@@ -2414,7 +2980,12 @@
     "tactics": [
       "教谕",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 115,
@@ -2431,7 +3002,12 @@
       "politics": 63
     },
     "affinity": 93,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 116,
@@ -2456,7 +3032,12 @@
       "齐射",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 117,
@@ -2476,7 +3057,12 @@
     "tactics": [
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 118,
@@ -2498,7 +3084,12 @@
       "突进",
       "突击",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 119,
@@ -2521,7 +3112,12 @@
       "冲车",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 120,
@@ -2544,7 +3140,12 @@
       "奔射",
       "齐射",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 121,
@@ -2564,7 +3165,12 @@
     "tactics": [
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 122,
@@ -2585,7 +3191,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 123,
@@ -2605,7 +3216,12 @@
       "齐射",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 124,
@@ -2625,7 +3241,12 @@
       "骑射",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 125,
@@ -2645,7 +3266,12 @@
       "奋战",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 126,
@@ -2664,7 +3290,12 @@
     "tactics": [
       "破陷",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 127,
@@ -2683,7 +3314,12 @@
     "affinity": 1,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 128,
@@ -2702,7 +3338,12 @@
     "tactics": [
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 129,
@@ -2730,7 +3371,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 130,
@@ -2750,7 +3396,12 @@
     "tactics": [
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 131,
@@ -2773,7 +3424,12 @@
       "齐射",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 132,
@@ -2792,7 +3448,12 @@
     "affinity": 74,
     "tactics": [
       "奋战"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 133,
@@ -2813,7 +3474,12 @@
       "混乱",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 134,
@@ -2833,7 +3499,12 @@
     "tactics": [
       "奋战",
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 135,
@@ -2856,7 +3527,12 @@
       "楼船",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 136,
@@ -2876,7 +3552,12 @@
     "tactics": [
       "攻心",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 137,
@@ -2897,7 +3578,12 @@
       "奋战",
       "奋斗",
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 138,
@@ -2917,7 +3603,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 139,
@@ -2940,7 +3631,12 @@
       "突破",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 140,
@@ -2960,7 +3656,12 @@
     "tactics": [
       "奋战",
       "奋迅"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 141,
@@ -2978,7 +3679,12 @@
     "affinity": 46,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 142,
@@ -2999,7 +3705,12 @@
       "楼船",
       "发石",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 143,
@@ -3022,7 +3733,12 @@
       "攻心",
       "辱骂",
       "治疗"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 144,
@@ -3041,7 +3757,12 @@
     "affinity": 12,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 145,
@@ -3061,7 +3782,12 @@
     "tactics": [
       "发石",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 146,
@@ -3085,7 +3811,12 @@
       "连弩",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 147,
@@ -3106,7 +3837,12 @@
       "突破",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 148,
@@ -3128,7 +3864,12 @@
       "骑射",
       "奔射",
       "飞射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 149,
@@ -3149,7 +3890,12 @@
       "营造",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 150,
@@ -3168,7 +3914,12 @@
     "affinity": 7,
     "tactics": [
       "奋战"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 151,
@@ -3188,7 +3939,12 @@
     "tactics": [
       "奋迅",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 152,
@@ -3209,7 +3965,12 @@
       "奋迅",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 153,
@@ -3232,7 +3993,12 @@
       "连射",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 154,
@@ -3251,7 +4017,12 @@
     "tactics": [
       "奋战",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 155,
@@ -3277,7 +4048,12 @@
       "井阑",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 156,
@@ -3299,7 +4075,12 @@
       "齐射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 157,
@@ -3322,7 +4103,12 @@
       "混乱",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 158,
@@ -3341,7 +4127,12 @@
     "affinity": 50,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 159,
@@ -3361,7 +4152,12 @@
       "发石",
       "破陷",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 160,
@@ -3385,7 +4181,12 @@
       "突击",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 161,
@@ -3405,7 +4206,12 @@
       "奋战",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 162,
@@ -3426,7 +4232,12 @@
       "奋战",
       "骑射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 163,
@@ -3448,7 +4259,12 @@
       "齐射",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 164,
@@ -3469,7 +4285,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 165,
@@ -3490,7 +4311,12 @@
       "突破",
       "突进",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 166,
@@ -3512,7 +4338,12 @@
       "艨艟",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 167,
@@ -3534,7 +4365,12 @@
       "骑射",
       "奔射",
       "飞射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 168,
@@ -3557,7 +4393,12 @@
       "齐射",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 169,
@@ -3578,7 +4419,12 @@
       "骑射",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 170,
@@ -3600,7 +4446,12 @@
       "骑射",
       "奔射",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 171,
@@ -3625,7 +4476,12 @@
       "飞射",
       "冲车",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 172,
@@ -3647,7 +4503,12 @@
       "奔射",
       "飞射",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 173,
@@ -3670,7 +4531,12 @@
       "奔射",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 174,
@@ -3693,7 +4559,12 @@
       "奔射",
       "飞射",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 175,
@@ -3714,7 +4585,12 @@
       "井阑",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 176,
@@ -3741,7 +4617,12 @@
       "连射",
       "连弩",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 177,
@@ -3760,7 +4641,12 @@
     "tactics": [
       "奋斗",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 178,
@@ -3781,7 +4667,12 @@
       "连射",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 179,
@@ -3802,7 +4693,12 @@
       "发石",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 180,
@@ -3823,7 +4719,12 @@
       "齐射",
       "发石",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 181,
@@ -3841,7 +4742,12 @@
     "affinity": 43,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 182,
@@ -3862,7 +4768,12 @@
       "突破",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 183,
@@ -3884,7 +4795,12 @@
       "奋斗",
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 184,
@@ -3905,7 +4821,12 @@
       "齐射",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 185,
@@ -3925,7 +4846,12 @@
     "tactics": [
       "奋战",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 186,
@@ -3949,7 +4875,12 @@
       "楼船",
       "井阑",
       "教谕"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 187,
@@ -3968,7 +4899,12 @@
     "affinity": 133,
     "tactics": [
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 188,
@@ -3989,7 +4925,12 @@
       "齐射",
       "发石",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 189,
@@ -4012,7 +4953,12 @@
       "混乱",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 190,
@@ -4034,7 +4980,12 @@
       "楼船",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 191,
@@ -4054,7 +5005,12 @@
     "tactics": [
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 192,
@@ -4073,7 +5029,12 @@
     "affinity": 148,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 193,
@@ -4095,7 +5056,12 @@
       "突进",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 194,
@@ -4115,7 +5081,12 @@
     "tactics": [
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 195,
@@ -4136,7 +5107,12 @@
       "楼船",
       "破陷",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 196,
@@ -4156,7 +5132,12 @@
     "tactics": [
       "楼船",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 197,
@@ -4176,7 +5157,12 @@
       "奋战",
       "奋迅",
       "象兵"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 198,
@@ -4195,7 +5181,12 @@
     "tactics": [
       "齐射",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 199,
@@ -4216,7 +5207,12 @@
       "奋战",
       "齐射",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 200,
@@ -4239,7 +5235,12 @@
       "突破",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 201,
@@ -4261,7 +5262,12 @@
       "营造",
       "教谕",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 202,
@@ -4282,7 +5288,12 @@
       "奋战",
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 203,
@@ -4305,7 +5316,12 @@
       "齐射",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 204,
@@ -4324,7 +5340,12 @@
     "tactics": [
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 205,
@@ -4343,7 +5364,12 @@
     "tactics": [
       "齐射",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 206,
@@ -4364,7 +5390,12 @@
       "奋战",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 207,
@@ -4383,7 +5414,12 @@
     "tactics": [
       "齐射",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 208,
@@ -4406,7 +5442,12 @@
       "斗舰",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 209,
@@ -4426,7 +5467,12 @@
       "齐射",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 210,
@@ -4445,7 +5491,12 @@
     "tactics": [
       "奋战",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 211,
@@ -4464,7 +5515,12 @@
     "tactics": [
       "奋战",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 212,
@@ -4485,7 +5541,12 @@
       "奋战",
       "突破",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 213,
@@ -4515,7 +5576,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 214,
@@ -4537,7 +5603,12 @@
       "营造",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 215,
@@ -4559,7 +5630,12 @@
       "冲车",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 216,
@@ -4582,7 +5658,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 217,
@@ -4603,7 +5684,12 @@
       "齐射",
       "楼船",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 218,
@@ -4624,7 +5710,12 @@
       "发石",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 219,
@@ -4649,7 +5740,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 220,
@@ -4673,7 +5769,12 @@
       "教谕",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 221,
@@ -4692,7 +5793,12 @@
     "affinity": 20,
     "tactics": [
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 222,
@@ -4713,7 +5819,12 @@
       "突破",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 223,
@@ -4734,7 +5845,12 @@
       "齐射",
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 224,
@@ -4754,7 +5870,12 @@
       "奋战",
       "奋迅",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 225,
@@ -4777,7 +5898,12 @@
       "艨艟",
       "楼船",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 226,
@@ -4798,7 +5924,12 @@
       "奋战",
       "艨艟",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 227,
@@ -4819,7 +5950,12 @@
       "齐射",
       "艨艟",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 228,
@@ -4839,7 +5975,12 @@
       "奋战",
       "突破",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 229,
@@ -4859,7 +6000,12 @@
       "齐射",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 230,
@@ -4880,7 +6026,12 @@
       "奋战",
       "艨艟",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 231,
@@ -4901,7 +6052,12 @@
       "齐射",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 232,
@@ -4924,7 +6080,12 @@
       "艨艟",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 233,
@@ -4945,7 +6106,12 @@
       "齐射",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 234,
@@ -4967,7 +6133,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 235,
@@ -4997,7 +6168,12 @@
       "陷阱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 236,
@@ -5022,7 +6198,12 @@
       "艨艟",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 237,
@@ -5046,7 +6227,12 @@
       "斗舰",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 238,
@@ -5068,7 +6254,12 @@
       "象兵",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 239,
@@ -5089,7 +6280,12 @@
       "齐射",
       "冲车",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 240,
@@ -5114,7 +6310,12 @@
       "楼船",
       "斗舰",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 241,
@@ -5135,7 +6336,12 @@
       "楼船",
       "斗舰",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 242,
@@ -5154,7 +6360,12 @@
     "tactics": [
       "奋斗",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 243,
@@ -5175,7 +6386,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 244,
@@ -5198,7 +6414,12 @@
       "陷阱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 245,
@@ -5218,7 +6439,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 246,
@@ -5241,7 +6467,12 @@
       "连射",
       "井阑",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 247,
@@ -5260,7 +6491,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 248,
@@ -5280,7 +6516,12 @@
     "tactics": [
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 249,
@@ -5299,7 +6540,12 @@
     "affinity": 85,
     "tactics": [
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 250,
@@ -5321,7 +6567,12 @@
       "混乱",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 251,
@@ -5341,7 +6592,12 @@
       "奋战",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 252,
@@ -5362,7 +6618,12 @@
       "营造",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 253,
@@ -5386,7 +6647,12 @@
       "发石",
       "营造",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 254,
@@ -5411,7 +6677,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 255,
@@ -5431,7 +6702,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 256,
@@ -5451,7 +6727,12 @@
     "tactics": [
       "骑射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 257,
@@ -5475,7 +6756,12 @@
       "齐射",
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 258,
@@ -5495,7 +6781,12 @@
     "tactics": [
       "齐射",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 259,
@@ -5517,7 +6808,12 @@
       "营造",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 260,
@@ -5536,7 +6832,12 @@
     "affinity": 66,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 261,
@@ -5556,7 +6857,12 @@
     "tactics": [
       "突破",
       "突进"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 262,
@@ -5579,7 +6885,12 @@
       "井阑",
       "发石",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 263,
@@ -5597,7 +6908,12 @@
     "affinity": 31,
     "tactics": [
       "教谕"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 264,
@@ -5617,7 +6933,12 @@
     "tactics": [
       "奋战",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 265,
@@ -5637,7 +6958,12 @@
     "tactics": [
       "齐射",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 266,
@@ -5658,7 +6984,12 @@
       "营造",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 267,
@@ -5681,7 +7012,12 @@
       "突破",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 268,
@@ -5701,7 +7037,12 @@
       "齐射",
       "石兵",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 269,
@@ -5723,7 +7064,12 @@
       "突进",
       "骑射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 270,
@@ -5745,7 +7091,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 271,
@@ -5768,7 +7119,12 @@
       "井阑",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 272,
@@ -5788,7 +7144,12 @@
     "tactics": [
       "连弩",
       "石兵"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 273,
@@ -5808,7 +7169,12 @@
     "tactics": [
       "骑射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 274,
@@ -5830,7 +7196,12 @@
       "连弩",
       "石兵",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 275,
@@ -5851,7 +7222,12 @@
       "齐射",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 276,
@@ -5876,7 +7252,12 @@
       "石兵",
       "陷阱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 277,
@@ -5901,7 +7282,12 @@
       "攻心",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 278,
@@ -5933,7 +7319,12 @@
       "攻心",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 279,
@@ -5957,7 +7348,12 @@
       "奔射",
       "齐射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 280,
@@ -5976,7 +7372,12 @@
     "affinity": 23,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 281,
@@ -6002,7 +7403,12 @@
       "教谕",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 282,
@@ -6029,7 +7435,12 @@
       "破陷",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 283,
@@ -6049,7 +7460,12 @@
       "骑射",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 284,
@@ -6070,7 +7486,12 @@
       "奋战",
       "奋斗",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 285,
@@ -6090,7 +7511,12 @@
     "tactics": [
       "奋战",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 286,
@@ -6108,7 +7534,12 @@
     "affinity": 114,
     "tactics": [
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 287,
@@ -6128,7 +7559,12 @@
       "齐射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 288,
@@ -6146,7 +7582,12 @@
     "affinity": 37,
     "tactics": [
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 289,
@@ -6173,7 +7614,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 290,
@@ -6192,7 +7638,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 291,
@@ -6215,7 +7666,12 @@
       "齐射",
       "冲车",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 292,
@@ -6234,7 +7690,12 @@
     "tactics": [
       "攻心",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 293,
@@ -6253,7 +7714,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 294,
@@ -6273,7 +7739,12 @@
       "突破",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 295,
@@ -6294,7 +7765,12 @@
       "突破",
       "齐射",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 296,
@@ -6315,7 +7791,12 @@
       "突破",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 297,
@@ -6336,7 +7817,12 @@
       "突进",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 298,
@@ -6356,7 +7842,12 @@
       "齐射",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 299,
@@ -6378,7 +7869,12 @@
       "齐射",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 300,
@@ -6397,7 +7893,12 @@
     "affinity": 131,
     "tactics": [
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 301,
@@ -6416,7 +7917,12 @@
     "tactics": [
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 302,
@@ -6436,7 +7942,12 @@
     "tactics": [
       "攻心",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 303,
@@ -6457,7 +7968,12 @@
       "奋战",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 304,
@@ -6477,7 +7993,12 @@
     "tactics": [
       "齐射",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 305,
@@ -6498,7 +8019,8 @@
       "奋战",
       "艨艟",
       "混乱"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 306,
@@ -6520,7 +8042,12 @@
       "骑射",
       "奔射",
       "飞射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 307,
@@ -6538,7 +8065,12 @@
     "affinity": 128,
     "tactics": [
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 308,
@@ -6562,7 +8094,12 @@
       "斗舰",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 309,
@@ -6582,7 +8119,12 @@
       "齐射",
       "楼船",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 310,
@@ -6600,7 +8142,12 @@
     "affinity": 26,
     "tactics": [
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 311,
@@ -6623,7 +8170,12 @@
       "营造",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 312,
@@ -6642,7 +8194,12 @@
     "affinity": 26,
     "tactics": [
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 313,
@@ -6660,7 +8217,12 @@
     "affinity": 19,
     "tactics": [
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 314,
@@ -6681,7 +8243,12 @@
       "奔射",
       "齐射",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 315,
@@ -6700,7 +8267,12 @@
     "affinity": 19,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 316,
@@ -6721,7 +8293,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 317,
@@ -6742,7 +8319,12 @@
       "突破",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 318,
@@ -6763,7 +8345,12 @@
       "骑射",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 319,
@@ -6785,7 +8372,12 @@
       "突进",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 320,
@@ -6806,7 +8398,12 @@
       "突破",
       "突进",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 321,
@@ -6828,7 +8425,12 @@
       "骑射",
       "奔射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 322,
@@ -6851,7 +8453,12 @@
       "攻心",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 323,
@@ -6874,7 +8481,12 @@
       "骑射",
       "齐射",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 324,
@@ -6896,7 +8508,12 @@
       "突破",
       "突进",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 325,
@@ -6916,7 +8533,12 @@
       "突破",
       "骑射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 326,
@@ -6942,7 +8564,12 @@
       "混乱",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 327,
@@ -6961,7 +8588,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 328,
@@ -6984,7 +8616,12 @@
       "混乱",
       "陷阱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 329,
@@ -7004,7 +8641,12 @@
       "奋战",
       "突破",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 330,
@@ -7027,7 +8669,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 331,
@@ -7045,7 +8692,12 @@
     "affinity": 84,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 332,
@@ -7064,7 +8716,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 333,
@@ -7085,7 +8742,8 @@
       "奋斗",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 334,
@@ -7105,7 +8763,12 @@
       "齐射",
       "楼船",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 335,
@@ -7126,7 +8789,12 @@
       "骑射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 336,
@@ -7148,7 +8816,12 @@
       "教谕",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 337,
@@ -7169,7 +8842,12 @@
       "齐射",
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 338,
@@ -7190,7 +8868,12 @@
       "齐射",
       "艨艟",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 339,
@@ -7211,7 +8894,12 @@
       "骑射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 340,
@@ -7234,7 +8922,12 @@
       "艨艟",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 341,
@@ -7256,7 +8949,8 @@
       "斗舰",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 342,
@@ -7282,7 +8976,12 @@
       "营造",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 343,
@@ -7303,7 +9002,12 @@
       "齐射",
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 344,
@@ -7324,7 +9028,12 @@
       "斗舰",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 345,
@@ -7345,7 +9054,12 @@
       "齐射",
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 346,
@@ -7367,7 +9081,12 @@
       "艨艟",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 347,
@@ -7395,7 +9114,12 @@
       "斗舰",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 348,
@@ -7416,7 +9140,12 @@
       "齐射",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 349,
@@ -7440,7 +9169,12 @@
       "营造",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 350,
@@ -7461,7 +9195,12 @@
       "艨艟",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 351,
@@ -7489,7 +9228,12 @@
       "冲车",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 352,
@@ -7510,7 +9254,12 @@
       "齐射",
       "艨艟",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 353,
@@ -7530,7 +9279,12 @@
     "tactics": [
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 354,
@@ -7554,7 +9308,8 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 355,
@@ -7580,7 +9335,12 @@
       "冲车",
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 356,
@@ -7608,7 +9368,12 @@
       "艨艟",
       "楼船",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 357,
@@ -7630,7 +9395,12 @@
       "奋斗",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 358,
@@ -7652,7 +9422,12 @@
       "斗舰",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 359,
@@ -7672,7 +9447,12 @@
     "tactics": [
       "奋战",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 360,
@@ -7693,7 +9473,8 @@
       "斗舰",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 361,
@@ -7717,7 +9498,12 @@
       "井阑",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 362,
@@ -7739,7 +9525,8 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 363,
@@ -7763,7 +9550,12 @@
       "斗舰",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 364,
@@ -7785,7 +9577,12 @@
       "突进",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 365,
@@ -7805,7 +9602,8 @@
     "tactics": [
       "斗舰",
       "混乱"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 366,
@@ -7828,7 +9626,12 @@
       "突破",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 367,
@@ -7849,7 +9652,12 @@
       "艨艟",
       "楼船",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 368,
@@ -7871,7 +9679,8 @@
       "楼船",
       "发石",
       "混乱"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 369,
@@ -7891,7 +9700,12 @@
       "骑射",
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 370,
@@ -7917,7 +9731,12 @@
       "连射",
       "艨艟",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 371,
@@ -7938,7 +9757,12 @@
       "奋战",
       "象兵",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 372,
@@ -7958,7 +9782,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 373,
@@ -7980,7 +9809,12 @@
       "营造",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 374,
@@ -8000,7 +9834,12 @@
     "tactics": [
       "突破",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 375,
@@ -8022,7 +9861,12 @@
       "艨艟",
       "楼船",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 376,
@@ -8049,7 +9893,12 @@
       "齐射",
       "连射",
       "教谕"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 377,
@@ -8070,7 +9919,12 @@
       "奋战",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 378,
@@ -8094,7 +9948,12 @@
       "楼船",
       "冲车",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 379,
@@ -8116,7 +9975,12 @@
       "连射",
       "营造",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 380,
@@ -8138,7 +10002,12 @@
       "骑射",
       "奔射",
       "飞射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 381,
@@ -8159,7 +10028,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 382,
@@ -8178,7 +10052,12 @@
     "affinity": 118,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 383,
@@ -8198,7 +10077,12 @@
     "tactics": [
       "艨艟",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 384,
@@ -8217,7 +10101,12 @@
     "affinity": 7,
     "tactics": [
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 385,
@@ -8243,7 +10132,12 @@
       "鼓舞",
       "治疗",
       "妖术"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 386,
@@ -8265,7 +10159,12 @@
       "营造",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 387,
@@ -8287,7 +10186,12 @@
       "楼船",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 388,
@@ -8309,7 +10213,12 @@
       "艨艟",
       "冲车",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 389,
@@ -8330,7 +10239,8 @@
       "奋战",
       "齐射",
       "混乱"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 390,
@@ -8355,7 +10265,12 @@
       "井阑",
       "营造",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 391,
@@ -8377,7 +10292,12 @@
       "齐射",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 392,
@@ -8398,7 +10318,12 @@
       "楼船",
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 393,
@@ -8420,7 +10345,12 @@
       "突破",
       "艨艟",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 394,
@@ -8442,7 +10372,12 @@
       "教谕",
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 395,
@@ -8468,7 +10403,12 @@
       "奔射",
       "冲车",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 396,
@@ -8489,7 +10429,12 @@
       "突破",
       "骑射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 397,
@@ -8509,7 +10454,12 @@
     "tactics": [
       "奋战",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 398,
@@ -8530,7 +10480,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 399,
@@ -8553,7 +10508,12 @@
       "突击",
       "齐射",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 400,
@@ -8574,7 +10534,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 401,
@@ -8595,7 +10560,12 @@
       "奋战",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 402,
@@ -8616,7 +10586,12 @@
       "楼船",
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 403,
@@ -8636,7 +10611,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 404,
@@ -8653,7 +10633,12 @@
       "politics": 60
     },
     "affinity": 78,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 405,
@@ -8676,7 +10661,12 @@
       "连射",
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 406,
@@ -8696,7 +10686,12 @@
     "tactics": [
       "齐射",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 407,
@@ -8716,7 +10711,12 @@
     "tactics": [
       "奋战",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 408,
@@ -8741,7 +10741,12 @@
       "连弩",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 409,
@@ -8760,7 +10765,12 @@
     "affinity": 24,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 410,
@@ -8785,7 +10795,12 @@
       "斗舰",
       "井阑",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 411,
@@ -8806,7 +10821,12 @@
       "突破",
       "骑射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 412,
@@ -8828,7 +10848,12 @@
       "营造",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 413,
@@ -8849,7 +10874,12 @@
       "奋战",
       "奋斗",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 414,
@@ -8870,7 +10900,12 @@
       "奋战",
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 415,
@@ -8889,7 +10924,12 @@
     "affinity": 83,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 416,
@@ -8913,7 +10953,12 @@
       "突破",
       "突进",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 417,
@@ -8934,7 +10979,12 @@
       "楼船",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 418,
@@ -8958,7 +11008,12 @@
       "突进",
       "齐射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 419,
@@ -8982,7 +11037,12 @@
       "幻术",
       "治疗",
       "妖术"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 420,
@@ -9003,7 +11063,12 @@
       "突破",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 421,
@@ -9026,7 +11091,12 @@
       "齐射",
       "连射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 422,
@@ -9055,7 +11125,12 @@
       "冲车",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 423,
@@ -9079,7 +11154,12 @@
       "冲车",
       "幻术",
       "治疗"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 424,
@@ -9099,7 +11179,12 @@
     "tactics": [
       "齐射",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 425,
@@ -9119,7 +11204,12 @@
     "tactics": [
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 426,
@@ -9140,7 +11230,12 @@
       "奋战",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 427,
@@ -9160,7 +11255,12 @@
     "tactics": [
       "齐射",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 428,
@@ -9181,7 +11281,12 @@
       "奋战",
       "井阑",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 429,
@@ -9204,7 +11309,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 430,
@@ -9226,7 +11336,12 @@
       "井阑",
       "破陷",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 431,
@@ -9245,7 +11360,12 @@
     "affinity": 28,
     "tactics": [
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 432,
@@ -9267,7 +11387,12 @@
       "混乱",
       "陷阱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 433,
@@ -9290,7 +11415,12 @@
       "骑射",
       "冲车",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 434,
@@ -9311,7 +11441,8 @@
       "齐射",
       "井阑",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 435,
@@ -9330,7 +11461,12 @@
     "affinity": 50,
     "tactics": [
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 436,
@@ -9351,7 +11487,12 @@
       "奋战",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 437,
@@ -9372,7 +11513,12 @@
       "奋战",
       "冲车",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 438,
@@ -9392,7 +11538,12 @@
     "tactics": [
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 439,
@@ -9419,7 +11570,12 @@
       "发石",
       "营造",
       "教谕"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 440,
@@ -9444,7 +11600,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 441,
@@ -9467,7 +11628,12 @@
       "骑射",
       "齐射",
       "破陷"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 442,
@@ -9491,7 +11657,12 @@
       "冲车",
       "陷阱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 443,
@@ -9515,7 +11686,12 @@
       "艨艟",
       "斗舰",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 444,
@@ -9536,7 +11712,12 @@
       "奋斗",
       "艨艟",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 445,
@@ -9556,7 +11737,12 @@
     "tactics": [
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 446,
@@ -9577,7 +11763,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 447,
@@ -9598,7 +11789,12 @@
       "奋战",
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 448,
@@ -9618,7 +11814,12 @@
     "tactics": [
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 449,
@@ -9639,7 +11840,12 @@
       "突破",
       "突进",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 450,
@@ -9659,7 +11865,12 @@
       "突破",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 451,
@@ -9679,7 +11890,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 452,
@@ -9699,7 +11915,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 453,
@@ -9724,7 +11945,12 @@
       "连射",
       "楼船",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 454,
@@ -9744,7 +11970,12 @@
       "破陷",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 455,
@@ -9763,7 +11994,12 @@
     "tactics": [
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 456,
@@ -9787,7 +12023,12 @@
       "艨艟",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 457,
@@ -9807,7 +12048,12 @@
       "奋战",
       "突破",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 458,
@@ -9828,7 +12074,12 @@
       "奋战",
       "奋斗",
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 459,
@@ -9848,7 +12099,12 @@
       "骑射",
       "奔射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 460,
@@ -9868,7 +12124,12 @@
       "奋战",
       "齐射",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 461,
@@ -9888,7 +12149,12 @@
     "tactics": [
       "骑射",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 462,
@@ -9909,7 +12175,12 @@
       "骑射",
       "教谕",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 463,
@@ -9932,7 +12203,12 @@
       "陷阱",
       "辱骂",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 464,
@@ -9952,7 +12228,12 @@
     "tactics": [
       "奋战",
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 465,
@@ -9974,7 +12255,12 @@
       "奔射",
       "飞射",
       "破陷"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 466,
@@ -9994,7 +12280,12 @@
       "楼船",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 467,
@@ -10015,7 +12306,12 @@
       "营造",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 468,
@@ -10044,7 +12340,12 @@
       "破陷",
       "教谕",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 469,
@@ -10064,7 +12365,12 @@
     "tactics": [
       "发石",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 470,
@@ -10087,7 +12393,12 @@
       "发石",
       "营造",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 471,
@@ -10107,7 +12418,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 472,
@@ -10127,7 +12443,12 @@
     "tactics": [
       "奋战",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 473,
@@ -10150,7 +12471,12 @@
       "艨艟",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 474,
@@ -10173,7 +12499,12 @@
       "井阑",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 475,
@@ -10195,7 +12526,12 @@
       "艨艟",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 476,
@@ -10219,7 +12555,12 @@
       "艨艟",
       "斗舰",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 477,
@@ -10238,7 +12579,12 @@
     "affinity": 114,
     "tactics": [
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 478,
@@ -10260,7 +12606,12 @@
       "连射",
       "艨艟",
       "斗舰"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 479,
@@ -10280,7 +12631,12 @@
       "突破",
       "骑射",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 480,
@@ -10300,7 +12656,12 @@
       "营造",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 481,
@@ -10322,7 +12683,12 @@
       "飞射",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 482,
@@ -10345,7 +12711,12 @@
       "突破",
       "突进",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 483,
@@ -10364,7 +12735,12 @@
     "tactics": [
       "楼船",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 484,
@@ -10383,7 +12759,12 @@
     "tactics": [
       "奋战",
       "奋迅"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 485,
@@ -10404,7 +12785,12 @@
       "连射",
       "艨艟",
       "楼船"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 486,
@@ -10422,7 +12808,12 @@
     "affinity": 1,
     "tactics": [
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 487,
@@ -10443,7 +12834,12 @@
       "突破",
       "骑射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 488,
@@ -10462,7 +12858,12 @@
     "affinity": 73,
     "tactics": [
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 489,
@@ -10483,7 +12884,12 @@
       "营造",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 490,
@@ -10510,7 +12916,12 @@
       "发石",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 491,
@@ -10531,7 +12942,12 @@
       "突破",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 492,
@@ -10551,7 +12967,12 @@
     "tactics": [
       "奋战",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 493,
@@ -10573,7 +12994,12 @@
       "发石",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 494,
@@ -10593,7 +13019,12 @@
     "tactics": [
       "突破",
       "突进"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 495,
@@ -10615,7 +13046,12 @@
       "突进",
       "突击",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 496,
@@ -10637,7 +13073,12 @@
       "井阑",
       "冲车",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 497,
@@ -10657,7 +13098,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 498,
@@ -10680,7 +13126,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 499,
@@ -10704,7 +13155,12 @@
       "骑射",
       "奔射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 500,
@@ -10726,7 +13182,12 @@
       "齐射",
       "艨艟",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 501,
@@ -10751,7 +13212,12 @@
       "冲车",
       "发石",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 502,
@@ -10775,7 +13241,12 @@
       "突击",
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 503,
@@ -10797,7 +13268,12 @@
       "突进",
       "突击",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 504,
@@ -10822,7 +13298,12 @@
       "骑射",
       "冲车",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 505,
@@ -10839,7 +13320,12 @@
       "politics": 30
     },
     "affinity": 50,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 506,
@@ -10861,7 +13347,12 @@
       "骑射",
       "奔射",
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 507,
@@ -10884,7 +13375,12 @@
       "混乱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 508,
@@ -10905,7 +13401,12 @@
       "楼船",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 509,
@@ -10924,7 +13425,12 @@
     "tactics": [
       "发石",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 510,
@@ -10944,7 +13450,12 @@
     "tactics": [
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 511,
@@ -10969,7 +13480,12 @@
       "楼船",
       "冲车",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 512,
@@ -10989,7 +13505,12 @@
       "突破",
       "突进",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 513,
@@ -11009,7 +13530,12 @@
     "tactics": [
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 514,
@@ -11032,7 +13558,12 @@
       "混乱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 515,
@@ -11051,7 +13582,12 @@
     "tactics": [
       "骑射",
       "奔射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 516,
@@ -11071,7 +13607,12 @@
       "齐射",
       "陷阱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 517,
@@ -11093,7 +13634,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 518,
@@ -11112,7 +13658,12 @@
     "tactics": [
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 519,
@@ -11135,7 +13686,12 @@
       "发石",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 520,
@@ -11154,7 +13710,12 @@
     "affinity": 43,
     "tactics": [
       "突破"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 521,
@@ -11175,7 +13736,12 @@
       "奋战",
       "奋斗",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 522,
@@ -11195,7 +13761,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 523,
@@ -11216,7 +13787,12 @@
       "发石",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 524,
@@ -11235,7 +13811,12 @@
     "tactics": [
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 525,
@@ -11259,7 +13840,12 @@
       "突进",
       "冲车",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 526,
@@ -11278,7 +13864,12 @@
     "tactics": [
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 527,
@@ -11299,7 +13890,12 @@
       "奋斗",
       "突破",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 528,
@@ -11323,7 +13919,12 @@
       "奔射",
       "艨艟",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 529,
@@ -11346,7 +13947,12 @@
       "齐射",
       "艨艟",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 530,
@@ -11367,7 +13973,12 @@
       "突进",
       "艨艟",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 531,
@@ -11389,7 +14000,12 @@
       "突进",
       "突击",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 532,
@@ -11412,7 +14028,12 @@
       "艨艟",
       "楼船",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 533,
@@ -11432,7 +14053,12 @@
       "齐射",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 534,
@@ -11453,7 +14079,12 @@
       "突破",
       "齐射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 535,
@@ -11474,7 +14105,12 @@
       "突破",
       "突进",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 536,
@@ -11494,7 +14130,12 @@
     "tactics": [
       "奋战",
       "奋迅"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 537,
@@ -11515,7 +14156,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 538,
@@ -11535,7 +14181,12 @@
     "tactics": [
       "齐射",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 539,
@@ -11557,7 +14208,12 @@
       "井阑",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 540,
@@ -11583,7 +14239,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 541,
@@ -11609,7 +14270,12 @@
       "陷阱",
       "攻心",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 542,
@@ -11633,7 +14299,12 @@
       "突击",
       "骑射",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 543,
@@ -11653,7 +14324,12 @@
     "tactics": [
       "齐射",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 544,
@@ -11675,7 +14351,12 @@
       "楼船",
       "斗舰",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 545,
@@ -11695,7 +14376,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 546,
@@ -11716,7 +14402,12 @@
       "楼船",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 547,
@@ -11736,7 +14427,12 @@
       "奋迅",
       "象兵",
       "妖术"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 548,
@@ -11761,7 +14457,12 @@
       "井阑",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 549,
@@ -11783,7 +14484,12 @@
       "斗舰",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 550,
@@ -11809,7 +14515,12 @@
       "营造",
       "陷阱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 551,
@@ -11830,7 +14541,12 @@
       "楼船",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 552,
@@ -11853,7 +14569,12 @@
       "象兵",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 553,
@@ -11876,7 +14597,12 @@
       "发石",
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 554,
@@ -11896,7 +14622,12 @@
       "斗舰",
       "井阑",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 555,
@@ -11919,7 +14650,12 @@
       "连射",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 556,
@@ -11939,7 +14675,12 @@
     "tactics": [
       "奋迅",
       "象兵"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 557,
@@ -11959,7 +14700,12 @@
       "奋战",
       "突破",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 558,
@@ -11982,7 +14728,12 @@
       "连射",
       "冲车",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 559,
@@ -12006,7 +14757,12 @@
       "冲车",
       "发石",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 560,
@@ -12028,7 +14784,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 561,
@@ -12049,7 +14810,12 @@
       "奋战",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 562,
@@ -12077,7 +14843,12 @@
       "破陷",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 563,
@@ -12097,7 +14868,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 564,
@@ -12118,7 +14894,12 @@
       "奋战",
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 565,
@@ -12141,7 +14922,12 @@
       "发石",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 566,
@@ -12161,7 +14947,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 567,
@@ -12182,7 +14973,12 @@
       "破陷",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 568,
@@ -12204,7 +15000,12 @@
       "突进",
       "骑射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 569,
@@ -12221,7 +15022,12 @@
       "politics": 31
     },
     "affinity": 13,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 570,
@@ -12243,7 +15049,12 @@
       "发石",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 571,
@@ -12264,7 +15075,12 @@
       "奋战",
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 572,
@@ -12284,7 +15100,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 573,
@@ -12309,7 +15130,12 @@
       "艨艟",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 574,
@@ -12328,7 +15154,12 @@
     "affinity": 14,
     "tactics": [
       "齐射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 575,
@@ -12350,7 +15181,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 576,
@@ -12370,7 +15206,12 @@
     "tactics": [
       "突破",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 577,
@@ -12392,7 +15233,12 @@
       "突破",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 578,
@@ -12412,7 +15258,12 @@
       "奋斗",
       "艨艟",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 579,
@@ -12437,7 +15288,12 @@
       "营造",
       "破陷",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 580,
@@ -12462,7 +15318,12 @@
       "发石",
       "营造",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 581,
@@ -12483,7 +15344,12 @@
       "突破",
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 582,
@@ -12508,7 +15374,12 @@
       "混乱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 583,
@@ -12527,7 +15398,12 @@
     "tactics": [
       "突破",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 584,
@@ -12548,7 +15424,12 @@
       "齐射",
       "发石",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 585,
@@ -12568,7 +15449,8 @@
       "奋战",
       "突破",
       "井阑"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 586,
@@ -12593,7 +15475,12 @@
       "破陷",
       "混乱",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 587,
@@ -12617,7 +15504,8 @@
       "斗舰",
       "井阑",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": null
   },
   {
     "id": 588,
@@ -12647,7 +15535,12 @@
       "混乱",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 589,
@@ -12667,7 +15560,12 @@
     "tactics": [
       "攻心",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 590,
@@ -12698,7 +15596,12 @@
       "混乱",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 591,
@@ -12722,7 +15625,12 @@
       "连射",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 592,
@@ -12745,7 +15653,12 @@
       "混乱",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 593,
@@ -12765,7 +15678,12 @@
     "tactics": [
       "突破",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 594,
@@ -12784,7 +15702,12 @@
     "affinity": 19,
     "tactics": [
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 595,
@@ -12804,7 +15727,12 @@
       "突破",
       "突进",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 596,
@@ -12825,7 +15753,12 @@
       "突进",
       "骑射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 597,
@@ -12850,7 +15783,12 @@
       "井阑",
       "发石",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 598,
@@ -12870,7 +15808,12 @@
     "tactics": [
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 599,
@@ -12890,7 +15833,12 @@
     "tactics": [
       "齐射",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 600,
@@ -12910,7 +15858,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 601,
@@ -12931,7 +15884,12 @@
       "发石",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 602,
@@ -12953,7 +15911,12 @@
       "齐射",
       "连射",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 603,
@@ -12974,7 +15937,12 @@
       "楼船",
       "斗舰",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 604,
@@ -12997,7 +15965,12 @@
       "发石",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 605,
@@ -13019,7 +15992,12 @@
       "楼船",
       "营造",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 606,
@@ -13039,7 +16017,12 @@
     "tactics": [
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 607,
@@ -13061,7 +16044,12 @@
       "奋斗",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 608,
@@ -13082,7 +16070,12 @@
       "齐射",
       "楼船",
       "发石"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 609,
@@ -13102,7 +16095,12 @@
     "tactics": [
       "齐射",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 200,
+      "month": 4,
+      "scenarioId": "D_Sce004"
+    }
   },
   {
     "id": 610,
@@ -13119,7 +16117,12 @@
       "politics": 33
     },
     "affinity": 55,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 611,
@@ -13142,7 +16145,12 @@
       "井阑",
       "混乱",
       "陷阱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 612,
@@ -13163,7 +16171,12 @@
       "奋战",
       "齐射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 613,
@@ -13183,7 +16196,12 @@
     "tactics": [
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 614,
@@ -13206,7 +16224,12 @@
       "井阑",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 615,
@@ -13226,7 +16249,12 @@
     "tactics": [
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 616,
@@ -13243,7 +16271,12 @@
       "politics": 7
     },
     "affinity": 78,
-    "tactics": []
+    "tactics": [],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 617,
@@ -13265,7 +16298,12 @@
       "楼船",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 618,
@@ -13285,7 +16323,12 @@
     "tactics": [
       "突破",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 619,
@@ -13305,7 +16348,12 @@
     "tactics": [
       "艨艟",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 620,
@@ -13326,7 +16374,12 @@
       "营造",
       "混乱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 621,
@@ -13350,7 +16403,12 @@
       "陷阱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 622,
@@ -13371,7 +16429,12 @@
       "楼船",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 623,
@@ -13394,7 +16457,12 @@
       "冲车",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 624,
@@ -13415,7 +16483,12 @@
       "奋战",
       "突破",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 625,
@@ -13438,7 +16511,12 @@
       "突破",
       "齐射",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 626,
@@ -13461,7 +16539,12 @@
       "冲车",
       "发石",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 627,
@@ -13482,7 +16565,12 @@
       "突破",
       "楼船",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 628,
@@ -13504,7 +16592,12 @@
       "齐射",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 225,
+      "month": 7,
+      "scenarioId": "D_Sce008"
+    }
   },
   {
     "id": 629,
@@ -13524,7 +16617,12 @@
     "tactics": [
       "突破",
       "骑射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 630,
@@ -13546,7 +16644,12 @@
       "突破",
       "齐射",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 631,
@@ -13566,7 +16669,12 @@
     "tactics": [
       "突破",
       "突进"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 632,
@@ -13587,7 +16695,12 @@
       "齐射",
       "井阑",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 633,
@@ -13609,7 +16722,12 @@
       "突进",
       "艨艟",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 634,
@@ -13633,7 +16751,12 @@
       "艨艟",
       "冲车",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 207,
+      "month": 1,
+      "scenarioId": "D_Sce005"
+    }
   },
   {
     "id": 635,
@@ -13654,7 +16777,12 @@
       "营造",
       "混乱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 636,
@@ -13678,7 +16806,12 @@
       "斗舰",
       "井阑",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 637,
@@ -13700,7 +16833,12 @@
       "连射",
       "井阑",
       "营造"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 638,
@@ -13721,7 +16859,12 @@
       "突破",
       "骑射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 639,
@@ -13742,7 +16885,12 @@
       "突破",
       "骑射",
       "艨艟"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 640,
@@ -13767,7 +16915,12 @@
       "楼船",
       "冲车",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 641,
@@ -13791,7 +16944,12 @@
       "斗舰",
       "井阑",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 190,
+      "month": 1,
+      "scenarioId": "D_Sce002"
+    }
   },
   {
     "id": 642,
@@ -13816,7 +16974,12 @@
       "飞射",
       "齐射",
       "连射"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   },
   {
     "id": 643,
@@ -13843,7 +17006,12 @@
       "斗舰",
       "井阑",
       "冲车"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 644,
@@ -13864,7 +17032,12 @@
       "骑射",
       "齐射",
       "井阑"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 219,
+      "month": 7,
+      "scenarioId": "D_Sce007"
+    }
   },
   {
     "id": 645,
@@ -13887,7 +17060,12 @@
       "艨艟",
       "陷阱",
       "辱骂"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 211,
+      "month": 7,
+      "scenarioId": "D_Sce006"
+    }
   },
   {
     "id": 646,
@@ -13909,7 +17087,12 @@
       "冲车",
       "营造",
       "攻心"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 263,
+      "month": 7,
+      "scenarioId": "D_Sce010"
+    }
   },
   {
     "id": 647,
@@ -13937,7 +17120,12 @@
       "混乱",
       "攻心",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 194,
+      "month": 6,
+      "scenarioId": "D_Sce003"
+    }
   },
   {
     "id": 648,
@@ -13961,7 +17149,12 @@
       "楼船",
       "营造",
       "混乱"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 234,
+      "month": 4,
+      "scenarioId": "D_Sce009"
+    }
   },
   {
     "id": 649,
@@ -13984,6 +17177,11 @@
       "冲车",
       "陷阱",
       "鼓舞"
-    ]
+    ],
+    "firstAvailable": {
+      "year": 184,
+      "month": 2,
+      "scenarioId": "D_Sce001"
+    }
   }
 ]

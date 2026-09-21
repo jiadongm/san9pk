@@ -36,12 +36,21 @@ def main() -> None:
     core = read_csv(source / "phase1" / "officer_core_seed.csv")
     traditional_profiles = read_csv(Path(__file__).resolve().parents[1] / "data-source" / "officer-traditional-profiles.csv")
     availability = read_csv(source / "phase2" / "scenario_officer_availability.csv")
+    first_available = read_csv(source / "phase2" / "historical_first_available_scenario.csv")
     factions = read_csv(source / "phase2" / "scenario_factions.csv")
     relationships = read_csv(source / "phase2" / "tactic_linkage_relationship_seed.csv")
     formations = read_csv(source / "phase3" / "formation_definitions.csv")
     recommendations = read_csv(source / "phase4" / "scenario_linkage_recommendations.csv")
 
     profiles_by_slot = {int(row["slot_id"]): row for row in traditional_profiles}
+    first_available_by_slot = {
+        int(row["slot_id"]): {
+            "year": int(row["first_observed_historical_year"]),
+            "month": int(row["first_observed_historical_month"]),
+            "scenarioId": row["first_observed_historical_scenario"],
+        } if row["first_observed_historical_year"] else None
+        for row in first_available
+    }
     if len(traditional_profiles) != 650 or len(profiles_by_slot) != 650:
         raise ValueError("Traditional profiles must contain exactly 650 unique officer slots.")
 
@@ -53,6 +62,7 @@ def main() -> None:
         "abilities": {field: int(row[field]) for field in ("command", "strength", "intelligence", "politics")},
         "affinity": int(row["affinity"]),
         "tactics": row["tactics"].split("、") if row["tactics"] else [],
+        "firstAvailable": first_available_by_slot.get(int(row["slot_id"])),
     } for row in core]
     officer_ids = {officer["id"] for officer in officers}
     if len(officers) != 650 or len(officer_ids) != len(officers):
@@ -74,9 +84,10 @@ def main() -> None:
     if len(scenario_map) != 20 or len(availability_json) != 14000:
         raise ValueError("Expected 20 scenarios and 14,000 scenario-officer availability records.")
 
+    force_display_names = {175: "孔伷"}
     faction_json = [{
         "scenarioId": row["scenario_id"], "forceId": int(row["force_id"]),
-        "leaderId": int(row["leader_slot_id"]), "leaderName": row["leader_name"],
+        "leaderId": int(row["leader_slot_id"]), "leaderName": force_display_names.get(int(row["leader_slot_id"]), row["leader_name"]),
         "capitalCityId": int(row["capital_city_id"]),
     } for row in factions]
     if len(faction_json) != 207:
@@ -111,7 +122,7 @@ def main() -> None:
             "scenarioId": row["scenario_id"], "teamSize": int(row["team_size"]), "rank": int(row["rank"]),
             "forceId": int(row["force_id"]) if row["force_id"] else None,
             "forceLeaderId": int(row["force_leader_slot_id"]) if row["force_leader_slot_id"] else None,
-            "forceLeaderName": row["force_leader_name"] or None,
+            "forceLeaderName": force_display_names.get(int(row["force_leader_slot_id"]), row["force_leader_name"]) if row["force_leader_slot_id"] else None,
             "candidatePoolSize": int(row["candidate_pool_size"]),
             "memberIds": member_ids, "members": row["members"].split("、"),
             "linkageScore": int(row["linkage_score"]), "meanPairScore": number(row["mean_pair_score"]),
