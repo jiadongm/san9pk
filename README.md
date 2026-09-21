@@ -37,3 +37,5 @@ python3 scripts/build_data.py --source-root /path/to/san9pk-analysis
 第一版静态网站已经提供武将浏览、姓名和兵法筛选、武将详情，以及剧本三人／五人组合推荐与评分理由。繁体姓名别名与拼音检索仍在校订；势力筛选将在势力归属字段从剧本数据中解析并验证后加入，避免以不可靠信息做推荐。
 
 GitHub Pages 工作流会在推送 `main` 后更新网站。
+
+后续开发顺序记录在 [网站开发路线图](docs/roadmap.md)。

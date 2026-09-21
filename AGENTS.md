@@ -69,6 +69,12 @@ The Pages workflow requires GitHub Pages to use **GitHub Actions** as its publis
 
 ## Recommended next tasks
 
-1. Reliably join the reviewed Traditional Chinese officer-name source to the 650 officer IDs; then populate `nameTraditional` and `searchAliases`, and add pinyin only with a documented source or reproducible method.
+The maintained implementation order is recorded in `docs/roadmap.md`. Follow it unless the user explicitly changes priorities.
+
+The immediate product slice is:
+
+1. Replace the affinity progress bar with a neutral circular-position treatment, add politics to officer cards, and reliably join the reviewed Traditional Chinese names and biographies to the 650 officer IDs.
 2. Reverse engineer and validate faction membership per scenario before adding the scenario-plus-faction recommendation flow.
-3. Add user-selectable recommendation modes only after their inputs are verified: current linkage-first, ability-aware tie-breaking, and then any formation-aware mode supported by game testing.
+3. Add explicit team ability thresholds, beginning with user-set minimum requirements for each team's highest command, strength, intelligence and politics values.
+4. Build the interactive 0–149 affinity ring only after the core officer and recommendation surfaces are correct and usable.
+5. Treat rankings, range lookup and clustering as later exploratory views. Label derived clusters as analysis, never as official game categories.
