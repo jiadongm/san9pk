@@ -49,7 +49,6 @@ def main() -> None:
         "nameSimplified": row["name_simplified"],
         "nameTraditional": profiles_by_slot[int(row["slot_id"])]["name_traditional"],
         "searchAliases": list(dict.fromkeys([row["name_simplified"], profiles_by_slot[int(row["slot_id"])]["name_traditional"]])),
-        "biography": profiles_by_slot[int(row["slot_id"])]["biography"],
         "abilities": {field: int(row[field]) for field in ("command", "strength", "intelligence", "politics")},
         "affinity": int(row["affinity"]),
         "tactics": row["tactics"].split("、") if row["tactics"] else [],
@@ -122,7 +121,7 @@ def main() -> None:
     write_json(output / "manifest.json", {
         "schemaVersion": 1,
         "counts": {"officers": len(officers), "scenarios": len(scenario_map), "availabilityRecords": len(availability_json), "relationships": len(relationship_json), "formations": len(formation_json), "recommendations": len(recommendation_json)},
-        "notes": ["Traditional-name aliases and reviewed biographies are available for all 650 officers.", "Scenario faction membership is not yet available.", "Recommendation scores do not hard-code unverified formation mechanics."],
+        "notes": ["Traditional-name aliases are available for all 650 officers.", "Game-original biographies have not yet been extracted.", "Scenario faction membership is not yet available.", "Recommendation scores do not hard-code unverified formation mechanics."],
     })
     print(f"Wrote web data to {output}")
 

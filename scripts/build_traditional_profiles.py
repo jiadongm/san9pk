@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create verified traditional-name and biography profiles for the website."""
+"""Create verified traditional-name profiles for the website."""
 
 from __future__ import annotations
 
@@ -63,8 +63,8 @@ def main() -> None:
     sheet = workbook["相性與小傳"]
     profiles = []
     used_slot_ids = set()
-    for affinity, traditional_name, biography in sheet.iter_rows(min_row=7, max_col=3, values_only=True):
-        if not isinstance(affinity, int) or not isinstance(traditional_name, str) or not isinstance(biography, str):
+    for affinity, traditional_name, _biography in sheet.iter_rows(min_row=7, max_col=3, values_only=True):
+        if not isinstance(affinity, int) or not isinstance(traditional_name, str):
             raise ValueError("Unexpected traditional-profile workbook row.")
         simplified_name = convert_name(traditional_name, character_map)
         candidates = core_by_name[simplified_name]
@@ -83,15 +83,13 @@ def main() -> None:
             "slot_id": slot_id,
             "name_simplified": officer["name_simplified"],
             "name_traditional": traditional_name,
-            "biography": biography,
-            "source_affinity": affinity,
         })
     if len(profiles) != 650 or len(used_slot_ids) != 650:
         raise ValueError("Traditional profiles must match each of the 650 officers exactly once.")
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["slot_id", "name_simplified", "name_traditional", "biography", "source_affinity"])
+        writer = csv.DictWriter(handle, fieldnames=["slot_id", "name_simplified", "name_traditional"], lineterminator="\n")
         writer.writeheader()
         writer.writerows(sorted(profiles, key=lambda item: item["slot_id"]))
     print(f"Wrote {len(profiles)} traditional officer profiles to {args.output}")

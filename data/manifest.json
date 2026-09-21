@@ -9,7 +9,8 @@
     "recommendations": 400
   },
   "notes": [
-    "Traditional-name aliases and reviewed biographies are available for all 650 officers.",
+    "Traditional-name aliases are available for all 650 officers.",
+    "Game-original biographies have not yet been extracted.",
     "Scenario faction membership is not yet available.",
     "Recommendation scores do not hard-code unverified formation mechanics."
   ]

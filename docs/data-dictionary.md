@@ -8,7 +8,7 @@
 - `nameSimplified`：当前已验证的简体姓名。
 - `nameTraditional`：与游戏槽位一一验证后的繁体姓名。
 - `searchAliases`：网页检索用别名；包括经验证的简体和繁体姓名。拼音尚未加入。
-- `biography`：已审核繁体中文资料表中的简短人物小传。
+- 游戏内人物小传尚未提取，因此当前不提供 `biography` 字段。
 - `abilities`：统率、武力、智力、政治。
 - `affinity`：0–149 的环状相性值。
 - `tactics`：已掌握兵法。

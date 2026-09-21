@@ -7,7 +7,6 @@
       "阿会喃",
       "阿會喃"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 73,
@@ -28,7 +27,6 @@
       "韦昭",
       "韋昭"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 18,
       "strength": 17,
@@ -48,7 +46,6 @@
     "searchAliases": [
       "伊籍"
     ],
-    "biography": "三國時期蜀漢官員。",
     "abilities": {
       "command": 25,
       "strength": 24,
@@ -70,7 +67,6 @@
       "尹赏",
       "尹賞"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 51,
       "strength": 54,
@@ -91,7 +87,6 @@
     "searchAliases": [
       "尹大目"
     ],
-    "biography": "曹家的家奴，曹魏建國後，在天子左右侍奉。",
     "abilities": {
       "command": 5,
       "strength": 9,
@@ -110,7 +105,6 @@
     "searchAliases": [
       "尹默"
     ],
-    "biography": "梓潼涪城人。",
     "abilities": {
       "command": 13,
       "strength": 17,
@@ -130,7 +124,6 @@
     "searchAliases": [
       "于禁"
     ],
-    "biography": "曹魏名將，襄樊之戰敗於關羽。",
     "abilities": {
       "command": 82,
       "strength": 76,
@@ -156,7 +149,6 @@
       "于诠",
       "于詮"
     ],
-    "biography": "或作于銓，中國三國時期吳國將領。",
     "abilities": {
       "command": 67,
       "strength": 73,
@@ -178,7 +170,6 @@
       "卫瓘",
       "衛瓘"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 53,
@@ -201,7 +192,6 @@
       "袁遗",
       "袁遺"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 61,
       "strength": 43,
@@ -223,7 +213,6 @@
     "searchAliases": [
       "袁胤"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 27,
       "strength": 18,
@@ -241,7 +230,6 @@
       "阎宇",
       "閻宇"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 69,
@@ -263,7 +251,6 @@
     "searchAliases": [
       "袁熙"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 55,
@@ -285,7 +272,6 @@
       "阎柔",
       "閻柔"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 54,
@@ -309,7 +295,6 @@
       "袁术",
       "袁術"
     ],
-    "biography": "漢末軍閥，曾在壽春稱帝。",
     "abilities": {
       "command": 49,
       "strength": 66,
@@ -330,7 +315,6 @@
     "searchAliases": [
       "袁尚"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 73,
@@ -352,7 +336,6 @@
       "袁绍",
       "袁紹"
     ],
-    "biography": "漢末河北軍閥，官渡之戰敗於曹操。",
     "abilities": {
       "command": 80,
       "strength": 68,
@@ -378,7 +361,6 @@
       "阎象",
       "閻象"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 29,
       "strength": 26,
@@ -399,7 +381,6 @@
       "袁谭",
       "袁譚"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 58,
       "strength": 70,
@@ -420,7 +401,6 @@
       "阎圃",
       "閻圃"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 32,
       "strength": 27,
@@ -441,7 +421,6 @@
       "袁耀",
       "袁燿"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 45,
       "strength": 52,
@@ -461,7 +440,6 @@
     "searchAliases": [
       "王威"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -481,7 +459,6 @@
     "searchAliases": [
       "王允"
     ],
-    "biography": "并州太原祁（今山西祁縣）人。",
     "abilities": {
       "command": 24,
       "strength": 7,
@@ -501,7 +478,6 @@
     "searchAliases": [
       "王含"
     ],
-    "biography": "琅琊臨沂（今山東臨沂）人。",
     "abilities": {
       "command": 46,
       "strength": 43,
@@ -521,7 +497,6 @@
     "searchAliases": [
       "王基"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 75,
@@ -545,7 +520,6 @@
       "王颀",
       "王頎"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 71,
@@ -566,7 +540,6 @@
     "searchAliases": [
       "王匡"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 50,
@@ -589,7 +562,6 @@
       "王业",
       "王業"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 43,
       "strength": 6,
@@ -609,7 +581,6 @@
       "王经",
       "王經"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 61,
@@ -631,7 +602,6 @@
     "searchAliases": [
       "王伉"
     ],
-    "biography": "三國時期蜀國永昌太守。",
     "abilities": {
       "command": 68,
       "strength": 66,
@@ -652,7 +622,6 @@
       "王浑",
       "王渾"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 77,
@@ -674,7 +643,6 @@
     "searchAliases": [
       "王粲"
     ],
-    "biography": "山陽郡高平縣（今山東省濟寧市微山縣）人。",
     "abilities": {
       "command": 7,
       "strength": 3,
@@ -694,7 +662,6 @@
     "searchAliases": [
       "王修"
     ],
-    "biography": "又作為王脩。",
     "abilities": {
       "command": 42,
       "strength": 65,
@@ -715,7 +682,6 @@
     "searchAliases": [
       "王戎"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 42,
@@ -737,7 +703,6 @@
       "王肃",
       "王肅"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 47,
       "strength": 26,
@@ -758,7 +723,6 @@
       "王浚",
       "王濬"
     ],
-    "biography": "西晉名將，率水軍滅吳。",
     "abilities": {
       "command": 82,
       "strength": 73,
@@ -784,7 +748,6 @@
     "searchAliases": [
       "王祥"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 31,
       "strength": 28,
@@ -805,7 +768,6 @@
       "王沉",
       "王沈"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 8,
       "strength": 14,
@@ -825,7 +787,6 @@
       "王双",
       "王雙"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 89,
@@ -845,7 +806,6 @@
     "searchAliases": [
       "王忠"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 45,
       "strength": 58,
@@ -864,7 +824,6 @@
     "searchAliases": [
       "王昶"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 63,
@@ -889,7 +848,6 @@
       "王韬",
       "王韜"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 52,
       "strength": 57,
@@ -909,7 +867,6 @@
     "searchAliases": [
       "王惇"
     ],
-    "biography": "三國時東吳官員。",
     "abilities": {
       "command": 70,
       "strength": 63,
@@ -932,7 +889,6 @@
       "王买",
       "王買"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 64,
@@ -953,7 +909,6 @@
     "searchAliases": [
       "王平"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 79,
       "strength": 77,
@@ -977,7 +932,6 @@
     "searchAliases": [
       "王甫"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 59,
       "strength": 36,
@@ -999,7 +953,6 @@
       "王门",
       "王門"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 69,
@@ -1020,7 +973,6 @@
     "searchAliases": [
       "王凌"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 61,
@@ -1043,7 +995,6 @@
     "searchAliases": [
       "王累"
     ],
-    "biography": "東漢末益州牧劉璋部下，任從事。",
     "abilities": {
       "command": 29,
       "strength": 31,
@@ -1064,7 +1015,6 @@
     "searchAliases": [
       "王朗"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 43,
       "strength": 37,
@@ -1084,7 +1034,6 @@
     "searchAliases": [
       "何晏"
     ],
-    "biography": "南陽宛（今河南南陽）人，東漢末年大將軍何進孫，曹操的婿養子，三國時期玄學家。",
     "abilities": {
       "command": 10,
       "strength": 36,
@@ -1105,7 +1054,6 @@
     "searchAliases": [
       "蒯越"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 42,
       "strength": 32,
@@ -1126,7 +1074,6 @@
     "searchAliases": [
       "蒯良"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 36,
@@ -1151,7 +1098,6 @@
       "贾华",
       "賈華"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 53,
       "strength": 67,
@@ -1172,7 +1118,6 @@
       "华核",
       "華覈"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 17,
       "strength": 26,
@@ -1193,7 +1138,6 @@
       "贾逵",
       "賈逵"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 69,
@@ -1218,7 +1162,6 @@
       "何仪",
       "何儀"
     ],
-    "biography": "東漢時期人物，曾參與黃巾起義。",
     "abilities": {
       "command": 59,
       "strength": 67,
@@ -1238,7 +1181,6 @@
       "华歆",
       "華歆"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 25,
       "strength": 38,
@@ -1259,7 +1201,6 @@
       "贾诩",
       "賈詡"
     ],
-    "biography": "漢末著名謀士，後仕曹魏。",
     "abilities": {
       "command": 81,
       "strength": 34,
@@ -1284,7 +1225,6 @@
     "searchAliases": [
       "郭奕"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 23,
       "strength": 29,
@@ -1304,7 +1244,6 @@
     "searchAliases": [
       "郭嘉"
     ],
-    "biography": "曹操早期重要謀士，英年早逝。",
     "abilities": {
       "command": 58,
       "strength": 10,
@@ -1329,7 +1268,6 @@
       "鄂焕",
       "鄂煥"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 81,
@@ -1349,7 +1287,6 @@
     "searchAliases": [
       "郭汜"
     ],
-    "biography": "董卓部將，與李傕攻入長安。",
     "abilities": {
       "command": 63,
       "strength": 74,
@@ -1370,7 +1307,6 @@
       "乐就",
       "樂就"
     ],
-    "biography": "東漢末期袁術部將。",
     "abilities": {
       "command": 64,
       "strength": 70,
@@ -1391,7 +1327,6 @@
     "searchAliases": [
       "霍峻"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 62,
@@ -1414,7 +1349,6 @@
     "searchAliases": [
       "郝昭"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 85,
       "strength": 79,
@@ -1441,7 +1375,6 @@
       "乐进",
       "樂進"
     ],
-    "biography": "曹魏名將，以驍勇果決著稱。",
     "abilities": {
       "command": 78,
       "strength": 85,
@@ -1467,7 +1400,6 @@
       "乐綝",
       "樂綝"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 75,
@@ -1490,7 +1422,6 @@
       "郭图",
       "郭圖"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 41,
       "strength": 45,
@@ -1511,7 +1442,6 @@
       "郭马",
       "郭馬"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 74,
@@ -1532,7 +1462,6 @@
     "searchAliases": [
       "郭攸之"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 15,
       "strength": 9,
@@ -1551,7 +1480,6 @@
     "searchAliases": [
       "霍弋"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 70,
@@ -1574,7 +1502,6 @@
     "searchAliases": [
       "郭淮"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 84,
       "strength": 77,
@@ -1599,7 +1526,6 @@
     "searchAliases": [
       "夏侯威"
     ],
-    "biography": "三國時期曹魏將領，東漢曹操屬下名將夏侯淵之第四子。",
     "abilities": {
       "command": 68,
       "strength": 70,
@@ -1621,7 +1547,6 @@
       "夏侯渊",
       "夏侯淵"
     ],
-    "biography": "曹操宗親名將，善於急行奔襲。",
     "abilities": {
       "command": 91,
       "strength": 92,
@@ -1648,7 +1573,6 @@
     "searchAliases": [
       "夏侯恩"
     ],
-    "biography": "夏侯恩，是《三國演義》中的虛構人物，曹操愛將。",
     "abilities": {
       "command": 61,
       "strength": 69,
@@ -1668,7 +1592,6 @@
     "searchAliases": [
       "夏侯和"
     ],
-    "biography": "三國時魏、晉官員，為夏侯淵第七子。",
     "abilities": {
       "command": 54,
       "strength": 51,
@@ -1689,7 +1612,6 @@
     "searchAliases": [
       "夏侯咸"
     ],
-    "biography": "是三國時期曹魏將領。",
     "abilities": {
       "command": 64,
       "strength": 62,
@@ -1710,7 +1632,6 @@
     "searchAliases": [
       "夏侯惠"
     ],
-    "biography": "征西將軍、博昌愍侯夏侯淵第六子。",
     "abilities": {
       "command": 57,
       "strength": 49,
@@ -1732,7 +1653,6 @@
     "searchAliases": [
       "夏侯玄"
     ],
-    "biography": "一作太初，沛國譙郡（今安徽亳州）人。",
     "abilities": {
       "command": 59,
       "strength": 44,
@@ -1753,7 +1673,6 @@
     "searchAliases": [
       "夏侯尚"
     ],
-    "biography": "三國時代曹魏武將，曹丕時期的重臣，官拜征南大將軍領荊州牧，長年負責戍守荊北軍區防線。",
     "abilities": {
       "command": 75,
       "strength": 71,
@@ -1777,7 +1696,6 @@
     "searchAliases": [
       "夏侯德"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 73,
@@ -1798,7 +1716,6 @@
     "searchAliases": [
       "夏侯惇"
     ],
-    "biography": "曹操宗親名將，長期鎮守後方。",
     "abilities": {
       "command": 90,
       "strength": 92,
@@ -1824,7 +1741,6 @@
     "searchAliases": [
       "夏侯霸"
     ],
-    "biography": "沛國譙縣（今安徽省亳州市）人；三國時期曹魏和蜀漢後期重要將領；曹魏將領夏侯淵次子。",
     "abilities": {
       "command": 79,
       "strength": 85,
@@ -1847,7 +1763,6 @@
     "searchAliases": [
       "夏侯楙"
     ],
-    "biography": "三國時代魏國的武將與官員，是曹操麾下重要將領夏侯惇之子，娶曹操之女清河公主為妻。",
     "abilities": {
       "command": 22,
       "strength": 13,
@@ -1867,7 +1782,6 @@
       "贾充",
       "賈充"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 38,
       "strength": 37,
@@ -1888,7 +1802,6 @@
     "searchAliases": [
       "何植"
     ],
-    "biography": "丹楊郡（郡治在今安徽宣城）人。",
     "abilities": {
       "command": 17,
       "strength": 24,
@@ -1909,7 +1822,6 @@
       "何进",
       "何進"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 25,
       "strength": 30,
@@ -1929,7 +1841,6 @@
       "贺齐",
       "賀齊"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 71,
@@ -1955,7 +1866,6 @@
     "searchAliases": [
       "何曾"
     ],
-    "biography": "陳國陽夏縣人。",
     "abilities": {
       "command": 36,
       "strength": 27,
@@ -1977,7 +1887,6 @@
       "何桢",
       "何楨"
     ],
-    "biography": "一作何禎，字元幹，廬江郡灊縣（今屬安徽霍山）人。",
     "abilities": {
       "command": 70,
       "strength": 64,
@@ -2002,7 +1911,6 @@
       "贾范",
       "賈範"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 59,
@@ -2024,7 +1932,6 @@
       "华雄",
       "華雄"
     ],
-    "biography": "董卓部將，汜水關之戰為孫堅軍所斬。",
     "abilities": {
       "command": 78,
       "strength": 93,
@@ -2047,7 +1954,6 @@
       "关彝",
       "關彝"
     ],
-    "biography": "三國時蜀國漢壽亭侯，關興庶子，關羽之孫。",
     "abilities": {
       "command": 44,
       "strength": 64,
@@ -2068,7 +1974,6 @@
       "韩胤",
       "韓胤"
     ],
-    "biography": "袁術部下，奉命與呂布結親未果。",
     "abilities": {
       "command": 27,
       "strength": 30,
@@ -2088,7 +1993,6 @@
       "关羽",
       "關羽"
     ],
-    "biography": "劉備麾下名將，鎮守荊州，後世尊為關帝。",
     "abilities": {
       "command": 93,
       "strength": 97,
@@ -2116,7 +2020,6 @@
     "searchAliases": [
       "管亥"
     ],
-    "biography": "黃巾軍渠帥，曾圍攻北海孔融。",
     "abilities": {
       "command": 69,
       "strength": 80,
@@ -2137,7 +2040,6 @@
       "毌丘俭",
       "毌丘儉"
     ],
-    "biography": "曹魏將領，起兵反司馬師失敗。",
     "abilities": {
       "command": 81,
       "strength": 76,
@@ -2160,7 +2062,6 @@
     "searchAliases": [
       "毌丘秀"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 61,
@@ -2180,7 +2081,6 @@
     "searchAliases": [
       "毌丘甸"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 51,
@@ -2202,7 +2102,6 @@
       "韩玄",
       "韓玄"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 10,
       "strength": 29,
@@ -2222,7 +2121,6 @@
       "韩浩",
       "韓浩"
     ],
-    "biography": "曹操部將，曾參與屯田事務。",
     "abilities": {
       "command": 62,
       "strength": 71,
@@ -2243,7 +2141,6 @@
       "关兴",
       "關興"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 86,
@@ -2268,7 +2165,6 @@
       "关索",
       "關索"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 81,
@@ -2291,7 +2187,6 @@
       "韩遂",
       "韓遂"
     ],
-    "biography": "漢末涼州軍閥，長期割據西北。",
     "abilities": {
       "command": 84,
       "strength": 70,
@@ -2317,7 +2212,6 @@
       "韩嵩",
       "韓嵩"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 31,
       "strength": 16,
@@ -2338,7 +2232,6 @@
       "关靖",
       "關靖"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 39,
       "strength": 61,
@@ -2359,7 +2252,6 @@
       "韩暹",
       "韓暹"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 69,
@@ -2380,7 +2272,6 @@
       "阚泽",
       "闞澤"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 34,
       "strength": 50,
@@ -2403,7 +2294,6 @@
       "韩忠",
       "韓忠"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 68,
@@ -2423,7 +2313,6 @@
       "关统",
       "關統"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 55,
@@ -2446,7 +2335,6 @@
       "韩当",
       "韓當"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 78,
       "strength": 86,
@@ -2471,7 +2359,6 @@
       "韩德",
       "韓德"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 79,
@@ -2491,7 +2378,6 @@
       "甘宁",
       "甘寧"
     ],
-    "biography": "東吳名將，以勇猛善戰著稱。",
     "abilities": {
       "command": 87,
       "strength": 94,
@@ -2518,7 +2404,6 @@
       "桓范",
       "桓範"
     ],
-    "biography": "沛國（治今安徽省濉溪縣張孤集）人。",
     "abilities": {
       "command": 26,
       "strength": 12,
@@ -2539,7 +2424,6 @@
       "韩馥",
       "韓馥"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 20,
       "strength": 5,
@@ -2557,7 +2441,6 @@
       "关平",
       "關平"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 82,
@@ -2583,7 +2466,6 @@
       "简雍",
       "簡雍"
     ],
-    "biography": "本姓名耿雍，字憲和，涿郡（今河北涿州）人，三國時期蜀漢官吏，與孫乾、麋竺同為蜀漢老臣。",
     "abilities": {
       "command": 22,
       "strength": 31,
@@ -2604,7 +2486,6 @@
       "颜良",
       "顏良"
     ],
-    "biography": "袁紹名將，白馬之戰為關羽所斬。",
     "abilities": {
       "command": 83,
       "strength": 95,
@@ -2626,7 +2507,6 @@
     "searchAliases": [
       "魏延"
     ],
-    "biography": "蜀漢名將，長期鎮守漢中。",
     "abilities": {
       "command": 83,
       "strength": 92,
@@ -2651,7 +2531,6 @@
       "曲义",
       "麴義"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 72,
@@ -2675,7 +2554,6 @@
       "戏志才",
       "戲志才"
     ],
-    "biography": "潁川（治今河南省禹州市）人。",
     "abilities": {
       "command": 30,
       "strength": 7,
@@ -2696,7 +2574,6 @@
       "魏续",
       "魏續"
     ],
-    "biography": "東漢末年武將，是呂布部將，隨呂布轉戰各地。",
     "abilities": {
       "command": 70,
       "strength": 75,
@@ -2717,7 +2594,6 @@
     "searchAliases": [
       "魏邈"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 62,
@@ -2738,7 +2614,6 @@
     "searchAliases": [
       "魏攸"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 48,
       "strength": 30,
@@ -2759,7 +2634,6 @@
     "searchAliases": [
       "牛金"
     ],
-    "biography": "東漢末年至曹魏時期武將。",
     "abilities": {
       "command": 73,
       "strength": 80,
@@ -2780,7 +2654,6 @@
     "searchAliases": [
       "丘建"
     ],
-    "biography": "魏國武將，是鍾會的心腹，在263年魏滅漢之戰中擔任鍾會的帳下督，隨鍾會出征。",
     "abilities": {
       "command": 46,
       "strength": 51,
@@ -2801,7 +2674,6 @@
       "牛辅",
       "牛輔"
     ],
-    "biography": "東漢末年政治人物和武將，董卓的女婿。",
     "abilities": {
       "command": 32,
       "strength": 60,
@@ -2820,7 +2692,6 @@
     "searchAliases": [
       "丘本"
     ],
-    "biography": "丘本，《三國演義》中出現的虛構人物，在魏滅漢之戰中擔任鄧艾的監軍（正史中監軍是衛瓘）。",
     "abilities": {
       "command": 53,
       "strength": 35,
@@ -2841,7 +2712,6 @@
       "姜维",
       "姜維"
     ],
-    "biography": "蜀漢後期主將，多次北伐曹魏。",
     "abilities": {
       "command": 85,
       "strength": 89,
@@ -2870,7 +2740,6 @@
       "巩志",
       "鞏志"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 44,
       "strength": 54,
@@ -2891,7 +2760,6 @@
       "桥蕤",
       "橋蕤"
     ],
-    "biography": "東漢末年人物，袁術部下，被袁術封為大將軍。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -2915,7 +2783,6 @@
       "龚都",
       "龔都"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 72,
@@ -2935,7 +2802,6 @@
       "桥瑁",
       "橋瑁"
     ],
-    "biography": "東漢末東郡太守，參與討董聯軍。",
     "abilities": {
       "command": 62,
       "strength": 53,
@@ -2957,7 +2823,6 @@
       "许仪",
       "許儀"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 59,
       "strength": 76,
@@ -2978,7 +2843,6 @@
       "许贡",
       "許貢"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 45,
       "strength": 68,
@@ -3002,7 +2866,6 @@
       "许靖",
       "許靖"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 13,
       "strength": 13,
@@ -3023,7 +2886,6 @@
       "许褚",
       "許褚"
     ],
-    "biography": "曹操近衛猛將，號稱「虎癡」。",
     "abilities": {
       "command": 66,
       "strength": 96,
@@ -3045,7 +2907,6 @@
       "许攸",
       "許攸"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 18,
       "strength": 6,
@@ -3066,7 +2927,6 @@
       "纪灵",
       "紀靈"
     ],
-    "biography": "紀靈，東漢末年人物，袁術部下。",
     "abilities": {
       "command": 74,
       "strength": 81,
@@ -3090,7 +2950,6 @@
       "金环三结",
       "金環三結"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 74,
@@ -3110,7 +2969,6 @@
     "searchAliases": [
       "金旋"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 44,
       "strength": 65,
@@ -3129,7 +2987,6 @@
     "searchAliases": [
       "虞汜"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 38,
@@ -3151,7 +3008,6 @@
     "searchAliases": [
       "虞翻"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 37,
       "strength": 48,
@@ -3176,7 +3032,6 @@
       "邢道荣",
       "邢道榮"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 77,
@@ -3196,7 +3051,6 @@
       "郄正",
       "郤正"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 6,
       "strength": 4,
@@ -3217,7 +3071,6 @@
       "严颜",
       "嚴顏"
     ],
-    "biography": "效力於劉焉、劉璋。",
     "abilities": {
       "command": 77,
       "strength": 82,
@@ -3242,7 +3095,6 @@
       "牵弘",
       "牽弘"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 70,
@@ -3264,7 +3116,6 @@
       "严纲",
       "嚴綱"
     ],
-    "biography": "東漢末期人物。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -3287,7 +3138,6 @@
       "严畯",
       "嚴畯"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 19,
       "strength": 4,
@@ -3309,7 +3159,6 @@
       "严政",
       "嚴政"
     ],
-    "biography": "黃巾將領，後殺張寶降漢。",
     "abilities": {
       "command": 52,
       "strength": 59,
@@ -3329,7 +3178,6 @@
       "严白虎",
       "嚴白虎"
     ],
-    "biography": "以字行，吳郡烏程縣人。",
     "abilities": {
       "command": 66,
       "strength": 69,
@@ -3350,7 +3198,6 @@
       "严舆",
       "嚴輿"
     ],
-    "biography": "是當時在吳郡一帶作亂的山賊，嚴白虎的弟弟。",
     "abilities": {
       "command": 65,
       "strength": 78,
@@ -3372,7 +3219,6 @@
       "吴懿",
       "吳懿"
     ],
-    "biography": "三國志作「吳壹」，一說為避司馬懿諱。",
     "abilities": {
       "command": 80,
       "strength": 70,
@@ -3395,7 +3241,6 @@
     "searchAliases": [
       "句安"
     ],
-    "biography": "原是蜀漢的牙門將軍。",
     "abilities": {
       "command": 65,
       "strength": 68,
@@ -3416,7 +3261,6 @@
       "黄盖",
       "黃蓋"
     ],
-    "biography": "東吳宿將，赤壁之戰以苦肉計聞名。",
     "abilities": {
       "command": 79,
       "strength": 83,
@@ -3443,7 +3287,6 @@
       "高干",
       "高幹"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 65,
@@ -3466,7 +3309,6 @@
       "黄权",
       "黃權"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 59,
@@ -3490,7 +3332,6 @@
       "黄皓",
       "黃皓"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 1,
       "strength": 1,
@@ -3509,7 +3350,6 @@
     "searchAliases": [
       "高柔"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 61,
       "strength": 59,
@@ -3531,7 +3371,6 @@
       "高顺",
       "高順"
     ],
-    "biography": "呂布部將，統率精銳陷陣營。",
     "abilities": {
       "command": 89,
       "strength": 86,
@@ -3555,7 +3394,6 @@
     "searchAliases": [
       "高翔"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 70,
@@ -3577,7 +3415,6 @@
       "高升",
       "高昇"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -3599,7 +3436,6 @@
       "黄崇",
       "黃崇"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 64,
@@ -3621,7 +3457,6 @@
     "searchAliases": [
       "侯成"
     ],
-    "biography": "東漢末期人物，呂布騎將，隨呂布轉戰各地。",
     "abilities": {
       "command": 73,
       "strength": 72,
@@ -3644,7 +3479,6 @@
       "侯选",
       "侯選"
     ],
-    "biography": "河東人。",
     "abilities": {
       "command": 66,
       "strength": 71,
@@ -3666,7 +3500,6 @@
       "黄祖",
       "黃祖"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 68,
@@ -3689,7 +3522,6 @@
       "公孙越",
       "公孫越"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 70,
@@ -3712,7 +3544,6 @@
       "公孙渊",
       "公孫淵"
     ],
-    "biography": "三國時期燕國的開國君主。",
     "abilities": {
       "command": 64,
       "strength": 71,
@@ -3736,7 +3567,6 @@
       "公孙恭",
       "公孫恭"
     ],
-    "biography": "公孫恭，東漢末三國初年人物。",
     "abilities": {
       "command": 39,
       "strength": 20,
@@ -3758,7 +3588,6 @@
       "公孙康",
       "公孫康"
     ],
-    "biography": "遼東郡襄平縣（今遼寧省遼陽市區）人。",
     "abilities": {
       "command": 71,
       "strength": 64,
@@ -3781,7 +3610,6 @@
       "公孙瓒",
       "公孫瓚"
     ],
-    "biography": "漢末幽州軍閥，以白馬義從聞名。",
     "abilities": {
       "command": 82,
       "strength": 85,
@@ -3807,7 +3635,6 @@
       "公孙续",
       "公孫續"
     ],
-    "biography": "東漢末期人物，公孫瓚之子。",
     "abilities": {
       "command": 65,
       "strength": 66,
@@ -3830,7 +3657,6 @@
       "公孙度",
       "公孫度"
     ],
-    "biography": "幼名阿豹，幽州遼東襄平人，東漢末年割據於遼東地區的軍閥。",
     "abilities": {
       "command": 70,
       "strength": 66,
@@ -3854,7 +3680,6 @@
       "公孙范",
       "公孫範"
     ],
-    "biography": "東漢末期人物，公孫瓚從弟。",
     "abilities": {
       "command": 73,
       "strength": 68,
@@ -3878,7 +3703,6 @@
       "孔侑",
       "孔伷"
     ],
-    "biography": "一作「冑」，字公緒。",
     "abilities": {
       "command": 21,
       "strength": 18,
@@ -3900,7 +3724,6 @@
       "黄忠",
       "黃忠"
     ],
-    "biography": "蜀漢名將，定軍山斬夏侯淵。",
     "abilities": {
       "command": 84,
       "strength": 93,
@@ -3927,7 +3750,6 @@
     "searchAliases": [
       "高定"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 54,
       "strength": 63,
@@ -3947,7 +3769,6 @@
     "searchAliases": [
       "高沛"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 60,
@@ -3970,7 +3791,6 @@
       "皇甫闿",
       "皇甫闓"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 42,
@@ -3991,7 +3811,6 @@
     "searchAliases": [
       "皇甫嵩"
     ],
-    "biography": "安定郡朝那縣（今寧夏回族自治區固原市彭陽縣，另一說為今甘肅省慶陽市鎮原縣）人，東漢末年名將。",
     "abilities": {
       "command": 85,
       "strength": 56,
@@ -4013,7 +3832,6 @@
     "searchAliases": [
       "孔融"
     ],
-    "biography": "東漢末文學家，建安七子之一，孔子二十代孫，高祖父孔尚，鉅鹿太守。",
     "abilities": {
       "command": 23,
       "strength": 7,
@@ -4033,7 +3851,6 @@
       "高览",
       "高覽"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 78,
@@ -4055,7 +3872,6 @@
       "胡渊",
       "胡淵"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 77,
@@ -4077,7 +3893,6 @@
     "searchAliases": [
       "伍延"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 72,
@@ -4100,7 +3915,6 @@
       "吴巨",
       "吳巨"
     ],
-    "biography": "東漢末年政治人物，官至蒼梧太守，與劉備為舊識。",
     "abilities": {
       "command": 41,
       "strength": 61,
@@ -4121,7 +3935,6 @@
       "吾彦",
       "吾彥"
     ],
-    "biography": "吳郡吳縣人。",
     "abilities": {
       "command": 73,
       "strength": 70,
@@ -4146,7 +3959,6 @@
       "吴纲",
       "吳綱"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 52,
       "strength": 39,
@@ -4166,7 +3978,6 @@
       "胡济",
       "胡濟"
     ],
-    "biography": "三國時代蜀漢武將，義陽郡義陽縣人，曾參加諸葛亮之北伐，為人忠厚老實，常常助言。",
     "abilities": {
       "command": 63,
       "strength": 45,
@@ -4187,7 +3998,6 @@
     "searchAliases": [
       "吾粲"
     ],
-    "biography": "吳郡烏程人。",
     "abilities": {
       "command": 63,
       "strength": 47,
@@ -4212,7 +4022,6 @@
       "胡质",
       "胡質"
     ],
-    "biography": "壽春人，東漢末及三國時曹魏官員。",
     "abilities": {
       "command": 75,
       "strength": 31,
@@ -4235,7 +4044,6 @@
       "吴质",
       "吳質"
     ],
-    "biography": "三國魏濟陰（今山東省定陶縣）人。",
     "abilities": {
       "command": 17,
       "strength": 27,
@@ -4256,7 +4064,6 @@
       "胡车儿",
       "胡車兒"
     ],
-    "biography": "東漢末期人物，張繡的部下。",
     "abilities": {
       "command": 31,
       "strength": 76,
@@ -4275,7 +4082,6 @@
     "searchAliases": [
       "胡遵"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 78,
@@ -4299,7 +4105,6 @@
       "胡轸",
       "胡軫"
     ],
-    "biography": "東漢末年董卓手下的將領，領東郡太守，與同為涼州出身的楊定同為涼州大人。",
     "abilities": {
       "command": 62,
       "strength": 77,
@@ -4320,7 +4125,6 @@
       "顾谭",
       "顧譚"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 37,
       "strength": 30,
@@ -4342,7 +4146,6 @@
       "胡冲",
       "胡沖"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 19,
       "strength": 17,
@@ -4362,7 +4165,6 @@
     "searchAliases": [
       "兀突骨"
     ],
-    "biography": "兀突骨，《三國演義》虛構人物，不見於正史記載，南蠻烏戈國之主，是身長十二尺的巨漢，不食五穀。",
     "abilities": {
       "command": 72,
       "strength": 81,
@@ -4383,7 +4185,6 @@
     "searchAliases": [
       "胡班"
     ],
-    "biography": "胡班，是《三國演義》中的虛構人物，漢桓帝時議郎胡華之子。",
     "abilities": {
       "command": 57,
       "strength": 57,
@@ -4404,7 +4205,6 @@
       "吴班",
       "吳班"
     ],
-    "biography": "陳留人，蜀漢官員。",
     "abilities": {
       "command": 73,
       "strength": 72,
@@ -4426,7 +4226,6 @@
       "胡奋",
       "胡奮"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 82,
@@ -4450,7 +4249,6 @@
       "顾雍",
       "顧雍"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 19,
       "strength": 19,
@@ -4473,7 +4271,6 @@
       "吴兰",
       "吳蘭"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 76,
@@ -4494,7 +4291,6 @@
     "searchAliases": [
       "胡烈"
     ],
-    "biography": "曹魏和西晉時期名將。",
     "abilities": {
       "command": 77,
       "strength": 66,
@@ -4518,7 +4314,6 @@
     "searchAliases": [
       "崔琰"
     ],
-    "biography": "司空崔林堂兄，原屬袁紹，後屬曹操。",
     "abilities": {
       "command": 23,
       "strength": 59,
@@ -4538,7 +4333,6 @@
     "searchAliases": [
       "蔡和"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 43,
       "strength": 50,
@@ -4559,7 +4353,6 @@
       "蔡贡",
       "蔡貢"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 71,
@@ -4580,7 +4373,6 @@
     "searchAliases": [
       "蔡中"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 45,
       "strength": 53,
@@ -4600,7 +4392,6 @@
     "searchAliases": [
       "蔡瑁"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 67,
@@ -4624,7 +4415,6 @@
     "searchAliases": [
       "左奕"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 64,
@@ -4645,7 +4435,6 @@
     "searchAliases": [
       "笮融"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 71,
@@ -4665,7 +4454,6 @@
     "searchAliases": [
       "施朔"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 39,
       "strength": 65,
@@ -4686,7 +4474,6 @@
       "师纂",
       "師纂"
     ],
-    "biography": "三國時期曹魏將領。",
     "abilities": {
       "command": 64,
       "strength": 73,
@@ -4708,7 +4495,6 @@
       "司马懿",
       "司馬懿"
     ],
-    "biography": "曹魏重臣，西晉王朝的奠基者之一。",
     "abilities": {
       "command": 97,
       "strength": 62,
@@ -4739,7 +4525,6 @@
       "司马炎",
       "司馬炎"
     ],
-    "biography": "司馬昭之子，建立西晉並滅吳。",
     "abilities": {
       "command": 72,
       "strength": 58,
@@ -4762,7 +4547,6 @@
       "司马师",
       "司馬師"
     ],
-    "biography": "司馬懿長子，曹魏後期權臣。",
     "abilities": {
       "command": 78,
       "strength": 66,
@@ -4785,7 +4569,6 @@
       "司马昭",
       "司馬昭"
     ],
-    "biography": "司馬懿次子，掌魏國朝政。",
     "abilities": {
       "command": 74,
       "strength": 55,
@@ -4809,7 +4592,6 @@
       "司马侑",
       "司馬伷"
     ],
-    "biography": "三國時期魏國至西晉的將領，司馬懿第四子，母伏夫人，是司馬師、司馬昭、司馬榦之異母兄弟。",
     "abilities": {
       "command": 63,
       "strength": 45,
@@ -4831,7 +4613,6 @@
       "司马孚",
       "司馬孚"
     ],
-    "biography": "西晉諸侯王，司馬懿三弟。",
     "abilities": {
       "command": 67,
       "strength": 49,
@@ -4853,7 +4634,6 @@
       "司马望",
       "司馬望"
     ],
-    "biography": "西晉太宰、持節、都督中外諸軍事、安平獻王司馬孚次子，西晉宗室、官員。",
     "abilities": {
       "command": 74,
       "strength": 66,
@@ -4879,7 +4659,6 @@
       "司马攸",
       "司馬攸"
     ],
-    "biography": "小字桃符，河內郡溫縣（今河南省焦作市溫縣 ）人，三國時曹魏大臣及西晉宗室。",
     "abilities": {
       "command": 67,
       "strength": 56,
@@ -4904,7 +4683,6 @@
       "司马朗",
       "司馬朗"
     ],
-    "biography": "東漢末年政治家，官至兗州刺史。",
     "abilities": {
       "command": 17,
       "strength": 28,
@@ -4924,7 +4702,6 @@
       "谢旌",
       "謝旌"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 75,
@@ -4946,7 +4723,6 @@
       "车胄",
       "車胄"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 47,
       "strength": 51,
@@ -4967,7 +4743,6 @@
     "searchAliases": [
       "沙摩柯"
     ],
-    "biography": "三國時期武陵郡五谿蠻首領，在夷陵之戰中相助蜀軍作戰，陣亡。",
     "abilities": {
       "command": 68,
       "strength": 81,
@@ -4989,7 +4764,6 @@
       "朱异",
       "朱異"
     ],
-    "biography": "吳郡吳縣人。",
     "abilities": {
       "command": 71,
       "strength": 72,
@@ -5013,7 +4787,6 @@
       "修允",
       "脩允"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 53,
       "strength": 68,
@@ -5034,7 +4807,6 @@
     "searchAliases": [
       "周昕"
     ],
-    "biography": "會稽人，東漢末年三國時期人物。",
     "abilities": {
       "command": 68,
       "strength": 69,
@@ -5056,7 +4828,6 @@
     "searchAliases": [
       "周旨"
     ],
-    "biography": "周旨，晉初伐吳時為牙門將。",
     "abilities": {
       "command": 64,
       "strength": 84,
@@ -5077,7 +4848,6 @@
     "searchAliases": [
       "周浚"
     ],
-    "biography": "汝南安城人。",
     "abilities": {
       "command": 70,
       "strength": 62,
@@ -5099,7 +4869,6 @@
       "周仓",
       "周倉"
     ],
-    "biography": "周倉，字元福，是《三國演義》中的人物，是關羽（關公）的部將，得知關羽父子遇害之後，自盡殉難。",
     "abilities": {
       "command": 66,
       "strength": 83,
@@ -5121,7 +4890,6 @@
       "修则",
       "脩則"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 40,
@@ -5142,7 +4910,6 @@
     "searchAliases": [
       "周泰"
     ],
-    "biography": "東吳猛將，多次護衛孫權。",
     "abilities": {
       "command": 81,
       "strength": 93,
@@ -5166,7 +4933,6 @@
     "searchAliases": [
       "州泰"
     ],
-    "biography": "表字不詳，荊州南陽郡人。",
     "abilities": {
       "command": 71,
       "strength": 67,
@@ -5189,7 +4955,6 @@
       "周鲂",
       "周魴"
     ],
-    "biography": "陽羨（今中國江蘇宜興）人，三國時東吳鄱陽太守，「除三害」的周處為周魴之子。",
     "abilities": {
       "command": 56,
       "strength": 20,
@@ -5211,7 +4976,6 @@
     "searchAliases": [
       "周瑜"
     ],
-    "biography": "東吳名將，赤壁之戰主帥。",
     "abilities": {
       "command": 98,
       "strength": 71,
@@ -5242,7 +5006,6 @@
     "searchAliases": [
       "朱桓"
     ],
-    "biography": "東漢末至三國時代孫吳勢力的重要武將。",
     "abilities": {
       "command": 87,
       "strength": 84,
@@ -5269,7 +5032,6 @@
       "朱据",
       "朱據"
     ],
-    "biography": "吳郡吳縣（今江蘇省蘇州市 ）人。",
     "abilities": {
       "command": 78,
       "strength": 63,
@@ -5293,7 +5055,6 @@
     "searchAliases": [
       "祝融"
     ],
-    "biography": "《三國演義》虛構女將，孟獲之妻。",
     "abilities": {
       "command": 68,
       "strength": 85,
@@ -5316,7 +5077,6 @@
     "searchAliases": [
       "朱儁"
     ],
-    "biography": "（?—195年），字公偉，會稽郡上虞縣人（今浙江省紹興市境）。",
     "abilities": {
       "command": 81,
       "strength": 40,
@@ -5338,7 +5098,6 @@
     "searchAliases": [
       "朱然"
     ],
-    "biography": "本名施然，揚州丹陽郡故鄣（今浙江安吉）人。",
     "abilities": {
       "command": 82,
       "strength": 70,
@@ -5364,7 +5123,6 @@
     "searchAliases": [
       "朱治"
     ],
-    "biography": "丹楊故鄣人，三國時代東吳重要將領，孫策在建立基業征伐江東時，照顧孫家一家。",
     "abilities": {
       "command": 70,
       "strength": 58,
@@ -5386,7 +5144,6 @@
     "searchAliases": [
       "朱褒"
     ],
-    "biography": "以牂牁郡丞領牂牁太守。",
     "abilities": {
       "command": 65,
       "strength": 71,
@@ -5407,7 +5164,6 @@
       "朱灵",
       "朱靈"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 73,
@@ -5428,7 +5184,6 @@
     "searchAliases": [
       "荀彧"
     ],
-    "biography": "曹操首席政務謀臣，協助迎奉漢帝。",
     "abilities": {
       "command": 51,
       "strength": 11,
@@ -5453,7 +5208,6 @@
       "淳于琼",
       "淳于瓊"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 68,
@@ -5474,7 +5228,6 @@
       "荀恺",
       "荀愷"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 55,
       "strength": 75,
@@ -5497,7 +5250,6 @@
     "searchAliases": [
       "荀顗"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 16,
       "strength": 11,
@@ -5518,7 +5270,6 @@
       "荀勖",
       "荀勗"
     ],
-    "biography": "勗（ㄒㄩˋ）（3世紀—289年），亦作荀勖，字公曾，潁川潁陰（今河南許昌）人。",
     "abilities": {
       "command": 15,
       "strength": 19,
@@ -5539,7 +5290,6 @@
       "荀谌",
       "荀諶"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 20,
       "strength": 24,
@@ -5558,7 +5308,6 @@
     "searchAliases": [
       "荀攸"
     ],
-    "biography": "曹操重要軍師，長於軍事謀略。",
     "abilities": {
       "command": 70,
       "strength": 21,
@@ -5581,7 +5330,6 @@
     "searchAliases": [
       "焦彝"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 61,
@@ -5603,7 +5351,6 @@
       "钟毓",
       "鍾毓"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 26,
       "strength": 13,
@@ -5625,7 +5372,6 @@
       "蒋琬",
       "蔣琬"
     ],
-    "biography": "諸葛亮後繼者之一，主持蜀漢政務。",
     "abilities": {
       "command": 73,
       "strength": 38,
@@ -5650,7 +5396,6 @@
       "钟会",
       "鍾會"
     ],
-    "biography": "曹魏將領，參與滅蜀後起兵失敗。",
     "abilities": {
       "command": 77,
       "strength": 42,
@@ -5676,7 +5421,6 @@
       "蒋干",
       "蔣幹"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 8,
       "strength": 7,
@@ -5697,7 +5441,6 @@
       "蒋义渠",
       "蔣義渠"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 64,
@@ -5718,7 +5461,6 @@
       "蒋钦",
       "蔣欽"
     ],
-    "biography": "東吳將領，早年隨孫策平定江東。",
     "abilities": {
       "command": 79,
       "strength": 85,
@@ -5743,7 +5485,6 @@
       "蒋显",
       "蔣顯"
     ],
-    "biography": "零陵湘鄉（今湖南湘鄉）人，三國蜀漢大臣，蜀漢名臣蔣琬次子，蔣斌之弟。",
     "abilities": {
       "command": 8,
       "strength": 17,
@@ -5764,7 +5505,6 @@
       "蒋济",
       "蔣濟"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 49,
@@ -5787,7 +5527,6 @@
       "谯周",
       "譙周"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 4,
       "strength": 5,
@@ -5807,7 +5546,6 @@
       "蒋舒",
       "蔣舒"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 80,
@@ -5828,7 +5566,6 @@
       "向宠",
       "向寵"
     ],
-    "biography": "襄陽宜城人，三國時蜀漢將領。",
     "abilities": {
       "command": 72,
       "strength": 56,
@@ -5851,7 +5588,6 @@
     "searchAliases": [
       "邵悌"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 20,
       "strength": 16,
@@ -5871,7 +5607,6 @@
       "蒋班",
       "蔣班"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 73,
@@ -5892,7 +5627,6 @@
       "蒋斌",
       "蔣斌"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 37,
       "strength": 24,
@@ -5913,7 +5647,6 @@
       "钟繇",
       "鍾繇"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 60,
       "strength": 15,
@@ -5935,7 +5668,6 @@
       "钟离斐",
       "鍾離斐"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 77,
@@ -5958,7 +5690,6 @@
     "searchAliases": [
       "向朗"
     ],
-    "biography": "襄陽宜城人，三國時期蜀漢大臣、藏書家。",
     "abilities": {
       "command": 28,
       "strength": 18,
@@ -5980,7 +5711,6 @@
       "徐荣",
       "徐榮"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 71,
@@ -6003,7 +5733,6 @@
       "诸葛恪",
       "諸葛恪"
     ],
-    "biography": "東吳權臣，北伐失利後被誅。",
     "abilities": {
       "command": 61,
       "strength": 37,
@@ -6026,7 +5755,6 @@
       "诸葛瑾",
       "諸葛瑾"
     ],
-    "biography": "東吳重臣，諸葛亮之兄。",
     "abilities": {
       "command": 74,
       "strength": 33,
@@ -6050,7 +5778,6 @@
       "诸葛均",
       "諸葛均"
     ],
-    "biography": "琅琊陽都人，三國時期蜀漢官員，諸葛瑾、諸葛亮之弟。",
     "abilities": {
       "command": 28,
       "strength": 27,
@@ -6071,7 +5798,6 @@
       "诸葛绪",
       "諸葛緒"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 48,
       "strength": 41,
@@ -6092,7 +5818,6 @@
       "诸葛尚",
       "諸葛尚"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 72,
@@ -6115,7 +5840,6 @@
       "诸葛靓",
       "諸葛靚"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 56,
@@ -6137,7 +5861,6 @@
       "诸葛瞻",
       "諸葛瞻"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 65,
@@ -6163,7 +5886,6 @@
       "诸葛诞",
       "諸葛誕"
     ],
-    "biography": "曹魏將領，壽春起兵反司馬氏失敗。",
     "abilities": {
       "command": 80,
       "strength": 70,
@@ -6189,7 +5911,6 @@
       "诸葛亮",
       "諸葛亮"
     ],
-    "biography": "蜀漢丞相，輔政北伐，號臥龍。",
     "abilities": {
       "command": 92,
       "strength": 33,
@@ -6221,7 +5942,6 @@
     "searchAliases": [
       "徐晃"
     ],
-    "biography": "曹魏名將，樊城之戰解圍有功。",
     "abilities": {
       "command": 84,
       "strength": 91,
@@ -6247,7 +5967,6 @@
       "徐质",
       "徐質"
     ],
-    "biography": "三國時曹魏後期將領。",
     "abilities": {
       "command": 53,
       "strength": 80,
@@ -6266,7 +5985,6 @@
     "searchAliases": [
       "徐庶"
     ],
-    "biography": "劉備早期謀士，後仕曹魏。",
     "abilities": {
       "command": 88,
       "strength": 65,
@@ -6293,7 +6011,6 @@
     "searchAliases": [
       "徐盛"
     ],
-    "biography": "三國時代東吳重要武將；是江東十二虎臣之一。",
     "abilities": {
       "command": 88,
       "strength": 89,
@@ -6321,7 +6038,6 @@
     "searchAliases": [
       "徐邈"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 47,
       "strength": 34,
@@ -6343,7 +6059,6 @@
       "沉莹",
       "沈瑩"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 80,
@@ -6365,7 +6080,6 @@
       "申仪",
       "申儀"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 60,
       "strength": 63,
@@ -6385,7 +6099,6 @@
     "searchAliases": [
       "岑昏"
     ],
-    "biography": "南陽郡棘陽縣人。",
     "abilities": {
       "command": 1,
       "strength": 2,
@@ -6404,7 +6117,6 @@
     "searchAliases": [
       "辛敞"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 53,
       "strength": 34,
@@ -6425,7 +6137,6 @@
     "searchAliases": [
       "申耽"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 59,
       "strength": 66,
@@ -6445,7 +6156,6 @@
       "审配",
       "審配"
     ],
-    "biography": "東漢末期人物。",
     "abilities": {
       "command": 82,
       "strength": 59,
@@ -6472,7 +6182,6 @@
     "searchAliases": [
       "辛毗"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 32,
       "strength": 23,
@@ -6493,7 +6202,6 @@
       "辛评",
       "辛評"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 46,
@@ -6516,7 +6224,6 @@
     "searchAliases": [
       "秦宓"
     ],
-    "biography": "（194年前—226年），字子敕，廣漢郡綿竹人。",
     "abilities": {
       "command": 15,
       "strength": 6,
@@ -6536,7 +6243,6 @@
     "searchAliases": [
       "秦朗"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 70,
@@ -6556,7 +6262,6 @@
     "searchAliases": [
       "眭固"
     ],
-    "biography": "東漢末期人物。",
     "abilities": {
       "command": 67,
       "strength": 74,
@@ -6578,7 +6283,6 @@
       "邹靖",
       "鄒靖"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -6600,7 +6304,6 @@
       "邹丹",
       "鄒丹"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 71,
@@ -6621,7 +6324,6 @@
     "searchAliases": [
       "成宜"
     ],
-    "biography": "東漢末年涼州武將。",
     "abilities": {
       "command": 74,
       "strength": 70,
@@ -6643,7 +6345,6 @@
     "searchAliases": [
       "盛曼"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -6664,7 +6365,6 @@
     "searchAliases": [
       "石苞"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 71,
@@ -6688,7 +6388,6 @@
       "薛莹",
       "薛瑩"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 51,
       "strength": 16,
@@ -6707,7 +6406,6 @@
     "searchAliases": [
       "薛珝"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 14,
       "strength": 15,
@@ -6728,7 +6426,6 @@
       "薛综",
       "薛綜"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 39,
       "strength": 11,
@@ -6749,7 +6446,6 @@
       "全祎",
       "全禕"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 71,
@@ -6771,7 +6467,6 @@
       "全怿",
       "全懌"
     ],
-    "biography": "全琮與孫魯班之子。",
     "abilities": {
       "command": 63,
       "strength": 63,
@@ -6792,7 +6487,6 @@
       "全纪",
       "全紀"
     ],
-    "biography": "三國末年吳國黃門侍郎。",
     "abilities": {
       "command": 64,
       "strength": 68,
@@ -6814,7 +6508,6 @@
       "单经",
       "單經"
     ],
-    "biography": "東漢末期人物。",
     "abilities": {
       "command": 70,
       "strength": 72,
@@ -6836,7 +6529,6 @@
     "searchAliases": [
       "全尚"
     ],
-    "biography": "揚州吳郡錢唐人。",
     "abilities": {
       "command": 3,
       "strength": 8,
@@ -6855,7 +6547,6 @@
     "searchAliases": [
       "全琮"
     ],
-    "biography": "三國時東吳的重要將領，為人謙恭而有謀，常以國家為重。",
     "abilities": {
       "command": 79,
       "strength": 70,
@@ -6880,7 +6571,6 @@
     "searchAliases": [
       "全端"
     ],
-    "biography": "全琮從子。",
     "abilities": {
       "command": 69,
       "strength": 67,
@@ -6901,7 +6591,6 @@
     "searchAliases": [
       "曹宇"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 51,
       "strength": 25,
@@ -6920,7 +6609,6 @@
     "searchAliases": [
       "曹叡"
     ],
-    "biography": "（204年—239年1月22日），字元仲，豫州沛國譙縣（今安徽省亳州市）人。",
     "abilities": {
       "command": 80,
       "strength": 50,
@@ -6945,7 +6633,6 @@
       "曹奂",
       "曹奐"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 8,
       "strength": 8,
@@ -6964,7 +6651,6 @@
     "searchAliases": [
       "曹羲"
     ],
-    "biography": "三國時期魏國之臣，魏國重臣曹真之子，大將軍曹爽之弟，曹訓、曹彥之兄，封安鄉侯。",
     "abilities": {
       "command": 18,
       "strength": 24,
@@ -6983,7 +6669,6 @@
     "searchAliases": [
       "曹休"
     ],
-    "biography": "曹魏的重要將領；曹操的族子，視如已出。",
     "abilities": {
       "command": 74,
       "strength": 73,
@@ -7006,7 +6691,6 @@
       "曹训",
       "曹訓"
     ],
-    "biography": "曹真之子，曹爽之弟。",
     "abilities": {
       "command": 11,
       "strength": 36,
@@ -7026,7 +6710,6 @@
       "宋宪",
       "宋憲"
     ],
-    "biography": "東漢末年武將，早期為呂布部將，隨呂布轉戰各地。",
     "abilities": {
       "command": 68,
       "strength": 76,
@@ -7048,7 +6731,6 @@
       "宋谦",
       "宋謙"
     ],
-    "biography": "表字及籍貫皆不詳，東漢末及三國時東吳將領。",
     "abilities": {
       "command": 66,
       "strength": 75,
@@ -7069,7 +6751,6 @@
     "searchAliases": [
       "曹昂"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 60,
@@ -7091,7 +6772,6 @@
     "searchAliases": [
       "曹洪"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 80,
       "strength": 81,
@@ -7115,7 +6795,6 @@
       "曹纯",
       "曹純"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 69,
@@ -7136,7 +6815,6 @@
     "searchAliases": [
       "曹彰"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 88,
       "strength": 91,
@@ -7159,7 +6837,6 @@
     "searchAliases": [
       "曹植"
     ],
-    "biography": "曹操之子，建安文學代表詩人。",
     "abilities": {
       "command": 22,
       "strength": 31,
@@ -7183,7 +6860,6 @@
     "searchAliases": [
       "曹真"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 83,
       "strength": 71,
@@ -7207,7 +6883,6 @@
     "searchAliases": [
       "曹仁"
     ],
-    "biography": "曹操從弟，曹魏名將。",
     "abilities": {
       "command": 86,
       "strength": 88,
@@ -7230,7 +6905,6 @@
     "searchAliases": [
       "曹性"
     ],
-    "biography": "中國東漢末年軍事人物，為呂布部下。",
     "abilities": {
       "command": 58,
       "strength": 71,
@@ -7251,7 +6925,6 @@
     "searchAliases": [
       "曹操"
     ],
-    "biography": "曹魏奠基者，漢末政治家、軍事家。",
     "abilities": {
       "command": 99,
       "strength": 72,
@@ -7278,7 +6951,6 @@
     "searchAliases": [
       "曹爽"
     ],
-    "biography": "小字默，沛國譙縣（今安徽亳州）人，曹真之子，曹操侄孫、夏侯玄的表哥。",
     "abilities": {
       "command": 35,
       "strength": 28,
@@ -7299,7 +6971,6 @@
       "曹冲",
       "曹沖"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 50,
       "strength": 25,
@@ -7322,7 +6993,6 @@
     "searchAliases": [
       "臧霸"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 72,
@@ -7343,7 +7013,6 @@
     "searchAliases": [
       "曹丕"
     ],
-    "biography": "曹操之子，篡漢建立曹魏。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -7367,7 +7036,6 @@
     "searchAliases": [
       "曹豹"
     ],
-    "biography": "東漢末期人物，原本是陶謙的故將，陶謙死後屬劉備，為下邳相。",
     "abilities": {
       "command": 61,
       "strength": 73,
@@ -7386,7 +7054,6 @@
     "searchAliases": [
       "曹芳"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 7,
       "strength": 6,
@@ -7406,7 +7073,6 @@
     "searchAliases": [
       "曹髦"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 61,
       "strength": 69,
@@ -7428,7 +7094,6 @@
     "searchAliases": [
       "曹熊"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 14,
       "strength": 6,
@@ -7450,7 +7115,6 @@
       "沮鹄",
       "沮鵠"
     ],
-    "biography": "沮授之子，袁紹的屬下。",
     "abilities": {
       "command": 66,
       "strength": 48,
@@ -7471,7 +7135,6 @@
     "searchAliases": [
       "沮授"
     ],
-    "biography": "東漢末年謀士，五帝時黃帝的史官沮誦之後，原為韓馥麾下謀士，袁紹破冀州後成為其重要謀臣。",
     "abilities": {
       "command": 79,
       "strength": 31,
@@ -7495,7 +7158,6 @@
       "苏飞",
       "蘇飛"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 69,
@@ -7516,7 +7178,6 @@
     "searchAliases": [
       "祖茂"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -7539,7 +7200,6 @@
       "苏由",
       "蘇由"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 56,
       "strength": 65,
@@ -7561,7 +7221,6 @@
       "孙异",
       "孫異"
     ],
-    "biography": "東吳皇族，中國三國武將。",
     "abilities": {
       "command": 73,
       "strength": 69,
@@ -7585,7 +7244,6 @@
       "孙和",
       "孫和"
     ],
-    "biography": "是中國三國時期吳國第一位皇帝孫權的第三子，也是吳國最後一位皇帝孫皓的父親。",
     "abilities": {
       "command": 32,
       "strength": 44,
@@ -7608,7 +7266,6 @@
       "孙桓",
       "孫桓"
     ],
-    "biography": "孫河的三子，是東漢末期及三國時期東吳宗室將領。",
     "abilities": {
       "command": 85,
       "strength": 72,
@@ -7635,7 +7292,6 @@
       "孙冀",
       "孫冀"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 62,
@@ -7657,7 +7313,6 @@
       "孙休",
       "孫休"
     ],
-    "biography": "為孫權第六子，在父親孫權、弟孫亮後繼任為吳國皇帝，在位六年。",
     "abilities": {
       "command": 64,
       "strength": 39,
@@ -7679,7 +7334,6 @@
       "孙匡",
       "孫匡"
     ],
-    "biography": "長沙太守孫堅與吳夫人第四子，長沙桓王孫策、吳大帝孫權及丹楊太守孫翊之弟。",
     "abilities": {
       "command": 42,
       "strength": 51,
@@ -7701,7 +7355,6 @@
       "孙歆",
       "孫欽"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 71,
@@ -7724,7 +7377,6 @@
       "孙坚",
       "孫堅"
     ],
-    "biography": "孫吳政權奠基者之一，號江東猛虎。",
     "abilities": {
       "command": 96,
       "strength": 91,
@@ -7753,7 +7405,6 @@
       "孙干",
       "孫乾"
     ],
-    "biography": "青州北海人。",
     "abilities": {
       "command": 33,
       "strength": 32,
@@ -7775,7 +7426,6 @@
       "孙权",
       "孫權"
     ],
-    "biography": "東吳開國皇帝，長期統治江東。",
     "abilities": {
       "command": 73,
       "strength": 67,
@@ -7800,7 +7450,6 @@
       "孙皓",
       "孫皓"
     ],
-    "biography": "東吳末代皇帝，晉滅吳後投降。",
     "abilities": {
       "command": 10,
       "strength": 31,
@@ -7822,7 +7471,6 @@
       "孙策",
       "孫策"
     ],
-    "biography": "孫堅長子，奠定孫氏江東基業。",
     "abilities": {
       "command": 95,
       "strength": 92,
@@ -7851,7 +7499,6 @@
       "孙秀",
       "孫秀"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 61,
       "strength": 52,
@@ -7873,7 +7520,6 @@
       "孙述",
       "孫述"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 22,
       "strength": 24,
@@ -7894,7 +7540,6 @@
       "孙峻",
       "孫峻"
     ],
-    "biography": "吳廢帝孫亮時東吳權臣。",
     "abilities": {
       "command": 58,
       "strength": 69,
@@ -7919,7 +7564,6 @@
       "孙韶",
       "孫韶"
     ],
-    "biography": "原姓為俞，字公禮，東漢吳郡富春人，其（表）伯父是孫河。",
     "abilities": {
       "command": 80,
       "strength": 78,
@@ -7946,7 +7590,6 @@
       "孙尚香",
       "孫尚香"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 84,
@@ -7975,7 +7618,6 @@
       "孙震",
       "孫震"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -7998,7 +7640,6 @@
       "孙静",
       "孫靜"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 42,
@@ -8021,7 +7662,6 @@
       "孙仲",
       "孫仲"
     ],
-    "biography": "黃巾將領，《演義》中曾守宛城。",
     "abilities": {
       "command": 66,
       "strength": 71,
@@ -8042,7 +7682,6 @@
       "孙綝",
       "孫綝"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 19,
       "strength": 40,
@@ -8064,7 +7703,6 @@
       "孙登",
       "孫登"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 47,
@@ -8089,7 +7727,6 @@
       "孙霸",
       "孫霸"
     ],
-    "biography": "三國時東吳皇子。",
     "abilities": {
       "command": 34,
       "strength": 64,
@@ -8112,7 +7749,6 @@
       "孙瑜",
       "孫瑜"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 72,
@@ -8137,7 +7773,6 @@
       "孙翊",
       "孫翊"
     ],
-    "biography": "一名孫儼，字叔弼，吳郡富春（今浙江杭州富陽）人。",
     "abilities": {
       "command": 67,
       "strength": 76,
@@ -8160,7 +7795,6 @@
       "孙亮",
       "孫亮"
     ],
-    "biography": "是中國三國時代吳國君主，在位六年（252年-258年）。",
     "abilities": {
       "command": 24,
       "strength": 11,
@@ -8181,7 +7815,6 @@
       "孙礼",
       "孫禮"
     ],
-    "biography": "三國時曹魏將領。",
     "abilities": {
       "command": 74,
       "strength": 82,
@@ -8205,7 +7838,6 @@
       "孙朗",
       "孫朗"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 39,
       "strength": 48,
@@ -8227,7 +7859,6 @@
       "孙潬",
       "孫𩅦（雨下單）"
     ],
-    "biography": "（？—265年），字莔，三國東吳景帝孫休的長子。",
     "abilities": {
       "command": 24,
       "strength": 23,
@@ -8249,7 +7880,6 @@
     "searchAliases": [
       "太史享"
     ],
-    "biography": "三國時代東吳武將，為東漢末年將領太史慈之子。",
     "abilities": {
       "command": 59,
       "strength": 69,
@@ -8270,7 +7900,6 @@
     "searchAliases": [
       "太史慈"
     ],
-    "biography": "東吳名將，早年曾事劉繇。",
     "abilities": {
       "command": 79,
       "strength": 92,
@@ -8298,7 +7927,6 @@
       "带来洞主",
       "帶來洞主"
     ],
-    "biography": "帶來洞主，中國古典通俗歷史小説《三國演義》登場的虛構人物。",
     "abilities": {
       "command": 51,
       "strength": 56,
@@ -8319,7 +7947,6 @@
     "searchAliases": [
       "戴陵"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -8340,7 +7967,6 @@
     "searchAliases": [
       "朵思大王"
     ],
-    "biography": "朵思大王是《三國演義》中的南蠻人，禿龍洞洞主，南蠻第一智者，是《三國演義》中的虛構人物。",
     "abilities": {
       "command": 65,
       "strength": 59,
@@ -8364,7 +7990,6 @@
       "谭雄",
       "譚雄"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 74,
@@ -8385,7 +8010,6 @@
       "张允",
       "張允"
     ],
-    "biography": "歷史上有三個人名為張允：。",
     "abilities": {
       "command": 72,
       "strength": 68,
@@ -8408,7 +8032,6 @@
       "赵云",
       "趙雲"
     ],
-    "biography": "蜀漢名將，以長坂救主聞名。",
     "abilities": {
       "command": 88,
       "strength": 96,
@@ -8436,7 +8059,6 @@
       "张卫",
       "張衛"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 65,
@@ -8458,7 +8080,6 @@
       "张英",
       "張英"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 72,
@@ -8483,7 +8104,6 @@
       "张颍",
       "張穎"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 68,
@@ -8506,7 +8126,6 @@
       "张燕",
       "張燕"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 79,
       "strength": 83,
@@ -8529,7 +8148,6 @@
       "张横",
       "張橫"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 68,
@@ -8551,7 +8169,6 @@
       "张温",
       "張溫"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 14,
       "strength": 12,
@@ -8571,7 +8188,6 @@
       "张华",
       "張華"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 34,
       "strength": 29,
@@ -8592,7 +8208,6 @@
       "张闿",
       "張闓"
     ],
-    "biography": "陶謙部將，殺害曹操之父曹嵩。",
     "abilities": {
       "command": 36,
       "strength": 63,
@@ -8612,7 +8227,6 @@
       "张角",
       "張角"
     ],
-    "biography": "黃巾之亂領袖，自號「大賢良師」。",
     "abilities": {
       "command": 92,
       "strength": 26,
@@ -8639,7 +8253,6 @@
       "张既",
       "張既"
     ],
-    "biography": "馮翊高陵人。",
     "abilities": {
       "command": 76,
       "strength": 31,
@@ -8662,7 +8275,6 @@
       "张休",
       "張休"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 58,
       "strength": 31,
@@ -8685,7 +8297,6 @@
       "张球",
       "張球"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 73,
@@ -8708,7 +8319,6 @@
       "张乔",
       "張喬"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 65,
@@ -8730,7 +8340,6 @@
       "张嶷",
       "張嶷"
     ],
-    "biography": "（約200年—254年），字伯岐，益州巴郡南充國（今四川省南充市）人，三國時期蜀漢將領。",
     "abilities": {
       "command": 76,
       "strength": 73,
@@ -8756,7 +8365,6 @@
       "张勋",
       "張勳"
     ],
-    "biography": "原名張和，字少軒，號松壽老人，中國江西南昌府奉新縣赤田村人。",
     "abilities": {
       "command": 72,
       "strength": 71,
@@ -8779,7 +8387,6 @@
       "张俨",
       "張儼"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 38,
       "strength": 27,
@@ -8801,7 +8408,6 @@
       "张虎",
       "張虎"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 74,
@@ -8824,7 +8430,6 @@
       "张纮",
       "張紘"
     ],
-    "biography": "東漢末年孫吳的外交家、戰略家、政治家、文學家、書法家。",
     "abilities": {
       "command": 31,
       "strength": 11,
@@ -8847,7 +8452,6 @@
       "张合",
       "張郃（魏）"
     ],
-    "biography": "（2世紀？—231年），字儁（ㄐㄩㄣˋ）乂（ㄧˋ），河間國鄚縣（今河北省任丘市）人。",
     "abilities": {
       "command": 89,
       "strength": 90,
@@ -8874,7 +8478,6 @@
       "赵广",
       "趙廣"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -8896,7 +8499,6 @@
       "赵弘",
       "趙弘"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 59,
       "strength": 73,
@@ -8917,7 +8519,6 @@
       "张济",
       "張濟"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -8939,7 +8540,6 @@
       "张绣",
       "張繡"
     ],
-    "biography": "東漢末年的武將和軍閥，董卓手下將領張濟的侄子。",
     "abilities": {
       "command": 82,
       "strength": 72,
@@ -8963,7 +8563,6 @@
       "张缉",
       "張緝"
     ],
-    "biography": "馮翊高陵人。",
     "abilities": {
       "command": 35,
       "strength": 32,
@@ -8985,7 +8584,6 @@
       "张遵",
       "張遵"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 70,
@@ -9007,7 +8605,6 @@
       "张昭",
       "張昭"
     ],
-    "biography": "東吳重臣，主持內政並輔佐孫權。",
     "abilities": {
       "command": 41,
       "strength": 4,
@@ -9029,7 +8626,6 @@
       "张松",
       "張松"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 12,
       "strength": 3,
@@ -9050,7 +8646,6 @@
       "张绍",
       "張紹"
     ],
-    "biography": "張紹可以是下列人物：。",
     "abilities": {
       "command": 7,
       "strength": 12,
@@ -9068,7 +8663,6 @@
       "张承",
       "張承"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 72,
@@ -9092,7 +8686,6 @@
       "张象",
       "張象"
     ],
-    "biography": "張象，東吳末年軍事人物，官至游擊將軍。",
     "abilities": {
       "command": 67,
       "strength": 65,
@@ -9113,7 +8706,6 @@
       "张尚",
       "張尚"
     ],
-    "biography": "為張紘之孫、吳國南郡太守張玄之子，在孫皓時擔任侍郎，《江表傳》稱他有俊才。",
     "abilities": {
       "command": 62,
       "strength": 76,
@@ -9134,7 +8726,6 @@
       "张任",
       "張任"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 85,
       "strength": 89,
@@ -9160,7 +8751,6 @@
       "张节",
       "張節"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 12,
       "strength": 11,
@@ -9180,7 +8770,6 @@
       "张悌",
       "張悌"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 78,
       "strength": 45,
@@ -9206,7 +8795,6 @@
       "赵统",
       "趙統"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 68,
@@ -9228,7 +8816,6 @@
       "张特",
       "張特"
     ],
-    "biography": "三國時期魏將。",
     "abilities": {
       "command": 70,
       "strength": 58,
@@ -9251,7 +8838,6 @@
       "张南",
       "張南"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -9273,7 +8859,6 @@
       "张邈",
       "張邈"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 46,
       "strength": 50,
@@ -9295,7 +8880,6 @@
       "赵范",
       "趙範"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 18,
       "strength": 20,
@@ -9315,7 +8899,6 @@
       "张飞",
       "張飛"
     ],
-    "biography": "劉備麾下名將，與關羽並稱萬人敵。",
     "abilities": {
       "command": 83,
       "strength": 98,
@@ -9340,7 +8923,6 @@
       "张布",
       "張布"
     ],
-    "biography": "三國末年東吳大臣，歷任破賊將軍、征西將軍，官至衛將軍，歷仕吳景帝孫休、吳末帝孫皓。",
     "abilities": {
       "command": 34,
       "strength": 22,
@@ -9362,7 +8944,6 @@
       "张苞",
       "張苞"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 87,
@@ -9387,7 +8968,6 @@
       "张宝",
       "張寶"
     ],
-    "biography": "張角之弟，黃巾軍地公將軍。",
     "abilities": {
       "command": 83,
       "strength": 70,
@@ -9412,7 +8992,6 @@
       "张杨",
       "張揚"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 72,
@@ -9434,7 +9013,6 @@
       "张翼",
       "張翼"
     ],
-    "biography": "張翼可指：。",
     "abilities": {
       "command": 76,
       "strength": 74,
@@ -9458,7 +9036,6 @@
       "张辽",
       "張遼"
     ],
-    "biography": "曹魏名將，以合肥之戰威震江東。",
     "abilities": {
       "command": 94,
       "strength": 90,
@@ -9488,7 +9065,6 @@
       "张梁",
       "張梁"
     ],
-    "biography": "張角之弟，黃巾軍人公將軍。",
     "abilities": {
       "command": 81,
       "strength": 82,
@@ -9513,7 +9089,6 @@
       "赵累",
       "趙累"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 35,
       "strength": 35,
@@ -9534,7 +9109,6 @@
       "张鲁",
       "張魯"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 41,
       "strength": 33,
@@ -9555,7 +9129,6 @@
       "陈横",
       "陳橫"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 69,
       "strength": 66,
@@ -9577,7 +9150,6 @@
       "陈应",
       "陳應"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -9598,7 +9170,6 @@
       "陈纪",
       "陳紀"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 68,
@@ -9620,7 +9191,6 @@
       "陈宫",
       "陳宮"
     ],
-    "biography": "呂布謀士，早年曾助曹操。",
     "abilities": {
       "command": 72,
       "strength": 52,
@@ -9644,7 +9214,6 @@
       "陈矫",
       "陳矯"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 53,
       "strength": 32,
@@ -9667,7 +9236,6 @@
       "陈群",
       "陳羣"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 21,
       "strength": 7,
@@ -9687,7 +9255,6 @@
       "陈珪",
       "陳珪"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 21,
       "strength": 5,
@@ -9710,7 +9277,6 @@
       "陈骞",
       "陳騫"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -9734,7 +9300,6 @@
       "陈元",
       "陳元"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 50,
       "strength": 57,
@@ -9756,7 +9321,6 @@
       "陈寿",
       "陳壽"
     ],
-    "biography": "西晉史家，《三國志》作者。",
     "abilities": {
       "command": 15,
       "strength": 22,
@@ -9776,7 +9340,6 @@
       "陈俊",
       "陳俊"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 65,
@@ -9798,7 +9361,6 @@
       "陈式",
       "陳式"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -9820,7 +9382,6 @@
       "陈震",
       "陳震"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 46,
       "strength": 48,
@@ -9841,7 +9402,6 @@
       "陈泰",
       "陳泰"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 87,
       "strength": 78,
@@ -9869,7 +9429,6 @@
       "陈登",
       "陳登"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 79,
       "strength": 65,
@@ -9895,7 +9454,6 @@
       "陈到",
       "陳到"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 72,
@@ -9919,7 +9477,6 @@
       "陈表",
       "陳表"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 44,
@@ -9944,7 +9501,6 @@
       "陈武",
       "陳武"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 82,
@@ -9969,7 +9525,6 @@
       "陈兰",
       "陳蘭"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -9991,7 +9546,6 @@
       "陈琳",
       "陳琳"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 9,
       "strength": 9,
@@ -10011,7 +9565,6 @@
     "searchAliases": [
       "程昱"
     ],
-    "biography": "曹操謀臣，兼具軍事與政務才能。",
     "abilities": {
       "command": 70,
       "strength": 55,
@@ -10034,7 +9587,6 @@
       "程远志",
       "程遠志"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 76,
@@ -10056,7 +9608,6 @@
       "丁仪",
       "丁儀"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 13,
       "strength": 4,
@@ -10077,7 +9628,6 @@
       "程银",
       "程銀"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 71,
@@ -10098,7 +9648,6 @@
     "searchAliases": [
       "丁原"
     ],
-    "biography": "東漢末年的地方豪傑之一，被董卓設計由其部將呂布刺殺。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -10120,7 +9669,6 @@
       "郑冲",
       "鄭沖"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 21,
       "strength": 13,
@@ -10141,7 +9689,6 @@
       "丁谧",
       "丁謐"
     ],
-    "biography": "沛國人。",
     "abilities": {
       "command": 20,
       "strength": 32,
@@ -10161,7 +9708,6 @@
     "searchAliases": [
       "程普"
     ],
-    "biography": "孫氏三代宿將，資歷深厚。",
     "abilities": {
       "command": 83,
       "strength": 84,
@@ -10187,7 +9733,6 @@
     "searchAliases": [
       "程武"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 37,
@@ -10208,7 +9753,6 @@
     "searchAliases": [
       "程秉"
     ],
-    "biography": "汝南南頓人。",
     "abilities": {
       "command": 14,
       "strength": 14,
@@ -10228,7 +9772,6 @@
     "searchAliases": [
       "丁奉"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 80,
       "strength": 83,
@@ -10253,7 +9796,6 @@
     "searchAliases": [
       "丁封"
     ],
-    "biography": "東漢三國時人。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -10275,7 +9817,6 @@
       "典韦",
       "典韋"
     ],
-    "biography": "曹操護衛猛將，宛城力戰身亡。",
     "abilities": {
       "command": 68,
       "strength": 93,
@@ -10296,7 +9837,6 @@
     "searchAliases": [
       "田楷"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 65,
@@ -10317,7 +9857,6 @@
     "searchAliases": [
       "田章"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 64,
@@ -10339,7 +9878,6 @@
       "田续",
       "田續"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 49,
       "strength": 61,
@@ -10360,7 +9898,6 @@
       "田畴",
       "田疇"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 66,
@@ -10382,7 +9919,6 @@
       "田丰",
       "田豐"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 58,
       "strength": 39,
@@ -10406,7 +9942,6 @@
       "典满",
       "典滿"
     ],
-    "biography": "表字不詳，陳留己吾人。",
     "abilities": {
       "command": 55,
       "strength": 72,
@@ -10426,7 +9961,6 @@
     "searchAliases": [
       "田豫"
     ],
-    "biography": "三國時期曹魏名將。",
     "abilities": {
       "command": 76,
       "strength": 71,
@@ -10449,7 +9983,6 @@
     "searchAliases": [
       "滕胤"
     ],
-    "biography": "北海郡劇縣人。",
     "abilities": {
       "command": 34,
       "strength": 40,
@@ -10470,7 +10003,6 @@
     "searchAliases": [
       "董允"
     ],
-    "biography": "蜀漢重臣，以匡正後主著稱。",
     "abilities": {
       "command": 32,
       "strength": 29,
@@ -10493,7 +10025,6 @@
       "邓艾",
       "鄧艾"
     ],
-    "biography": "曹魏名將，偷渡陰平攻滅蜀漢。",
     "abilities": {
       "command": 91,
       "strength": 88,
@@ -10523,7 +10054,6 @@
       "党均",
       "黨均"
     ],
-    "biography": "黨均，是《三國演義》中的虛構人物，曹魏荊州襄陽郡人。",
     "abilities": {
       "command": 38,
       "strength": 23,
@@ -10543,7 +10073,6 @@
     "searchAliases": [
       "董厥"
     ],
-    "biography": "荊州義陽人。",
     "abilities": {
       "command": 72,
       "strength": 66,
@@ -10568,7 +10097,6 @@
       "陶谦",
       "陶謙"
     ],
-    "biography": "漢末徐州牧，晚年讓徐州於劉備。",
     "abilities": {
       "command": 47,
       "strength": 37,
@@ -10589,7 +10117,6 @@
       "邓贤",
       "鄧賢"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -10609,7 +10136,6 @@
     "searchAliases": [
       "陶璜"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 67,
@@ -10634,7 +10160,6 @@
       "邓芝",
       "鄧芝"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 46,
@@ -10657,7 +10182,6 @@
     "searchAliases": [
       "唐咨"
     ],
-    "biography": "徐州利城人氏。",
     "abilities": {
       "command": 70,
       "strength": 67,
@@ -10681,7 +10205,6 @@
       "董袭",
       "董襲"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 81,
@@ -10706,7 +10229,6 @@
       "滕修",
       "滕脩"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 36,
       "strength": 24,
@@ -10726,7 +10248,6 @@
       "陶浚",
       "陶濬"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 64,
@@ -10748,7 +10269,6 @@
     "searchAliases": [
       "董承"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 50,
       "strength": 55,
@@ -10769,7 +10289,6 @@
     "searchAliases": [
       "董昭"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 29,
       "strength": 21,
@@ -10790,7 +10309,6 @@
     "searchAliases": [
       "董卓"
     ],
-    "biography": "東漢權臣，入洛陽掌政，後為呂布所殺。",
     "abilities": {
       "command": 69,
       "strength": 83,
@@ -10814,7 +10332,6 @@
       "邓忠",
       "鄧忠"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 86,
@@ -10837,7 +10354,6 @@
     "searchAliases": [
       "董朝"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 12,
       "strength": 13,
@@ -10857,7 +10373,6 @@
     "searchAliases": [
       "董荼那"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -10877,7 +10392,6 @@
     "searchAliases": [
       "唐彬"
     ],
-    "biography": "曹魏魯國鄒縣人（今山東鄒城市），曹魏、西晉官員、武將。",
     "abilities": {
       "command": 71,
       "strength": 70,
@@ -10899,7 +10413,6 @@
     "searchAliases": [
       "董旻"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 52,
       "strength": 60,
@@ -10919,7 +10432,6 @@
       "邓茂",
       "鄧茂"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 75,
@@ -10941,7 +10453,6 @@
       "邓良",
       "鄧良"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 6,
       "strength": 12,
@@ -10960,7 +10471,6 @@
     "searchAliases": [
       "董和"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 41,
@@ -10983,7 +10493,6 @@
       "杜预",
       "杜預"
     ],
-    "biography": "西晉名將，參與滅吳，著有《春秋左傳集解》。",
     "abilities": {
       "command": 85,
       "strength": 66,
@@ -11011,7 +10520,6 @@
       "甯随",
       "寗隨"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 68,
       "strength": 71,
@@ -11033,7 +10541,6 @@
       "裴元绍",
       "裴元紹"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 56,
       "strength": 67,
@@ -11053,7 +10560,6 @@
     "searchAliases": [
       "裴秀"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 9,
       "strength": 9,
@@ -11077,7 +10583,6 @@
       "马玩",
       "馬玩"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 63,
       "strength": 73,
@@ -11098,7 +10603,6 @@
       "马休",
       "馬休"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -11121,7 +10625,6 @@
       "马钧",
       "馬鈞"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 6,
       "strength": 8,
@@ -11144,7 +10647,6 @@
       "马遵",
       "馬遵"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 40,
       "strength": 50,
@@ -11165,7 +10667,6 @@
       "马谡",
       "馬謖"
     ],
-    "biography": "蜀漢參軍，街亭失守後被處斬。",
     "abilities": {
       "command": 64,
       "strength": 65,
@@ -11189,7 +10690,6 @@
       "马岱",
       "馬岱"
     ],
-    "biography": "蜀漢將領，馬超族弟。",
     "abilities": {
       "command": 76,
       "strength": 84,
@@ -11214,7 +10714,6 @@
       "马忠",
       "馬忠（吳）"
     ],
-    "biography": "東吳將領，擒獲關羽部眾。",
     "abilities": {
       "command": 68,
       "strength": 74,
@@ -11237,7 +10736,6 @@
       "马忠",
       "馬忠（蜀）"
     ],
-    "biography": "蜀漢將領，長期治理南中。",
     "abilities": {
       "command": 77,
       "strength": 72,
@@ -11263,7 +10761,6 @@
       "马超",
       "馬超"
     ],
-    "biography": "蜀漢名將，早年割據西涼。",
     "abilities": {
       "command": 91,
       "strength": 97,
@@ -11288,7 +10785,6 @@
       "马铁",
       "馬鐵"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 64,
@@ -11311,7 +10807,6 @@
       "马腾",
       "馬騰"
     ],
-    "biography": "漢末涼州軍閥，馬超之父。",
     "abilities": {
       "command": 81,
       "strength": 80,
@@ -11337,7 +10832,6 @@
       "马邈",
       "馬邈"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 4,
       "strength": 8,
@@ -11355,7 +10849,6 @@
       "马隆",
       "馬隆"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 75,
@@ -11378,7 +10871,6 @@
       "马良",
       "馬良"
     ],
-    "biography": "蜀漢官員，夷陵之戰期間遇害。",
     "abilities": {
       "command": 39,
       "strength": 32,
@@ -11402,7 +10894,6 @@
       "万彧",
       "萬彧"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 17,
       "strength": 23,
@@ -11423,7 +10914,6 @@
     "searchAliases": [
       "樊建"
     ],
-    "biography": "義陽人。",
     "abilities": {
       "command": 49,
       "strength": 25,
@@ -11444,7 +10934,6 @@
       "潘浚",
       "潘濬"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 63,
       "strength": 16,
@@ -11464,7 +10953,6 @@
     "searchAliases": [
       "潘璋"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 78,
       "strength": 80,
@@ -11490,7 +10978,6 @@
     "searchAliases": [
       "樊稠"
     ],
-    "biography": "董卓舊部將領。",
     "abilities": {
       "command": 68,
       "strength": 73,
@@ -11512,7 +10999,6 @@
       "潘凤",
       "潘鳳"
     ],
-    "biography": "潘鳳是歷史小說《三國演義》中的虛構人物，在第五回中登場。",
     "abilities": {
       "command": 59,
       "strength": 77,
@@ -11533,7 +11019,6 @@
       "费祎",
       "費禕"
     ],
-    "biography": "蜀漢後期重臣，任大將軍。",
     "abilities": {
       "command": 74,
       "strength": 22,
@@ -11556,7 +11041,6 @@
     "searchAliases": [
       "卑衍"
     ],
-    "biography": "卑衍，三國時期魏國人，公孫淵部下，將軍。",
     "abilities": {
       "command": 66,
       "strength": 70,
@@ -11576,7 +11060,6 @@
     "searchAliases": [
       "糜竺"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 32,
       "strength": 39,
@@ -11598,7 +11081,6 @@
       "毕轨",
       "畢軌"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 60,
       "strength": 36,
@@ -11620,7 +11102,6 @@
     "searchAliases": [
       "糜芳"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 55,
       "strength": 56,
@@ -11641,7 +11122,6 @@
       "费耀",
       "費耀"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 64,
@@ -11665,7 +11145,6 @@
       "武安国",
       "武安國"
     ],
-    "biography": "武安國，為歷史小說《三國演義》中的虛構人物。",
     "abilities": {
       "command": 51,
       "strength": 75,
@@ -11685,7 +11164,6 @@
       "冯习",
       "馮習"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 73,
@@ -11707,7 +11185,6 @@
       "冯紞",
       "馮紞"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 2,
       "strength": 8,
@@ -11727,7 +11204,6 @@
     "searchAliases": [
       "傅嘏"
     ],
-    "biography": "一說字昭先，北地郡泥陽縣人。",
     "abilities": {
       "command": 46,
       "strength": 36,
@@ -11749,7 +11225,6 @@
     "searchAliases": [
       "傅士仁"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 41,
       "strength": 63,
@@ -11770,7 +11245,6 @@
       "傅佥",
       "傅僉"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 83,
@@ -11794,7 +11268,6 @@
     "searchAliases": [
       "傅巽"
     ],
-    "biography": "雍州北地泥陽（今陝西耀縣東南）人。",
     "abilities": {
       "command": 16,
       "strength": 13,
@@ -11814,7 +11287,6 @@
     "searchAliases": [
       "傅彤"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -11837,7 +11309,6 @@
       "文鸯",
       "文鴦"
     ],
-    "biography": "本名文俶，鴦是小名，沛國譙縣人，魏末晉初名將，歷仕魏、吳、晉勢力。",
     "abilities": {
       "command": 75,
       "strength": 90,
@@ -11862,7 +11333,6 @@
       "文钦",
       "文欽"
     ],
-    "biography": "曹魏前將軍、揚州刺史、山桑侯，東吳譙侯。",
     "abilities": {
       "command": 76,
       "strength": 82,
@@ -11885,7 +11355,6 @@
     "searchAliases": [
       "文虎"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 73,
@@ -11908,7 +11377,6 @@
       "文丑",
       "文醜"
     ],
-    "biography": "袁紹名將，延津之戰敗亡。",
     "abilities": {
       "command": 82,
       "strength": 95,
@@ -11930,7 +11398,6 @@
     "searchAliases": [
       "文聘"
     ],
-    "biography": "三國時期曹魏的重要將領。",
     "abilities": {
       "command": 78,
       "strength": 84,
@@ -11954,7 +11421,6 @@
     "searchAliases": [
       "卞喜"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 57,
       "strength": 68,
@@ -11976,7 +11442,6 @@
       "方悦",
       "方悅"
     ],
-    "biography": "方悅是《三國演義》中的虛構人物，正史《三國志》中不見記載。",
     "abilities": {
       "command": 68,
       "strength": 74,
@@ -11998,7 +11463,6 @@
       "庞会",
       "龐會"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 73,
@@ -12020,7 +11484,6 @@
       "忙牙长",
       "忙牙長"
     ],
-    "biography": "忙牙長，中國古典通俗歷史小説《三國演義》登場的虛構武將。",
     "abilities": {
       "command": 62,
       "strength": 78,
@@ -12041,7 +11504,6 @@
       "逢纪",
       "逢紀"
     ],
-    "biography": "漢末北方勢力人物，史料記載較少。",
     "abilities": {
       "command": 16,
       "strength": 19,
@@ -12063,7 +11525,6 @@
       "庞羲",
       "龐義"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 42,
@@ -12084,7 +11545,6 @@
       "鲍信",
       "鮑信"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 64,
@@ -12106,7 +11566,6 @@
     "searchAliases": [
       "法正"
     ],
-    "biography": "劉備重要謀臣，策劃漢中之戰。",
     "abilities": {
       "command": 81,
       "strength": 48,
@@ -12134,7 +11593,6 @@
       "庞统",
       "龐統"
     ],
-    "biography": "劉備軍師，號「鳳雛」，入蜀時戰死。",
     "abilities": {
       "command": 80,
       "strength": 15,
@@ -12161,7 +11619,6 @@
       "庞德",
       "龐德"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 75,
       "strength": 94,
@@ -12186,7 +11643,6 @@
       "鲍隆",
       "鮑隆"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 63,
       "strength": 74,
@@ -12207,7 +11663,6 @@
       "步协",
       "步協"
     ],
-    "biography": "臨淮淮陰人。",
     "abilities": {
       "command": 73,
       "strength": 48,
@@ -12230,7 +11685,6 @@
       "穆顺",
       "穆順"
     ],
-    "biography": "穆順，為《三國演義》的虛構人物，有兩位同名同姓的人物登場。",
     "abilities": {
       "command": 55,
       "strength": 76,
@@ -12251,7 +11705,6 @@
       "濮阳兴",
       "濮陽興"
     ],
-    "biography": "三國時期孫吳丞相。",
     "abilities": {
       "command": 34,
       "strength": 32,
@@ -12272,7 +11725,6 @@
     "searchAliases": [
       "木鹿大王"
     ],
-    "biography": "木鹿大王，中國古典歷史小說《三國演義》之角色，南蠻人，孟獲部下，南蠻八納洞洞主，深通法術。",
     "abilities": {
       "command": 54,
       "strength": 72,
@@ -12294,7 +11746,6 @@
       "步骘",
       "步隲"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 56,
@@ -12320,7 +11771,6 @@
       "步阐",
       "步闡"
     ],
-    "biography": "臨淮淮陰人。",
     "abilities": {
       "command": 69,
       "strength": 64,
@@ -12343,7 +11793,6 @@
       "满宠",
       "滿寵"
     ],
-    "biography": "山陽昌邑人，東漢末年至三國時期曹魏名將，身高八尺，素來以廉潔著稱。",
     "abilities": {
       "command": 79,
       "strength": 53,
@@ -12369,7 +11818,6 @@
     "searchAliases": [
       "毛玠"
     ],
-    "biography": "陳留平丘人。",
     "abilities": {
       "command": 60,
       "strength": 41,
@@ -12392,7 +11840,6 @@
       "孟获",
       "孟獲"
     ],
-    "biography": "南中首領，後歸附蜀漢。",
     "abilities": {
       "command": 75,
       "strength": 82,
@@ -12416,7 +11863,6 @@
       "毛炅",
       "孟炅"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 72,
@@ -12439,7 +11885,6 @@
     "searchAliases": [
       "孟宗"
     ],
-    "biography": "後因避吳末帝孫皓字改名孟仁，三國時期孫吳後期重臣，歷任顯位，官至司空。",
     "abilities": {
       "command": 52,
       "strength": 47,
@@ -12461,7 +11906,6 @@
       "孟达",
       "孟達"
     ],
-    "biography": "為避劉備叔父諱而改為子度，東漢司隸右扶風平陵人，漢末三國時期人物。",
     "abilities": {
       "command": 72,
       "strength": 74,
@@ -12485,7 +11929,6 @@
       "孟优",
       "孟優"
     ],
-    "biography": "孟優，南蠻王孟獲之弟，其名僅見於《三國演義》，他在孟獲二度被擒後粉墨登場，在孟獲的用計之下。",
     "abilities": {
       "command": 63,
       "strength": 62,
@@ -12505,7 +11948,6 @@
     "searchAliases": [
       "俞涉"
     ],
-    "biography": "俞涉為歷史小說《三國演義》中的虛構人物。",
     "abilities": {
       "command": 68,
       "strength": 79,
@@ -12527,7 +11969,6 @@
       "杨怀",
       "楊懷"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -12551,7 +11992,6 @@
       "雍闿",
       "雍闓"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 71,
@@ -12576,7 +12016,6 @@
       "杨仪",
       "楊儀"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 49,
@@ -12599,7 +12038,6 @@
       "杨欣",
       "楊欣"
     ],
-    "biography": "楊欣，可以是：。",
     "abilities": {
       "command": 65,
       "strength": 69,
@@ -12620,7 +12058,6 @@
     "searchAliases": [
       "羊祜"
     ],
-    "biography": "西晉名將，鎮守襄陽籌劃伐吳。",
     "abilities": {
       "command": 87,
       "strength": 69,
@@ -12650,7 +12087,6 @@
       "杨弘",
       "楊弘"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 15,
       "strength": 14,
@@ -12671,7 +12107,6 @@
       "杨昂",
       "楊昂"
     ],
-    "biography": "東漢末年武將。",
     "abilities": {
       "command": 66,
       "strength": 70,
@@ -12693,7 +12128,6 @@
       "杨济",
       "楊濟"
     ],
-    "biography": "弘農華陰人。",
     "abilities": {
       "command": 71,
       "strength": 66,
@@ -12717,7 +12151,6 @@
       "杨丑",
       "楊醜"
     ],
-    "biography": "東漢末期人物，張楊部下。",
     "abilities": {
       "command": 56,
       "strength": 64,
@@ -12738,7 +12171,6 @@
       "杨修",
       "楊修"
     ],
-    "biography": "亦作楊脩，字德祖，弘農華陰（今陝西華陰東）人，袁術之外甥，太尉楊彪之子，出身高門士族。",
     "abilities": {
       "command": 14,
       "strength": 7,
@@ -12760,7 +12192,6 @@
       "杨秋",
       "楊秋"
     ],
-    "biography": "楊秋是三國時期的曹魏將領。",
     "abilities": {
       "command": 64,
       "strength": 67,
@@ -12783,7 +12214,6 @@
       "杨松",
       "楊松"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 2,
       "strength": 1,
@@ -12801,7 +12231,6 @@
       "杨稷",
       "楊謖"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 53,
@@ -12824,7 +12253,6 @@
       "杨任",
       "楊任"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 77,
@@ -12846,7 +12274,6 @@
       "杨祚",
       "楊祚"
     ],
-    "biography": "楊祚，三國時期魏國人，公孫淵部下，將軍。",
     "abilities": {
       "command": 56,
       "strength": 63,
@@ -12867,7 +12294,6 @@
       "杨肇",
       "楊肇"
     ],
-    "biography": "滎陽人，曹魏肅侯楊暨之子、西晉荊州刺史、折衝將軍，封東武伯、諡戴。",
     "abilities": {
       "command": 73,
       "strength": 69,
@@ -12893,7 +12319,6 @@
       "杨柏",
       "楊柏"
     ],
-    "biography": "漢末相關人物，史料記載較少。",
     "abilities": {
       "command": 38,
       "strength": 46,
@@ -12913,7 +12338,6 @@
       "杨阜",
       "楊阜"
     ],
-    "biography": "天水冀人，東漢末年三國時期曹魏的官員，姜敘的表弟，早年以對抗馬超而出名，後期則多次進諫曹叡。",
     "abilities": {
       "command": 65,
       "strength": 46,
@@ -12936,7 +12360,6 @@
       "杨奉",
       "楊奉"
     ],
-    "biography": "東漢末年人物，原為河東地區的白波賊首領，後成為李傕部將，曾護送漢獻帝從長安東歸洛陽。",
     "abilities": {
       "command": 59,
       "strength": 68,
@@ -12957,7 +12380,6 @@
       "雷铜",
       "雷銅"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 70,
       "strength": 75,
@@ -12979,7 +12401,6 @@
     "searchAliases": [
       "雷薄"
     ],
-    "biography": "東漢末年人物，袁術部下。",
     "abilities": {
       "command": 66,
       "strength": 73,
@@ -13001,7 +12422,6 @@
       "骆统",
       "駱統"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 64,
@@ -13027,7 +12447,6 @@
       "罗宪",
       "羅憲"
     ],
-    "biography": "襄陽人。",
     "abilities": {
       "command": 80,
       "strength": 70,
@@ -13053,7 +12472,6 @@
       "李异",
       "李異"
     ],
-    "biography": "三國時期劉璋部下，後轉為吳國武將。",
     "abilities": {
       "command": 66,
       "strength": 76,
@@ -13074,7 +12492,6 @@
     "searchAliases": [
       "李恢"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 77,
       "strength": 65,
@@ -13100,7 +12517,6 @@
     "searchAliases": [
       "李傕"
     ],
-    "biography": "董卓部將，董卓死後攻入長安掌政。",
     "abilities": {
       "command": 66,
       "strength": 72,
@@ -13120,7 +12536,6 @@
     "searchAliases": [
       "李球"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 66,
       "strength": 71,
@@ -13142,7 +12557,6 @@
     "searchAliases": [
       "李歆"
     ],
-    "biography": "小字桐椎，隴西狄道（今甘肅臨洮縣）人，十六國西涼公，為李暠世子。",
     "abilities": {
       "command": 65,
       "strength": 68,
@@ -13164,7 +12578,6 @@
       "陆凯",
       "陸凱"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 65,
       "strength": 57,
@@ -13190,7 +12603,6 @@
       "陆景",
       "陸景"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 65,
@@ -13215,7 +12627,6 @@
       "陆抗",
       "陸抗"
     ],
-    "biography": "東吳後期名將，陸遜之子。",
     "abilities": {
       "command": 90,
       "strength": 55,
@@ -13246,7 +12657,6 @@
       "陆绩",
       "陸績"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 17,
       "strength": 6,
@@ -13267,7 +12677,6 @@
       "陆逊",
       "陸遜"
     ],
-    "biography": "東吳名將，夷陵之戰大破劉備。",
     "abilities": {
       "command": 98,
       "strength": 66,
@@ -13299,7 +12708,6 @@
       "李严",
       "李嚴"
     ],
-    "biography": "蜀漢重臣，受託輔政後被廢。",
     "abilities": {
       "command": 81,
       "strength": 83,
@@ -13323,7 +12731,6 @@
     "searchAliases": [
       "李儒"
     ],
-    "biography": "董卓謀士，《演義》中多參與其密策。",
     "abilities": {
       "command": 61,
       "strength": 29,
@@ -13348,7 +12755,6 @@
       "李肃",
       "李肅"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 47,
       "strength": 68,
@@ -13369,7 +12775,6 @@
       "李胜",
       "李勝"
     ],
-    "biography": "荊州南陽人。",
     "abilities": {
       "command": 13,
       "strength": 23,
@@ -13388,7 +12793,6 @@
     "searchAliases": [
       "李堪"
     ],
-    "biography": "益州或南中相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 70,
@@ -13409,7 +12813,6 @@
     "searchAliases": [
       "李通"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 72,
       "strength": 81,
@@ -13431,7 +12834,6 @@
     "searchAliases": [
       "李典"
     ],
-    "biography": "原山陽郡地方豪強，後投曹操，李典深明大義，不與人爭功，溫文儒雅，尊重博學之士，有長者之風。",
     "abilities": {
       "command": 77,
       "strength": 78,
@@ -13458,7 +12860,6 @@
       "李辅",
       "李輔"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 61,
       "strength": 67,
@@ -13479,7 +12880,6 @@
       "李丰",
       "李豐（蜀）"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 64,
       "strength": 46,
@@ -13500,7 +12900,6 @@
       "李丰",
       "李豐（魏）"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 24,
       "strength": 34,
@@ -13521,7 +12920,6 @@
       "刘焉",
       "劉焉"
     ],
-    "biography": "東漢益州牧，割據益州。",
     "abilities": {
       "command": 51,
       "strength": 36,
@@ -13543,7 +12941,6 @@
       "刘璝",
       "劉璝"
     ],
-    "biography": "東漢末期武將，劉璋屬下。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -13566,7 +12963,6 @@
       "刘琦",
       "劉琦"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 46,
       "strength": 10,
@@ -13588,7 +12984,6 @@
       "刘虞",
       "劉虞"
     ],
-    "biography": "東海郯（今山東省郯城縣）人，漢光武帝劉秀之子東海恭王劉彊的五世孫。",
     "abilities": {
       "command": 56,
       "strength": 44,
@@ -13612,7 +13007,6 @@
       "刘勋",
       "劉勳"
     ],
-    "biography": "漢末群雄相關人物，史料記載較少。",
     "abilities": {
       "command": 48,
       "strength": 63,
@@ -13635,7 +13029,6 @@
       "刘贤",
       "劉賢"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 53,
       "strength": 60,
@@ -13656,7 +13049,6 @@
       "留赞",
       "留贊"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 74,
@@ -13679,7 +13071,6 @@
       "刘俊",
       "劉俊"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 58,
@@ -13701,7 +13092,6 @@
       "刘循",
       "劉循"
     ],
-    "biography": "東漢末年、三國蜀漢人物，劉璋之子，劉闡之兄。",
     "abilities": {
       "command": 46,
       "strength": 51,
@@ -13722,7 +13112,6 @@
       "刘璋",
       "劉璋"
     ],
-    "biography": "劉焉之子，後將益州讓於劉備。",
     "abilities": {
       "command": 3,
       "strength": 3,
@@ -13740,7 +13129,6 @@
       "刘劭",
       "劉劭"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 71,
       "strength": 62,
@@ -13764,7 +13152,6 @@
       "刘丞",
       "劉丞"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 59,
       "strength": 64,
@@ -13786,7 +13173,6 @@
       "刘寔",
       "劉寔"
     ],
-    "biography": "平原郡高唐縣（今山東省禹城市西南）人。",
     "abilities": {
       "command": 42,
       "strength": 23,
@@ -13807,7 +13193,6 @@
       "刘谌",
       "劉諶"
     ],
-    "biography": "漢昭烈帝劉備之孫，後主劉禪五子，蜀漢宗室。",
     "abilities": {
       "command": 62,
       "strength": 65,
@@ -13831,7 +13216,6 @@
       "刘璿",
       "劉璿"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 19,
       "strength": 52,
@@ -13852,7 +13236,6 @@
       "刘禅",
       "劉禪"
     ],
-    "biography": "蜀漢後主，劉備之子。",
     "abilities": {
       "command": 3,
       "strength": 2,
@@ -13870,7 +13253,6 @@
       "刘琮",
       "劉琮"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 22,
       "strength": 22,
@@ -13893,7 +13275,6 @@
       "刘岱",
       "劉岱"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 56,
       "strength": 64,
@@ -13914,7 +13295,6 @@
       "刘度",
       "劉度"
     ],
-    "biography": "中國東漢末年零陵太守。",
     "abilities": {
       "command": 11,
       "strength": 25,
@@ -13935,7 +13315,6 @@
       "刘巴",
       "劉巴"
     ],
-    "biography": "荊州零陵烝陽（今湖南邵東）人。",
     "abilities": {
       "command": 19,
       "strength": 20,
@@ -13957,7 +13336,6 @@
       "刘备",
       "劉備"
     ],
-    "biography": "蜀漢開國皇帝，諡昭烈帝。",
     "abilities": {
       "command": 75,
       "strength": 74,
@@ -13982,7 +13360,6 @@
       "刘表",
       "劉表"
     ],
-    "biography": "漢末荊州牧，據荊州自守。",
     "abilities": {
       "command": 46,
       "strength": 28,
@@ -14003,7 +13380,6 @@
     "searchAliases": [
       "留平"
     ],
-    "biography": "揚州會稽長山人。",
     "abilities": {
       "command": 70,
       "strength": 69,
@@ -14028,7 +13404,6 @@
       "刘辟",
       "劉辟"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 73,
       "strength": 70,
@@ -14050,7 +13425,6 @@
       "刘封",
       "劉封"
     ],
-    "biography": "出身名門世家，蜀漢開國之君劉備的過繼子，官至副軍將軍。",
     "abilities": {
       "command": 76,
       "strength": 77,
@@ -14074,7 +13448,6 @@
       "刘晔",
       "劉曄"
     ],
-    "biography": "曹魏或西晉相關人物，史料記載較少。",
     "abilities": {
       "command": 36,
       "strength": 68,
@@ -14098,7 +13471,6 @@
       "刘繇",
       "劉繇"
     ],
-    "biography": "（156年—197年），字正禮，東萊郡牟平人（今山東省煙臺市福山區西北）。",
     "abilities": {
       "command": 54,
       "strength": 67,
@@ -14119,7 +13491,6 @@
     "searchAliases": [
       "留略"
     ],
-    "biography": "三國時孫吳武將，留贊之子，留平之兄。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -14143,7 +13514,6 @@
       "吕威璜",
       "呂威璜"
     ],
-    "biography": "東漢末年人物，袁紹部下，在軍中任騎督。",
     "abilities": {
       "command": 64,
       "strength": 66,
@@ -14163,7 +13533,6 @@
     "searchAliases": [
       "廖化"
     ],
-    "biography": "本名廖淳，字元儉，荊州襄陽郡中盧縣（今湖北省襄陽市）人，是三國時期蜀漢後期的重要將領。",
     "abilities": {
       "command": 75,
       "strength": 76,
@@ -14187,7 +13556,6 @@
       "梁兴",
       "梁興"
     ],
-    "biography": "東漢末年關中軍閥之一。",
     "abilities": {
       "command": 66,
       "strength": 68,
@@ -14208,7 +13576,6 @@
       "梁绪",
       "梁緒"
     ],
-    "biography": "三國時期人物，先仕魏後仕蜀，官至蜀漢大鴻臚。",
     "abilities": {
       "command": 60,
       "strength": 64,
@@ -14229,7 +13596,6 @@
     "searchAliases": [
       "凌操"
     ],
-    "biography": "東漢政治人物，凌統之父，官至破賊校尉。",
     "abilities": {
       "command": 76,
       "strength": 79,
@@ -14253,7 +13619,6 @@
       "凌统",
       "凌統"
     ],
-    "biography": "東吳名將，凌操之子。",
     "abilities": {
       "command": 78,
       "strength": 87,
@@ -14278,7 +13643,6 @@
       "吕凯",
       "呂凱"
     ],
-    "biography": "蜀漢相關人物，史料記載較少。",
     "abilities": {
       "command": 62,
       "strength": 26,
@@ -14300,7 +13664,6 @@
       "吕据",
       "呂據"
     ],
-    "biography": "三國時東吳將領，大司馬呂範次子。",
     "abilities": {
       "command": 73,
       "strength": 56,
@@ -14325,7 +13688,6 @@
       "吕虔",
       "呂虔"
     ],
-    "biography": "兗州任城人氏。",
     "abilities": {
       "command": 45,
       "strength": 72,
@@ -14348,7 +13710,6 @@
       "吕旷",
       "呂曠"
     ],
-    "biography": "東平人，與呂翔同是袁紹屬下，在袁紹去世後跟隨袁尚，曾當曹操於黎陽之戰敗北後與呂翔占據陽平。",
     "abilities": {
       "command": 64,
       "strength": 64,
@@ -14370,7 +13731,6 @@
       "吕翔",
       "呂翔"
     ],
-    "biography": "一作高翔，東平人，三國時人物，為袁紹之屬下，在袁紹去世後跟隨袁尚。",
     "abilities": {
       "command": 61,
       "strength": 68,
@@ -14392,7 +13752,6 @@
       "吕岱",
       "呂岱"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 76,
       "strength": 72,
@@ -14418,7 +13777,6 @@
       "吕范",
       "呂範"
     ],
-    "biography": "汝南細陽人，是三國時期東吳的重要將領和政治家，官至大司馬。",
     "abilities": {
       "command": 74,
       "strength": 61,
@@ -14443,7 +13801,6 @@
       "吕布",
       "呂布"
     ],
-    "biography": "漢末猛將與軍閥，後敗亡於下邳。",
     "abilities": {
       "command": 94,
       "strength": 100,
@@ -14469,7 +13826,6 @@
       "吕蒙",
       "呂蒙"
     ],
-    "biography": "東吳名將，襲取荊州擊敗關羽。",
     "abilities": {
       "command": 93,
       "strength": 80,
@@ -14497,7 +13853,6 @@
       "伦直",
       "倫直"
     ],
-    "biography": "公孫淵部下，將軍，章回小說《三國演義》作倫直，為參軍。",
     "abilities": {
       "command": 51,
       "strength": 42,
@@ -14519,7 +13874,6 @@
       "泠苞",
       "冷苞"
     ],
-    "biography": "又名泠苞，東漢末年益州牧劉璋的武將。",
     "abilities": {
       "command": 72,
       "strength": 83,
@@ -14543,7 +13897,6 @@
       "楼玄",
       "樓玄"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 26,
       "strength": 25,
@@ -14566,7 +13919,6 @@
       "鲁肃",
       "魯肅"
     ],
-    "biography": "東吳重臣，主張維持孫劉聯盟。",
     "abilities": {
       "command": 90,
       "strength": 57,
@@ -14595,7 +13947,6 @@
       "鲁淑",
       "魯淑"
     ],
-    "biography": "東吳相關人物，史料記載較少。",
     "abilities": {
       "command": 74,
       "strength": 52,
@@ -14620,7 +13971,6 @@
       "卢植",
       "盧植"
     ],
-    "biography": "東漢末年政治家、軍事家、經學家，著有《尚書章句》、《三禮解詁》、《冀州風土記》等今皆失佚。",
     "abilities": {
       "command": 89,
       "strength": 50,
