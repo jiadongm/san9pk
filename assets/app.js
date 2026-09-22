@@ -16,10 +16,14 @@ function fillControls() {
   $("officer-count").textContent = state.manifest.counts.officers;
   $("scenario-count").textContent = state.manifest.counts.scenarios;
   $("recommendation-count").textContent = state.manifest.counts.recommendations;
-  const tactics = [...new Set(state.officers.flatMap((officer) => officer.tactics))].sort((a, b) => a.localeCompare(b, "zh-Hans"));
-  tactics.forEach((tactic) => $("tactic-filter").add(new Option(tactic, tactic)));
-  state.scenarios.forEach((scenario) => $("scenario-filter").add(new Option(`${scenario.year}年${scenario.month}月　${scenario.title}`, scenario.id)));
-  renderFactionFilter();
+  if ($("tactic-filter")) {
+    const tactics = [...new Set(state.officers.flatMap((officer) => officer.tactics))].sort((a, b) => a.localeCompare(b, "zh-Hans"));
+    tactics.forEach((tactic) => $("tactic-filter").add(new Option(tactic, tactic)));
+  }
+  if ($("scenario-filter")) {
+    state.scenarios.forEach((scenario) => $("scenario-filter").add(new Option(`${scenario.year}年${scenario.month}月　${scenario.title}`, scenario.id)));
+    renderFactionFilter();
+  }
 }
 
 function renderFactionFilter() {
@@ -55,6 +59,7 @@ function renderOfficers() {
   $("officer-status").textContent = `找到 ${all.length} 名武将，当前显示 ${officers.length} 名。`;
   $("officer-list").innerHTML = officers.map((officer) => `<button class="officer-card" type="button" data-officer-id="${officer.id}" aria-pressed="${officer.id === state.selectedOfficerId}"><strong>${officer.nameSimplified}</strong><span>统 ${officer.abilities.command}　武 ${officer.abilities.strength}　智 ${officer.abilities.intelligence}　政 ${officer.abilities.politics}</span><span>最早可用 ${firstAvailableLabel(officer)}</span><span class="affinity-position">相性圈位置 ${officer.affinity} / 149</span></button>`).join("") || "<p>没有符合条件的武将。</p>";
   $("load-more-officers").hidden = officers.length >= all.length;
+  $("collapse-officers").hidden = state.officerVisibleLimit <= 24;
   document.querySelectorAll("[data-officer-id]").forEach((button) => button.addEventListener("click", () => { state.selectedOfficerId = Number(button.dataset.officerId); renderOfficers(); renderDetail(); }));
 }
 
@@ -83,16 +88,21 @@ function renderRecommendations() {
 }
 
 function initialiseListeners() {
-  ["officer-search", "tactic-filter", "officer-sort"].forEach((id) => $(id).addEventListener(id === "officer-search" ? "input" : "change", () => { state.officerVisibleLimit = 24; renderOfficers(); }));
-  $("load-more-officers").addEventListener("click", () => { state.officerVisibleLimit += 24; renderOfficers(); });
-  $("scenario-filter").addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderFactionFilter(); renderRecommendations(); });
-  $("faction-filter").addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); });
-  document.querySelectorAll("input[name='team-size']").forEach((input) => input.addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); }));
-  $("load-more-recommendations").addEventListener("click", () => { state.recommendationVisibleLimit += 10; renderRecommendations(); });
+  if ($("officer-search")) {
+    ["officer-search", "tactic-filter", "officer-sort"].forEach((id) => $(id).addEventListener(id === "officer-search" ? "input" : "change", () => { state.officerVisibleLimit = 24; renderOfficers(); }));
+    $("load-more-officers").addEventListener("click", () => { state.officerVisibleLimit += 24; renderOfficers(); });
+    $("collapse-officers").addEventListener("click", () => { state.officerVisibleLimit = 24; renderOfficers(); });
+  }
+  if ($("scenario-filter")) {
+    $("scenario-filter").addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderFactionFilter(); renderRecommendations(); });
+    $("faction-filter").addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); });
+    document.querySelectorAll("input[name='team-size']").forEach((input) => input.addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); }));
+    $("load-more-recommendations").addEventListener("click", () => { state.recommendationVisibleLimit += 10; renderRecommendations(); });
+  }
 }
 
 async function initialise() {
-  try { await loadData(); fillControls(); initialiseListeners(); renderOfficers(); renderRecommendations(); }
+  try { await loadData(); fillControls(); initialiseListeners(); if ($("officer-list")) renderOfficers(); if ($("recommendation-list")) renderRecommendations(); }
   catch (error) { document.querySelector("main").innerHTML = `<p class="load-error">资料载入失败：${error.message}</p>`; }
 }
 initialise();

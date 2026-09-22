@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="《三国志 IX 威力加强版》按剧本与势力筛选的武将联携组合推荐。" />
+    <title>剧本组合推荐｜三国志 IX 武将联携</title>
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="三国志 IX 武将联携首页"><span class="brand-mark">IX</span><span>三国志 IX <em>武将联携</em></span></a>
+      <nav aria-label="页面导航"><a href="index.html">武将</a><a href="recommendations.html" aria-current="page">剧本推荐</a><a href="#method">方法</a></nav>
+    </header>
+    <main id="top">
+      <section class="intro" aria-labelledby="page-title">
+        <div><p class="eyebrow">SCENARIO TEAMS</p><h1 id="page-title">按剧本，配队伍。</h1><p>从可用武将、所属势力与相性、兵法和已知关系出发，获得可核查的联携候选。</p></div>
+        <dl class="data-counts" aria-label="数据库摘要"><div><dt id="officer-count">—</dt><dd>武将</dd></div><div><dt id="scenario-count">—</dt><dd>剧本</dd></div><div><dt id="recommendation-count">—</dt><dd>组合候选</dd></div></dl>
+      </section>
+      <section id="recommendations" class="workspace recommendation-workspace" aria-labelledby="recommendations-title">
+        <div class="section-heading"><div><p class="eyebrow">SCENARIO TEAMS</p><h2 id="recommendations-title">剧本组合推荐</h2></div><p>可按剧本和已验证的开局势力筛选；候选只从该势力的已验证成员池中重新计算。</p></div>
+        <div class="filter-row scenario-controls"><label><span>剧本</span><select id="scenario-filter"></select></label><label><span>势力</span><select id="faction-filter"></select></label><fieldset class="team-size-control"><legend>人数</legend><label><input type="radio" name="team-size" value="3" checked /> 三人</label><label><input type="radio" name="team-size" value="5" /> 五人</label></fieldset></div>
+        <div id="recommendation-note" class="recommendation-note"></div><div id="recommendation-list" class="recommendation-grid"></div><button id="load-more-recommendations" class="load-more" type="button" hidden>显示更多组合</button>
+      </section>
+      <section id="method" class="method-section" aria-labelledby="method-title"><div><p class="eyebrow">METHOD</p><h2 id="method-title">如何阅读推荐</h2></div><div class="method-copy"><p>联携分由环状相性距离与已量化正向关系构成。已知负向关系会直接排除该队伍；统率、武力、智力只在联携同分时用于排序。</p><p>兵法体系覆盖帮助理解部署方向，但阵形的原始数值字段尚未完全解码，因此没有被伪装成精确加权机制。</p><a href="docs/linkage-model.md">查看完整模型与限制</a></div></section>
+    </main>
+    <footer>资料为《三国志 IX 威力加强版》研究整理。组合为高分候选，并非游戏内触发概率的保证。</footer>
+    <script type="module" src="assets/app.js?v=20260922.4"></script>
+  </body>
+</html>
