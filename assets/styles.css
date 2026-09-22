@@ -78,11 +78,16 @@ h3 { font-size:1.35rem; }
 .affinity-value { fill:var(--vermilion); font-size:32px; font-weight:700; }
 .affinity-label { fill:var(--muted); font-size:10px; }
 .affinity-region-label { font-size:10px; font-weight:700; letter-spacing:1px; }
-.region-yellow-turban { fill:#c8942e; stroke:#c8942e; }
-.region-wei { fill:#4f759b; stroke:#4f759b; }
-.region-shu { fill:#4f855f; stroke:#4f855f; }
-.region-warlords { fill:#85627e; stroke:#85627e; }
-.region-wu { fill:#bd5b43; stroke:#bd5b43; }
+.affinity-region.region-yellow-turban { stroke:#c8942e; }
+.affinity-region.region-wei { stroke:#4f759b; }
+.affinity-region.region-shu { stroke:#4f855f; }
+.affinity-region.region-warlords { stroke:#85627e; }
+.affinity-region.region-wu { stroke:#bd5b43; }
+.affinity-tick.region-yellow-turban,.affinity-region-label.region-yellow-turban { fill:#c8942e; }
+.affinity-tick.region-wei,.affinity-region-label.region-wei { fill:#4f759b; }
+.affinity-tick.region-shu,.affinity-region-label.region-shu { fill:#4f855f; }
+.affinity-tick.region-warlords,.affinity-region-label.region-warlords { fill:#85627e; }
+.affinity-tick.region-wu,.affinity-region-label.region-wu { fill:#bd5b43; }
 .affinity-officer-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.75rem; }
 .affinity-officer { padding:.9rem; border:1px solid var(--line); background:#faf7ef; color:var(--ink); text-align:left; cursor:pointer; }
 .affinity-officer:hover,.affinity-officer[aria-pressed="true"] { border-color:var(--jade); box-shadow:3px 4px 0 rgba(30,85,84,.16); }
