@@ -1,5 +1,5 @@
 const $ = (id) => document.getElementById(id);
-const state = { officers: [], scenarios: [], availability: [], factions: [], relationships: [], recommendations: [], selectedOfficerId: null, officerVisibleLimit: 24, recommendationVisibleLimit: 10 };
+const state = { officers: [], scenarios: [], availability: [], factions: [], relationships: [], recommendations: [], selectedOfficerId: null, selectedAffinity: 25, officerVisibleLimit: 24, recommendationVisibleLimit: 10 };
 const dataVersion = new URL(import.meta.url).searchParams.get("v") || "1";
 
 async function loadData() {
@@ -73,6 +73,46 @@ function renderDetail() {
   $("officer-detail").innerHTML = `<p class="panel-kicker">武将档案 · #${officer.id}</p><h3>${officer.nameSimplified}${traditionalName}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li><li><b>相性位置</b><br>${officer.affinity} / 149</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>开局可用剧本</b><br>${available} 个</li><li><b>特殊关系</b><br>${relationships}</li></ul>`;
 }
 
+function renderAffinityRing() {
+  const selected = state.selectedAffinity;
+  const counts = new Map(state.officers.map((officer) => [officer.affinity, 0]));
+  state.officers.forEach((officer) => counts.set(officer.affinity, (counts.get(officer.affinity) || 0) + 1));
+  const points = Array.from({ length: 150 }, (_, position) => {
+    const angle = -Math.PI / 2 + (Math.PI * 2 * position) / 150;
+    const x = 200 + Math.cos(angle) * 151;
+    const y = 200 + Math.sin(angle) * 151;
+    const count = counts.get(position) || 0;
+    return `<circle class="affinity-tick${position === selected ? " is-selected" : ""}${count ? " has-officers" : ""}" data-affinity-position="${position}" cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="${position === selected ? 6 : count ? 3.5 : 2}" tabindex="0" role="button" aria-label="相性位置 ${position}，${count} 名武将" />`;
+  }).join("");
+  const labels = [0, 25, 50, 75, 100, 125].map((position) => {
+    const angle = -Math.PI / 2 + (Math.PI * 2 * position) / 150;
+    return `<text class="affinity-label" x="${(200 + Math.cos(angle) * 181).toFixed(2)}" y="${(204 + Math.sin(angle) * 181).toFixed(2)}">${position}</text>`;
+  }).join("");
+  $("affinity-ring").innerHTML = `<svg viewBox="0 0 400 400" role="group" aria-label="0 至 149 的相性圆环"><circle class="affinity-guide" cx="200" cy="200" r="151" />${points}${labels}<text class="affinity-center" x="200" y="190">相性位置</text><text class="affinity-value" x="200" y="220">${selected}</text></svg>`;
+  document.querySelectorAll("[data-affinity-position]").forEach((point) => {
+    const selectPosition = () => { state.selectedAffinity = Number(point.dataset.affinityPosition); state.selectedOfficerId = null; renderAffinityRing(); renderAffinityOfficers(); renderAffinityDetail(); };
+    point.addEventListener("click", selectPosition);
+    point.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); selectPosition(); } });
+  });
+}
+
+function renderAffinityOfficers() {
+  const officers = state.officers.filter((officer) => officer.affinity === state.selectedAffinity).sort((a, b) => a.nameSimplified.localeCompare(b.nameSimplified, "zh-Hans"));
+  $("affinity-status").textContent = `相性位置 ${state.selectedAffinity}：${officers.length} 名武将。`;
+  $("affinity-officer-list").innerHTML = officers.map((officer) => `<button class="affinity-officer" type="button" data-affinity-officer-id="${officer.id}" aria-pressed="${officer.id === state.selectedOfficerId}"><strong>${officer.nameSimplified}</strong><span>统 ${officer.abilities.command}　武 ${officer.abilities.strength}　智 ${officer.abilities.intelligence}　政 ${officer.abilities.politics}</span></button>`).join("") || "<p>这个位置没有收录武将。</p>";
+  document.querySelectorAll("[data-affinity-officer-id]").forEach((button) => button.addEventListener("click", () => { state.selectedOfficerId = Number(button.dataset.affinityOfficerId); renderAffinityOfficers(); renderAffinityDetail(); }));
+}
+
+function renderAffinityDetail() {
+  const panel = $("affinity-detail");
+  if (state.selectedOfficerId === null) {
+    panel.innerHTML = `<p class="panel-kicker">相性位置 ${state.selectedAffinity}</p><h3>选择一位武将</h3><p>同一相性位置可能有多名武将。点击左侧姓名查看完整资料。</p>`;
+    return;
+  }
+  const officer = state.officers.find((item) => item.id === state.selectedOfficerId);
+  panel.innerHTML = `<p class="panel-kicker">相性位置 ${officer.affinity}</p><h3>${officer.nameSimplified}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li></ul>`;
+}
+
 function abilityThresholds() {
   return Object.fromEntries(["command", "strength", "intelligence", "politics"].map((ability) => [ability, Number($(`threshold-${ability}`).value) || 0]));
 }
@@ -115,7 +155,7 @@ function initialiseListeners() {
 }
 
 async function initialise() {
-  try { await loadData(); fillControls(); initialiseListeners(); if ($("officer-list")) renderOfficers(); if ($("recommendation-list")) renderRecommendations(); }
+  try { await loadData(); fillControls(); initialiseListeners(); if ($("officer-list")) renderOfficers(); if ($("recommendation-list")) renderRecommendations(); if ($("affinity-ring")) { renderAffinityRing(); renderAffinityOfficers(); renderAffinityDetail(); } }
   catch (error) { document.querySelector("main").innerHTML = `<p class="load-error">资料载入失败：${error.message}</p>`; }
 }
 initialise();
