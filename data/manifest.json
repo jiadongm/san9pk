@@ -11,7 +11,7 @@
   },
   "notes": [
     "Traditional-name aliases are available for all 650 officers.",
-    "Game-original biographies have not yet been extracted.",
+    "Game-original Traditional Chinese biographies are linked by officer slot ID and biography ID.",
     "Scenario faction membership is resolved from original scenario records.",
     "Recommendation scores do not hard-code unverified formation mechanics."
   ]

@@ -61,6 +61,11 @@ function firstAvailableLabel(officer, includeMonth = false) {
   return `${officer.firstAvailable.year}年${includeMonth ? `${officer.firstAvailable.month}月` : ""}`;
 }
 
+function originalBiography(officer) {
+  if (!officer.biographyTraditional) return "未收录原作小传。";
+  return officer.biographyTraditional.replace(/\n/g, "<br>");
+}
+
 function renderOfficers() {
   const all = visibleOfficers();
   const officers = all.slice(0, state.officerVisibleLimit);
@@ -78,7 +83,7 @@ function renderDetail() {
   const related = state.relationships.filter((item) => item.officerIdA === officer.id || item.officerIdB === officer.id);
   const relationships = related.length ? related.map((item) => { const other = item.officerIdA === officer.id ? item.nameB : item.nameA; const label = item.type === "positive" ? `正向关系 +${item.intimacyBonus}` : "避免同队"; return `<li class="relationship-${item.type}"><b>${label}</b><br>${other}</li>`; }).join("") : "<li>未收录特殊关系。</li>";
   const traditionalName = officer.nameTraditional && officer.nameTraditional !== officer.nameSimplified ? `<span class="traditional-name">${officer.nameTraditional}</span>` : "";
-  $("officer-detail").innerHTML = `<p class="panel-kicker">武将档案 · #${officer.id}</p><h3>${officer.nameSimplified}${traditionalName}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li><li><b>相性位置</b><br>${officer.affinity} / 149</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>开局可用剧本</b><br>${available} 个</li><li><b>特殊关系</b><br>${relationships}</li></ul>`;
+  $("officer-detail").innerHTML = `<p class="panel-kicker">武将档案 · #${officer.id}</p><h3>${officer.nameSimplified}${traditionalName}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li><li><b>相性位置</b><br>${officer.affinity} / 149</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>开局可用剧本</b><br>${available} 个</li><li><b>特殊关系</b><br>${relationships}</li></ul><section class="original-biography"><p class="panel-kicker">原作人物小传</p><p>${originalBiography(officer)}</p></section>`;
 }
 
 function renderAffinityRing() {
@@ -137,7 +142,7 @@ function renderAffinityDetail() {
     return;
   }
   const officer = state.officers.find((item) => item.id === state.selectedOfficerId);
-  panel.innerHTML = `<p class="panel-kicker">相性位置 ${officer.affinity}</p><h3>${officer.nameSimplified}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li></ul>`;
+  panel.innerHTML = `<p class="panel-kicker">相性位置 ${officer.affinity}</p><h3>${officer.nameSimplified}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li></ul><section class="original-biography"><p class="panel-kicker">原作人物小传</p><p>${originalBiography(officer)}</p></section>`;
 }
 
 function abilityThresholds() {

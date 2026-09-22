@@ -7,6 +7,7 @@
       "阿会喃",
       "阿會喃"
     ],
+    "biographyTraditional": "南蠻王孟獲麾下之將，第三洞元帥。與蜀\n漢軍作戰，被俘虜後又被釋放，當再次出\n戰時，被唾罵不知羞恥，面紅耳赤的退兵\n。",
     "abilities": {
       "command": 66,
       "strength": 73,
@@ -32,6 +33,7 @@
       "韦昭",
       "韋昭"
     ],
+    "biographyTraditional": "吳臣。因為文才優秀，得到孫皓重用，但\n後來由於有反抗的表現，而被處死。在正\n史當中，為了忌諱晉文帝司馬昭之名，因\n此記載為「韋曜」。",
     "abilities": {
       "command": 18,
       "strength": 17,
@@ -56,6 +58,7 @@
     "searchAliases": [
       "伊籍"
     ],
+    "biographyTraditional": "蜀漢之臣。原是劉表的門客，曾告知凶馬\n的廬的由來，並將蔡瑁欲加害的消息密報\n劉備。赤壁之戰後，正式成為劉備的屬下\n。擅長舌辯。",
     "abilities": {
       "command": 25,
       "strength": 24,
@@ -82,6 +85,7 @@
       "尹赏",
       "尹賞"
     ],
+    "biographyTraditional": "天水郡的主簿。第一次北伐時，因為友人\n姜維降了蜀漢，自己也打開城門投降。後\n來任執金吾。",
     "abilities": {
       "command": 51,
       "strength": 54,
@@ -107,6 +111,7 @@
     "searchAliases": [
       "尹大目"
     ],
+    "biographyTraditional": "魏臣，殿中校尉，得到大將軍曹爽的信任\n。文欽、毌丘儉叛亂的時候，為了阻止朋\n友文欽反叛，自薦為使，但是沒有成功，\n大哭返回。",
     "abilities": {
       "command": 5,
       "strength": 9,
@@ -130,6 +135,7 @@
     "searchAliases": [
       "尹默"
     ],
+    "biographyTraditional": "蜀漢之臣。勸說劉備即帝位的文武百官之\n一。諸葛亮第一次北伐時，被任命為博士\n，負責內政，也負責過皇帝劉禪的教育。",
     "abilities": {
       "command": 13,
       "strength": 17,
@@ -154,6 +160,7 @@
     "searchAliases": [
       "于禁"
     ],
+    "biographyTraditional": "曹操麾下的勇將。從曹操起兵時就隨其征\n戰四方，其勇與張遼、徐晃等人齊名。但\n是後來在樊城之戰中敗給關羽後投降，被\n送回魏國後遭曹丕的嘲弄，羞憤而亡。",
     "abilities": {
       "command": 82,
       "strength": 76,
@@ -184,6 +191,7 @@
       "于诠",
       "于詮"
     ],
+    "biographyTraditional": "吳將。為了增援在魏國發動叛亂的諸葛誕\n，率領援軍出征。雖然魏將王基勸說他投\n降，但他還是為國盡忠，戰死沙場。",
     "abilities": {
       "command": 67,
       "strength": 73,
@@ -210,6 +218,7 @@
       "卫瓘",
       "衛瓘"
     ],
+    "biographyTraditional": "魏國的帳前校尉。姜維北伐時，在鄧艾麾\n下與蜀軍交戰，並在鄧艾討伐蜀國時，也\n與鄧忠一起擔任先鋒。蜀漢滅後，被鄧艾\n任命為益州刺史。",
     "abilities": {
       "command": 69,
       "strength": 53,
@@ -237,6 +246,7 @@
       "袁遗",
       "袁遺"
     ],
+    "biographyTraditional": "東漢的山陽太守。參加反董卓聯盟第八鎮\n。虎牢關之役時從軍，營救了敗給呂布軍\n的王匡。正史記載，他是袁紹的表兄。",
     "abilities": {
       "command": 61,
       "strength": 43,
@@ -263,6 +273,7 @@
     "searchAliases": [
       "袁胤"
     ],
+    "biographyTraditional": "袁術之姪。袁術死後，護送袁術的靈柩和\n其妻兒逃往廬江。但在途中，袁胤一行人\n遭到毒手，玉璽也被奪走而落到了曹操手\n裡。",
     "abilities": {
       "command": 27,
       "strength": 18,
@@ -285,6 +296,7 @@
       "阎宇",
       "閻宇"
     ],
+    "biographyTraditional": "蜀漢之將，右將軍。因黃皓的推薦而受重\n用，代替姜維赴前線抗魏，但聽聞魏將鄧\n艾勇猛，就害怕到不敢出戰。",
     "abilities": {
       "command": 70,
       "strength": 69,
@@ -311,6 +323,7 @@
     "searchAliases": [
       "袁熙"
     ],
+    "biographyTraditional": "袁紹的次子，幽州刺史。接納敗給曹操後\n前去投奔的弟弟袁尚，但由於屬下背叛而\n逃往烏丸，後來又投奔遼東的公孫康，卻\n被公孫康砍下首級獻給曹操。",
     "abilities": {
       "command": 65,
       "strength": 55,
@@ -337,6 +350,7 @@
       "阎柔",
       "閻柔"
     ],
+    "biographyTraditional": "魏國武將。年少時被烏丸捉去。藉助烏丸\n、鮮卑之力奪取烏丸校尉之位。後來歸順\n曹操，跟隨征討烏丸。此人在正史中有記\n載。",
     "abilities": {
       "command": 76,
       "strength": 54,
@@ -365,6 +379,7 @@
       "袁术",
       "袁術"
     ],
+    "biographyTraditional": "東漢的南陽太守，袁紹的異母兄弟。孫策\n曾以玉璽為抵押，向他商借軍馬，後來據\n玉璽自立為帝，但由於殘暴無道，終究招\n致滅亡。",
     "abilities": {
       "command": 49,
       "strength": 66,
@@ -390,6 +405,7 @@
     "searchAliases": [
       "袁尚"
     ],
+    "biographyTraditional": "袁紹的三子。長相俊秀，因此得到了袁紹\n的寵愛。袁紹死後，與兄長袁譚爭位，後\n來敗給曹操，投奔身任幽州刺史的二哥袁\n熙。",
     "abilities": {
       "command": 62,
       "strength": 73,
@@ -416,6 +432,7 @@
       "袁绍",
       "袁紹"
     ],
+    "biographyTraditional": "出身於名門袁家，為討伐董卓十八鎮諸侯\n聯軍的盟主。董卓死後，為了稱霸中原，\n與曹操鬥爭。可是，由於優柔寡斷，導致\n在官渡之戰中大敗。",
     "abilities": {
       "command": 80,
       "strength": 68,
@@ -446,6 +463,7 @@
       "阎象",
       "閻象"
     ],
+    "biographyTraditional": "袁術的主簿。當袁術得到玉璽，正欲稱帝\n時，他引用周文王雖有三分之二的天下，\n卻還向殷稱臣的典故加以勸諫。",
     "abilities": {
       "command": 29,
       "strength": 26,
@@ -471,6 +489,7 @@
       "袁谭",
       "袁譚"
     ],
+    "biographyTraditional": "袁紹的長子，青州刺史。袁紹死後，由於\n小弟袁尚自行繼位，與之相爭未成，於是\n求得曹操的援助，雖然戰勝袁尚，自己最\n終也死於曹操之手。",
     "abilities": {
       "command": 58,
       "strength": 70,
@@ -496,6 +515,7 @@
       "阎圃",
       "閻圃"
     ],
+    "biographyTraditional": "張魯麾下謀士。擔任張魯的參謀，提出過\n各種建議。張魯聽信楊松的讒言欲斬龐德\n時，他出面阻止。在張魯投降曹操後，也\n被封為列侯。",
     "abilities": {
       "command": 32,
       "strength": 27,
@@ -521,6 +541,7 @@
       "袁耀",
       "袁燿"
     ],
+    "biographyTraditional": "袁術之子。袁術自立為帝後，便被立為太\n子，待袁術死，投奔廬江太守劉勳，後來\n孫策攻佔廬江，仍然繼續受其庇護。此人\n只出現在正史中。",
     "abilities": {
       "command": 45,
       "strength": 52,
@@ -545,6 +566,7 @@
     "searchAliases": [
       "王威"
     ],
+    "biographyTraditional": "劉表麾下大臣。曾向劉表之子劉琮建議「\n將軍既降，曹操必懈弛無備，設奇兵於險\n處擊之」。後來隨同劉琮被流放青州，在\n路上和主公一起被殺。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -569,6 +591,7 @@
     "searchAliases": [
       "王允"
     ],
+    "biographyTraditional": "東漢的司徒。為了誅殺暴虐的董卓，用美\n女貂蟬使「連環計」。董卓死後，壓抑不\n住叛亂的李傕等董卓餘黨，被殺身亡。",
     "abilities": {
       "command": 24,
       "strength": 7,
@@ -593,6 +616,7 @@
     "searchAliases": [
       "王含"
     ],
+    "biographyTraditional": "司馬懿的六子，鎮東大將軍，琅邪王。討\n伐東吳時，率領５萬士兵來助，和降伏吳\n國的龍驤將軍王濬之軍會合，見大功告成\n，喜不自勝。",
     "abilities": {
       "command": 46,
       "strength": 43,
@@ -617,6 +641,7 @@
     "searchAliases": [
       "王基"
     ],
+    "biographyTraditional": "魏將，鎮壓了毌丘儉之亂。諸葛誕叛亂時\n，擔任鎮壓部隊的正先鋒出征，擊破朱異\n、唐咨軍，殺死了于詮。據說通曉易學，\n官拜鎮南將軍。",
     "abilities": {
       "command": 77,
       "strength": 75,
@@ -645,6 +670,7 @@
       "王颀",
       "王頎"
     ],
+    "biographyTraditional": "魏臣，天水太守。受鄧艾之命參加討伐蜀\n漢，在綿竹之戰破蜀將諸葛瞻，攻下了綿\n竹城。蜀漢滅亡後，回到任地的天水郡。",
     "abilities": {
       "command": 67,
       "strength": 71,
@@ -670,6 +696,7 @@
     "searchAliases": [
       "王匡"
     ],
+    "biographyTraditional": "東漢的河內太守。響應袁紹、曹操等的反\n董卓號召，率領大軍參加。差遣屬下方悅\n去戰呂布，五個回合不到就被殺死。",
     "abilities": {
       "command": 64,
       "strength": 50,
@@ -697,6 +724,7 @@
       "王业",
       "王業"
     ],
+    "biographyTraditional": "魏國的散騎常侍。與王沈、王經一起被曹\n髦所召，商議討伐司馬昭之事，但害怕大\n難臨頭，便和王沈一同密報司馬昭。",
     "abilities": {
       "command": 43,
       "strength": 6,
@@ -721,6 +749,7 @@
       "王经",
       "王經"
     ],
+    "biographyTraditional": "魏將，雍州刺史。敗給背水一戰的姜維，\n可是被陳泰、鄧艾救下。後來成為尚書，\n但在曹髦起兵欲誅伐司馬昭時，和母親一\n起被處斬。",
     "abilities": {
       "command": 70,
       "strength": 61,
@@ -747,6 +776,7 @@
     "searchAliases": [
       "王伉"
     ],
+    "biographyTraditional": "蜀漢之臣，永昌太守。不響應孟獲叛亂蜀\n國，因此遭到雍闓等人的攻擊，和呂凱一\n起死守城池，直到諸葛亮到來。",
     "abilities": {
       "command": 68,
       "strength": 66,
@@ -772,6 +802,7 @@
       "王浑",
       "王渾"
     ],
+    "biographyTraditional": "晉臣，侍中。王濬向司馬炎上奏討吳時，\n他勸諫等待一年讓吳國力自行疲憊，後來\n決定伐吳後，被任命為安東大將軍，領兵\n前去征討。",
     "abilities": {
       "command": 72,
       "strength": 77,
@@ -798,6 +829,7 @@
     "searchAliases": [
       "王粲"
     ],
+    "biographyTraditional": "劉表麾下大臣。劉表死後，與蒯越一起勸\n說劉琮投降曹操，後來被曹操封為關內侯\n。是著名文人，「建安七子」之一。",
     "abilities": {
       "command": 7,
       "strength": 3,
@@ -822,6 +854,7 @@
     "searchAliases": [
       "王修"
     ],
+    "biographyTraditional": "袁譚麾下大臣，青州的別駕。袁譚死後被\n梟首，他不顧曹操的命令，在袁譚首級旁\n哭泣，因此其忠義受到肯定，被封為中郎\n將。",
     "abilities": {
       "command": 42,
       "strength": 65,
@@ -847,6 +880,7 @@
     "searchAliases": [
       "王戎"
     ],
+    "biographyTraditional": "晉將，建威將軍。參加討伐東吳的戰事，\n領一軍攻打武昌，在石頭城與王濬軍會合\n。「竹林七賢」之一。",
     "abilities": {
       "command": 65,
       "strength": 42,
@@ -873,6 +907,7 @@
       "王肃",
       "王肅"
     ],
+    "biographyTraditional": "魏國的雍州刺史。參加鄧艾的蜀漢討伐軍\n，受命斷姜維的退路，但失敗，鍾會大怒\n原本要將之斬首，但衛瓘勸諫，便交由晉\n王司馬昭發落。",
     "abilities": {
       "command": 47,
       "strength": 26,
@@ -898,6 +933,7 @@
       "王浚",
       "王濬"
     ],
+    "biographyTraditional": "晉將。向司馬炎上奏討伐東吳，從益州順\n長江而下攻入吳國，在石頭城迫使孫皓投\n降。平定東吳後，被封為輔國大將軍。",
     "abilities": {
       "command": 82,
       "strength": 73,
@@ -928,6 +964,7 @@
     "searchAliases": [
       "王祥"
     ],
+    "biographyTraditional": "魏國的太尉。當鄧艾和鍾會發兵討蜀之際\n，和百官一同送行。在司馬昭正迷惑後繼\n者的問題時，他勸諫「前代立少，多致亂\n國」，促使長子司馬炎成為世子。",
     "abilities": {
       "command": 31,
       "strength": 28,
@@ -947,12 +984,13 @@
   },
   {
     "id": 37,
-    "nameSimplified": "王沉",
+    "nameSimplified": "王沈",
     "nameTraditional": "王沈",
     "searchAliases": [
-      "王沉",
-      "王沈"
+      "王沈",
+      "王沉"
     ],
+    "biographyTraditional": "魏國的侍中。與王經、王業一起受曹髦所\n召，商談誅殺司馬昭之事，但為恐責難，\n便遊說王經共逃此難，但遭拒，於是聯同\n王業向司馬昭通報。",
     "abilities": {
       "command": 8,
       "strength": 14,
@@ -977,6 +1015,7 @@
       "王双",
       "王雙"
     ],
+    "biographyTraditional": "曹真麾下的猛將，慣使六十斤重的大砍刀\n和流星鎚。在陳倉與蜀漢軍馬交戰，殺死\n了謝雄，重創張嶷，但在追擊蜀軍時被魏\n延所殺。",
     "abilities": {
       "command": 66,
       "strength": 89,
@@ -1001,6 +1040,7 @@
     "searchAliases": [
       "王忠"
     ],
+    "biographyTraditional": "曹操麾下將士。與劉岱共同防備徐州的劉\n備，但被關羽擒獲。被釋放後，在許昌將\n要被曹操下令處死時，多虧孔融求情才撿\n回性命。",
     "abilities": {
       "command": 45,
       "strength": 58,
@@ -1024,6 +1064,7 @@
     "searchAliases": [
       "王昶"
     ],
+    "biographyTraditional": "魏將。擔任征南大將軍，率領十萬軍馬攻\n打東吳南郡，可是由於敵將丁奉在東興取\n得勝利，作出再攻之無益的判斷，然後就\n撤退了。",
     "abilities": {
       "command": 71,
       "strength": 63,
@@ -1053,6 +1094,7 @@
       "王韬",
       "王韜"
     ],
+    "biographyTraditional": "司馬昭的主簿。２５３年，跟隨司馬昭在\n鐵籠山與姜維對戰，在飲水短缺時，進言\n司馬昭不如仿傚東漢耿恭，拜井而得甘泉\n。",
     "abilities": {
       "command": 52,
       "strength": 57,
@@ -1077,6 +1119,7 @@
     "searchAliases": [
       "王惇"
     ],
+    "biographyTraditional": "魏將，胡遵之子，胡奮之弟。鍾會討伐蜀\n漢時，以護軍之職參戰。蜀滅亡後，被企\n圖謀反的鍾會監禁，但遣人將此事告知兒\n子胡淵，使鍾會最後死在討伐軍之手。",
     "abilities": {
       "command": 70,
       "strength": 63,
@@ -1104,6 +1147,7 @@
       "王买",
       "王買"
     ],
+    "biographyTraditional": "魏將。西元２６３年，鍾會及鄧艾出兵伐\n蜀時，為鍾會麾下的將軍。",
     "abilities": {
       "command": 66,
       "strength": 64,
@@ -1129,6 +1173,7 @@
     "searchAliases": [
       "王平"
     ],
+    "biographyTraditional": "蜀漢將軍。本是魏將，漢中攻防戰時因與\n徐晃不睦，就此投降蜀方。南征北伐中表\n現出色，街亭之戰時也擔任馬謖的副將參\n戰，雖處敗勢，但仍率領少數人馬奮戰。",
     "abilities": {
       "command": 79,
       "strength": 77,
@@ -1157,6 +1202,7 @@
     "searchAliases": [
       "王甫"
     ],
+    "biographyTraditional": "關羽麾下之臣，隨軍司馬。關羽攻打襄陽\n時，因對荊州的守備感到不安而提醒關羽\n。在關羽逃出後，他死守麥城，但得知關\n羽死訊，隨即自殺。",
     "abilities": {
       "command": 59,
       "strength": 36,
@@ -1183,6 +1229,7 @@
       "王门",
       "王門"
     ],
+    "biographyTraditional": "公孫瓚的武將，只出現在正史當中。當公\n孫瓚與袁紹相爭時，倒戈投向袁紹，並領\n一萬兵攻打公孫瓚，但卻被田予說退。",
     "abilities": {
       "command": 66,
       "strength": 69,
@@ -1208,6 +1255,7 @@
     "searchAliases": [
       "王凌"
     ],
+    "biographyTraditional": "荀彧之子，陳泰的岳父。２６０年，司馬\n昭殺曹髦後曾勸說拒絕參朝的陳泰。後來\n擔任司馬，勸諫司馬昭立司馬炎為世子。",
     "abilities": {
       "command": 70,
       "strength": 61,
@@ -1235,6 +1283,7 @@
     "searchAliases": [
       "王累"
     ],
+    "biographyTraditional": "劉璋麾下謀士，官任從事。將自己倒吊在\n城門下，勸阻欲迎入劉備的劉璋，可是劉\n璋拒諫，於是他斬斷吊住自己的繩索，撞\n地自殺。",
     "abilities": {
       "command": 29,
       "strength": 31,
@@ -1260,6 +1309,7 @@
     "searchAliases": [
       "王朗"
     ],
+    "biographyTraditional": "魏臣。原是東漢之臣，任會稽太守，後來\n成為曹操的屬下，與華歆一起逼迫獻帝讓\n位。渭水之戰中，與諸葛亮舌戰，被諸葛\n亮氣死。",
     "abilities": {
       "command": 43,
       "strength": 37,
@@ -1284,6 +1334,7 @@
     "searchAliases": [
       "何晏"
     ],
+    "biographyTraditional": "魏臣，曹爽的心腹。曹叡死後成為尚書，\n但是被司馬懿殺死。根據正史記載，他是\n東漢的大將軍何進之孫，為人頗為自愛。",
     "abilities": {
       "command": 10,
       "strength": 36,
@@ -1309,6 +1360,7 @@
     "searchAliases": [
       "蒯越"
     ],
+    "biographyTraditional": "劉表麾下大臣，蒯良之弟。曹操大軍來攻\n時，他勸說劉表的後繼者劉琮投降。曹操\n給予他高度的評價，說道：「吾不喜得荊\n州，喜得異度。」（蒯越字異度）。",
     "abilities": {
       "command": 42,
       "strength": 32,
@@ -1334,6 +1386,7 @@
     "searchAliases": [
       "蒯良"
     ],
+    "biographyTraditional": "劉表麾下大臣，蒯越之兄。輔佐劉表，表\n現活躍。孫堅來攻打荊州時，他授計給武\n將呂公，令其伏擊孫堅，以矢石攻之，擊\n斃了孫堅。",
     "abilities": {
       "command": 69,
       "strength": 36,
@@ -1363,6 +1416,7 @@
       "贾华",
       "賈華"
     ],
+    "biographyTraditional": "蜀將。諸葛亮第一次北伐時隨軍，２５８\n年冬，姜維北伐時在後方守衛漢壽城，後\n來鍾會伐蜀，敵不過只好逃往成都求援。",
     "abilities": {
       "command": 53,
       "strength": 67,
@@ -1388,6 +1442,7 @@
       "华核",
       "華覈"
     ],
+    "biographyTraditional": "吳臣，中書丞。勸諫對外採取積極策略的\n孫皓要慎重行事，但激怒了孫皓，因此被\n趕出宮中。後來憂心吳國的未來，從此隱\n姓埋名。",
     "abilities": {
       "command": 17,
       "strength": 26,
@@ -1413,6 +1468,7 @@
       "贾逵",
       "賈逵"
     ],
+    "biographyTraditional": "魏臣。勸阻曹彰與曹丕爭奪繼承之位。對\n吳作戰時擔任曹休的參謀參戰，識破了周\n魴的詐降。官拜魏國諫議大夫。",
     "abilities": {
       "command": 73,
       "strength": 69,
@@ -1442,6 +1498,7 @@
       "何仪",
       "何儀"
     ],
+    "biographyTraditional": "黃巾黨。黃巾之亂後，一直佔據汝南，被\n當時正組織義軍的許褚捉住，遭曹操處斬\n。",
     "abilities": {
       "command": 59,
       "strength": 67,
@@ -1466,6 +1523,7 @@
       "华歆",
       "華歆"
     ],
+    "biographyTraditional": "曹操麾下的謀士。本是漢臣，先後改投孫\n策、曹操。演義中，逼迫獻帝讓位給曹丕\n。正史和演義中對此人的評述截然不同。\n任魏國尚書令。",
     "abilities": {
       "command": 25,
       "strength": 38,
@@ -1491,6 +1549,7 @@
       "贾诩",
       "賈詡"
     ],
+    "biographyTraditional": "魏臣。原是李傕部屬，但並不得志，於是\n作了張繡的參謀。屢獻妙計，幾番擊破曹\n軍。後來與主公張繡一起歸順曹操，官拜\n魏國的太尉。",
     "abilities": {
       "command": 81,
       "strength": 34,
@@ -1520,6 +1579,7 @@
     "searchAliases": [
       "郭奕"
     ],
+    "biographyTraditional": "魏臣，郭嘉之子。郭嘉死後，被帶到曹操\n府中，後來成為魏國的太子文學。據說此\n人博學，但是待人態度好惡不一。",
     "abilities": {
       "command": 23,
       "strength": 29,
@@ -1544,6 +1604,7 @@
     "searchAliases": [
       "郭嘉"
     ],
+    "biographyTraditional": "曹操麾下謀臣。智謀及洞察力兼備，深得\n曹操信賴。平定河北時死於疾病，年僅三\n十八歲。曹操在赤壁戰敗後，曾悲嘆「若\n奉孝在，決不使吾有此大失」。",
     "abilities": {
       "command": 58,
       "strength": 10,
@@ -1573,6 +1634,7 @@
       "鄂焕",
       "鄂煥"
     ],
+    "biographyTraditional": "高定麾下的武將。身長九尺，慣使方天戟\n。擔任高定軍的先鋒與魏延等交戰，最後\n被俘。與高定一起投降，被封為牙門將。",
     "abilities": {
       "command": 67,
       "strength": 81,
@@ -1597,6 +1659,7 @@
     "searchAliases": [
       "郭汜"
     ],
+    "biographyTraditional": "董卓麾下之將。董卓死後，聽從賈詡的建\n議，急襲長安，殺死王允等人，與李傕一\n起執朝廷牛耳。後來成為山賊，被屬下伍\n習殺死。",
     "abilities": {
       "command": 63,
       "strength": 74,
@@ -1622,6 +1685,7 @@
       "乐就",
       "樂就"
     ],
+    "biographyTraditional": "袁術的武將。當袁術出兵攻打呂布時，命\n他負責接應友軍，後來袁術大敗，並受到\n曹操的攻擊，他與梁剛、李豐、陳紀一起\n守衛壽春，但最後城破被斬。",
     "abilities": {
       "command": 64,
       "strength": 70,
@@ -1647,6 +1711,7 @@
     "searchAliases": [
       "霍峻"
     ],
+    "biographyTraditional": "劉表麾下之將。劉備取了荊州後，就歸順\n於劉備，和孟達一起守備葭萌關。是蜀漢\n之將霍弋之父。",
     "abilities": {
       "command": 77,
       "strength": 62,
@@ -1674,6 +1739,7 @@
     "searchAliases": [
       "郝昭"
     ],
+    "biographyTraditional": "魏將。因司馬懿的推薦，被提拔為鎮西將\n軍，受命守衛陳倉。擅長防衛戰，以三千\n兵馬面對諸葛亮率領的三十萬大軍，據守\n了二十多天。",
     "abilities": {
       "command": 85,
       "strength": 79,
@@ -1705,6 +1771,7 @@
       "乐进",
       "樂進"
     ],
+    "biographyTraditional": "曹操麾下的勇將。從曹操起兵起就隨其四\n處征戰，與張遼、于禁、徐晃、張郃並稱\n魏國名將，倍受讚譽。",
     "abilities": {
       "command": 78,
       "strength": 85,
@@ -1735,6 +1802,7 @@
       "乐綝",
       "樂綝"
     ],
+    "biographyTraditional": "魏將，揚州刺史，樂進之子。在對蜀作戰\n中表現活躍。諸葛誕叛亂時，因接到賈充\n密書之事洩露，遭受諸葛誕發兵奇襲，在\n樓閣上被殺。",
     "abilities": {
       "command": 71,
       "strength": 75,
@@ -1762,6 +1830,7 @@
       "郭图",
       "郭圖"
     ],
+    "biographyTraditional": "袁紹麾下的謀士。官渡之戰中，當烏巢被\n襲之際，進言「可縱兵先擊曹操之寨」，\n導致袁軍敗北。袁紹死後，成為袁譚的參\n謀。",
     "abilities": {
       "command": 41,
       "strength": 45,
@@ -1787,6 +1856,7 @@
       "郭马",
       "郭馬"
     ],
+    "biographyTraditional": "合浦太守脩允的私軍隊長。脩允死後，被\n命令解散軍隊，於是發動叛亂，亂事擴展\n到交州一帶，招致晉朝伐吳。",
     "abilities": {
       "command": 66,
       "strength": 74,
@@ -1812,6 +1882,7 @@
     "searchAliases": [
       "郭攸之"
     ],
+    "biographyTraditional": "蜀漢大臣，官任侍中。在北伐前諸葛亮上\n奏的「出師表」中，和董允、費禕一併被\n評為誠實純良，可以委之以宮中諸事。",
     "abilities": {
       "command": 15,
       "strength": 9,
@@ -1835,6 +1906,7 @@
     "searchAliases": [
       "霍弋"
     ],
+    "biographyTraditional": "蜀漢之將，霍峻之子，建寧太守。聞知成\n都陷落的消息後，著喪服痛哭，在建寧繼\n續抵抗，但得知劉禪安然無恙後，便率領\n屬下投降。",
     "abilities": {
       "command": 73,
       "strength": 70,
@@ -1862,6 +1934,7 @@
     "searchAliases": [
       "郭淮"
     ],
+    "biographyTraditional": "魏將。擔任行軍司馬，在曹真、司馬懿手\n下統領軍馬。後來就任雍州刺史，追擊背\n叛魏國的夏侯霸，在鐵籠山救出了司馬昭\n。",
     "abilities": {
       "command": 84,
       "strength": 77,
@@ -1891,6 +1964,7 @@
     "searchAliases": [
       "夏侯威"
     ],
+    "biographyTraditional": "魏將，夏侯淵的次子。經司馬懿的推薦，\n與長兄夏侯霸一起成為對蜀漢作戰的先鋒\n，與諸葛亮對抗。後來隨軍討伐公孫淵。",
     "abilities": {
       "command": 68,
       "strength": 70,
@@ -1917,6 +1991,7 @@
       "夏侯渊",
       "夏侯淵"
     ],
+    "biographyTraditional": "魏將，夏侯惇的堂弟。從曹操起兵時就能\n獨當一面，擅長於急襲的猛將。但後來在\n定軍山之戰中，中了蜀將法正的計謀，被\n黃忠斬殺。",
     "abilities": {
       "command": 91,
       "strength": 92,
@@ -1948,6 +2023,7 @@
     "searchAliases": [
       "夏侯恩"
     ],
+    "biographyTraditional": "曹操的隨身之將，負責保管曹操的寶劍「\n青釭」。在長阪坡正顧著搶奪擄掠時，被\n趙雲一槍刺死，「青釭」也被奪去。",
     "abilities": {
       "command": 61,
       "strength": 69,
@@ -1972,6 +2048,7 @@
     "searchAliases": [
       "夏侯和"
     ],
+    "biographyTraditional": "魏將，夏侯淵的四子。口齒伶俐，擅長兵\n法。在司馬懿身邊擔任行軍司馬，與諸葛\n亮率領的蜀漢大軍對峙。",
     "abilities": {
       "command": 54,
       "strength": 51,
@@ -1997,6 +2074,7 @@
     "searchAliases": [
       "夏侯咸"
     ],
+    "biographyTraditional": "魏國武將。２６３年，鍾會與鄧艾伐蜀時\n，為隸屬於鍾會麾下的司馬。",
     "abilities": {
       "command": 64,
       "strength": 62,
@@ -2022,6 +2100,7 @@
     "searchAliases": [
       "夏侯惠"
     ],
+    "biographyTraditional": "魏將，夏侯淵的三子，從年幼時就文才出\n眾。與夏侯和擔任行軍司馬，活躍在對蜀\n漢作戰的最前線。",
     "abilities": {
       "command": 57,
       "strength": 49,
@@ -2048,6 +2127,7 @@
     "searchAliases": [
       "夏侯玄"
     ],
+    "biographyTraditional": "魏國太常卿，夏侯尚之子。與中書令李豐\n等人一起，接受了魏帝曹芳誅殺司馬師的\n血詔，但這個計劃馬上就被發覺，被處以\n腰斬之刑。",
     "abilities": {
       "command": 59,
       "strength": 44,
@@ -2073,6 +2153,7 @@
     "searchAliases": [
       "夏侯尚"
     ],
+    "biographyTraditional": "魏將，夏侯惇之姪。在定軍山之戰中被俘\n，但是與陳式交換人質，得以歸魏。後來\n成為曹真屬下，以三路進攻東吳，但卻敗\n給了陸遜的大軍。",
     "abilities": {
       "command": 75,
       "strength": 71,
@@ -2101,6 +2182,7 @@
     "searchAliases": [
       "夏侯德"
     ],
+    "biographyTraditional": "夏侯惇之姪，夏侯尚之兄。守備天蕩山，\n被蜀將嚴顏放起大火燒山，光顧著滅火之\n時，不慎被嚴顏斬死。",
     "abilities": {
       "command": 64,
       "strength": 73,
@@ -2126,6 +2208,7 @@
     "searchAliases": [
       "夏侯惇"
     ],
+    "biographyTraditional": "魏將，曹操的親戚。在與呂布軍作戰中，\n被曹性的暗箭射中，失去左目，但是，後\n來仍繼續率軍轉戰各地。曹操死後不久，\n他也隨之病死。",
     "abilities": {
       "command": 90,
       "strength": 92,
@@ -2156,6 +2239,7 @@
     "searchAliases": [
       "夏侯霸"
     ],
+    "biographyTraditional": "效忠過魏、蜀漢的武將，夏侯淵的長子。\n曹爽被司馬懿誅殺時，感到自己也身處險\n境，因而逃亡到蜀漢。妹妹是張飛之妻，\n其女成為劉禪的皇后。",
     "abilities": {
       "command": 79,
       "strength": 85,
@@ -2183,6 +2267,7 @@
     "searchAliases": [
       "夏侯楙"
     ],
+    "biographyTraditional": "魏將，夏侯淵之子，夏侯惇的養子（正史\n為夏侯惇的親生）。迎擊來犯的蜀漢大軍\n，但實力不濟，戰敗逃往胡地，從此未歸\n。",
     "abilities": {
       "command": 22,
       "strength": 13,
@@ -2207,6 +2292,7 @@
       "贾充",
       "賈充"
     ],
+    "biographyTraditional": "魏、晉之臣，賈逵之子，司馬昭的心腹。\n指揮誅殺魏帝曹髦，鍾會之亂後赴蜀地以\n收拾成都的混亂。在討伐東吳的戰事中，\n態度頗為消極。",
     "abilities": {
       "command": 38,
       "strength": 37,
@@ -2232,6 +2318,7 @@
     "searchAliases": [
       "何植"
     ],
+    "biographyTraditional": "東吳的武衛士。２５８年，丁奉征討孫綝\n時，和魏邈合力逮捕了孫綝的兄弟。",
     "abilities": {
       "command": 17,
       "strength": 24,
@@ -2257,6 +2344,7 @@
       "何进",
       "何進"
     ],
+    "biographyTraditional": "過去是個經營屠宰業的平民百姓，但自從\n其胞妹成為靈帝的皇后後，成為外戚官居\n高位。曾擔任大將軍之職，企圖剷除宦官\n十常侍，但事情敗露，反被謀殺。",
     "abilities": {
       "command": 25,
       "strength": 30,
@@ -2281,6 +2369,7 @@
       "贺齐",
       "賀齊"
     ],
+    "biographyTraditional": "吳將，為孫策、孫權效力。和陸遜一起討\n伐山賊時表現活躍。好奢華，喜用優質華\n麗的兵器、鎧甲、兵船。只出現於正史之\n中。",
     "abilities": {
       "command": 77,
       "strength": 71,
@@ -2311,6 +2400,7 @@
     "searchAliases": [
       "何曾"
     ],
+    "biographyTraditional": "魏臣。勸說司馬昭立長子司馬炎為世子，\n後來司馬炎成為晉王，任命他為丞相。",
     "abilities": {
       "command": 36,
       "strength": 27,
@@ -2337,6 +2427,7 @@
       "何桢",
       "何楨"
     ],
+    "biographyTraditional": "魏臣，晉朝時任尚書光祿大夫。當東吳的\n張儼來弔唁司馬昭時，與羊祜結為莫逆之\n交。",
     "abilities": {
       "command": 70,
       "strength": 64,
@@ -2366,6 +2457,7 @@
       "贾范",
       "賈範"
     ],
+    "biographyTraditional": "公孫淵麾下之將。勸阻公孫淵自稱燕王，\n惹得公孫淵大怒，因而被處斬。後來，其\n子孫被討伐公孫淵的司馬懿授予爵位。",
     "abilities": {
       "command": 64,
       "strength": 59,
@@ -2392,6 +2484,7 @@
       "华雄",
       "華雄"
     ],
+    "biographyTraditional": "董卓麾下的猛將，身長九尺。在汜水關之\n戰中大破孫堅軍，原本想乘勝追擊，但卻\n死在關羽刀下。正史中的記載則是相反，\n說他敗給孫堅後被斬殺。",
     "abilities": {
       "command": 78,
       "strength": 93,
@@ -2419,6 +2512,7 @@
       "关彝",
       "關彝"
     ],
+    "biographyTraditional": "關興的庶子。由於關興的嫡子關統沒有子\n嗣，因此由他繼承家業。鍾會叛亂之時被\n魏兵殺死。為漢壽亭侯。",
     "abilities": {
       "command": 44,
       "strength": 64,
@@ -2444,6 +2538,7 @@
       "韩胤",
       "韓胤"
     ],
+    "biographyTraditional": "袁術的武將。為袁術之子與呂布之女的親\n事，被派遣至呂布之處提親，後來呂布和\n袁術交惡，被送至許昌，遭曹操所斬。",
     "abilities": {
       "command": 27,
       "strength": 30,
@@ -2468,6 +2563,7 @@
       "关羽",
       "關羽"
     ],
+    "biographyTraditional": "蜀漢五虎大將之首。與劉備、張飛結為異\n姓兄弟。武藝超群，據說能「力敵萬軍」\n。劉備入蜀後，他鎮守荊州，最後被吳軍\n俘虜斬首。",
     "abilities": {
       "command": 93,
       "strength": 97,
@@ -2500,6 +2596,7 @@
     "searchAliases": [
       "管亥"
     ],
+    "biographyTraditional": "黃巾黨將領。黃巾之亂後，率領數萬餘黨\n襲擊北海，與前來救援的劉備軍會戰，並\n單挑關羽，力鬥幾十回合，最後戰死。",
     "abilities": {
       "command": 69,
       "strength": 80,
@@ -2525,6 +2622,7 @@
       "毌丘俭",
       "毌丘儉"
     ],
+    "biographyTraditional": "魏將。反對司馬師廢曹芳，與揚州刺史文\n欽一起發動叛亂，但判變失敗，逃往慎縣\n投奔縣令宋白，卻受騙被殺。",
     "abilities": {
       "command": 81,
       "strength": 76,
@@ -2552,6 +2650,7 @@
     "searchAliases": [
       "毌丘秀"
     ],
+    "biographyTraditional": "毌丘儉的小弟。參加毌丘儉的叛亂，但因\n文欽戰敗，和毌丘儉一起逃往吳國。",
     "abilities": {
       "command": 62,
       "strength": 61,
@@ -2576,6 +2675,7 @@
     "searchAliases": [
       "毌丘甸"
     ],
+    "biographyTraditional": "毌丘儉的長子。曹芳被司馬師逼迫退位後\n，促使父親毌丘儉叛亂，並發兵離開洛陽\n，但不久便被殺了。",
     "abilities": {
       "command": 64,
       "strength": 51,
@@ -2598,6 +2698,7 @@
       "韩玄",
       "韓玄"
     ],
+    "biographyTraditional": "長沙太守。因部屬黃忠沒有射中關羽，而\n懷疑其通敵，欲殺之，可是反而被魏延殺\n死。性情急躁。",
     "abilities": {
       "command": 10,
       "strength": 29,
@@ -2622,6 +2723,7 @@
       "韩浩",
       "韓浩"
     ],
+    "biographyTraditional": "曹操麾下之將。本是袁術屬下，經夏侯惇\n勸說，轉而效忠曹操。他向曹操進言，陳\n述屯田制的必要。演義中為長沙太守韓玄\n之弟。",
     "abilities": {
       "command": 62,
       "strength": 71,
@@ -2647,6 +2749,7 @@
       "关兴",
       "關興"
     ],
+    "biographyTraditional": "蜀漢將軍，關羽的次子。劉備起兵征討東\n吳時，為報父仇而加入復仇軍。與張飛之\n子張苞義結金蘭，一同活躍於北伐戰場。",
     "abilities": {
       "command": 76,
       "strength": 86,
@@ -2676,6 +2779,7 @@
       "关索",
       "關索"
     ],
+    "biographyTraditional": "蜀漢將軍，關羽的三子。荊州陷落時身負\n重傷，逃到鮑家莊靜養。南征之時，回歸\n蜀漢擔任先鋒，用計捉到孟獲。",
     "abilities": {
       "command": 71,
       "strength": 81,
@@ -2703,6 +2807,7 @@
       "韩遂",
       "韓遂"
     ],
+    "biographyTraditional": "東漢的并州刺史。結義兄弟馬騰被曹操殺\n害後，與馬騰之子馬超起兵，可是中了曹\n操的離間計，欲投降曹操時，被馬超砍下\n左臂。",
     "abilities": {
       "command": 84,
       "strength": 70,
@@ -2733,6 +2838,7 @@
       "韩嵩",
       "韓嵩"
     ],
+    "biographyTraditional": "劉表麾下的謀士，從事中郎將。為了探明\n曹操的情況去許昌偵察，而被朝廷封為侍\n中、零陵太守。歸國後，被為了此事而大\n怒的劉表打入大牢。",
     "abilities": {
       "command": 31,
       "strength": 16,
@@ -2758,6 +2864,7 @@
       "关靖",
       "關靖"
     ],
+    "biographyTraditional": "吳將。當孫亮密謀誅殺孫綝時，受命與全\n紀一起攻佔城門，但計劃敗露，遭處斬。",
     "abilities": {
       "command": 39,
       "strength": 61,
@@ -2783,6 +2890,7 @@
       "韩暹",
       "韓暹"
     ],
+    "biographyTraditional": "河東郡「白波賊」的大將，與董承、楊奉\n等人一起護送獻帝去洛陽。因害怕曹操的\n威勢，和楊奉聯手對抗曹操，後來被關羽\n、張飛殺死。",
     "abilities": {
       "command": 71,
       "strength": 69,
@@ -2808,6 +2916,7 @@
       "阚泽",
       "闞澤"
     ],
+    "biographyTraditional": "孫權麾下的謀士。協助黃蓋、周瑜使「苦\n肉計」，自己出任使者親赴曹營，促使計\n策成功。蜀軍大舉進攻時，推薦年輕的陸\n遜為大都督。",
     "abilities": {
       "command": 34,
       "strength": 50,
@@ -2835,6 +2944,7 @@
       "韩忠",
       "韓忠"
     ],
+    "biographyTraditional": "黃巾黨將士。和孫仲、趙弘共同攻佔宛城\n，與朱䊵、劉備等黃巾討伐軍進行交戰，\n身中流箭戰死。",
     "abilities": {
       "command": 67,
       "strength": 68,
@@ -2859,6 +2969,7 @@
       "关统",
       "關統"
     ],
+    "biographyTraditional": "蜀漢之將，關興之子，關羽之孫。從父親\n那裡繼承了漢壽亭侯之位，娶了公主，任\n虎賁中郎將。只出現在正史當中。",
     "abilities": {
       "command": 68,
       "strength": 55,
@@ -2886,6 +2997,7 @@
       "韩当",
       "韓當"
     ],
+    "biographyTraditional": "吳將。孫氏三朝元老，參加過進攻揚州、\n赤壁、征討關羽、夷陵等許多戰役，是東\n吳水軍將領。",
     "abilities": {
       "command": 78,
       "strength": 86,
@@ -2915,6 +3027,7 @@
       "韩德",
       "韓德"
     ],
+    "biographyTraditional": "東吳的中書郎。受孫綝之令駐守武昌，到\n孫皓即位，昇任司空。由於名字的「宗」\n與孫皓的字元宗同，為了避諱，故改名為\n孟仁。",
     "abilities": {
       "command": 65,
       "strength": 79,
@@ -2939,6 +3052,7 @@
       "甘宁",
       "甘寧"
     ],
+    "biographyTraditional": "吳將，海盜出身，人稱「錦帆賊」。在黃\n祖手下鬱鬱不得志，藉助蘇飛之力歸順孫\n權。在進攻黃祖、赤壁之戰、對魏作戰中\n表現勇猛，深得孫權的信任。",
     "abilities": {
       "command": 87,
       "strength": 94,
@@ -2970,6 +3084,7 @@
       "桓范",
       "桓範"
     ],
+    "biographyTraditional": "魏臣，大司農。深得曹爽信任，被稱為「\n智囊」。勸阻欲投降司馬懿的曹爽，並堅\n持抗戰到底，但不被曹爽接納。",
     "abilities": {
       "command": 26,
       "strength": 12,
@@ -2995,6 +3110,7 @@
       "韩馥",
       "韓馥"
     ],
+    "biographyTraditional": "東漢的冀州牧。率軍參加討伐董卓聯軍。\n同盟決裂後，被尋找根據地的袁紹奪取了\n冀州，拋下妻兒去投奔張邈。",
     "abilities": {
       "command": 20,
       "strength": 5,
@@ -3017,6 +3133,7 @@
       "关平",
       "關平"
     ],
+    "biographyTraditional": "劉備麾下之將，關定的次子。得關羽喜愛\n，成為其義子。劉備入蜀後，他隨關羽鎮\n守荊州。敗走麥城時被吳軍俘虜，遭斬首\n。正史中並無關於義子的記述。",
     "abilities": {
       "command": 77,
       "strength": 82,
@@ -3047,6 +3164,7 @@
       "简雍",
       "簡雍"
     ],
+    "biographyTraditional": "劉備麾下大臣，與劉備是同鄉。從義勇軍\n時代就跟隨劉備，擔任使者、參謀等職表\n現活躍。入蜀後，被任命為昭德將軍。據\n說是漫不經心的人。",
     "abilities": {
       "command": 22,
       "strength": 31,
@@ -3072,6 +3190,7 @@
       "颜良",
       "顏良"
     ],
+    "biographyTraditional": "袁紹麾下的猛將。白馬坡之戰中擔任先鋒\n，斬殺宋憲、魏續，又擊退猛將徐晃，但\n卻被當時身在曹營的關羽一刀劈死。",
     "abilities": {
       "command": 83,
       "strength": 95,
@@ -3098,6 +3217,7 @@
     "searchAliases": [
       "魏延"
     ],
+    "biographyTraditional": "蜀漢之將。原是劉表的屬下，後來為劉備\n效力，成為僅次於五虎大將的猛將。諸葛\n亮死後，他與參謀楊儀對立，被接受孔明\n遺計指示的馬岱斬殺。",
     "abilities": {
       "command": 83,
       "strength": 92,
@@ -3127,6 +3247,7 @@
       "曲义",
       "麴義"
     ],
+    "biographyTraditional": "袁紹麾下之將。界橋之戰時指揮中軍，斬\n殺了公孫瓚的部將嚴綱，但在追擊敵兵時\n，死在趙雲的手裡。據正史記載，他因生\n性傲慢被袁紹疏遠，之後便被肅清殺之。",
     "abilities": {
       "command": 77,
       "strength": 72,
@@ -3155,6 +3276,7 @@
       "戏志才",
       "戲志才"
     ],
+    "biographyTraditional": "曹操麾下大臣，經荀彧推薦為曹操效力。\n專長計謀，雖受到重用，可惜英年早逝，\n之後荀彧便推薦郭嘉以接替戲志才。此人\n只見於正史之中。",
     "abilities": {
       "command": 30,
       "strength": 7,
@@ -3180,6 +3302,7 @@
       "魏续",
       "魏續"
     ],
+    "biographyTraditional": "呂布麾下之將。與侯成、宋憲一起背叛呂\n布，投降了曹操。白馬之戰中挑戰顏良，\n只一個回合就被斬於刀下。",
     "abilities": {
       "command": 70,
       "strength": 75,
@@ -3205,6 +3328,7 @@
     "searchAliases": [
       "魏邈"
     ],
+    "biographyTraditional": "魏國的從事中郎。賈充上奏擊殺在沓中屯\n田的姜維時，他向司馬昭進言應當直接發\n兵征討腐敗的蜀國。後來羊祜提征吳論，\n卻是與賈充一同反對。",
     "abilities": {
       "command": 62,
       "strength": 62,
@@ -3230,6 +3354,7 @@
     "searchAliases": [
       "魏攸"
     ],
+    "biographyTraditional": "劉虞麾下之將，右北平之人。勸諫欲討伐\n公孫瓚的劉虞，應大事化小，小事化無。\n此人只出現在正史裡。",
     "abilities": {
       "command": 48,
       "strength": 30,
@@ -3255,6 +3380,7 @@
     "searchAliases": [
       "牛金"
     ],
+    "biographyTraditional": "曹仁麾下之將。對吳作戰中，將甘寧困在\n夷陵城，但是被前來救援的周瑜衝破包圍\n。為扭轉態勢，欲夜襲周瑜寨營，可是被\n識破，招致大敗。",
     "abilities": {
       "command": 73,
       "strength": 80,
@@ -3280,6 +3406,7 @@
     "searchAliases": [
       "丘建"
     ],
+    "biographyTraditional": "魏國的西曹掾。當司馬昭令鍾會伐蜀時，\n曾進言說鍾會胸懷野心，不可獨掌大權，\n但司馬昭回答他早已知情。",
     "abilities": {
       "command": 46,
       "strength": 51,
@@ -3305,6 +3432,7 @@
       "牛辅",
       "牛輔"
     ],
+    "biographyTraditional": "董卓的女婿。董卓進京之時，負責守備陝\n西。董卓死後，與李傕等人一起襲擊長安\n，但是被呂布擊退，挾帶財寶逃亡途中，\n被心腹胡赤兒殺死。",
     "abilities": {
       "command": 32,
       "strength": 60,
@@ -3328,6 +3456,7 @@
     "searchAliases": [
       "丘本"
     ],
+    "biographyTraditional": "在鄧艾伐蜀時擔任監軍。綿竹關之戰中，\n曾勸說諸葛瞻投降，遭到拒絕後，便進言\n採用奇襲攻城。",
     "abilities": {
       "command": 53,
       "strength": 35,
@@ -3353,6 +3482,7 @@
       "姜维",
       "姜維"
     ],
+    "biographyTraditional": "蜀漢將軍。原為魏國效力，在諸葛亮第一\n次北伐時，歸順蜀漢。諸葛亮臨終時，將\n兵法傳授給他。九度發動北伐，使得國力\n衰退。",
     "abilities": {
       "command": 85,
       "strength": 89,
@@ -3386,6 +3516,7 @@
       "巩志",
       "鞏志"
     ],
+    "biographyTraditional": "武陵太守金旋麾下的從事。張飛發兵來犯\n時，他勸金旋投降，但不被採納，後來金\n旋敵不過張飛逃回，他便取了金旋的首級\n投降，並被任命為武陵太守。",
     "abilities": {
       "command": 44,
       "strength": 54,
@@ -3411,6 +3542,7 @@
       "桥蕤",
       "橋蕤"
     ],
+    "biographyTraditional": "袁術麾下之將。曹操攻打袁術時，擔任迎\n擊的先鋒，在壽春與曹操軍大戰，被夏侯\n惇所殺。據正史記載，他曾經被袁術任命\n為大將軍。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -3439,6 +3571,7 @@
       "龚都",
       "龔都"
     ],
+    "biographyTraditional": "黃巾黨將領。黃巾之亂後，率領賊軍盤踞\n在汝南。官渡之戰時，在曹操軍後面擾亂\n，以協助袁紹與劉備。最後在與曹操軍的\n戰鬥中，被夏侯淵殺死。",
     "abilities": {
       "command": 64,
       "strength": 72,
@@ -3463,6 +3596,7 @@
       "桥瑁",
       "橋瑁"
     ],
+    "biographyTraditional": "東漢的東郡太守，曾率軍參加討伐董卓的\n聯軍。聯盟決裂後，因為拒絕了劉岱借軍\n糧的請求而被殺。喬玄之姪。",
     "abilities": {
       "command": 62,
       "strength": 53,
@@ -3489,6 +3623,7 @@
       "许仪",
       "許儀"
     ],
+    "biographyTraditional": "魏將，猛將許褚之子。討伐蜀漢時為鍾會\n的部屬，擔任先鋒負責開道，但當鍾會在\n通過時，腳下道路卻崩塌，因而遭處斬。",
     "abilities": {
       "command": 59,
       "strength": 76,
@@ -3514,6 +3649,7 @@
       "许贡",
       "許貢"
     ],
+    "biographyTraditional": "吳郡太守。欲送密信給曹操，要曹操注意\n孫策，卻被孫策發現而遭殺身之禍。後來\n他的三名食客為了報仇去襲擊孫策，使孫\n策受了重傷。",
     "abilities": {
       "command": 45,
       "strength": 68,
@@ -3542,6 +3678,7 @@
       "许靖",
       "許靖"
     ],
+    "biographyTraditional": "蜀漢大臣。劉備勸說劉璋投降時，他最早\n歸順。擅長評論人物，與其堂弟許劭齊名\n。劉備即帝位後，他被封為司徒。",
     "abilities": {
       "command": 13,
       "strength": 13,
@@ -3567,6 +3704,7 @@
       "许褚",
       "許褚"
     ],
+    "biographyTraditional": "魏將，身長八尺的壯漢。與典韋相鬥不分\n勝負，為曹操所賞識，拔擢為貼身護衛。\n平時呆頭呆腦，在戰場上卻英勇無比，所\n以人稱「虎痴」。",
     "abilities": {
       "command": 66,
       "strength": 96,
@@ -3593,6 +3731,7 @@
       "许攸",
       "許攸"
     ],
+    "biographyTraditional": "袁紹麾下的幕僚。官渡之戰時投降昔日好\n友曹操，告知儲藏軍糧的烏巢情報，得此\n消息後，曹操軍發動奇襲，扭轉局勢取得\n了大勝利。",
     "abilities": {
       "command": 18,
       "strength": 6,
@@ -3618,6 +3757,7 @@
       "纪灵",
       "紀靈"
     ],
+    "biographyTraditional": "袁術麾下之將，慣使三尖刀。劉備軍前來\n攻打時，與名將關羽單挑三十回合不分勝\n負，後來奉袁術之命打劉備，但經呂布調\n解，撤兵而去。",
     "abilities": {
       "command": 74,
       "strength": 81,
@@ -3646,6 +3786,7 @@
       "金环三结",
       "金環三結"
     ],
+    "biographyTraditional": "南蠻王孟獲麾下之將，第一洞元帥。為了\n迎擊蜀漢軍馬，與阿會喃、董荼那一起出\n洞，但遭到夜襲，混亂中被趙雲殺死。",
     "abilities": {
       "command": 69,
       "strength": 74,
@@ -3670,6 +3811,7 @@
     "searchAliases": [
       "金旋"
     ],
+    "biographyTraditional": "武陵太守。張飛前來攻打武陵之時，不聽\n屬下鞏志的勸阻而出兵，後來敗給張飛，\n返回城池時被鞏志射死。",
     "abilities": {
       "command": 44,
       "strength": 65,
@@ -3693,6 +3835,7 @@
     "searchAliases": [
       "虞汜"
     ],
+    "biographyTraditional": "虞翻的四子，虞翻之子中最有名聲。與陶\n璜等人攻破交趾，自晉朝手中奪回交州。",
     "abilities": {
       "command": 72,
       "strength": 38,
@@ -3719,6 +3862,7 @@
     "searchAliases": [
       "虞翻"
     ],
+    "biographyTraditional": "會稽的郡吏。因為太守王朗敗給孫策，遂\n投降孫策。向負重傷的周泰推薦了名醫華\n佗。後來勸降蜀將傅士仁，為佔領荊州作\n出貢獻。",
     "abilities": {
       "command": 37,
       "strength": 48,
@@ -3748,6 +3892,7 @@
       "邢道荣",
       "邢道榮"
     ],
+    "biographyTraditional": "劉度麾下之將。與劉備軍對壘，但是不敵\n張飛、趙雲而投降劉備。被釋放後捲土重\n來，卻被趙雲一槍從馬上挑落。",
     "abilities": {
       "command": 62,
       "strength": 77,
@@ -3772,6 +3917,7 @@
       "郄正",
       "郤正"
     ],
+    "biographyTraditional": "蜀漢之臣。諸葛亮北伐時，打理內政，蜀\n漢滅亡後，被押往洛陽。在宴席上勸諫樂\n不思蜀的愚庸劉禪。官拜蜀國秘書令。",
     "abilities": {
       "command": 6,
       "strength": 4,
@@ -3797,6 +3943,7 @@
       "严颜",
       "嚴顏"
     ],
+    "biographyTraditional": "劉備麾下之將。原本是劉璋的屬下，負責\n守衛巴郡，後來與張飛作戰時被俘，但感\n於張飛之義，因此歸順劉備。攻打漢中時\n，跟隨黃忠活躍在戰場之上。",
     "abilities": {
       "command": 77,
       "strength": 82,
@@ -3826,6 +3973,7 @@
       "牵弘",
       "牽弘"
     ],
+    "biographyTraditional": "蜀將。蔣琬之子。２５８年冬，參加姜維\n的北伐後，便負責守護漢城。後來得知鍾\n會的蜀漢討伐軍攻陷漢中，就開門投降了\n。",
     "abilities": {
       "command": 74,
       "strength": 70,
@@ -3852,6 +4000,7 @@
       "严纲",
       "嚴綱"
     ],
+    "biographyTraditional": "公孫瓚麾下之將。界橋之戰中，率領一軍\n迎敵，敗給了袁紹軍的麴義，遭到斬殺。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -3879,6 +4028,7 @@
       "严畯",
       "嚴畯"
     ],
+    "biographyTraditional": "孫權麾下之臣。與出任同盟使者來訪的諸\n葛亮舌戰，反而自取其辱。孫權即帝位後\n，被任命為衛尉，後來做了尚書令。",
     "abilities": {
       "command": 19,
       "strength": 4,
@@ -3905,6 +4055,7 @@
       "严政",
       "嚴政"
     ],
+    "biographyTraditional": "黃巾黨，張寶麾下武將。在朱䊵等官軍和\n劉備軍的攻勢下，固守在陽城縣城。他絕\n望地感到城池陷落不可避免，於是刺死張\n寶，投降了官軍。",
     "abilities": {
       "command": 52,
       "strength": 59,
@@ -3929,6 +4080,7 @@
       "严白虎",
       "嚴白虎"
     ],
+    "biographyTraditional": "吳郡的強盜，自稱「東吳德王」。與孫策\n大戰敗北後，投奔會稽的王朗，但又再次\n敗給了孫策，逃跑時死於董襲之手，首級\n被獻給孫策。",
     "abilities": {
       "command": 66,
       "strength": 69,
@@ -3954,6 +4106,7 @@
       "严舆",
       "嚴輿"
     ],
+    "biographyTraditional": "嚴白虎之弟。嚴白虎被孫策打敗後，擔任\n和談的使者，但在談判桌上提議平分江東\n，被震怒的孫策斬殺。",
     "abilities": {
       "command": 65,
       "strength": 78,
@@ -3980,6 +4133,7 @@
       "吴懿",
       "吳懿"
     ],
+    "biographyTraditional": "蜀漢之將，劉璋的義兄。於劉備攻打西川\n時投降，之後便當了劉備的部屬，表現活\n躍。其妹日後嫁給劉備為妻（吳夫人）。",
     "abilities": {
       "command": 80,
       "strength": 70,
@@ -4007,6 +4161,7 @@
     "searchAliases": [
       "句安"
     ],
+    "biographyTraditional": "魏國的光祿大夫，張皇后之父。和夏侯玄\n、李豐一起受曹芳之召，共謀誅殺司馬師\n，但在出宮時被發覺曹芳的計劃，三族皆\n被處斬。",
     "abilities": {
       "command": 65,
       "strength": 68,
@@ -4032,6 +4187,7 @@
       "黄盖",
       "黃蓋"
     ],
+    "biographyTraditional": "吳將。打從孫堅起兵時，就為東吳效力的\n老將，善使鐵鞭。赤壁之戰時，配合周瑜\n行使「苦肉計」，詐降曹操以伺機放火，\n為東吳帶來勝利。",
     "abilities": {
       "command": 79,
       "strength": 83,
@@ -4063,6 +4219,7 @@
       "高干",
       "高幹"
     ],
+    "biographyTraditional": "袁紹外甥，并州刺史。出兵救援在官渡戰\n敗的袁紹，後來在壺關起兵反曹操，與李\n典、樂進等曹操旗下的大將英勇奮戰，但\n最後以失敗告終。",
     "abilities": {
       "command": 71,
       "strength": 65,
@@ -4090,6 +4247,7 @@
       "黄权",
       "黃權"
     ],
+    "biographyTraditional": "為蜀漢、魏國效過力的武將。在劉備麾下\n時，為討伐東吳而率領水軍，但由於蜀方\n大敗，自己孤立無援，不得已而降魏。投\n降後，對劉備始終忠節不改。",
     "abilities": {
       "command": 74,
       "strength": 59,
@@ -4118,6 +4276,7 @@
       "黄皓",
       "黃皓"
     ],
+    "biographyTraditional": "蜀漢的宦官。得到劉禪的寵愛，在宮中作\n威作福，更向後主推薦心腹閻宇，以代姜\n維之職。後來蜀漢滅亡，以亂國之罪被斬\n首。",
     "abilities": {
       "command": 1,
       "strength": 1,
@@ -4141,6 +4300,7 @@
     "searchAliases": [
       "高柔"
     ],
+    "biographyTraditional": "高幹之族弟，魏國的司徒。當司馬懿發動\n謀反時，代替曹爽擔任大將軍，佔據了曹\n爽的陣營。",
     "abilities": {
       "command": 61,
       "strength": 59,
@@ -4167,6 +4327,7 @@
       "高顺",
       "高順"
     ],
+    "biographyTraditional": "呂布麾下之將。跟隨呂布轉戰各地，綽號\n「陷陣營」。呂布戰敗被擒後，一言不發\n從容赴死。",
     "abilities": {
       "command": 89,
       "strength": 86,
@@ -4195,6 +4356,7 @@
     "searchAliases": [
       "高翔"
     ],
+    "biographyTraditional": "蜀漢之將，右將軍。隨諸葛亮北伐，使用\n木牛流馬從劍閣到祁山進行運輸，執行諸\n葛亮的計策，故意讓魏軍奪去木牛流馬。",
     "abilities": {
       "command": 68,
       "strength": 70,
@@ -4221,6 +4383,7 @@
       "高升",
       "高昇"
     ],
+    "biographyTraditional": "黃巾黨，張寶的副將，在曲陽之戰中出陣\n。擔任官軍先鋒的劉備命張飛迎戰，幾個\n回合就被張飛挑落馬下。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -4247,6 +4410,7 @@
       "黄崇",
       "黃崇"
     ],
+    "biographyTraditional": "黃權之子。當黃權降魏後，仍然留在蜀漢\n，後來鄧艾攻打蜀國，與諸葛瞻一起守綿\n竹關，共同戰死沙場。",
     "abilities": {
       "command": 70,
       "strength": 64,
@@ -4273,6 +4437,7 @@
     "searchAliases": [
       "侯成"
     ],
+    "biographyTraditional": "呂布麾下之將。守城時違反了禁酒令，遭\n到杖責，因此看透呂布，與魏續、宋憲決\n定一起叛變，盜走赤兔馬，投降於曹操。",
     "abilities": {
       "command": 73,
       "strength": 72,
@@ -4300,6 +4465,7 @@
       "侯选",
       "侯選"
     ],
+    "biographyTraditional": "韓遂的武將。２１１年當馬超起兵時，跟\n隨韓遂與曹操交戰，後來馬超和韓遂決裂\n，隨著韓遂一起降了曹操。",
     "abilities": {
       "command": 66,
       "strength": 71,
@@ -4326,6 +4492,7 @@
       "黄祖",
       "黃祖"
     ],
+    "biographyTraditional": "劉表麾下之將，江夏的守將。在酒席上斬\n殺了奇才禰衡。冷淡對待海賊出身的甘寧\n，致使其降吳，後來遭到已經成為吳將的\n甘寧攻打，不敵被殺。",
     "abilities": {
       "command": 70,
       "strength": 68,
@@ -4353,6 +4520,7 @@
       "公孙越",
       "公孫越"
     ],
+    "biographyTraditional": "公孫瓚之弟。以使者的身份，向袁紹交涉\n分割冀州，但袁紹不從，於歸路時遭到伏\n兵暗殺。",
     "abilities": {
       "command": 77,
       "strength": 70,
@@ -4380,6 +4548,7 @@
       "公孙渊",
       "公孫淵"
     ],
+    "biographyTraditional": "燕王。公孫康之子。趁魏、吳戰亂自稱燕\n王，對魏國發動叛亂，後來敗給司馬懿率\n領的討伐軍，投降不成，在企圖逃亡時被\n斬殺。",
     "abilities": {
       "command": 64,
       "strength": 71,
@@ -4408,6 +4577,7 @@
       "公孙恭",
       "公孫恭"
     ],
+    "biographyTraditional": "公孫康之弟。建議公孫康殺了袁熙等人，\n再將首級獻給曹操。兄長死後，繼承其爵\n位，被任命為車騎將軍，但後來被姪子公\n孫淵奪去位子。",
     "abilities": {
       "command": 39,
       "strength": 20,
@@ -4434,6 +4604,7 @@
       "公孙康",
       "公孫康"
     ],
+    "biographyTraditional": "公孫度之子。斬了敗給曹操軍後逃來的袁\n熙、袁尚兄弟，將首級獻給曹操。由於此\n功績，被曹操授予襄平侯、左將軍之位。",
     "abilities": {
       "command": 71,
       "strength": 64,
@@ -4461,6 +4632,7 @@
       "公孙瓒",
       "公孫瓚"
     ],
+    "biographyTraditional": "東漢的北平太守，與劉備一起師從盧植。\n所率精銳部隊全數騎乘清一色的白馬，在\n討伐黃巾黨和鎮壓外族中表現活躍。",
     "abilities": {
       "command": 82,
       "strength": 85,
@@ -4491,6 +4663,7 @@
       "公孙续",
       "公孫續"
     ],
+    "biographyTraditional": "公孫瓚的兒子。和父親一起大戰袁紹，於\n易京之戰中大敗，在失火的樓閣中與父母\n一同自殺。此人只記載於正史裡。",
     "abilities": {
       "command": 65,
       "strength": 66,
@@ -4518,6 +4691,7 @@
       "公孙度",
       "公孫度"
     ],
+    "biographyTraditional": "東漢的遼東太守、武威將軍，建有討伐烏\n丸的功績，公孫康之父。在中原戰亂不斷\n之際，仍能在遼東保持獨立。",
     "abilities": {
       "command": 70,
       "strength": 66,
@@ -4546,6 +4720,7 @@
       "公孙范",
       "公孫範"
     ],
+    "biographyTraditional": "公孫瓚的堂弟。為了安撫為弟弟公孫越報\n仇而出兵的公孫瓚，袁紹將渤海太守印綬\n，讓給了公孫範。此人只記載於正史裡。",
     "abilities": {
       "command": 73,
       "strength": 68,
@@ -4568,12 +4743,13 @@
   },
   {
     "id": 175,
-    "nameSimplified": "孔侑",
+    "nameSimplified": "孔伷",
     "nameTraditional": "孔伷",
     "searchAliases": [
-      "孔侑",
-      "孔伷"
+      "孔伷",
+      "孔侑"
     ],
+    "biographyTraditional": "東漢的豫州刺史，率軍加入反董卓聯盟。\n據正史記載，此人擅長批判人物、清談高\n論，但是作為軍隊的指揮官，卻是個無能\n之輩。",
     "abilities": {
       "command": 21,
       "strength": 18,
@@ -4600,6 +4776,7 @@
       "黄忠",
       "黃忠"
     ],
+    "biographyTraditional": "蜀漢之將，曾先後為劉表、韓玄效力過。\n在韓玄的麾下時，與關羽有過一場激戰，\n歸順劉備後，也領軍活躍在戰場上。劉備\n即位漢中王時，被任命為五虎大將。",
     "abilities": {
       "command": 84,
       "strength": 93,
@@ -4631,6 +4808,7 @@
     "searchAliases": [
       "高定"
     ],
+    "biographyTraditional": "蜀漢之臣，越雋太守。與雍闓一起發動叛\n亂，可是中了諸葛亮的離間計，只好投降\n。後來因誅殺雍闓、朱褒有功，被任命為\n益州太守。",
     "abilities": {
       "command": 54,
       "strength": 63,
@@ -4655,6 +4833,7 @@
     "searchAliases": [
       "高沛"
     ],
+    "biographyTraditional": "劉璋麾下之將，與楊懷一起負責涪水關的\n守備。計劃暗算劉備，但是被劉備的軍師\n龐統發覺，自己反而上當被斬。",
     "abilities": {
       "command": 72,
       "strength": 60,
@@ -4682,6 +4861,7 @@
       "皇甫闿",
       "皇甫闓"
     ],
+    "biographyTraditional": "魏將。２６３年，在鍾會與鄧艾攻打蜀漢\n時，擔任鍾會的參軍。",
     "abilities": {
       "command": 62,
       "strength": 42,
@@ -4707,6 +4887,7 @@
     "searchAliases": [
       "皇甫嵩"
     ],
+    "biographyTraditional": "東漢之臣。黃巾之亂時，用火攻大破張梁\n、張寶軍，掘出張角之墓，從屍體上砍下\n首級。一度下野，董卓死後又回朝為官。\n任太尉。",
     "abilities": {
       "command": 85,
       "strength": 56,
@@ -4733,6 +4914,7 @@
     "searchAliases": [
       "孔融"
     ],
+    "biographyTraditional": "東漢的北海太守，孔子第二十代子孫，「\n建安七子」之一。參加過討伐董卓聯盟，\n後來為曹操效力，但是因為勸阻其攻打劉\n備而被處死。",
     "abilities": {
       "command": 23,
       "strength": 7,
@@ -4757,6 +4939,7 @@
       "高览",
       "高覽"
     ],
+    "biographyTraditional": "袁紹麾下之將。官渡之戰中與曹操軍的猛\n將許褚交戰，後來與同僚張郃一起歸順曹\n操。日後攻打汝南的劉備軍，斬殺了劉辟\n。",
     "abilities": {
       "command": 73,
       "strength": 78,
@@ -4783,6 +4966,7 @@
       "胡渊",
       "胡淵"
     ],
+    "biographyTraditional": "蜀漢的尚書，張苞之子，張飛之孫。當鄧\n艾越過陰平攻打綿竹時，和諸葛瞻一同守\n備城池，後來諸葛瞻父子戰死，他也出城\n殺出，力戰而亡。",
     "abilities": {
       "command": 70,
       "strength": 77,
@@ -4809,6 +4993,7 @@
     "searchAliases": [
       "伍延"
     ],
+    "biographyTraditional": "東吳的左將軍。當孫皓欲舉兵伐晉時，陸\n抗上奏不可，於是孫皓怒而罷其兵權，並\n令孫冀代領其軍，擔任總指揮。",
     "abilities": {
       "command": 70,
       "strength": 72,
@@ -4836,6 +5021,7 @@
       "吴巨",
       "吳巨"
     ],
+    "biographyTraditional": "沒有出現在演義中。據正史記載，曾得到\n劉表之助而任蒼梧太守，與劉備是舊識。\n後來被孫權派遣的交州刺史步騭，以不服\n從為由斬殺。",
     "abilities": {
       "command": 41,
       "strength": 61,
@@ -4861,6 +5047,7 @@
       "吾彦",
       "吾彥"
     ],
+    "biographyTraditional": "吳將，建平太守。由長江之中漂流而來的\n大量木屑，得知晉軍正在建造軍船準備來\n犯。後來死守建平郡以擋晉軍，在得知吳\n主孫皓降晉後，也跟著投降。",
     "abilities": {
       "command": 73,
       "strength": 70,
@@ -4890,6 +5077,7 @@
       "吴纲",
       "吳綱"
     ],
+    "biographyTraditional": "魏臣，長史，諸葛誕的心腹。叛亂之時為\n請求援軍而任使者赴吳，以諸葛誕之子諸\n葛靚為人質，並送到東吳，完成了使命。",
     "abilities": {
       "command": 52,
       "strength": 39,
@@ -4914,6 +5102,7 @@
       "胡济",
       "胡濟"
     ],
+    "biographyTraditional": "東吳的前將軍。率領水軍迎擊進逼建業的\n晉朝王濬軍，但士兵皆逃亡，只好開城投\n降，讓晉軍進入石頭城。",
     "abilities": {
       "command": 63,
       "strength": 45,
@@ -4939,6 +5128,7 @@
     "searchAliases": [
       "吾粲"
     ],
+    "biographyTraditional": "吳將。孫策死後，孫權召募江東人材時應\n召而來。當孫和與孫霸爭奪繼位時，因為\n擁立孫和，受了讒言而死在獄中。",
     "abilities": {
       "command": 63,
       "strength": 47,
@@ -4968,6 +5158,7 @@
       "胡质",
       "胡質"
     ],
+    "biographyTraditional": "魏將，東莞太守。２２８年，東吳的周魴\n詐降時，與滿寵一起納入賈逵的旗下，以\n防備吳軍。",
     "abilities": {
       "command": 75,
       "strength": 31,
@@ -4995,6 +5186,7 @@
       "吴质",
       "吳質"
     ],
+    "biographyTraditional": "魏臣，朝歌縣長。曹丕與曹植爭位時，躲\n在裝絹匹的箱子中，載入曹丕府密談商議\n，此事經人告發後，之後只在箱子中裝絹\n布，才逃過責難。",
     "abilities": {
       "command": 17,
       "strength": 27,
@@ -5020,6 +5212,7 @@
       "胡车儿",
       "胡車兒"
     ],
+    "biographyTraditional": "張繡麾下的勇士，外族出身，是張繡軍中\n頭號豪傑，據說能背負五百斤並日行七百\n里。與曹操作戰時，建議盜取典韋的雙戟\n，並親自實行計劃。",
     "abilities": {
       "command": 31,
       "strength": 76,
@@ -5043,6 +5236,7 @@
     "searchAliases": [
       "胡遵"
     ],
+    "biographyTraditional": "魏將，征東將軍。討伐公孫淵時擔任先鋒\n，後來毌丘儉叛亂，與鄧艾、王基一起指\n揮兵馬，打敗毌丘儉，平定了淮南一帶。",
     "abilities": {
       "command": 75,
       "strength": 78,
@@ -5071,6 +5265,7 @@
       "胡轸",
       "胡軫"
     ],
+    "biographyTraditional": "董卓的武將。當袁紹的聯軍攻打董卓時，\n以守衛汜水關的華雄副將參戰，後來被孫\n堅軍的程普所殺。",
     "abilities": {
       "command": 62,
       "strength": 77,
@@ -5096,6 +5291,7 @@
       "顾谭",
       "顧譚"
     ],
+    "biographyTraditional": "顧雍之孫，與諸葛恪等人為孫登的太子四\n友。當孫和與孫霸爭奪繼位時，由於擁立\n孫和，被孫霸的親信陷害，因而被流放，\n憤死他鄉。",
     "abilities": {
       "command": 37,
       "strength": 30,
@@ -5122,6 +5318,7 @@
       "胡冲",
       "胡沖"
     ],
+    "biographyTraditional": "吳將，丁奉之弟。呼應正在綿竹城和鄧艾\n交戰的諸葛瞻之請求，任丁奉副將的丁封\n和孫異一起前往救援，但晚到了一步。",
     "abilities": {
       "command": 19,
       "strength": 17,
@@ -5146,6 +5343,7 @@
     "searchAliases": [
       "兀突骨"
     ],
+    "biographyTraditional": "烏戈國國王，身長十二尺（約２８８公分\n）的巨漢。率領刀槍不入的藤甲軍與蜀漢\n軍作戰，但是在盤蛇谷被燒死。",
     "abilities": {
       "command": 72,
       "strength": 81,
@@ -5171,6 +5369,7 @@
     "searchAliases": [
       "胡班"
     ],
+    "biographyTraditional": "王植麾下從事。奉命放火夜襲千里尋兄的\n關羽，但是卻將關羽放走。後來去荊州投\n奔關羽，成為劉備的屬下。",
     "abilities": {
       "command": 57,
       "strength": 57,
@@ -5196,6 +5395,7 @@
       "吴班",
       "吳班"
     ],
+    "biographyTraditional": "蜀漢將軍。吳懿的族弟，原本是劉璋的屬\n下。討伐東吳時任先鋒，首次旗開得勝，\n在夷陵包圍了孫桓。北伐戰中，被魏將張\n虎、樂琳射殺。",
     "abilities": {
       "command": 73,
       "strength": 72,
@@ -5222,6 +5422,7 @@
       "胡奋",
       "胡奮"
     ],
+    "biographyTraditional": "晉將。鎮壓了諸葛誕的叛亂，並任平南將\n軍參加討伐東吳。反對杜預的急進策略，\n卻被杜預以「應利用此破竹之勢」駁回。",
     "abilities": {
       "command": 76,
       "strength": 82,
@@ -5250,6 +5451,7 @@
       "顾雍",
       "顧雍"
     ],
+    "biographyTraditional": "吳臣。原來是蔡邕門生，經張紘推薦，為\n孫權效力。孫權即帝位時，被封為丞相。\n據說此人沉默寡言，滴酒不沾。",
     "abilities": {
       "command": 19,
       "strength": 19,
@@ -5277,6 +5479,7 @@
       "吴兰",
       "吳蘭"
     ],
+    "biographyTraditional": "劉備麾下之將。原本是劉璋屬下，劉備入\n蜀後就歸順了劉備。跟隨馬超，在漢中對\n魏作戰中表現活躍。斜谷之戰中，與曹操\n之子曹彰交手，不敵被殺。",
     "abilities": {
       "command": 69,
       "strength": 76,
@@ -5302,6 +5505,7 @@
     "searchAliases": [
       "胡烈"
     ],
+    "biographyTraditional": "魏國的牙門將軍，負責守衛合淝新城。當\n吳國的諸葛恪包圍新城，即將攻破時，他\n假意投降，等修好城牆後又再登城罵戰，\n頑強抵抗直到吳軍退兵。",
     "abilities": {
       "command": 77,
       "strength": 66,
@@ -5330,6 +5534,7 @@
     "searchAliases": [
       "崔琰"
     ],
+    "biographyTraditional": "袁紹麾下大臣。因為獻計不被採納，辭官\n不做。袁紹失敗後，成為曹操的屬下。因\n為反對曹操即魏王之位，被投入牢獄，賜\n死於在獄中。",
     "abilities": {
       "command": 23,
       "strength": 59,
@@ -5354,6 +5559,7 @@
     "searchAliases": [
       "蔡和"
     ],
+    "biographyTraditional": "蔡瑁的堂弟。赤壁之戰中與蔡中一起投降\n東吳，可是，識破他們詐降的周瑜趁機使\n「苦肉計」，藉他們的手傳假情報給曹操\n。",
     "abilities": {
       "command": 43,
       "strength": 50,
@@ -5379,6 +5585,7 @@
       "蔡贡",
       "蔡貢"
     ],
+    "biographyTraditional": "吳將。２７２年，西陵的步闡投降晉朝時\n，加入陸抗的麾下，與左奕、吾彥一起包\n圍西陵。",
     "abilities": {
       "command": 67,
       "strength": 71,
@@ -5404,6 +5611,7 @@
     "searchAliases": [
       "蔡中"
     ],
+    "biographyTraditional": "蔡瑁的堂弟。與蔡和一起擔任細作詐降東\n吳，可是被周瑜識破，令其帶路直到曹操\n水寨。最後被甘寧殺死。",
     "abilities": {
       "command": 45,
       "strength": 53,
@@ -5428,6 +5636,7 @@
     "searchAliases": [
       "蔡瑁"
     ],
+    "biographyTraditional": "劉表麾下之將。荊州豪族出身，劉表繼室\n蔡夫人之弟。欲使劉琮繼承荊州，企圖暗\n算眼中釘劉備，但以失敗告終。擅長指揮\n水軍。",
     "abilities": {
       "command": 75,
       "strength": 67,
@@ -5456,6 +5665,7 @@
     "searchAliases": [
       "左奕"
     ],
+    "biographyTraditional": "吳將。２７２年，西陵的步闡投降於晉時\n，在陸抗的指揮下包圍西陵。",
     "abilities": {
       "command": 71,
       "strength": 64,
@@ -5481,6 +5691,7 @@
     "searchAliases": [
       "笮融"
     ],
+    "biographyTraditional": "原在陶謙麾下，曾侵佔運送的物資興建寺\n廟。後來成為劉繇屬下與孫策作戰，戰敗\n後與劉繇一起投奔劉表。",
     "abilities": {
       "command": 65,
       "strength": 71,
@@ -5505,6 +5716,7 @@
     "searchAliases": [
       "施朔"
     ],
+    "biographyTraditional": "東吳的司空。２７９年，司馬炎下令攻打\n吳國，勢不可擋之際，孫皓向他詢問應對\n之策。",
     "abilities": {
       "command": 39,
       "strength": 65,
@@ -5530,6 +5742,7 @@
       "师纂",
       "師纂"
     ],
+    "biographyTraditional": "魏國鄧艾的參謀。２６３年，鄧艾被姜維\n大敗時，賄賂蜀國的黃皓，散佈姜維已降\n魏的假消息，迫使蜀帝急召姜維退兵。",
     "abilities": {
       "command": 64,
       "strength": 73,
@@ -5556,6 +5769,7 @@
       "司马懿",
       "司馬懿"
     ],
+    "biographyTraditional": "魏臣。為曹氏四代效力，構築了晉王朝的\n根基。與蜀漢作戰時採取防守戰略，獲得\n了勝利。與曹爽爭鬥，掌握住魏國實權。\n晉建國後，追諡為宣帝。",
     "abilities": {
       "command": 97,
       "strength": 62,
@@ -5591,6 +5805,7 @@
       "司马炎",
       "司馬炎"
     ],
+    "biographyTraditional": "晉朝的開國皇帝，司馬昭的長子。強迫魏\n帝曹奐讓位，建立了晉朝，並接受羊祜和\n杜預的建議伐吳，逼使吳帝孫皓投降，最\n終統一了大陸。是為晉武帝。",
     "abilities": {
       "command": 72,
       "strength": 58,
@@ -5618,6 +5833,7 @@
       "司马师",
       "司馬師"
     ],
+    "biographyTraditional": "魏臣，司馬懿的長子。父親死後，成為魏\n國大將軍，威風不可一世。由於廢了曹芳\n，致使毌丘儉叛亂。因眼睛上的瘤惡化，\n最後致死，追諡為景帝。",
     "abilities": {
       "command": 78,
       "strength": 66,
@@ -5645,6 +5861,7 @@
       "司马昭",
       "司馬昭"
     ],
+    "biographyTraditional": "魏臣，司馬懿的次子。與兄長司馬師一起\n執掌大權，兄死後，繼承大將軍之位。２\n６３年平定蜀漢，成為晉王，但不久後便\n病死，追諡為文帝。",
     "abilities": {
       "command": 74,
       "strength": 55,
@@ -5673,6 +5890,7 @@
       "司马侑",
       "司馬伷"
     ],
+    "biographyTraditional": "魏國的散騎常侍。深受司馬昭的信任，諸\n葛誕叛亂時也隨軍參戰，後來更勸諫司馬\n昭立司馬炎為世子，待司馬炎即位晉王後\n，和賈充一起逼曹奐禪讓。",
     "abilities": {
       "command": 63,
       "strength": 45,
@@ -5699,6 +5917,7 @@
       "司马孚",
       "司馬孚"
     ],
+    "biographyTraditional": "魏臣，司馬懿之弟，太傅。堅守自己是魏\n臣的立場，為曹髦之死落淚。司馬炎篡奪\n帝位後，他仍追隨魏的廢帝曹奐。",
     "abilities": {
       "command": 67,
       "strength": 49,
@@ -5725,6 +5944,7 @@
       "司马望",
       "司馬望"
     ],
+    "biographyTraditional": "魏、晉之臣。司馬孚之子，但過繼給司馬\n朗當養子。擔任鄧艾的參謀與蜀漢作戰，\n司馬炎即王位時被封為司徒。性貪財。",
     "abilities": {
       "command": 74,
       "strength": 66,
@@ -5755,6 +5975,7 @@
       "司马攸",
       "司馬攸"
     ],
+    "biographyTraditional": "司馬昭的次子。由於司馬昭之兄司馬師無\n子嗣，便過繼給司馬師。性格溫和，原本\n要被立為世子，但司馬昭受諫不可亂長幼\n之序，因此作罷。",
     "abilities": {
       "command": 67,
       "strength": 56,
@@ -5784,6 +6005,7 @@
       "司马朗",
       "司馬朗"
     ],
+    "biographyTraditional": "東漢之臣，司馬懿之兄，官拜主簿。司馬\n懿的兄弟個個優秀，號稱「八達」。根據\n正史記載，他與東漢的司徒荀爽一起成為\n名士的代名詞。",
     "abilities": {
       "command": 17,
       "strength": 28,
@@ -5808,6 +6030,7 @@
       "谢旌",
       "謝旌"
     ],
+    "biographyTraditional": "吳將。夷陵之戰中為孫桓的部將與蜀漢作\n戰，與張苞對戰時，戰敗而逃，隔日被攻\n入營中的張苞刺死。",
     "abilities": {
       "command": 67,
       "strength": 75,
@@ -5834,6 +6057,7 @@
       "车胄",
       "車胄"
     ],
+    "biographyTraditional": "曹操麾下之將，車騎將軍。呂布死後，劉\n備進京面聖，他被命為代理暫管徐州，待\n劉備返回，又受曹操之令暗殺劉備，但是\n被關羽所斬。",
     "abilities": {
       "command": 47,
       "strength": 51,
@@ -5859,6 +6083,7 @@
     "searchAliases": [
       "沙摩柯"
     ],
+    "biographyTraditional": "五谿蠻之王，赤面碧眼，幫助劉備討伐東\n吳，射殺東吳的猛將甘寧，但後來遭遇火\n攻敗走時，被吳將周泰追擊而死。",
     "abilities": {
       "command": 68,
       "strength": 81,
@@ -5885,6 +6110,7 @@
       "朱异",
       "朱異"
     ],
+    "biographyTraditional": "吳將。諸葛誕叛亂之時，奉丞相孫綝之命\n擔任援軍的先鋒，但接連吃敗仗，惹得孫\n綝大怒，最後敗給司馬昭後，就被處斬了\n。",
     "abilities": {
       "command": 71,
       "strength": 72,
@@ -5913,6 +6139,7 @@
       "修允",
       "脩允"
     ],
+    "biographyTraditional": "東吳的合浦太守，脩則之子。父親被交趾\n的守將毛炅所殺，後來在２７１年吳郡攻\n打交趾時，斬殺毛炅報了父仇。",
     "abilities": {
       "command": 53,
       "strength": 68,
@@ -5938,6 +6165,7 @@
     "searchAliases": [
       "周昕"
     ],
+    "biographyTraditional": "在演義中是為會稽太守王朗的麾下之將。\n增援王朗與孫策軍的太史慈作戰，但是背\n後受襲，逃入城中。後來與嚴白虎出城追\n擊，中計被殺。",
     "abilities": {
       "command": 68,
       "strength": 69,
@@ -5964,6 +6192,7 @@
     "searchAliases": [
       "周旨"
     ],
+    "biographyTraditional": "晉朝牙將。隨杜預討伐東吳，率領八百名\n水軍攻打夏口，殺敵將孫歆、沈瑩，立下\n大功。",
     "abilities": {
       "command": 64,
       "strength": 84,
@@ -5989,6 +6218,7 @@
     "searchAliases": [
       "周浚"
     ],
+    "biographyTraditional": "晉的揚州刺史。２７９年，在征討東吳時\n，隨同安東將軍王渾一起攻打牛渚，和討\n吳護軍張翰共同大戰吳國的丞相張悌、護\n軍將軍孫震、與丹陽太守沈瑩。",
     "abilities": {
       "command": 70,
       "strength": 62,
@@ -6015,6 +6245,7 @@
       "周仓",
       "周倉"
     ],
+    "biographyTraditional": "原是黃巾黨張寶的麾下之將，後來在臥牛\n山落草為寇。爾後，遇到心中崇拜已久的\n關羽，便成為其左右手。深諳水性。正史\n中無此人。",
     "abilities": {
       "command": 66,
       "strength": 83,
@@ -6041,6 +6272,7 @@
       "修则",
       "脩則"
     ],
+    "biographyTraditional": "東吳的前部督，合浦太守脩允之父。２６\n８年，和交州刺史劉俊一起攻打交趾，但\n敗給晉朝的毛炅，戰死。",
     "abilities": {
       "command": 62,
       "strength": 40,
@@ -6066,6 +6298,7 @@
     "searchAliases": [
       "周泰"
     ],
+    "biographyTraditional": "吳將，與海賊伙伴蔣欽一起歸順孫策。宣\n城被山賊攻擊時，雖身負重傷，仍奮力救\n出孫權。夷陵之戰中，斬了蠻將沙摩柯。",
     "abilities": {
       "command": 81,
       "strength": 93,
@@ -6094,6 +6327,7 @@
     "searchAliases": [
       "州泰"
     ],
+    "biographyTraditional": "魏臣，兗州刺史，率領討伐諸葛誕的右翼\n軍。以鍾會的計策誘來敵軍，與石苞一同\n率軍伏擊，獲得了勝利。",
     "abilities": {
       "command": 71,
       "strength": 67,
@@ -6121,6 +6355,7 @@
       "周鲂",
       "周魴"
     ],
+    "biographyTraditional": "吳臣，鄱陽太守。假意投降魏將曹休，割\n髮以博取信任，將曹休大軍引到石亭，自\n己脫身而去。魏軍中了詐降計，受到攻擊\n而大敗。",
     "abilities": {
       "command": 56,
       "strength": 20,
@@ -6147,6 +6382,7 @@
     "searchAliases": [
       "周瑜"
     ],
+    "biographyTraditional": "吳將，與主公孫策是連襟。按照孫策的遺\n囑，輔佐年輕的孫權，赤壁之戰時擔任都\n督指揮水軍，打敗曹操的大軍。英姿風發\n，人稱美周郎。",
     "abilities": {
       "command": 98,
       "strength": 71,
@@ -6182,6 +6418,7 @@
     "searchAliases": [
       "朱桓"
     ],
+    "biographyTraditional": "吳將，負責守備防衛魏國的要塞濡須口，\n用五千兵馬打敗曹仁率領的數萬大軍。孫\n權即帝位後任命為前將軍。",
     "abilities": {
       "command": 87,
       "strength": 84,
@@ -6213,6 +6450,7 @@
       "朱据",
       "朱據"
     ],
+    "biographyTraditional": "吳將。娶孫權之女為妻，任職驃騎將軍，\n但受到孫霸的親信讒言而左遷，後來又被\n假詔賜死。只出現在正史裡。",
     "abilities": {
       "command": 78,
       "strength": 63,
@@ -6241,6 +6479,7 @@
     "searchAliases": [
       "祝融"
     ],
+    "biographyTraditional": "南蠻王孟獲之妻，據說是火神祝融的後裔\n。善武勇，慣使飛刀，曾經生擒張嶷、馬\n忠，但自己隨即被魏延、馬岱所捉。",
     "abilities": {
       "command": 68,
       "strength": 85,
@@ -6268,6 +6507,7 @@
     "searchAliases": [
       "朱儁"
     ],
+    "biographyTraditional": "東漢之將，黃巾之亂時，與劉備、孫堅一\n起討伐黃巾黨，立下戰功，因此被任命為\n車騎將軍•河南尹。董卓死後，與李傕、\n郭汜一起把持朝政。",
     "abilities": {
       "command": 81,
       "strength": 40,
@@ -6294,6 +6534,7 @@
     "searchAliases": [
       "朱然"
     ],
+    "biographyTraditional": "吳將。夷陵之戰中率領水軍，追擊被陸遜\n用火攻打敗的劉備，但是遇到趕來救援的\n趙雲軍，大敗。",
     "abilities": {
       "command": 82,
       "strength": 70,
@@ -6324,6 +6565,7 @@
     "searchAliases": [
       "朱治"
     ],
+    "biographyTraditional": "吳將。為孫氏三代效力的老將，勸說孫策\n向袁術借兵自謀大業。後來被任命為吳郡\n太守，赤壁之戰中擔任四方巡警使。",
     "abilities": {
       "command": 70,
       "strength": 58,
@@ -6350,6 +6592,7 @@
     "searchAliases": [
       "朱褒"
     ],
+    "biographyTraditional": "蜀漢之臣。與高定一起參加建寧太守雍闓\n與孟獲聯手發動的叛亂，但中了諸葛亮的\n離間計，被高定殺死。",
     "abilities": {
       "command": 65,
       "strength": 71,
@@ -6375,6 +6618,7 @@
       "朱灵",
       "朱靈"
     ],
+    "biographyTraditional": "曹操麾下之將。擔任監軍隨劉備討伐袁術\n，但是沒完成監視的使命而返回。據正史\n記載，曹操一直討厭他。",
     "abilities": {
       "command": 74,
       "strength": 73,
@@ -6400,6 +6644,7 @@
     "searchAliases": [
       "荀彧"
     ],
+    "biographyTraditional": "曹操麾下謀臣。曹操稱之為「我之子房（\n即西漢著名軍師張良）」。反對曹操即位\n為魏公，之後隨即病死，一說是自殺。",
     "abilities": {
       "command": 51,
       "strength": 11,
@@ -6429,6 +6674,7 @@
       "淳于琼",
       "淳于瓊"
     ],
+    "biographyTraditional": "袁紹麾下之將，原來與袁紹、曹操同樣，\n為西園八校尉之一。官渡之戰中把守烏巢\n的糧倉，但由於喝得大醉，遭到曹操火攻\n，被袁紹在盛怒之下斬首。",
     "abilities": {
       "command": 70,
       "strength": 68,
@@ -6454,6 +6700,7 @@
       "荀恺",
       "荀愷"
     ],
+    "biographyTraditional": "魏國的天水郡功曹，姜維的友人。由於姜\n維中諸葛亮之計投降，因此他也被夏侯楙\n懷疑通敵，於是和尹賞一起開城門降蜀，\n之後被委任為天水太守。",
     "abilities": {
       "command": 55,
       "strength": 75,
@@ -6481,6 +6728,7 @@
     "searchAliases": [
       "荀顗"
     ],
+    "biographyTraditional": "晉朝的廣武將軍。２７９年，受司馬炎之\n令，和龍驤將軍王濬一起下長江，攻入吳\n國。",
     "abilities": {
       "command": 16,
       "strength": 11,
@@ -6506,6 +6754,7 @@
       "荀勖",
       "荀勗"
     ],
+    "biographyTraditional": "蜀將。２４９年參加姜維的第一次北伐，\n和句安一起築麴山城以防魏軍，但被包圍\n，於是殺出一條血路向姜維求援。",
     "abilities": {
       "command": 15,
       "strength": 19,
@@ -6531,6 +6780,7 @@
       "荀谌",
       "荀諶"
     ],
+    "biographyTraditional": "與高幹一起勸說冀州刺史韓馥，讓韓馥把\n冀州讓給了袁紹，後來便成為袁紹的部屬\n。贊同袁紹的討伐曹操計劃，並且親身投\n入作戰。據正史記載，為荀彧之弟。",
     "abilities": {
       "command": 20,
       "strength": 24,
@@ -6554,6 +6804,7 @@
     "searchAliases": [
       "荀攸"
     ],
+    "biographyTraditional": "曹操麾下的大臣，荀彧之姪。擅長軍事方\n面，在戰場上出過很多妙計。赤壁之戰時\n與程昱一起隨軍出任參謀。",
     "abilities": {
       "command": 70,
       "strength": 21,
@@ -6581,6 +6832,7 @@
     "searchAliases": [
       "焦彝"
     ],
+    "biographyTraditional": "諸葛誕的武將。諸葛誕發動反叛司馬昭之\n際，和蔣班一起加入叛變。在與司馬昭交\n戰時，主張速戰速決，但不被接受，於是\n投降。",
     "abilities": {
       "command": 69,
       "strength": 61,
@@ -6607,6 +6859,7 @@
       "钟毓",
       "鍾毓"
     ],
+    "biographyTraditional": "鍾繇之子，鍾會之兄。８歲時與鍾會一起\n拜見曹丕，鍾會臉色如常，他卻是滿面是\n汗，曹丕問之，他回答「戰戰惶惶，汗出\n如漿」。",
     "abilities": {
       "command": 26,
       "strength": 13,
@@ -6633,6 +6886,7 @@
       "蒋琬",
       "蔣琬"
     ],
+    "biographyTraditional": "蜀漢之臣。劉備在荊州時成為劉備屬下，\n在內政方面發揮才能。北伐之時在後方支\n援大軍，諸葛亮死後，他成為大將軍，負\n責蜀國國政。",
     "abilities": {
       "command": 73,
       "strength": 38,
@@ -6662,6 +6916,7 @@
       "钟会",
       "鍾會"
     ],
+    "biographyTraditional": "魏將，鍾繇的么兒。是司馬師、司馬昭的\n心腹，和鄧艾一起滅了蜀漢。後來與降將\n姜維聯手企圖獨立，但失敗遭魏兵所殺。",
     "abilities": {
       "command": 77,
       "strength": 42,
@@ -6692,6 +6947,7 @@
       "蒋干",
       "蔣幹"
     ],
+    "biographyTraditional": "曹操麾下的幕僚。去勸說東吳舊友周瑜，\n反而被周瑜將計就計。在正史當中，他前\n去勸降時，被周瑜的忠義所感動，無言以\n對而歸。",
     "abilities": {
       "command": 8,
       "strength": 7,
@@ -6717,6 +6973,7 @@
       "蒋义渠",
       "蔣義渠"
     ],
+    "biographyTraditional": "袁紹麾下之將。在黎陽郡迎接官渡大戰中\n敗給曹操的袁紹，並且召集散兵，將袁紹\n平安送回冀州。",
     "abilities": {
       "command": 66,
       "strength": 64,
@@ -6742,6 +6999,7 @@
       "蒋钦",
       "蔣欽"
     ],
+    "biographyTraditional": "吳將，與周泰一起成為名聲日盛的孫策的\n手下。進攻南郡時擔任先鋒，但是大敗，\n險些被處斬。征討關羽時，率領水軍包圍\n了關羽。",
     "abilities": {
       "command": 79,
       "strength": 85,
@@ -6771,6 +7029,7 @@
       "蒋显",
       "蔣顯"
     ],
+    "biographyTraditional": "蔣琬之子，蔣斌之弟。蜀漢降魏時，傳達\n停戰消息給守在劍閣的姜維，翌年，在鍾\n會發動叛變後，死在亂軍之中。",
     "abilities": {
       "command": 8,
       "strength": 17,
@@ -6796,6 +7055,7 @@
       "蒋济",
       "蔣濟"
     ],
+    "biographyTraditional": "魏臣，主簿。勸阻曹操不可因害怕關羽進\n攻而遷都。討伐東吳時，擔任參謀隨軍出\n征。後來曹芳即帝位時，被提升為太尉。",
     "abilities": {
       "command": 68,
       "strength": 49,
@@ -6823,6 +7083,7 @@
       "谯周",
       "譙周"
     ],
+    "biographyTraditional": "蜀漢之臣，原本是劉璋的屬下。對天文有\n研究，經常觀天象，勸諫孔明的出兵。從\n劉備即帝位開始，直到蜀漢滅亡，均任職\n光祿大夫。",
     "abilities": {
       "command": 4,
       "strength": 5,
@@ -6847,6 +7108,7 @@
       "蒋舒",
       "蔣舒"
     ],
+    "biographyTraditional": "蜀漢之將。姜維出兵伐魏，受命與傅僉一\n起守備陽平關，但在鍾會軍攻到時，投降\n獻關。",
     "abilities": {
       "command": 69,
       "strength": 80,
@@ -6872,6 +7134,7 @@
       "向宠",
       "向寵"
     ],
+    "biographyTraditional": "蜀漢將軍，向朗之姪。諸葛亮北伐時上奏\n的「出師表」中，評價他品行公正，有軍\n事才能。北伐時被任命統領後方部隊。",
     "abilities": {
       "command": 72,
       "strength": 56,
@@ -6899,6 +7162,7 @@
     "searchAliases": [
       "邵悌"
     ],
+    "biographyTraditional": "魏將。２２７年，諸葛亮開始北伐後，被\n夏侯楙請出擔任魏軍的先鋒，但和其４名\n兒子都戰死在趙雲之手。",
     "abilities": {
       "command": 20,
       "strength": 16,
@@ -6923,6 +7187,7 @@
       "蒋班",
       "蔣班"
     ],
+    "biographyTraditional": "諸葛誕的武將。當諸葛誕在壽春發起叛亂\n，主張和司馬昭速戰速決，但不被接受，\n於是和同僚焦彝一起投降。",
     "abilities": {
       "command": 62,
       "strength": 73,
@@ -6948,6 +7213,7 @@
       "蒋斌",
       "蔣斌"
     ],
+    "biographyTraditional": "吳將，陸抗的次子，陸遜之孫。當晉軍攻\n打吳國時，在江陵迎戰杜預軍，敗走途中\n，被晉國的張尚所斬殺。",
     "abilities": {
       "command": 37,
       "strength": 24,
@@ -6973,6 +7239,7 @@
       "钟繇",
       "鍾繇"
     ],
+    "biographyTraditional": "魏臣。守衛長安，但是在馬超的猛攻之下\n戰敗，使長安被奪。曹叡即位後，任命為\n太傅。鍾會即是他的么兒。",
     "abilities": {
       "command": 60,
       "strength": 15,
@@ -6999,6 +7266,7 @@
       "钟离斐",
       "鍾離斐"
     ],
+    "biographyTraditional": "東吳後期的武將。有果斷的軍事行動能力\n，在陸機的「辯亡論」中，和丁奉等人都\n名列其中。",
     "abilities": {
       "command": 75,
       "strength": 77,
@@ -7026,6 +7294,7 @@
     "searchAliases": [
       "向朗"
     ],
+    "biographyTraditional": "劉備麾下大臣，向寵的叔父。一直為劉表\n效力，在劉表死後，就歸順了劉備，之後\n便輔佐關羽，守備荊州。",
     "abilities": {
       "command": 28,
       "strength": 18,
@@ -7052,6 +7321,7 @@
       "徐荣",
       "徐榮"
     ],
+    "biographyTraditional": "董卓麾下之將。遷都長安的途中，追擊中\n了呂布伏兵襲擊而敗走的曹操軍，一箭射\n中曹操肩頭，可是，自己卻被趕來救援的\n夏侯惇殺死。",
     "abilities": {
       "command": 76,
       "strength": 71,
@@ -7079,6 +7349,7 @@
       "诸葛恪",
       "諸葛恪"
     ],
+    "biographyTraditional": "吳臣，諸葛瑾的長子。幼年時就聰明伶俐\n，得到孫權喜愛。陸遜死後，成為太傅，\n把持朝政，但在合淝新城打了敗仗，從此\n失去人心，被孫峻暗殺。",
     "abilities": {
       "command": 61,
       "strength": 37,
@@ -7106,6 +7377,7 @@
       "诸葛瑾",
       "諸葛瑾"
     ],
+    "biographyTraditional": "東吳之臣，諸葛亮之兄。經魯肅推薦，為\n東吳效力。胸襟寬廣、溫厚誠信，得到孫\n權的深深信賴。一生都在致力於緩和蜀漢\n與東吳的關係。",
     "abilities": {
       "command": 74,
       "strength": 33,
@@ -7134,6 +7406,7 @@
       "诸葛均",
       "諸葛均"
     ],
+    "biographyTraditional": "諸葛瑾、諸葛亮的小弟。與二哥諸葛亮在\n臥龍崗一起過著晴耕雨讀的生活。諸葛亮\n出仕後，也一起加入蜀漢，任長水校尉。",
     "abilities": {
       "command": 28,
       "strength": 27,
@@ -7159,6 +7432,7 @@
       "诸葛绪",
       "諸葛緒"
     ],
+    "biographyTraditional": "魏國的金城太守。２６３年，隨鄧艾攻打\n蜀國，在沓中大戰姜維，燒了蜀軍在甘松\n的營地。",
     "abilities": {
       "command": 48,
       "strength": 41,
@@ -7184,6 +7458,7 @@
       "诸葛尚",
       "諸葛尚"
     ],
+    "biographyTraditional": "蜀漢之將，諸葛瞻的長子，諸葛亮之孫。\n精通各項武藝，隨諸葛瞻出戰，在綿竹關\n擔任先鋒與鄧艾交手，但寡不敵眾而戰死\n。",
     "abilities": {
       "command": 69,
       "strength": 72,
@@ -7211,6 +7486,7 @@
       "诸葛靓",
       "諸葛靚"
     ],
+    "biographyTraditional": "諸葛誕之子。赴往東吳作為人質，父親戰\n死後仕官於吳，擔任右將軍迎擊晉軍，但\n不敵而敗。吳國滅後，子諸葛恢則歸順於\n晉。",
     "abilities": {
       "command": 70,
       "strength": 56,
@@ -7237,6 +7513,7 @@
       "诸葛瞻",
       "諸葛瞻"
     ],
+    "biographyTraditional": "蜀漢之臣，諸葛亮之子。十七歲時娶劉禪\n之女為妻，在綿竹關迎擊魏軍，大破鄧忠\n、師纂，但後來等不到援軍而出擊，戰敗\n後自殺。",
     "abilities": {
       "command": 73,
       "strength": 65,
@@ -7267,6 +7544,7 @@
       "诸葛诞",
       "諸葛誕"
     ],
+    "biographyTraditional": "魏將，諸葛亮的堂弟，魏國鎮東將軍。不\n滿司馬昭專橫跋扈，借助東吳之力發動叛\n亂，但是失敗戰死沙場。當時屬下數百人\n都為他殉死。",
     "abilities": {
       "command": 80,
       "strength": 70,
@@ -7297,6 +7575,7 @@
       "诸葛亮",
       "諸葛亮"
     ],
+    "biographyTraditional": "蜀漢的丞相，人稱「臥龍先生」。因受三\n顧茅廬之禮而為劉備效力，在外交、內政\n方面發揮出非凡的才能。五次北伐，最後\n病死在五丈原。諡號忠武侯。",
     "abilities": {
       "command": 92,
       "strength": 33,
@@ -7333,6 +7612,7 @@
     "searchAliases": [
       "徐晃"
     ],
+    "biographyTraditional": "魏將。本是楊奉的部屬，但是接受滿寵的\n勸說，因而歸順曹操。智勇兼備，成為曹\n操的主力轉戰各地。受封為魏國的平南將\n軍。",
     "abilities": {
       "command": 84,
       "strength": 91,
@@ -7363,6 +7643,7 @@
       "徐质",
       "徐質"
     ],
+    "biographyTraditional": "魏將，輔國將軍。慣使大斧，司馬師對其\n武勇評價極高。與廖化、張翼交戰，將二\n人擊退，但在鐵籠山與姜維交手，敗在姜\n維槍下。",
     "abilities": {
       "command": 53,
       "strength": 80,
@@ -7386,6 +7667,7 @@
     "searchAliases": [
       "徐庶"
     ],
+    "biographyTraditional": "司馬徽的門下生。善擊劍。擔任劉備的軍\n師表現活躍，但是由於其母落入曹操之手\n，不得已而歸順曹操，臨走之時，向劉備\n推薦了臥龍先生諸葛亮。",
     "abilities": {
       "command": 88,
       "strength": 65,
@@ -7417,6 +7699,7 @@
     "searchAliases": [
       "徐盛"
     ],
+    "biographyTraditional": "吳將。隨軍參加了赤壁、合淝、荊州等戰\n役。曹丕進攻東吳時，被任命為安東將軍\n指揮吳軍，用疑兵使魏軍混亂，最後獲得\n勝利。",
     "abilities": {
       "command": 88,
       "strength": 89,
@@ -7449,6 +7732,7 @@
     "searchAliases": [
       "徐邈"
     ],
+    "biographyTraditional": "魏國武將，鎮壓外族有功。在諸葛亮第一\n次北伐時為涼州刺史。嗜酒，違反了禁酒\n令，但是機智的應付過去。正史中登場。",
     "abilities": {
       "command": 47,
       "strength": 34,
@@ -7469,12 +7753,14 @@
   },
   {
     "id": 284,
-    "nameSimplified": "沉莹",
+    "nameSimplified": "沈莹",
     "nameTraditional": "沈瑩",
     "searchAliases": [
+      "沈莹",
       "沉莹",
       "沈瑩"
     ],
+    "biographyTraditional": "吳將，左將軍。跟隨張悌抵抗晉的攻勢，\n由於戰局不利，曾一度勸說投降，但張悌\n決心抗戰到底，便與張悌一起誓死作戰，\n最後被晉將周旨所殺。",
     "abilities": {
       "command": 72,
       "strength": 80,
@@ -7501,6 +7787,7 @@
       "申仪",
       "申儀"
     ],
+    "biographyTraditional": "申耽之弟。和孟達一起投降魏國，並且任\n金城太守。當孟達欲再次回歸蜀國時，與\n兄長一同密告司馬懿，消滅了孟達。",
     "abilities": {
       "command": 60,
       "strength": 63,
@@ -7525,6 +7812,7 @@
     "searchAliases": [
       "岑昏"
     ],
+    "biographyTraditional": "吳臣，演義中是宦官。受吳帝孫皓寵愛，\n因此更是助紂為虐。東吳滅亡時，群臣大\n罵「今日之禍，皆岑昏之罪」，便將他砍\n成肉泥。",
     "abilities": {
       "command": 1,
       "strength": 2,
@@ -7548,6 +7836,7 @@
     "searchAliases": [
       "辛敞"
     ],
+    "biographyTraditional": "辛毗之子，曹爽的參軍。當司馬懿謀反時\n，聽從其姐辛憲英之言，趕往曹爽之處共\n赴其難。",
     "abilities": {
       "command": 53,
       "strength": 34,
@@ -7573,6 +7862,7 @@
     "searchAliases": [
       "申耽"
     ],
+    "biographyTraditional": "魏將，上庸太守。曹操放棄漢中以後，他\n投降蜀漢，在孟達手下任上庸都尉，但又\n勸說孟達降魏，後來還阻止孟達回歸蜀國\n。",
     "abilities": {
       "command": 59,
       "strength": 66,
@@ -7597,6 +7887,7 @@
       "审配",
       "審配"
     ],
+    "biographyTraditional": "袁紹麾下大臣，荀彧評價他為人好強而無\n謀。袁紹死後，擁立袁尚。在被曹操軍俘\n虜後，拒不投降，死前面向主公所在的北\n方受刑。",
     "abilities": {
       "command": 82,
       "strength": 59,
@@ -7628,6 +7919,7 @@
     "searchAliases": [
       "辛毗"
     ],
+    "biographyTraditional": "魏臣，辛評之弟。原本為袁氏效力，輔佐\n袁譚，袁氏滅亡後改投入曹操軍中。曾送\n聖旨給在五丈原與諸葛亮對峙的魏軍，阻\n止了急欲出征的將士。",
     "abilities": {
       "command": 32,
       "strength": 23,
@@ -7653,6 +7945,7 @@
       "辛评",
       "辛評"
     ],
+    "biographyTraditional": "韓馥麾下大臣。韓馥逃亡後，為袁氏效力\n，擔任袁譚的參謀，表現活躍。出任使者\n去面見曹操時，被勸說留下，但他堅辭未\n從。",
     "abilities": {
       "command": 74,
       "strength": 46,
@@ -7680,6 +7973,7 @@
     "searchAliases": [
       "秦宓"
     ],
+    "biographyTraditional": "劉璋麾下之臣。曾譴責劉備使者簡雍的傲\n慢態度，日後成為劉備屬下，卻因勸諫討\n伐東吳是無謀之舉，而被打入大牢。後來\n在酒席上，說得東吳使者張溫無言以對。",
     "abilities": {
       "command": 15,
       "strength": 6,
@@ -7704,6 +7998,7 @@
     "searchAliases": [
       "秦朗"
     ],
+    "biographyTraditional": "晉的冠軍將軍，司馬炎的楊皇后之叔父。\n２７９年，晉發兵征討東吳時，在杜預的\n指揮下駐守襄陽，監督各軍。後來死於八\n王之亂中。",
     "abilities": {
       "command": 68,
       "strength": 70,
@@ -7728,6 +8023,7 @@
     "searchAliases": [
       "眭固"
     ],
+    "biographyTraditional": "河內太守張楊的屬下。眭固在張楊被楊醜\n殺死後，殺掉楊醜投靠袁紹。後遭到曹操\n軍的進攻，陣亡。據正史記載，是出身於\n黑山的山賊。",
     "abilities": {
       "command": 67,
       "strength": 74,
@@ -7754,6 +8050,7 @@
       "邹靖",
       "鄒靖"
     ],
+    "biographyTraditional": "東漢大臣。為了對抗黃巾黨眾，建議幽州\n太守劉焉召募義勇軍。率領應召的劉備等\n人在討伐黃巾黨時，立下了赫赫戰功。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -7780,6 +8077,7 @@
       "邹丹",
       "鄒丹"
     ],
+    "biographyTraditional": "公孫瓚麾下的漁陽太守。和原劉虞麾下的\n鮮于輔所推薦的閻柔爭戰，遭閰柔所率領\n的烏丸、鮮卑軍聯合軍襲擊漁陽，因而戰\n死。",
     "abilities": {
       "command": 68,
       "strength": 71,
@@ -7805,6 +8103,7 @@
     "searchAliases": [
       "成宜"
     ],
+    "biographyTraditional": "韓遂麾下的「旗本八騎」之一。和馬超一\n起攻打長安，但是誤入敵人空營，被大軍\n包圍，死在夏侯淵刀下。",
     "abilities": {
       "command": 74,
       "strength": 70,
@@ -7831,6 +8130,7 @@
     "searchAliases": [
       "盛曼"
     ],
+    "biographyTraditional": "吳將。２６４年，蜀漢被魏國滅後，在陸\n抗的指揮下，與步協、留平等人一起攻打\n巴東的羅憲。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -7856,6 +8156,7 @@
     "searchAliases": [
       "石苞"
     ],
+    "biographyTraditional": "魏、晉的武將。在諸葛誕叛魏後的討伐戰\n中，率領伏兵表現活躍，後來晉朝建立，\n被司馬炎封為驃騎將軍。",
     "abilities": {
       "command": 72,
       "strength": 71,
@@ -7884,6 +8185,7 @@
       "薛莹",
       "薛瑩"
     ],
+    "biographyTraditional": "吳臣，薛綜之子，光祿勳。當晉軍攻入，\n孫皓正準備自殺時，進言「何不效安樂公\n劉禪？」。",
     "abilities": {
       "command": 51,
       "strength": 16,
@@ -7907,6 +8209,7 @@
     "searchAliases": [
       "薛珝"
     ],
+    "biographyTraditional": "薛綜之子，薛瑩之兄。２６１年被遣至蜀\n漢，回國後，把蜀國的腐敗傳達給孫休知\n情。後來與虞汜、陶璜等人攻打交趾，歸\n途中病死。",
     "abilities": {
       "command": 14,
       "strength": 15,
@@ -7932,6 +8235,7 @@
       "薛综",
       "薛綜"
     ],
+    "biographyTraditional": "吳臣，應孫權邀請，輔佐孫權。是管理民\n政的能人，也是東吳屈指可數的文學家，\n後來被任命為太子少傅。曾經舌戰諸葛亮\n，但並非其對手。",
     "abilities": {
       "command": 39,
       "strength": 11,
@@ -7957,6 +8261,7 @@
       "全祎",
       "全禕"
     ],
+    "biographyTraditional": "吳將，全端之子，全琮之孫。率軍支援反\n魏的諸葛誕，但被司馬昭的大軍包圍後投\n降，降後封為魏國的偏將軍。",
     "abilities": {
       "command": 64,
       "strength": 71,
@@ -7983,6 +8288,7 @@
       "全怿",
       "全懌"
     ],
+    "biographyTraditional": "吳國的全琮之子，全端之弟，全禕的叔父\n。魏國的諸葛誕發動叛亂時，被孫綝派往\n增援，後來孫綝撤退到建業，就與全禕一\n起投降了司馬昭。",
     "abilities": {
       "command": 63,
       "strength": 63,
@@ -8008,6 +8314,7 @@
       "全纪",
       "全紀"
     ],
+    "biographyTraditional": "蜀將。與握有實權的宦官黃皓不睦，被左\n遷至巴東，擔任閻宇的副將。成都陷落後\n，仍重兵鎮守以防東吳陸抗等人來犯。",
     "abilities": {
       "command": 64,
       "strength": 68,
@@ -8030,6 +8337,7 @@
       "单经",
       "單經"
     ],
+    "biographyTraditional": "公孫瓚麾下的武將。被任命為并州刺史，\n負責防備袁紹，後來敗給幫助袁紹的曹操\n軍。此人只出現在正史裡。",
     "abilities": {
       "command": 70,
       "strength": 72,
@@ -8056,6 +8364,7 @@
     "searchAliases": [
       "全尚"
     ],
+    "biographyTraditional": "蜀將，李恢之姪。２６３年，魏國鄧艾發\n兵攻打蜀國時，與諸葛瞻一起在綿竹關死\n守，後來諸葛瞻父子陣亡，隨即和張遵、\n黃崇等人殺出，最後戰死。",
     "abilities": {
       "command": 3,
       "strength": 8,
@@ -8079,6 +8388,7 @@
     "searchAliases": [
       "全琮"
     ],
+    "biographyTraditional": "吳將。在討伐山越時立下大功。與陸遜一\n起出兵，大破周魴詐降騙來的魏軍，打敗\n魏國的薛喬，獲得勝利。",
     "abilities": {
       "command": 79,
       "strength": 70,
@@ -8108,6 +8418,7 @@
     "searchAliases": [
       "全端"
     ],
+    "biographyTraditional": "吳將，全琮之子，全懌之兄。呼應諸葛誕\n叛亂的孫楙命令他守備壽春，與魏軍交戰\n，但他採納兒子全禕的建議，與全懌一起\n投降。",
     "abilities": {
       "command": 69,
       "strength": 67,
@@ -8133,6 +8444,7 @@
     "searchAliases": [
       "曹宇"
     ],
+    "biographyTraditional": "曹丕之子（正史中為曹操之子），燕王。\n曹叡命他為大將軍，輔佐曹芳，他堅持不\n受。",
     "abilities": {
       "command": 51,
       "strength": 25,
@@ -8156,6 +8468,7 @@
     "searchAliases": [
       "曹叡"
     ],
+    "biographyTraditional": "魏國第二代皇帝。重用司馬懿、曹真等人\n與蜀漢、東吳抗爭。或許是諸葛亮之死使\n其自認高枕無憂，晚年極度奢華，不斷營\n造宮宇，使魏國走向衰敗。諡號魏明帝。",
     "abilities": {
       "command": 80,
       "strength": 50,
@@ -8185,6 +8498,7 @@
       "曹奂",
       "曹奐"
     ],
+    "biographyTraditional": "魏國燕王曹宇之子，魏朝最後的皇帝。被\n司馬昭迎回即位，但又遭到晉王司馬炎逼\n迫禪讓退位，降為陳留王。",
     "abilities": {
       "command": 8,
       "strength": 8,
@@ -8208,6 +8522,7 @@
     "searchAliases": [
       "曹羲"
     ],
+    "biographyTraditional": "魏將，曹真的次子，曹爽之弟。提醒奪得\n司馬懿兵權後傲慢無度的兄長，要對司馬\n懿提高警戒。後來司馬懿發動政變，將他\n與其兄同罪處斬。",
     "abilities": {
       "command": 18,
       "strength": 24,
@@ -8231,6 +8546,7 @@
     "searchAliases": [
       "曹休"
     ],
+    "biographyTraditional": "魏將，曹操的族子。曹丕時代歷任鎮南將\n軍、征東大將軍。對吳作戰時，中了周魴\n的計謀，打了大敗仗，後來心痛而死。",
     "abilities": {
       "command": 74,
       "strength": 73,
@@ -8258,6 +8574,7 @@
       "曹训",
       "曹訓"
     ],
+    "biographyTraditional": "魏將，曹真的三子。兄長曹爽奪取司馬懿\n的兵權後，任命他為武衛將軍，後來司馬\n懿發動政變奪回兵權，便把他處死。",
     "abilities": {
       "command": 11,
       "strength": 36,
@@ -8282,6 +8599,7 @@
       "宋宪",
       "宋憲"
     ],
+    "biographyTraditional": "呂布麾下之將。見同僚侯成因小事而遭杖\n責，心生不滿，便與侯成、魏續一起投降\n了曹操。後來與袁紹軍交戰時，死在猛將\n顏良刀下。",
     "abilities": {
       "command": 68,
       "strength": 76,
@@ -8308,6 +8626,7 @@
       "宋谦",
       "宋謙"
     ],
+    "biographyTraditional": "東吳末期的武將。聽從張悌之計，任都督\n之職，在江陵迎擊晉朝的杜預，但失敗被\n擒，遭到處斬。",
     "abilities": {
       "command": 66,
       "strength": 75,
@@ -8333,6 +8652,7 @@
     "searchAliases": [
       "曹昂"
     ],
+    "biographyTraditional": "曹操的長子。當曹操遭到張繡的夜襲，在\n敗軍之中，把自己的馬讓給曹操，曹操因\n此脫險，但自己卻沒能逃脫而戰死。",
     "abilities": {
       "command": 72,
       "strength": 60,
@@ -8359,6 +8679,7 @@
     "searchAliases": [
       "曹洪"
     ],
+    "biographyTraditional": "魏將，曹操的堂弟。曹操起兵時，與曹仁\n一起加入，成為曹軍的中流砥柱，轉戰各\n地，表現活躍。曹丕即位後，歷任魏國衛\n將軍、驃騎將軍。",
     "abilities": {
       "command": 80,
       "strength": 81,
@@ -8387,6 +8708,7 @@
       "曹纯",
       "曹純"
     ],
+    "biographyTraditional": "曹仁之弟。率領曹操軍的精銳部隊「虎豹\n騎」。出兵救援鎮守南郡的曹仁，但是敗\n給東吳都督周瑜。",
     "abilities": {
       "command": 71,
       "strength": 69,
@@ -8412,6 +8734,7 @@
     "searchAliases": [
       "曹彰"
     ],
+    "biographyTraditional": "曹操之三子（卞氏所生）。勇武過人，是\n赤手打死過猛獸的猛將，綽號「黃鬚兒」\n。在爭奪漢中的戰役中，救出被敵軍追擊\n的父親曹操。",
     "abilities": {
       "command": 88,
       "strength": 91,
@@ -8439,6 +8762,7 @@
     "searchAliases": [
       "曹植"
     ],
+    "biographyTraditional": "曹操之四子（卞氏所生），與曹丕爭奪太\n子之位。極富詩文才華，留給後世很多詩\n作。死後，在杜甫出現以前，人們一直稱\n他為「詩聖」。",
     "abilities": {
       "command": 22,
       "strength": 31,
@@ -8467,6 +8791,7 @@
     "searchAliases": [
       "曹真"
     ],
+    "biographyTraditional": "魏將，曹操的族子，曹丕死前的託孤之臣\n。擔任大都督，與蜀漢的北伐軍作戰，但\n是在諸葛亮的妙計下敗戰連連，更因收到\n挑釁的信件，氣憤而死。",
     "abilities": {
       "command": 83,
       "strength": 71,
@@ -8495,6 +8820,7 @@
     "searchAliases": [
       "曹仁"
     ],
+    "biographyTraditional": "魏將，曹操的堂弟。精通各種武藝，擅長\n射箭、騎馬。赤壁之戰後守備荊州，曹丕\n時代則擔任魏國的大司馬。",
     "abilities": {
       "command": 86,
       "strength": 88,
@@ -8522,6 +8848,7 @@
     "searchAliases": [
       "曹性"
     ],
+    "biographyTraditional": "呂布麾下的武將。見同僚高順被夏侯惇追\n趕，在亂軍之中放箭射瞎夏侯惇的左目，\n但馬上就遭到被激怒的夏侯惇刺死。",
     "abilities": {
       "command": 58,
       "strength": 71,
@@ -8547,6 +8874,7 @@
     "searchAliases": [
       "曹操"
     ],
+    "biographyTraditional": "魏王。黃巾大亂之際，身為騎都尉參加討\n賊，從此顯露頭角。董卓死後，縱橫亂世\n，南征北戰，構築了大國魏國的基礎。死\n後被追諡為魏武帝。",
     "abilities": {
       "command": 99,
       "strength": 72,
@@ -8578,6 +8906,7 @@
     "searchAliases": [
       "曹爽"
     ],
+    "biographyTraditional": "魏將，曹真的長子。與司馬懿一起受命輔\n佐年幼的曹芳，假意奉司馬懿為太傅，卻\n自己掌握了實權，但後來被司馬懿暗算，\n誅連三族。",
     "abilities": {
       "command": 35,
       "strength": 28,
@@ -8603,6 +8932,7 @@
       "曹冲",
       "曹沖"
     ],
+    "biographyTraditional": "曹操之子。天資聰穎，深受曹操喜愛，但\n十三歲便病死，曹操嘆息著對曹丕等人說\n「此我之不幸，而汝曹之幸也」。",
     "abilities": {
       "command": 50,
       "strength": 25,
@@ -8630,6 +8960,7 @@
     "searchAliases": [
       "臧霸"
     ],
+    "biographyTraditional": "原為陶謙的屬下，在討伐黃巾黨時表現活\n躍，後來成為呂布的屬下，四處轉戰。對\n曹操作戰時，結納山賊抵抗，令曹操頭疼\n。呂布滅亡後，歸順了曹操。",
     "abilities": {
       "command": 75,
       "strength": 72,
@@ -8655,6 +8986,7 @@
     "searchAliases": [
       "曹丕"
     ],
+    "biographyTraditional": "魏國開國皇帝，曹操的次子（卞氏所生）\n。繼承魏王之位以後，強迫獻帝禪讓，奪\n取了帝位。攻打蜀漢、東吳，皆無戰果。\n追諡魏文帝。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -8683,6 +9015,7 @@
     "searchAliases": [
       "曹豹"
     ],
+    "biographyTraditional": "陶謙的部屬。當曹操攻打徐州，正欲與夏\n侯惇單挑時，突然狂風驟起，因而撤退。\n後來成為劉備的屬下，但是與張飛相爭，\n最後被斬殺身亡。",
     "abilities": {
       "command": 61,
       "strength": 73,
@@ -8706,6 +9039,7 @@
     "searchAliases": [
       "曹芳"
     ],
+    "biographyTraditional": "曹叡的養子，年僅八歲便即帝位。發詔給\n夏侯玄等人密謀誅殺司馬氏，但被發覺，\n被司馬師奪去帝位，降為齊王。",
     "abilities": {
       "command": 7,
       "strength": 6,
@@ -8730,6 +9064,7 @@
     "searchAliases": [
       "曹髦"
     ],
+    "biographyTraditional": "曹丕之孫。曹芳被廢後不久，便被司馬師\n立為魏帝。由於憂心司馬氏的專橫，親自\n率領親信欲討伐司馬昭，卻被成濟所殺。",
     "abilities": {
       "command": 61,
       "strength": 69,
@@ -8752,6 +9087,7 @@
     "searchAliases": [
       "曹熊"
     ],
+    "biographyTraditional": "曹操的五子（卞氏所生）。由於體弱多病\n，沒有參加曹操的葬禮，曹丕派使者前去\n責問時，因害怕罪責而自殺了。",
     "abilities": {
       "command": 14,
       "strength": 6,
@@ -8778,6 +9114,7 @@
       "沮鹄",
       "沮鵠"
     ],
+    "biographyTraditional": "沮授之子。官渡之戰後，曹操攻打冀州時\n，受袁尚之命守備邯鄲。後來與張遼交戰\n，遭到射殺。",
     "abilities": {
       "command": 66,
       "strength": 48,
@@ -8803,6 +9140,7 @@
     "searchAliases": [
       "沮授"
     ],
+    "biographyTraditional": "袁紹麾下大臣。屢次勸說討伐曹操均不被\n採納，還被打入大牢，後來袁紹戰敗，不\n但拒絕投降曹操，更千方百計逃跑，最後\n曹操只好將其殺之。",
     "abilities": {
       "command": 79,
       "strength": 31,
@@ -8831,6 +9169,7 @@
       "苏飞",
       "蘇飛"
     ],
+    "biographyTraditional": "黃祖麾下之將，江夏都督。勸說海盜出身\n、得不到重用的甘寧另謀出路，後來雖被\n孫權軍俘虜，但是被已經歸降孫權的甘寧\n救下性命。",
     "abilities": {
       "command": 70,
       "strength": 69,
@@ -8856,6 +9195,7 @@
     "searchAliases": [
       "祖茂"
     ],
+    "biographyTraditional": "孫堅麾下之將。討伐董卓之際，孫堅敗陣\n後，他戴上孫堅的頭巾掩人耳目，助當時\n被華雄包圍的孫堅順利逃走。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -8883,6 +9223,7 @@
       "苏由",
       "蘇由"
     ],
+    "biographyTraditional": "東吳的外交官。前往晉國弔問司馬昭，說\n退賈充、裴秀等人的問答，並和羊祜、何\n楨交好，但在歸途中病死。",
     "abilities": {
       "command": 56,
       "strength": 65,
@@ -8909,6 +9250,7 @@
       "孙异",
       "孫異"
     ],
+    "biographyTraditional": "吳將，孫韶的三子。為了救援受到魏軍攻\n打的蜀國，隨丁奉前往蜀地，但晚到了一\n步。後來昇任為領軍將軍。",
     "abilities": {
       "command": 73,
       "strength": 69,
@@ -8937,6 +9279,7 @@
       "孙和",
       "孫和"
     ],
+    "biographyTraditional": "孫權的次子（正史中為三子），東吳最後\n的皇帝孫皓之父。因其姊全公主的讒言而\n被孫權疏遠，後來被孫峻賜死。",
     "abilities": {
       "command": 32,
       "strength": 44,
@@ -8960,6 +9303,7 @@
       "孙桓",
       "孫桓"
     ],
+    "biographyTraditional": "吳將，被孫策賜與孫姓。夷陵之戰中折損\n了部屬李異、謝旌等人，但當夷陵城被蜀\n軍包圍時，以死守等到了陸遜的援救。",
     "abilities": {
       "command": 85,
       "strength": 72,
@@ -8991,6 +9335,7 @@
       "孙冀",
       "孫冀"
     ],
+    "biographyTraditional": "吳將，留贊之子。上諫暴虐無道的孫皓，\n惹來孫皓大怒，因而遭到處斬。",
     "abilities": {
       "command": 66,
       "strength": 62,
@@ -9017,6 +9362,7 @@
       "孙休",
       "孫休"
     ],
+    "biographyTraditional": "孫權的六子，東吳第三代皇帝。大將軍孫\n綝廢孫亮後，被擁為皇帝，即位後，便和\n丁奉一同誅殺孫綝。",
     "abilities": {
       "command": 64,
       "strength": 39,
@@ -9043,6 +9389,7 @@
       "孙匡",
       "孫匡"
     ],
+    "biographyTraditional": "孫堅的四子。父親死後逃往江南，因曹操\n想與孫策結好，便使他娶了曹操的堂弟曹\n仁（正史為曹操之弟）的女兒為妻。",
     "abilities": {
       "command": 42,
       "strength": 51,
@@ -9069,6 +9416,7 @@
       "孙歆",
       "孫欽"
     ],
+    "biographyTraditional": "吳將，驃騎將軍。晉軍攻吳時，領一軍赴\n夏口守衛，但遭受晉將周旨夜襲時，大驚\n「北來諸軍乃飛渡江也？」，被周旨斬於\n馬下。",
     "abilities": {
       "command": 72,
       "strength": 71,
@@ -9096,6 +9444,7 @@
       "孙坚",
       "孫堅"
     ],
+    "biographyTraditional": "有人認為他是孫子的後裔。討伐黃巾時建\n立功勳，成為長沙太守。在討伐董卓聯軍\n中擔任先鋒。與袁術、劉表鬥爭，在襄陽\n戰死。後來被追諡為武烈帝。",
     "abilities": {
       "command": 96,
       "strength": 91,
@@ -9129,6 +9478,7 @@
       "孙干",
       "孫乾"
     ],
+    "biographyTraditional": "劉備麾下大臣。陶謙死時，曾推薦他輔佐\n劉備。劉備流浪時代，他身為參謀、外交\n官鼎力相助。劉備入蜀後，其待遇居糜竺\n之次。",
     "abilities": {
       "command": 33,
       "strength": 32,
@@ -9155,6 +9505,7 @@
       "孙权",
       "孫權"
     ],
+    "biographyTraditional": "吳國開國皇帝，孫堅的次子。由於其兄孫\n策猝死，而繼任其位。赤壁之戰中，與曹\n操的大軍作戰，獲得勝利。２２９年，即\n帝位創建吳國。諡號吳大帝。",
     "abilities": {
       "command": 73,
       "strength": 67,
@@ -9184,6 +9535,7 @@
       "孙皓",
       "孫皓"
     ],
+    "biographyTraditional": "東吳最後的皇帝，孫和之子。即位前的評\n價極高，但即位後卻殘暴異常，終致人心\n大失。被晉攻打後投降，封為歸命侯。",
     "abilities": {
       "command": 10,
       "strength": 31,
@@ -9210,6 +9562,7 @@
       "孙策",
       "孫策"
     ],
+    "biographyTraditional": "孫堅的長子。靠著從袁術處借來的三千人\n馬打江山，不久即平定江東一帶，人稱「\n小霸王」。但後來打獵時遭到襲擊，傷重\n不治，英年早逝。",
     "abilities": {
       "command": 95,
       "strength": 92,
@@ -9243,6 +9596,7 @@
       "孙秀",
       "孫秀"
     ],
+    "biographyTraditional": "東吳的前將軍，孫匡之孫。守備夏口，但\n因懼怕孫皓的暴虐，因此投向晉國，並被\n封為驃騎將軍。當吳國滅亡時，大哭「悠\n悠蒼天，此何人哉」。",
     "abilities": {
       "command": 61,
       "strength": 52,
@@ -9269,6 +9623,7 @@
       "孙述",
       "孫述"
     ],
+    "biographyTraditional": "晉將，只出現在演義中。隸屬於杜預的麾\n下，攻打江陵，斬殺了東吳的陸景。",
     "abilities": {
       "command": 22,
       "strength": 24,
@@ -9294,6 +9649,7 @@
       "孙峻",
       "孫峻"
     ],
+    "biographyTraditional": "吳將，孫靜的曾孫。被諸葛恪奪去了御林\n軍的指揮權，後來與滕胤一起在酒席上誅\n殺專橫無度的諸葛恪，因此功績被封為丞\n相、大將軍。性格傲慢。",
     "abilities": {
       "command": 58,
       "strength": 69,
@@ -9319,6 +9675,7 @@
       "孙韶",
       "孫韶"
     ],
+    "biographyTraditional": "孫桓的堂弟，孫堅從俞家認領來的養子。\n迎擊魏軍的時候，與徐盛意見不一致，獨\n自發兵致使魏軍混亂，並且得丁奉等人相\n助，最後大獲全勝。",
     "abilities": {
       "command": 80,
       "strength": 78,
@@ -9350,6 +9707,7 @@
       "孙尚香",
       "孫尚香"
     ],
+    "biographyTraditional": "孫堅之女，吳夫人所生，又名孫仁。嫁給\n劉備，但因孫權和劉備不和，於是返回東\n吳。夷陵之戰時，聽聞誤報劉備已經戰死\n，遂投江殉命。",
     "abilities": {
       "command": 77,
       "strength": 84,
@@ -9383,6 +9741,7 @@
       "孙震",
       "孫震"
     ],
+    "biographyTraditional": "袁術的武將。當袁術起兵討伐呂布時，率\n領第三軍作戰，但結果大敗。後來曹操來\n犯，死守在壽春，被擒後遭處死。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -9410,6 +9769,7 @@
       "孙静",
       "孫靜"
     ],
+    "biographyTraditional": "孫堅之弟。兄長攻打劉表前，他勸說因積\n怨而發兵實為不妥。孫堅死後，輔佐姪子\n孫策。後來守備故鄉會稽。",
     "abilities": {
       "command": 62,
       "strength": 42,
@@ -9437,6 +9797,7 @@
       "孙仲",
       "孫仲"
     ],
+    "biographyTraditional": "黃巾黨將士。和韓忠、趙弘共同攻佔宛城\n，與朱䊵、劉備等官軍進行交戰，戰敗正\n欲逃走時，被劉備射中落馬。",
     "abilities": {
       "command": 66,
       "strength": 71,
@@ -9462,6 +9823,7 @@
       "孙綝",
       "孫綝"
     ],
+    "biographyTraditional": "吳臣，孫峻的堂弟。因暗殺滕胤等人而手\n握兵權，廢吳帝孫亮，擁立孫休，但中了\n受孫休之命的丁奉策略，被滿門抄斬。",
     "abilities": {
       "command": 19,
       "strength": 40,
@@ -9484,6 +9846,7 @@
       "孙登",
       "孫登"
     ],
+    "biographyTraditional": "孫權的長子。孫權即帝位時，被冊封為太\n子。聰明且德高，被寄與厚望，但是年紀\n輕輕的就病死了。",
     "abilities": {
       "command": 67,
       "strength": 47,
@@ -9513,6 +9876,7 @@
       "孙霸",
       "孫霸"
     ],
+    "biographyTraditional": "晉將，羊祜的部屬。當羊祜要飲用吳國陸\n抗贈送的酒時，他曾懷疑那是不是毒酒。",
     "abilities": {
       "command": 34,
       "strength": 64,
@@ -9536,6 +9900,7 @@
       "孙瑜",
       "孫瑜"
     ],
+    "biographyTraditional": "吳將。孫靜的次子，孫權的堂弟（正史為\n堂兄）。周瑜以替劉備伐蜀為藉口，欲進\n攻荊州時，他奉孫權之命率軍與周瑜會合\n。",
     "abilities": {
       "command": 76,
       "strength": 72,
@@ -9565,6 +9930,7 @@
       "孙翊",
       "孫翊"
     ],
+    "biographyTraditional": "吳將，孫堅的三子，丹陽太守。如同長兄\n孫策般的勇猛，但是脾氣粗暴，酒醉後鞭\n打士兵，因此在宴席上被手下暗殺。",
     "abilities": {
       "command": 67,
       "strength": 76,
@@ -9592,6 +9958,7 @@
       "孙亮",
       "孫亮"
     ],
+    "biographyTraditional": "孫權的三子（正史中為七子），東吳的第\n二代皇帝。聰明伶俐，見孫綝專橫欲殺之\n，但未果，於是被廢帝位，降為會稽王。",
     "abilities": {
       "command": 24,
       "strength": 11,
@@ -9613,6 +9980,7 @@
       "孙礼",
       "孫禮"
     ],
+    "biographyTraditional": "魏將，在大石山打獵時，打死突然跳到曹\n叡面前的老虎，立下大功。擔任曹真、司\n馬懿麾下的將軍，在對蜀作戰中表現活躍\n。",
     "abilities": {
       "command": 74,
       "strength": 82,
@@ -9641,6 +10009,7 @@
       "孙朗",
       "孫朗"
     ],
+    "biographyTraditional": "孫堅的五子，庶子（生母是吳國太）。孫\n堅死後，逃往江南。後來成為吳國的定武\n中郎將。",
     "abilities": {
       "command": 39,
       "strength": 48,
@@ -9667,6 +10036,7 @@
       "孙潬",
       "孫𩅦（雨下單）"
     ],
+    "biographyTraditional": "魏將。參與鎮壓諸葛誕的叛亂，為了擊破\n協助諸葛誕的吳軍，用牛馬載著酒和布放\n入敵營，造成了敵軍混亂。",
     "abilities": {
       "command": 24,
       "strength": 23,
@@ -9689,6 +10059,7 @@
     "searchAliases": [
       "太史享"
     ],
+    "biographyTraditional": "吳將，太史慈之子。父親死後，被接到孫\n權府中，後來任東吳的越騎校尉。",
     "abilities": {
       "command": 59,
       "strength": 69,
@@ -9714,6 +10085,7 @@
     "searchAliases": [
       "太史慈"
     ],
+    "biographyTraditional": "吳將。曾受母親之命，解救了北海太守孔\n融的危機，後來投靠劉繇，但當劉繇敗給\n孫策後，便歸順孫策。最後在跟隨孫權攻\n略合淝時戰死。",
     "abilities": {
       "command": 79,
       "strength": 92,
@@ -9746,6 +10118,7 @@
       "带来洞主",
       "帶來洞主"
     ],
+    "biographyTraditional": "孟獲之妻祝融夫人之弟。向與蜀漢軍交手\n，卻連戰連敗的孟獲推薦木鹿大王、兀突\n骨，勸其邀請他們出擊。",
     "abilities": {
       "command": 51,
       "strength": 56,
@@ -9771,6 +10144,7 @@
     "searchAliases": [
       "戴陵"
     ],
+    "biographyTraditional": "魏將。奉司馬懿之命，擔任張郃的副將襲\n擊諸葛亮的營地，但反被包圍，讓張郃救\n出。後來當諸葛亮和司馬懿比陣時被捉，\n以墨塗面釋回。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -9796,6 +10170,7 @@
     "searchAliases": [
       "朵思大王"
     ],
+    "biographyTraditional": "南蠻禿龍洞的元帥，孟獲之弟孟優的友人\n，號稱南蠻第一智者。幫助處於劣勢的孟\n獲，用禿龍洞的四眼毒泉與諸葛亮對抗。",
     "abilities": {
       "command": 65,
       "strength": 59,
@@ -9824,6 +10199,7 @@
       "谭雄",
       "譚雄"
     ],
+    "biographyTraditional": "吳將。與蜀漢軍的戰鬥中，為了幫助自軍\n的李異，箭射張苞的座騎，使張苞落馬。\n第二天被關興生擒，在蜀漢營中遭斬首。",
     "abilities": {
       "command": 64,
       "strength": 74,
@@ -9849,6 +10225,7 @@
       "张允",
       "張允"
     ],
+    "biographyTraditional": "劉表麾下之將，蔡瑁的心腹。與蔡瑁一起\n投降曹操，被任命為水軍副都督。而由於\n周瑜的計策，被懷疑謀反，與蔡瑁一同處\n斬。",
     "abilities": {
       "command": 72,
       "strength": 68,
@@ -9876,6 +10253,7 @@
       "赵云",
       "趙雲"
     ],
+    "biographyTraditional": "蜀漢之將。先後為袁紹、公孫瓚效力，後\n來追隨劉備。在長阪坡之戰中，單騎殺入\n曹操百萬軍中，救出劉備之子阿斗（後來\n的劉禪）。蜀漢五虎大將之一。",
     "abilities": {
       "command": 88,
       "strength": 96,
@@ -9908,6 +10286,7 @@
       "张卫",
       "張衛"
     ],
+    "biographyTraditional": "五斗米道的教祖張魯之弟。曹操攻打漢中\n的時候，主張徹底抗戰。後來逃往巴中，\n與許褚交手時被殺。",
     "abilities": {
       "command": 68,
       "strength": 65,
@@ -9934,6 +10313,7 @@
       "张英",
       "張英"
     ],
+    "biographyTraditional": "揚州刺史劉繇麾下的武將。孫策興兵來犯\n時，誇下海口說可領一軍守住牛渚，但不\n敵而敗，後來在秣陵（建業）被孫策麾下\n的陳武刺死。",
     "abilities": {
       "command": 71,
       "strength": 72,
@@ -9963,6 +10343,7 @@
       "张颍",
       "張穎"
     ],
+    "biographyTraditional": "陳武之子。年少時就頗有名聲，和諸葛恪\n、顧譚、張休同是孫登的學友。曾隨諸葛\n恪討伐山越，表現活躍，但三十四歲便英\n年早逝了。",
     "abilities": {
       "command": 71,
       "strength": 68,
@@ -9990,6 +10371,7 @@
       "张燕",
       "張燕"
     ],
+    "biographyTraditional": "黑山山賊的頭目。曹操打敗袁譚後，率領\n十萬大軍投降曹操，因為此項功績，被任\n命為平北將軍，受命鎮守北方要害。",
     "abilities": {
       "command": 79,
       "strength": 83,
@@ -10017,6 +10399,7 @@
       "张横",
       "張橫"
     ],
+    "biographyTraditional": "韓遂麾下，「旗本八騎」之一。與馬超一\n起攻打長安，但是在渭南的混戰中陣亡。",
     "abilities": {
       "command": 67,
       "strength": 68,
@@ -10043,6 +10426,7 @@
       "张温",
       "張溫"
     ],
+    "biographyTraditional": "吳臣，中郎將。出任吳蜀同盟的答禮使者\n，與鄧芝一起赴蜀國完成了大任，但因讚\n美蜀漢的治理惹來孫權不悅，被幽禁。",
     "abilities": {
       "command": 14,
       "strength": 12,
@@ -10067,6 +10451,7 @@
       "张华",
       "張華"
     ],
+    "biographyTraditional": "晉臣，秘書丞。與晉帝司馬炎下棋時，杜\n預呈上奏表伐吳，他大表贊同，後來又反\n對賈充的消極論，惹來賈充大罵。",
     "abilities": {
       "command": 34,
       "strength": 29,
@@ -10092,6 +10477,7 @@
       "张闿",
       "張闓"
     ],
+    "biographyTraditional": "黃巾黨。黃巾之亂後，在陶謙的手下作都\n尉。奉命護衛曹操之父曹嵩，但見財起了\n歹念，於是殺死曹嵩，奪去財寶逃走了。",
     "abilities": {
       "command": 36,
       "strength": 63,
@@ -10116,6 +10502,7 @@
       "张角",
       "張角"
     ],
+    "biographyTraditional": "鉅鹿郡的在野之士。身為太平道教祖向民\n眾宣傳教義，趁亂世得到了廣大民眾的支\n持，接著便組織黃巾黨反對朝廷，掀起了\n黃巾之亂。",
     "abilities": {
       "command": 92,
       "strength": 26,
@@ -10147,6 +10534,7 @@
       "张既",
       "張既"
     ],
+    "biographyTraditional": "魏臣。被夏侯淵推薦為京兆尹，與夏侯淵\n一起守備長安。據正史記載，後來歷任雍\n州刺史和涼州刺史，施政績效相當不錯。",
     "abilities": {
       "command": 76,
       "strength": 31,
@@ -10174,6 +10562,7 @@
       "张休",
       "張休"
     ],
+    "biographyTraditional": "吳臣，張昭的次子，著名文人。因為與太\n子孫登親近，成為右弼。孫登死後，受人\n讒言遭降職，最後被勒令自殺。",
     "abilities": {
       "command": 58,
       "strength": 31,
@@ -10201,6 +10590,7 @@
       "张球",
       "張球"
     ],
+    "biographyTraditional": "魏將。隨曹叡在合淝迎擊響應諸葛亮第五\n次北伐的吳軍，協助滿寵火攻諸葛瑾的船\n隊，順利的打退吳軍。",
     "abilities": {
       "command": 69,
       "strength": 73,
@@ -10228,6 +10618,7 @@
       "张乔",
       "張喬"
     ],
+    "biographyTraditional": "曹植的近側，知名文人。曹操死後，使者\n來問罪曹植為何沒參加葬禮時，他痛批曹\n丕而遭到處死。",
     "abilities": {
       "command": 68,
       "strength": 65,
@@ -10250,6 +10641,7 @@
       "张嶷",
       "張嶷"
     ],
+    "biographyTraditional": "蜀漢將軍，參加諸葛亮的南征、北伐，表\n現活躍，後來在欲救出姜維時戰死。正史\n中記載他平定外族，並得到他們的信任，\n盡力於治下安定。",
     "abilities": {
       "command": 76,
       "strength": 73,
@@ -10280,6 +10672,7 @@
       "张勋",
       "張勳"
     ],
+    "biographyTraditional": "袁術麾下之將，都督。袁術稱帝後，被封\n為大將軍。統帥二十萬大軍與呂布軍交戰\n，但是大敗而回。",
     "abilities": {
       "command": 72,
       "strength": 71,
@@ -10307,6 +10700,7 @@
       "张俨",
       "張儼"
     ],
+    "biographyTraditional": "魏臣，負責任教曹髦，歷職司空、司徒。",
     "abilities": {
       "command": 38,
       "strength": 27,
@@ -10333,6 +10727,7 @@
       "张虎",
       "張虎"
     ],
+    "biographyTraditional": "魏將，名將張遼之子。曾經夜襲祁山的蜀\n軍，但是失敗。討伐公孫淵時，在司馬懿\n指揮下表現活躍。",
     "abilities": {
       "command": 72,
       "strength": 74,
@@ -10360,6 +10755,7 @@
       "张纮",
       "張紘"
     ],
+    "biographyTraditional": "吳臣，與張昭一起並稱為「二張」。由周\n瑜推薦，以謀士身份加入，隨軍參戰過赤\n壁、合淝之戰。臨終前，建議孫權遷都建\n業。",
     "abilities": {
       "command": 31,
       "strength": 11,
@@ -10387,6 +10783,7 @@
       "张合",
       "張郃（魏）"
     ],
+    "biographyTraditional": "魏將，本是袁紹的屬下，但是由於郭圖之\n計，身陷絕境，與高覽一起歸順了曹操。\n主要活躍於對蜀作戰中，街亭之戰時包圍\n馬謖，並大獲全勝。",
     "abilities": {
       "command": 89,
       "strength": 90,
@@ -10418,6 +10815,7 @@
       "赵广",
       "趙廣"
     ],
+    "biographyTraditional": "趙雲的次子，與兄長趙統一起將父親的死\n訊報告諸葛亮。被任命為牙門將，守衛父\n親陵墓。正史記載此人在姜維的麾下隨軍\n出征，死於前線的沓中。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -10444,6 +10842,7 @@
       "赵弘",
       "趙弘"
     ],
+    "biographyTraditional": "黃巾黨將士。和韓忠、孫仲共同率軍佔據\n宛城，與朱䊵等官軍進行交戰，被趕來增\n援官軍的孫堅挑落馬下，戰死。",
     "abilities": {
       "command": 59,
       "strength": 73,
@@ -10469,6 +10868,7 @@
       "张济",
       "張濟"
     ],
+    "biographyTraditional": "董卓麾下之將，車騎將軍，張繡的叔父，\n娶了傾國美女鄒氏為妻。由於軍糧不足，\n因此去攻打南陽的劉表，但中了流箭身亡\n。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -10495,6 +10895,7 @@
       "张绣",
       "張繡"
     ],
+    "biographyTraditional": "張濟之姪。張濟死後，率軍協助劉表，與\n曹操對立，藉由軍師賈詡的妙計，幾次取\n勝。後來經賈詡勸說，歸順了曹操，並得\n到重用。",
     "abilities": {
       "command": 82,
       "strength": 72,
@@ -10523,6 +10924,7 @@
       "张缉",
       "張緝"
     ],
+    "biographyTraditional": "魏國的尚書。司馬師得知孫權死亡的消息\n後，勸諫司馬師發兵討吳，後來毌丘儉叛\n亂，也跟隨司馬師謀定作戰之策。",
     "abilities": {
       "command": 35,
       "strength": 32,
@@ -10549,6 +10951,7 @@
       "张遵",
       "張遵"
     ],
+    "biographyTraditional": "魏將。鍾會伐蜀時，以士兵的身份參戰，\n在攻打漢中之際，射倒突擊鍾會的盧遜，\n因此功績而昇任護軍，之後更攻破漢城，\n降伏了蔣斌。",
     "abilities": {
       "command": 67,
       "strength": 70,
@@ -10575,6 +10978,7 @@
       "张昭",
       "張昭"
     ],
+    "biographyTraditional": "孫權麾下大臣，「二張」之一。由周瑜舉\n薦，作了孫策的謀士，孫策臨終前留下遺\n言：「內事不決問張昭」。",
     "abilities": {
       "command": 41,
       "strength": 4,
@@ -10601,6 +11005,7 @@
       "张松",
       "張松"
     ],
+    "biographyTraditional": "劉璋麾下大臣。為了阻止張魯進攻蜀地，\n欲使劉備替代軟弱的劉璋為蜀主，但計劃\n敗露，被視為叛臣遭處斬。",
     "abilities": {
       "command": 12,
       "strength": 3,
@@ -10626,6 +11031,7 @@
       "张绍",
       "張紹"
     ],
+    "biographyTraditional": "蜀漢大臣，侍中。張飛的次子。蜀漢投降\n時，與譙周一起將玉璽交給鄧艾。等鍾會\n死後，劉禪被送到洛陽，他也隨行，被封\n為列侯。",
     "abilities": {
       "command": 7,
       "strength": 12,
@@ -10648,6 +11054,7 @@
       "张承",
       "張承"
     ],
+    "biographyTraditional": "吳將。蜀國的諸葛亮發動第五次北伐時，\n奉孫權之命與孫韶一起從廣陵攻打淮陰。",
     "abilities": {
       "command": 76,
       "strength": 72,
@@ -10676,6 +11083,7 @@
       "张象",
       "張象"
     ],
+    "biographyTraditional": "吳臣，大司農。因為勸諫吳帝孫皓的暴政\n，遭到處死的大臣之一。",
     "abilities": {
       "command": 67,
       "strength": 65,
@@ -10701,6 +11109,7 @@
       "张尚",
       "張尚"
     ],
+    "biographyTraditional": "魏官，丁斐之子，曹爽的心腹。為了便於\n監視，使司馬懿成為太傅，而使曹爽的權\n力大增，後來司馬懿發動政變，將之三族\n皆斬於市。",
     "abilities": {
       "command": 62,
       "strength": 76,
@@ -10726,6 +11135,7 @@
       "张任",
       "張任"
     ],
+    "biographyTraditional": "劉璋麾下之將。在落鳳坡射殺了劉備的軍\n師龐統，敗戰後被俘，劉備勸降，他卻以\n「忠臣不仕二主」加以拒絕，從容就義。",
     "abilities": {
       "command": 85,
       "strength": 89,
@@ -10756,6 +11166,7 @@
       "张节",
       "張節"
     ],
+    "biographyTraditional": "魏臣，黃門侍郎。強烈反對司馬炎逼迫魏\n帝曹奐禪讓，因此惹得司馬炎大怒，令手\n下士兵將其亂棒打死。",
     "abilities": {
       "command": 12,
       "strength": 11,
@@ -10780,6 +11191,7 @@
       "张悌",
       "張悌"
     ],
+    "biographyTraditional": "吳臣，東吳最後的丞相。面對晉的大軍仍\n然奮戰到底，沈瑩等人提議投降，他回以\n「今若君臣皆降，無一人死於國難，不亦\n辱乎」，最後死於亂軍之中。",
     "abilities": {
       "command": 78,
       "strength": 45,
@@ -10810,6 +11222,7 @@
       "赵统",
       "趙統"
     ],
+    "biographyTraditional": "趙雲的長子。將父親趙雲病死的消息，報\n告給諸葛亮，隨後也報告劉禪，被任命為\n虎賁中郎，與弟弟趙廣一起守衛埋葬父親\n的錦屏山。",
     "abilities": {
       "command": 65,
       "strength": 68,
@@ -10836,6 +11249,7 @@
       "张特",
       "張特"
     ],
+    "biographyTraditional": "步騭之子，步闡之兄。２６４年攻打舊蜀\n漢的領地，和陸抗、留平、盛曼等人一起\n包圍了羅憲守備的巴東。",
     "abilities": {
       "command": 70,
       "strength": 58,
@@ -10863,6 +11277,7 @@
       "张南",
       "張南"
     ],
+    "biographyTraditional": "蜀漢將軍。參加關羽復仇之戰，與吳班、\n馮習一起圍攻夷陵城。蜀軍敵不過火攻敗\n退之後，他在救援劉備途中，受到吳軍夾\n擊，力戰而死。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -10889,6 +11304,7 @@
       "张邈",
       "張邈"
     ],
+    "biographyTraditional": "陳留太守，討伐董卓的第六鎮諸侯。本來\n與曹操是好友，可是經陳宮勸說後，背叛\n曹操。曾勸呂布攻打兗州，但是失敗了。",
     "abilities": {
       "command": 46,
       "strength": 50,
@@ -10915,6 +11331,7 @@
       "赵范",
       "趙範"
     ],
+    "biographyTraditional": "桂陽太守。赤壁之戰後，歸降於前來攻打\n桂陽的趙雲。原本欲將守寡多年的嫂子樊\n氏嫁與趙雲，卻惹得趙雲大怒。",
     "abilities": {
       "command": 18,
       "strength": 20,
@@ -10939,6 +11356,7 @@
       "张飞",
       "張飛"
     ],
+    "biographyTraditional": "蜀漢五虎大將之一。與劉備、關羽結為異\n姓兄弟。在長阪坡之戰中，單槍匹馬在長\n阪橋上，喝退曹操百萬大軍的追擊。正史\n中記載他字翼德。",
     "abilities": {
       "command": 83,
       "strength": 98,
@@ -10968,6 +11386,7 @@
       "张布",
       "張布"
     ],
+    "biographyTraditional": "吳將，左將軍。受吳帝孫休之命，與丁奉\n一起誅殺暴虐的丞相孫綝，後來擁孫皓即\n位，但勸諫孫皓的專橫招怒，滿門被斬。",
     "abilities": {
       "command": 34,
       "strength": 22,
@@ -10994,6 +11413,7 @@
       "张苞",
       "張苞"
     ],
+    "biographyTraditional": "蜀漢將軍，張飛的長子。手持張飛死時留\n下的蛇矛，在夷陵之戰中初露鋒芒。關羽\n、張飛死後，他與義兄關興成為蜀軍的中\n流砥柱。",
     "abilities": {
       "command": 76,
       "strength": 87,
@@ -11023,6 +11443,7 @@
       "张宝",
       "張寶"
     ],
+    "biographyTraditional": "張角之弟。和張角一起舉兵反對朝廷，發\n動黃巾之亂。自稱地公將軍，利用兄長傳\n授的妖術指揮叛亂，後被其屬下嚴政殺死\n。",
     "abilities": {
       "command": 83,
       "strength": 70,
@@ -11052,6 +11473,7 @@
       "张杨",
       "張揚"
     ],
+    "biographyTraditional": "東漢的上黨太守。率領反董卓聯盟之第十\n五鎮，後來擔任河內太守，赴洛陽營救獻\n帝。在曹操與呂布作戰時，欲支援呂布，\n卻被屬下楊醜殺死。",
     "abilities": {
       "command": 70,
       "strength": 72,
@@ -11078,6 +11500,7 @@
       "张翼",
       "張翼"
     ],
+    "biographyTraditional": "蜀漢將軍。原本是劉璋麾下之將，後來投\n降劉備，在南征北討中統軍表現活躍。自\n車騎將軍夏侯霸死後，與廖化分封其位，\n任左車騎將軍。",
     "abilities": {
       "command": 76,
       "strength": 74,
@@ -11106,6 +11529,7 @@
       "张辽",
       "張遼"
     ],
+    "biographyTraditional": "魏將，曾為呂布的屬下轉戰各地。與關羽\n英雄相惜。呂布戰敗身亡後，改投曹操軍\n中。守衛合淝之時，僅憑八百士兵就擊退\n了十萬吳軍。",
     "abilities": {
       "command": 94,
       "strength": 90,
@@ -11140,6 +11564,7 @@
       "张梁",
       "張梁"
     ],
+    "biographyTraditional": "張角、張寶之弟。和兄長們一起舉兵反對\n朝廷，發動黃巾之亂，自稱人公將軍。張\n角死後仍然指揮叛亂，後來敗給官軍，在\n曲陽戰死。",
     "abilities": {
       "command": 81,
       "strength": 82,
@@ -11169,6 +11594,7 @@
       "赵累",
       "趙累"
     ],
+    "biographyTraditional": "關羽麾下大臣，忠節無比之人。任關羽的\n參謀，後來隨著敗走的關羽從麥城逃出，\n但遇到東吳的伏兵，戰死。",
     "abilities": {
       "command": 35,
       "strength": 35,
@@ -11194,6 +11620,7 @@
       "张鲁",
       "張魯"
     ],
+    "biographyTraditional": "五斗米道的師君（教祖），在漢中郡一帶\n形成勢力。與曹操軍對陣時戰敗，但因為\n他不燒倉廩府庫，而得到曹操的好評。投\n降後被任命為鎮南將軍。",
     "abilities": {
       "command": 41,
       "strength": 33,
@@ -11219,6 +11646,7 @@
       "陈横",
       "陳橫"
     ],
+    "biographyTraditional": "揚州刺史劉繇麾下的部將。與薛禮、張英\n一起守衛秣陵（建業），後來被前來攻打\n的孫策麾下之將蔣欽射殺。",
     "abilities": {
       "command": 69,
       "strength": 66,
@@ -11245,6 +11673,7 @@
       "陈应",
       "陳應"
     ],
+    "biographyTraditional": "東吳的中書令。當晉軍迫近，吳帝孫皓正\n打算自殺時，他和光祿勳薛瑩上奏不如效\n仿劉禪，降晉保命。",
     "abilities": {
       "command": 65,
       "strength": 70,
@@ -11270,6 +11699,7 @@
       "陈纪",
       "陳紀"
     ],
+    "biographyTraditional": "魏將。２６３年，參加鍾會與鄧艾率領的\n蜀漢討伐軍，在江由大戰蜀軍，並獲得勝\n利。",
     "abilities": {
       "command": 64,
       "strength": 68,
@@ -11296,6 +11726,7 @@
       "陈宫",
       "陳宮"
     ],
+    "biographyTraditional": "東漢的中牟縣令。與暗殺董卓失敗的曹操\n同行，但不滿曹操的無情無義而與之分離\n。後來成為呂布的謀士，戰敗後被俘，自\n己輕步下樓，引頸就刑。",
     "abilities": {
       "command": 72,
       "strength": 52,
@@ -11324,6 +11755,7 @@
       "陈矫",
       "陳矯"
     ],
+    "biographyTraditional": "魏臣。與曹仁一起鎮守南郡，但是敗在諸\n葛亮的妙計之下。後來成為尚書，對曹丕\n即帝位有所貢獻。明帝曹叡的時代，升任\n司徒。",
     "abilities": {
       "command": 53,
       "strength": 32,
@@ -11351,6 +11783,7 @@
       "陈群",
       "陳羣"
     ],
+    "biographyTraditional": "魏臣。制定法令「九品官人（中正）法」\n，整頓魏國的任官制度。曹丕死後，他任\n鎮軍大將軍，與司馬懿、曹真一起輔佐曹\n叡。",
     "abilities": {
       "command": 21,
       "strength": 7,
@@ -11375,6 +11808,7 @@
       "陈珪",
       "陳珪"
     ],
+    "biographyTraditional": "徐州的名士，陳登之父。素懷憂國之志，\n因此背叛呂布，作了曹操的內應。與兒子\n陳登一起算計呂布，對劉備、曹操的勝利\n有所貢獻。",
     "abilities": {
       "command": 21,
       "strength": 5,
@@ -11402,6 +11836,7 @@
       "陈骞",
       "陳騫"
     ],
+    "biographyTraditional": "魏將，安東將軍。諸葛誕叛亂時，擔任鎮\n壓部隊的副先鋒，與呼應諸葛誕的吳軍作\n戰，獲得了勝利。司馬炎即位晉王後，封\n之為車騎將軍。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -11430,6 +11865,7 @@
       "陈元",
       "陳元"
     ],
+    "biographyTraditional": "東吳的蒼梧太守。２７１年，與虞汜一起\n由晉軍手中奪取交趾，並成為交州牧，後\n來郭馬叛變，前往救援討伐軍的滕脩。",
     "abilities": {
       "command": 50,
       "strength": 57,
@@ -11452,6 +11888,7 @@
       "陈寿",
       "陳壽"
     ],
+    "biographyTraditional": "蜀漢之臣。師事譙周，精通歷史。蜀漢滅\n亡後仕官於晉，編撰『三國志』，雖然是\n私撰之書，但在陳壽死後列為正史。",
     "abilities": {
       "command": 15,
       "strength": 22,
@@ -11476,6 +11913,7 @@
       "陈俊",
       "陳俊"
     ],
+    "biographyTraditional": "東吳的中書郎。孫綝擁立孫休時，與孫楷\n一起被派遣至孫休處。到孫皓即位，任職\n中書令、司徒。",
     "abilities": {
       "command": 67,
       "strength": 65,
@@ -11502,6 +11940,7 @@
       "陈式",
       "陳式"
     ],
+    "biographyTraditional": "蜀漢之將。有一說，認為此人是陳壽之父\n。在定軍山曾被敵人俘虜，但是與夏侯尚\n交換戰俘得以返回。第三次北伐中，追擊\n魏軍失敗，被追究戰敗的責任，遭斬首。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -11528,6 +11967,7 @@
       "陈震",
       "陳震"
     ],
+    "biographyTraditional": "劉備麾下大臣，原來是袁紹屬下。劉備寄\n身在袁紹軍中之時，將劉備的書信送交給\n關羽。劉備成為荊州牧後，請出他擔任從\n事。",
     "abilities": {
       "command": 46,
       "strength": 48,
@@ -11553,6 +11993,7 @@
       "陈泰",
       "陳泰"
     ],
+    "biographyTraditional": "魏臣，陳群之子，統率軍隊的能力在其父\n之上。當司馬氏在朝中專橫，魏帝曹髦死\n時，他著喪服入宮以表對魏國的忠義。官\n拜尚書令。",
     "abilities": {
       "command": 87,
       "strength": 78,
@@ -11585,6 +12026,7 @@
       "陈登",
       "陳登"
     ],
+    "biographyTraditional": "陳珪之子。劉備從陶謙手中接掌徐州時，\n成為劉備屬下，但劉備敗給曹操後，便投\n降曹操，得到太守的地位。",
     "abilities": {
       "command": 79,
       "strength": 65,
@@ -11615,6 +12057,7 @@
       "陈到",
       "陳到"
     ],
+    "biographyTraditional": "蜀漢之將。劉備在豫州時就成為劉備屬下\n，轉戰各地。名聲、地位也僅次於趙雲，\n為忠勇之士。劉禪即位後，任永安都督、\n征西將軍。此人只在正史中有記載。",
     "abilities": {
       "command": 75,
       "strength": 72,
@@ -11643,6 +12086,7 @@
       "陈表",
       "陳表"
     ],
+    "biographyTraditional": "蜀漢的鄧芝之子。２６３年，當劉禪受到\n鄧艾攻打決定投降時，與譙周、張紹一起\n擔任獻降的使者。到了晉朝，被任命為廣\n漢太守。",
     "abilities": {
       "command": 68,
       "strength": 44,
@@ -11672,6 +12116,7 @@
       "陈武",
       "陳武"
     ],
+    "biographyTraditional": "吳將。容貌怪異，黃臉赤目，與劉繇作戰\n時投入孫策麾下。赤壁之戰中，以第四位\n大將的身份參戰，在濡須被龐德殺死。",
     "abilities": {
       "command": 75,
       "strength": 82,
@@ -11701,6 +12146,7 @@
       "陈兰",
       "陳蘭"
     ],
+    "biographyTraditional": "袁術麾下之將。攻打徐州時任副將。因不\n滿袁術自立為帝，夥同雷薄佔山為寇，後\n來襲擊落難的袁術，掠奪其財寶。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -11727,6 +12173,7 @@
       "陈琳",
       "陳琳"
     ],
+    "biographyTraditional": "著名文人，「建安七子」之一。被袁紹以\n記室（書記）錄用，寫過討伐曹操的檄文\n。後來被曹操俘虜，曹操惜其才而用之。",
     "abilities": {
       "command": 9,
       "strength": 9,
@@ -11751,6 +12198,7 @@
     "searchAliases": [
       "程昱"
     ],
+    "biographyTraditional": "曹操麾下的謀士。原名立，夢見自己手持\n日暈而改名。由荀彧薦舉為曹操效力，擔\n任軍師表現活躍。身材高碩，長八尺三寸\n。",
     "abilities": {
       "command": 70,
       "strength": 55,
@@ -11778,6 +12226,7 @@
       "程远志",
       "程遠志"
     ],
+    "biographyTraditional": "黃巾黨將士。率叛軍五萬人攻打幽州，在\n大興山腳下與劉備率領的義勇軍交戰，只\n一個回合就被初上陣的關羽斬於馬下。",
     "abilities": {
       "command": 74,
       "strength": 76,
@@ -11804,6 +12253,7 @@
       "丁仪",
       "丁儀"
     ],
+    "biographyTraditional": "姜維的副將。２６３年，向當時被魏國的\n諸葛緒斷了退路，正陷入進退兩難的姜維\n進言，姜維聽其言攻打雍州，誘出諸葛緒\n而得以退到劍閣。",
     "abilities": {
       "command": 13,
       "strength": 4,
@@ -11829,6 +12279,7 @@
       "程银",
       "程銀"
     ],
+    "biographyTraditional": "韓遂麾下的「旗本八騎」之一。與馬超軍\n一起攻陷長安，後來在渭南與曹操軍交戰\n，和同僚張橫等一同戰死。",
     "abilities": {
       "command": 73,
       "strength": 71,
@@ -11854,6 +12305,7 @@
     "searchAliases": [
       "丁原"
     ],
+    "biographyTraditional": "并州（演義中則是荊州）刺史。接受何進\n請求，率軍進入洛陽。與主張廢少帝的董\n卓對立，被養子呂布背叛斬殺。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -11880,6 +12332,7 @@
       "郑冲",
       "鄭沖"
     ],
+    "biographyTraditional": "晉將，令孤愚的食客。把因王淩叛亂而被\n開棺曝屍的令孤愚遺體運回安葬。日後鮮\n卑犯晉，奉命率軍討伐，平定了西平。",
     "abilities": {
       "command": 21,
       "strength": 13,
@@ -11905,6 +12358,7 @@
       "丁谧",
       "丁謐"
     ],
+    "biographyTraditional": "曹爽的心腹之一。曹爽奪取司馬懿之權後\n，任職司隸校尉，後來司馬懿叛變，被補\n後三族盡誅。",
     "abilities": {
       "command": 20,
       "strength": 32,
@@ -11929,6 +12383,7 @@
     "searchAliases": [
       "程普"
     ],
+    "biographyTraditional": "吳將，慣使鐵脊蛇矛。孫氏三代元老，身\n經百戰。赤壁之戰中出任副都督協助正都\n督周瑜，在長江之上擊敗曹操大軍。",
     "abilities": {
       "command": 83,
       "strength": 84,
@@ -11959,6 +12414,7 @@
     "searchAliases": [
       "程武"
     ],
+    "biographyTraditional": "魏臣，程昱之子。與蜀軍作戰時擔任夏侯\n楙的參軍，建議夏侯楙以伏兵對付趙雲，\n成功的圍困住趙雲。",
     "abilities": {
       "command": 62,
       "strength": 37,
@@ -11984,6 +12440,7 @@
     "searchAliases": [
       "程秉"
     ],
+    "biographyTraditional": "吳臣。出任使者去與前來為關羽報仇的蜀\n軍講和，並將張飛的首級送回，但是劉備\n伐吳的意志非常堅定，講和因此失敗。",
     "abilities": {
       "command": 14,
       "strength": 14,
@@ -12008,6 +12465,7 @@
     "searchAliases": [
       "丁奉"
     ],
+    "biographyTraditional": "吳將。初次上陣就打敗魏國名將張遼，多\n有活躍表現。誅殺孫綝，成為大將軍。後\n來奉命去救援眼見就要滅亡的蜀漢，可惜\n為時已晚。",
     "abilities": {
       "command": 80,
       "strength": 83,
@@ -12037,6 +12495,7 @@
     "searchAliases": [
       "丁封"
     ],
+    "biographyTraditional": "吳將。孫峻死後，被掌握實權的孫綝所殺\n害的大臣之一。在正史中，他和孫憲一起\n共謀暗殺孫綝，被發覺而遭殺身之禍。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -12063,6 +12522,7 @@
       "典韦",
       "典韋"
     ],
+    "biographyTraditional": "曹操麾下之將，威猛雄壯，綽號「惡來」\n，乃取自古代豪傑之名。在宛城遭到張繡\n夜襲時，為了掩護曹操脫險，赤手空拳奮\n戰而死。",
     "abilities": {
       "command": 68,
       "strength": 93,
@@ -12088,6 +12548,7 @@
     "searchAliases": [
       "田楷"
     ],
+    "biographyTraditional": "被公孫瓚任命為青州刺史。和劉備一起在\n對袁紹作戰中表現活躍。陶謙受到曹操軍\n攻擊時，與劉備一起前去救援。此人只出\n現在正史裡。",
     "abilities": {
       "command": 71,
       "strength": 65,
@@ -12113,6 +12574,7 @@
     "searchAliases": [
       "田章"
     ],
+    "biographyTraditional": "晉臣。在司馬炎採納羊祜的上奏，正準備\n發兵討吳時，與賈充、荀勗等人同聲反對\n，中止了這項行動。",
     "abilities": {
       "command": 66,
       "strength": 64,
@@ -12139,6 +12601,7 @@
       "田续",
       "田續"
     ],
+    "biographyTraditional": "魏將，田疇的族孫。參與鍾會、鄧艾伐蜀\n，因對鄧艾懷有舊怨，趁鍾會之亂時，斬\n殺了正被運送回京的鄧艾父子。",
     "abilities": {
       "command": 49,
       "strength": 61,
@@ -12164,6 +12627,7 @@
       "田畴",
       "田疇"
     ],
+    "biographyTraditional": "袁紹麾下大臣。曹操在尋找熟悉北方地理\n的人時，找到他來帶路去烏丸，因此項功\n績和追認其對袁氏的忠義，被封為議郎。",
     "abilities": {
       "command": 68,
       "strength": 66,
@@ -12190,6 +12654,7 @@
       "田丰",
       "田豐"
     ],
+    "biographyTraditional": "袁紹麾下的謀士，荀彧稱其剛直的性格為\n其主公所不容。反對與曹操作戰，進言打\n持久戰，因而被打入大牢，後來由於逢紀\n的讒言，被賜死於大牢之中。",
     "abilities": {
       "command": 58,
       "strength": 39,
@@ -12218,6 +12683,7 @@
       "典满",
       "典滿"
     ],
+    "biographyTraditional": "曹操麾下的大臣，典韋之子。受張繡襲擊\n，其父典韋戰死，而後被曹操任命為中郎\n之職，在其身邊輔佐。",
     "abilities": {
       "command": 55,
       "strength": 72,
@@ -12242,6 +12708,7 @@
     "searchAliases": [
       "田豫"
     ],
+    "biographyTraditional": "魏將。吳軍響應諸葛亮的第五次北伐北上\n後，他奉曹叡之命前去增援襄陽，使陸遜\n的計謀以失敗告終，吳軍只好撤走。",
     "abilities": {
       "command": 76,
       "strength": 71,
@@ -12269,6 +12736,7 @@
     "searchAliases": [
       "滕胤"
     ],
+    "biographyTraditional": "吳臣，太常卿。與孫峻合謀，誅殺專橫無\n度的諸葛恪，因此功績被封為吳國大司馬\n。後來企圖暗殺殘暴無比的孫綝，卻反而\n被孫綝所殺。",
     "abilities": {
       "command": 34,
       "strength": 40,
@@ -12294,6 +12762,7 @@
     "searchAliases": [
       "董允"
     ],
+    "biographyTraditional": "蜀漢之臣，與諸葛亮、蔣琬、費禕並稱「\n四相」。他在朝之時，使宦官黃皓無法為\n所欲為。為人謙虛且光明正大，官拜蜀漢\n黃門侍郎。",
     "abilities": {
       "command": 32,
       "strength": 29,
@@ -12321,6 +12790,7 @@
       "邓艾",
       "鄧艾"
     ],
+    "biographyTraditional": "魏將。其才能得到司馬懿的賞識，在對蜀\n漢作戰中表現活躍。與鍾會聯手滅了蜀漢\n，但兩人卻是互不兩立，最後被擒住押往\n洛陽途中，遭到暗殺而死。",
     "abilities": {
       "command": 91,
       "strength": 88,
@@ -12355,6 +12825,7 @@
       "党均",
       "黨均"
     ],
+    "biographyTraditional": "東吳的司徒，孫皓之母何氏之弟，孫皓的\n叔父。２７９年，司馬炎發兵討伐東吳，\n曾被孫皓詢問應對之策。",
     "abilities": {
       "command": 38,
       "strength": 23,
@@ -12379,6 +12850,7 @@
     "searchAliases": [
       "董厥"
     ],
+    "biographyTraditional": "蜀漢大臣。跟隨諸葛亮參加南征、北伐，\n與姜維一起守備劍閣以阻擋魏國的進攻。\n蜀漢滅亡後，因為心痛，病發身亡。",
     "abilities": {
       "command": 72,
       "strength": 66,
@@ -12408,6 +12880,7 @@
       "陶谦",
       "陶謙"
     ],
+    "biographyTraditional": "徐州牧，參與討伐董卓的諸侯之一。由於\n曹操來犯，請求孔融、劉備救援。後來病\n倒，懇求劉備治理徐州。",
     "abilities": {
       "command": 47,
       "strength": 37,
@@ -12433,6 +12906,7 @@
       "邓贤",
       "鄧賢"
     ],
+    "biographyTraditional": "劉璋麾下之將，孟達的外甥。跟隨孟達先\n後為劉備、曹丕效力，後來孟達反叛魏國\n時，見事不可為，便投降了司馬懿率領的\n討伐軍。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -12457,6 +12931,7 @@
     "searchAliases": [
       "陶璜"
     ],
+    "biographyTraditional": "文欽之子，文鴦之弟。諸葛誕發起叛亂時\n，與父兄一同參戰。當文欽向諸葛誕進諫\n言被斬後，和文鴦一起躍過城牆，投降了\n魏國。",
     "abilities": {
       "command": 74,
       "strength": 67,
@@ -12486,6 +12961,7 @@
       "邓芝",
       "鄧芝"
     ],
+    "biographyTraditional": "蜀漢大臣。劉備死後，出任蜀吳結盟的使\n者，往返於蜀、吳之間，成功地完成任務\n。北伐時與趙雲一起任先鋒統軍，是智勇\n兼備的名將。",
     "abilities": {
       "command": 73,
       "strength": 46,
@@ -12513,6 +12989,7 @@
     "searchAliases": [
       "唐咨"
     ],
+    "biographyTraditional": "吳將。諸葛誕發動叛亂反對司馬氏時，被\n派遣去增援。戰敗後遭俘虜，於是投降了\n魏國，後來在魏國得到重用。",
     "abilities": {
       "command": 70,
       "strength": 67,
@@ -12541,6 +13018,7 @@
       "董袭",
       "董襲"
     ],
+    "biographyTraditional": "吳將。向孫策介紹了虞翻、華佗。在濡須\n口防衛戰中英勇戰鬥，但是由於大風使得\n座船傾覆，溺水而死。後來孫權尋得屍體\n，才將之厚葬。",
     "abilities": {
       "command": 74,
       "strength": 81,
@@ -12570,6 +13048,7 @@
       "滕修",
       "滕脩"
     ],
+    "biographyTraditional": "魏將。夜襲五丈原的諸葛亮陣營，卻反被\n陷於陣中，死於亂軍之下。",
     "abilities": {
       "command": 36,
       "strength": 24,
@@ -12594,6 +13073,7 @@
       "陶浚",
       "陶濬"
     ],
+    "biographyTraditional": "吳將。率水軍迎戰晉的進攻，但二萬士兵\n在一晚之間全部逃走，未戰先敗。",
     "abilities": {
       "command": 72,
       "strength": 64,
@@ -12620,6 +13100,7 @@
     "searchAliases": [
       "董承"
     ],
+    "biographyTraditional": "東漢的將軍，車騎將軍，董貴妃的兄長。\n獻帝授與命他誅殺佞臣曹操的玉帶，但圖\n謀殺曹操的事被下僕秦慶童發現後密告，\n遭處斬。",
     "abilities": {
       "command": 50,
       "strength": 55,
@@ -12645,6 +13126,7 @@
     "searchAliases": [
       "董昭"
     ],
+    "biographyTraditional": "東漢之臣，官拜正議郎。勸說獻帝、曹操\n遷都許昌。曹操即魏公時，執筆撰寫推舉\n的奏章。",
     "abilities": {
       "command": 29,
       "strength": 21,
@@ -12670,6 +13152,7 @@
     "searchAliases": [
       "董卓"
     ],
+    "biographyTraditional": "東漢的并州刺史，應何進召集進宮，乘混\n亂掌握權勢。廢少帝、遷都長安，自居太\n師之位，暴虐無度，最後被王允、呂布誅\n殺。",
     "abilities": {
       "command": 69,
       "strength": 83,
@@ -12698,6 +13181,7 @@
       "邓忠",
       "鄧忠"
     ],
+    "biographyTraditional": "魏將，鄧艾之子，隨父親在段谷大破姜維\n。長城之戰中，曾和姜維戰得不分高下，\n後來中了鍾會之計，與父親一起被補遭暗\n殺。",
     "abilities": {
       "command": 74,
       "strength": 86,
@@ -12725,6 +13209,7 @@
     "searchAliases": [
       "董朝"
     ],
+    "biographyTraditional": "孫權麾下的武將，慣使方天畫戟。赤壁之\n戰後，孫權攻打合淝時，迎擊來戰孫權的\n魏將樂進，卻被李典射死。",
     "abilities": {
       "command": 12,
       "strength": 13,
@@ -12749,6 +13234,7 @@
     "searchAliases": [
       "董荼那"
     ],
+    "biographyTraditional": "南蠻王孟獲麾下之將，第二洞元帥。與阿\n會喃等人一起擔任孟獲的援軍參戰，但是\n被俘虜，後被諸葛亮釋放。",
     "abilities": {
       "command": 68,
       "strength": 72,
@@ -12773,6 +13259,7 @@
     "searchAliases": [
       "唐彬"
     ],
+    "biographyTraditional": "步騭之子，步協之弟，曾上奏遷都武昌。\n２７２年，吳帝召他回京，他自覺有殺身\n之惑，因而降晉，後來被陸抗討伐擒獲，\n遭到處斬。",
     "abilities": {
       "command": 71,
       "strength": 70,
@@ -12799,6 +13286,7 @@
     "searchAliases": [
       "董旻"
     ],
+    "biographyTraditional": "董卓之弟。兄長董卓挾獻帝手握大權，自\n己因此得到左將軍之位。董卓被呂布倒戈\n殺死後，以同罪被斬，梟首示眾。",
     "abilities": {
       "command": 52,
       "strength": 60,
@@ -12823,6 +13311,7 @@
       "邓茂",
       "鄧茂"
     ],
+    "biographyTraditional": "黃巾黨。擔任程遠志的副將一起攻打幽州\n，但只一個回合就被加入幽州義勇軍的張\n飛殺死。他是張飛得意兵器蛇矛的第一個\n犧牲者。",
     "abilities": {
       "command": 68,
       "strength": 75,
@@ -12849,6 +13338,7 @@
       "邓良",
       "鄧良"
     ],
+    "biographyTraditional": "孫權麾下的武將。赤壁之戰後，隨孫權攻\n打合淝。在劉備到甘露寺會見吳國太時，\n領兵埋伏被識破，遭到吳國太叱責。",
     "abilities": {
       "command": 6,
       "strength": 12,
@@ -12872,6 +13362,7 @@
     "searchAliases": [
       "董和"
     ],
+    "biographyTraditional": "劉備麾下大臣，原本是劉璋的屬下。劉備\n軍進攻西川時，建議劉璋向張魯求援。劉\n備入蜀後，封他為掌軍中郎將。",
     "abilities": {
       "command": 65,
       "strength": 41,
@@ -12899,6 +13390,7 @@
       "杜预",
       "杜預"
     ],
+    "biographyTraditional": "晉將。由於喜愛「春秋左氏傳」，時人稱\n之為「左傳癖」。於討伐東吳時，任職鎮\n南大將軍，以破竹之勢大破吳軍。",
     "abilities": {
       "command": 85,
       "strength": 66,
@@ -12931,6 +13423,7 @@
       "甯随",
       "寗隨"
     ],
+    "biographyTraditional": "趙範麾下之將，桂陽的管軍校尉，慣使飛\n叉。赤壁之戰後，敗給前來攻打桂陽郡的\n趙雲，和鮑隆一起詐降，被識破後遭斬。",
     "abilities": {
       "command": 68,
       "strength": 71,
@@ -12957,6 +13450,7 @@
       "裴元绍",
       "裴元紹"
     ],
+    "biographyTraditional": "黃巾黨將領。黃巾之亂後，聚眾佔山為王\n。本欲奪取關羽的赤兔馬，在得知對方是\n關羽後歸順，並將朋友周倉介紹給關羽。",
     "abilities": {
       "command": 56,
       "strength": 67,
@@ -12981,6 +13475,7 @@
     "searchAliases": [
       "裴秀"
     ],
+    "biographyTraditional": "魏將，王允之姪，只出現在正史裡，跟隨\n張遼、曹休一同與孫權軍作戰。２５１年\n發動政變，但被司馬懿鎮壓，自殺身亡。",
     "abilities": {
       "command": 9,
       "strength": 9,
@@ -13009,6 +13504,7 @@
       "马玩",
       "馬玩"
     ],
+    "biographyTraditional": "韓遂麾下之將，「旗本八騎」之一。馬超\n中了賈詡的離間計，來問罪韓遂時，他為\n了保護主公韓遂，被馬超一劍砍死。",
     "abilities": {
       "command": 63,
       "strength": 73,
@@ -13034,6 +13530,7 @@
       "马休",
       "馬休"
     ],
+    "biographyTraditional": "馬騰的次子。父親馬騰被曹操召去許昌時\n隨行，但因為謀反計劃敗露，被曹操捉住\n後問斬。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -13061,6 +13558,7 @@
       "马钧",
       "馬鈞"
     ],
+    "biographyTraditional": "魏臣，博士。奉曹叡之命，監督建造崇華\n殿等宮宇。有發明機械、武器的才能。",
     "abilities": {
       "command": 6,
       "strength": 8,
@@ -13088,6 +13586,7 @@
       "马遵",
       "馬遵"
     ],
+    "biographyTraditional": "魏將，天水太守。用姜維妙計擊退了蜀漢\n軍，可是，後來姜維中了諸葛亮的之計叛\n變，屬下尹賞也打開城門呼應，迫不得已\n，只好逃往胡地。",
     "abilities": {
       "command": 40,
       "strength": 50,
@@ -13113,6 +13612,7 @@
       "马谡",
       "馬謖"
     ],
+    "biographyTraditional": "蜀漢的武將，馬良之弟。劉備評其為「不\n能委以重任」。南征時出任參謀表現活躍\n，但是第一次北伐時違反命令，招致大敗\n，被諸葛亮處死。",
     "abilities": {
       "command": 64,
       "strength": 65,
@@ -13141,6 +13641,7 @@
       "马岱",
       "馬岱"
     ],
+    "biographyTraditional": "蜀漢之將。與堂兄馬超一起歸順劉備，領\n軍活躍在南征北伐中。諸葛亮死後，剷除\n了造反的魏延。官拜蜀漢的平北將軍。",
     "abilities": {
       "command": 76,
       "strength": 84,
@@ -13170,6 +13671,7 @@
       "马忠",
       "馬忠（吳）"
     ],
+    "biographyTraditional": "吳將。追擊關羽時，用伏兵將關羽活捉，\n立下大功。被賞賜赤兔馬，可是赤兔馬什\n麼也不吃，追隨主人關羽而死。",
     "abilities": {
       "command": 68,
       "strength": 74,
@@ -13197,6 +13699,7 @@
       "马忠",
       "馬忠（蜀）"
     ],
+    "biographyTraditional": "蜀漢將軍。參加南征，與祝融夫人單挑時\n敗陣，後來參加北伐，率兵擔任伏兵、疑\n兵，表現活躍。官拜奮威將軍。",
     "abilities": {
       "command": 77,
       "strength": 72,
@@ -13227,6 +13730,7 @@
       "马超",
       "馬超"
     ],
+    "biographyTraditional": "馬騰的長子，因其武勇及英姿，故有綽號\n「錦馬超」。為報殺父之仇，大戰曹操，\n率領西涼兵急襲長安，但最後失敗。後來\n歸順劉備，成為五虎大將之一。",
     "abilities": {
       "command": 91,
       "strength": 97,
@@ -13256,6 +13760,7 @@
       "马铁",
       "馬鐵"
     ],
+    "biographyTraditional": "馬騰的三子。跟隨父親馬騰、兄長馬休一\n起去許昌，在與黃奎的謀反計劃敗露後，\n逃跑時被魏軍包圍，交戰中陣亡。",
     "abilities": {
       "command": 70,
       "strength": 64,
@@ -13283,6 +13788,7 @@
       "马腾",
       "馬騰"
     ],
+    "biographyTraditional": "東漢的西涼太守，是東漢初期的名將馬援\n子孫。曾與董承等人計劃剷除曹操，未果\n，後來被曹操召喚進京時再次密謀對策，\n但被發覺而遭處斬。",
     "abilities": {
       "command": 81,
       "strength": 80,
@@ -13313,6 +13819,7 @@
       "马邈",
       "馬邈"
     ],
+    "biographyTraditional": "蜀漢之將，負責守護江油城。由於對朝廷\n的腐敗感到失望，自知蜀滅國已經避免不\n了，便在魏將鄧艾來攻時投降，並引導魏\n軍進入成都。",
     "abilities": {
       "command": 4,
       "strength": 8,
@@ -13335,6 +13842,7 @@
       "马隆",
       "馬隆"
     ],
+    "biographyTraditional": "魏臣。任監軍隨鍾會討伐蜀漢，蜀滅亡後\n，受鍾會之命逮捕鄧艾父子，後來鍾會一\n叛變，便殺鍾會、姜維，並令田續謀殺了\n鄧艾父子。",
     "abilities": {
       "command": 77,
       "strength": 75,
@@ -13362,6 +13870,7 @@
       "马良",
       "馬良"
     ],
+    "biographyTraditional": "蜀漢之臣，綽號「白眉」。才高八斗，與\n弟弟馬謖一起為劉備效力，在留守荊州的\n關羽身邊輔佐政務。夷陵之戰時，將安營\n圖送去給諸葛亮。",
     "abilities": {
       "command": 39,
       "strength": 32,
@@ -13390,6 +13899,7 @@
       "万彧",
       "萬彧"
     ],
+    "biographyTraditional": "吳臣，左典軍。向孫和之子孫皓勸說立孫\n休為太子，孫皓即位後任職丞相，但因勸\n諫孫皓惹來不悅，於是遭到殺害。",
     "abilities": {
       "command": 17,
       "strength": 23,
@@ -13415,6 +13925,7 @@
     "searchAliases": [
       "樊建"
     ],
+    "biographyTraditional": "蜀漢之臣。雖是文官，但也參加了南征北\n伐。蜀漢滅亡後，和劉禪一起被送往洛陽\n，並得到司馬昭賜封侯爵。",
     "abilities": {
       "command": 49,
       "strength": 25,
@@ -13440,6 +13951,7 @@
       "潘浚",
       "潘濬"
     ],
+    "biographyTraditional": "關羽麾下之臣，官任治中。有內政方面的\n才能，但王甫說此人「疑心重、為利而動\n，不可信任」。後來關羽出擊在外，東吳\n軍襲擊荊州，他未曾抵抗就投降了。",
     "abilities": {
       "command": 63,
       "strength": 16,
@@ -13464,6 +13976,7 @@
     "searchAliases": [
       "潘璋"
     ],
+    "biographyTraditional": "吳將。與朱然協力，捉住了關羽，被賜與\n關羽的偃月刀以作為獎賞。後來在被關羽\n之子關興追殺途中，遇到關羽的亡靈，驚\n魂未定之時被斬殺。",
     "abilities": {
       "command": 78,
       "strength": 80,
@@ -13494,6 +14007,7 @@
     "searchAliases": [
       "樊稠"
     ],
+    "biographyTraditional": "董卓麾下之將。董卓死後，打敗前來攻打\n的馬騰、韓遂，但因為放走了同鄉韓遂，\n而被李傕以謀反罪斬首。",
     "abilities": {
       "command": 68,
       "strength": 73,
@@ -13520,6 +14034,7 @@
       "潘凤",
       "潘鳳"
     ],
+    "biographyTraditional": "冀州刺史韓馥麾下之將。汜水關之戰中，\n揮舞慣用的大斧挑戰華雄，因體力不濟而\n被殺。",
     "abilities": {
       "command": 59,
       "strength": 77,
@@ -13545,6 +14060,7 @@
       "费祎",
       "費禕"
     ],
+    "biographyTraditional": "蜀漢之臣。北伐之時與蔣琬一起留在成都\n。諸葛亮死後，任尚書令，與蔣琬共同負\n責蜀漢的國政。",
     "abilities": {
       "command": 74,
       "strength": 22,
@@ -13572,6 +14088,7 @@
     "searchAliases": [
       "卑衍"
     ],
+    "biographyTraditional": "公孫淵麾下之將。與率軍討伐公孫淵的司\n馬懿作戰，大敗。敗走後，為了扭轉局面\n再次挑戰魏軍，但和夏侯霸交手幾個回合\n後，就被殺死。",
     "abilities": {
       "command": 66,
       "strength": 70,
@@ -13596,6 +14113,7 @@
     "searchAliases": [
       "糜竺"
     ],
+    "biographyTraditional": "劉備麾下大臣。原來是徐州的富商，陶謙\n手下的別駕從事。陶謙死後，輔佐劉備。\n劉備入蜀後被任命為安漢將軍，地位在諸\n葛亮之上。",
     "abilities": {
       "command": 32,
       "strength": 39,
@@ -13622,6 +14140,7 @@
       "毕轨",
       "畢軌"
     ],
+    "biographyTraditional": "蜀將。２５８年冬，隨軍參加姜維的北伐\n，在祁山遭到鄧艾的夜襲所敗，並在鍾會\n率領大軍伐蜀時，駐守樂城，但收到漢中\n失陷的消息後投降。",
     "abilities": {
       "command": 60,
       "strength": 36,
@@ -13648,6 +14167,7 @@
     "searchAliases": [
       "糜芳"
     ],
+    "biographyTraditional": "劉備麾下將領，糜竺之弟。隸屬於關羽軍\n中守衛荊州南郡，但是被同僚傅士仁勸說\n，背叛了關羽，並投降東吳。後來欲回蜀\n國遭拒絕，被斬。",
     "abilities": {
       "command": 55,
       "strength": 56,
@@ -13673,6 +14193,7 @@
       "费耀",
       "費耀"
     ],
+    "biographyTraditional": "魏將。隨曹真和諸葛亮的第二次北伐軍作\n戰，因懷疑姜維作內應是假，代替曹真出\n戰，結果被事先埋伏的姜維包圍，自盡而\n死。",
     "abilities": {
       "command": 76,
       "strength": 64,
@@ -13701,6 +14222,7 @@
       "武安国",
       "武安國"
     ],
+    "biographyTraditional": "孔融麾下大將。虎牢關之戰中，勇敢挑戰\n呂布，揮舞著慣用的鐵鎚大戰十餘回合，\n被呂布砍下手腕，丟下鐵鎚逃回。",
     "abilities": {
       "command": 51,
       "strength": 75,
@@ -13725,6 +14247,7 @@
       "冯习",
       "馮習"
     ],
+    "biographyTraditional": "蜀漢將軍。蜀漢為關羽報仇而攻打東吳時\n，出任副將隨軍參戰，包圍了吳將孫桓，\n但是遭到陸遜的火攻，戰敗，最後與同僚\n張南一起戰死。",
     "abilities": {
       "command": 71,
       "strength": 73,
@@ -13751,6 +14274,7 @@
       "冯紞",
       "馮紞"
     ],
+    "biographyTraditional": "王朗之子。毌丘儉謀反之際，進言司馬師\n可善待叛軍的家屬，以敗其士氣。司馬師\n死後，上奏曹髦將實權交給司馬昭。",
     "abilities": {
       "command": 2,
       "strength": 8,
@@ -13775,6 +14299,7 @@
     "searchAliases": [
       "傅嘏"
     ],
+    "biographyTraditional": "魏臣，受曹爽重用。赴任荊州刺史時，奉\n命刺探司馬懿的現況，卻被司馬懿裝病騙\n過，使曹爽失去戒心。後來司馬懿叛變，\n將之處死。",
     "abilities": {
       "command": 46,
       "strength": 36,
@@ -13801,6 +14326,7 @@
     "searchAliases": [
       "傅士仁"
     ],
+    "biographyTraditional": "關羽麾下之將。駐紮在公安，守衛關羽軍\n的後方，但是在受到吳軍進攻時投降。日\n後在夷陵之戰中，他欲再投降蜀漢，卻未\n獲得饒恕，遭到斬首。",
     "abilities": {
       "command": 41,
       "strength": 63,
@@ -13826,6 +14352,7 @@
       "傅佥",
       "傅僉"
     ],
+    "biographyTraditional": "蜀漢將軍，傅彤之子。擊斃魏將李鵬、王\n真，屢建戰功。在陽平關抗擊魏軍進攻，\n但是副將蔣舒投降，自己在亂軍之中戰死\n。",
     "abilities": {
       "command": 75,
       "strength": 83,
@@ -13854,6 +14381,7 @@
     "searchAliases": [
       "傅巽"
     ],
+    "biographyTraditional": "劉表麾下大臣。建議繼承劉表之位的劉琮\n投降曹操，因此項功蹟，被曹操封為關內\n侯。",
     "abilities": {
       "command": 16,
       "strength": 13,
@@ -13878,6 +14406,7 @@
     "searchAliases": [
       "傅彤"
     ],
+    "biographyTraditional": "蜀漢的武將，中軍護尉。蜀軍在夷陵戰敗\n時，他斷後與東吳大軍奮戰，大喝「漢之\n大將豈能投降吳狗」，口吐鮮血戰死。",
     "abilities": {
       "command": 67,
       "strength": 72,
@@ -13905,6 +14434,7 @@
       "文鸯",
       "文鴦"
     ],
+    "biographyTraditional": "本名文淑，文欽之子，幼名為阿鴦，故通\n稱文鴦。勇猛可比趙雲，曾加入毌丘儉之\n亂，使司馬師苦不堪言，後來因父親之死\n，才歸順了魏國。",
     "abilities": {
       "command": 75,
       "strength": 90,
@@ -13934,6 +14464,7 @@
       "文钦",
       "文欽"
     ],
+    "biographyTraditional": "魏將，揚州刺史。被司馬師廢曹芳的專橫\n暴行激怒，與毌丘儉一起發動叛亂。戰敗\n後逃往吳國，但是遭到友軍諸葛誕的懷疑\n，因此被斬。",
     "abilities": {
       "command": 76,
       "strength": 82,
@@ -13961,6 +14492,7 @@
     "searchAliases": [
       "文虎"
     ],
+    "biographyTraditional": "魏國的隴西太守。參加鄧艾的蜀漢討伐軍\n，在綿竹城和王頎率領伏兵大破諸葛瞻。\n蜀滅後，被鄧艾任命為益州各郡的太守。",
     "abilities": {
       "command": 66,
       "strength": 73,
@@ -13988,6 +14520,7 @@
       "文丑",
       "文醜"
     ],
+    "biographyTraditional": "袁紹麾下的猛將。為給同僚顏良報仇，出\n軍延津，遭到曹操軍的襲擊，奮勇殺退張\n遼、徐晃二將，但是被關羽斬殺。",
     "abilities": {
       "command": 82,
       "strength": 95,
@@ -14014,6 +14547,7 @@
     "searchAliases": [
       "文聘"
     ],
+    "biographyTraditional": "劉表麾下之將。與劉琮一起投降曹操，但\n是以沒能守住國土為恥，不願為官。曹操\n欣賞其氣節，任命為江夏太守。",
     "abilities": {
       "command": 78,
       "strength": 84,
@@ -14042,6 +14576,7 @@
     "searchAliases": [
       "卞喜"
     ],
+    "biographyTraditional": "黃巾黨，慣使流星鎚，後來為曹操效力，\n守衛沂水關。在鎮國寺設下伏兵欲謀害千\n里尋兄的關羽，但是寺中僧人普淨暗示關\n羽並加以解救，最後被關羽斬殺。",
     "abilities": {
       "command": 57,
       "strength": 68,
@@ -14068,6 +14603,7 @@
       "方悦",
       "方悅"
     ],
+    "biographyTraditional": "河內太守王匡的麾下。參加反董卓聯盟，\n在虎牢關挑戰呂布，但五個回合就被挑落\n馬下，命喪黃泉。",
     "abilities": {
       "command": 68,
       "strength": 74,
@@ -14094,6 +14630,7 @@
       "庞会",
       "龐會"
     ],
+    "biographyTraditional": "龐德之子。在龐德前去與關羽交戰前，含\n淚與父分別。後來鍾會等人開始伐蜀，他\n作為屬下一同遠征。",
     "abilities": {
       "command": 70,
       "strength": 73,
@@ -14120,6 +14657,7 @@
       "忙牙长",
       "忙牙長"
     ],
+    "biographyTraditional": "南蠻王孟獲的副將。奉孟獲之命迎擊諸葛\n亮的南征軍，與王平交手，大敗，接著又\n戰馬岱，不敵陣亡。",
     "abilities": {
       "command": 62,
       "strength": 78,
@@ -14145,6 +14683,7 @@
       "逢纪",
       "逢紀"
     ],
+    "biographyTraditional": "袁紹麾下大臣，荀彧評價他雖有本領卻不\n能容人。對抗意識強烈，獻讒言害死田豐\n。袁紹死後，支持袁尚繼承家業。",
     "abilities": {
       "command": 16,
       "strength": 19,
@@ -14171,6 +14710,7 @@
       "庞羲",
       "龐義"
     ],
+    "biographyTraditional": "劉璋麾下大臣，身份巴西太守以防範漢中\n的張魯。劉備入蜀後得到提拔，任營中司\n馬之職。",
     "abilities": {
       "command": 64,
       "strength": 42,
@@ -14196,6 +14736,7 @@
       "鲍信",
       "鮑信"
     ],
+    "biographyTraditional": "東漢的校尉。董卓政權日漸專橫，與袁紹\n、王允共謀打倒暴政，並成為反董卓聯盟\n第九鎮。後來與曹操一起大戰青州黃巾黨\n，戰死。",
     "abilities": {
       "command": 72,
       "strength": 64,
@@ -14222,6 +14763,7 @@
     "searchAliases": [
       "法正"
     ],
+    "biographyTraditional": "劉備麾下大臣。本是劉璋屬下，和張松等\n謀劃讓劉備入蜀。擅長謀略，進攻漢中時\n擔任參謀。有人說如果法正還活著，就不\n會有夷陵之敗。",
     "abilities": {
       "command": 81,
       "strength": 48,
@@ -14254,6 +14796,7 @@
       "庞统",
       "龐統"
     ],
+    "biographyTraditional": "劉備麾下的謀士，與諸葛亮並稱臥龍、鳳\n雛。加入劉備麾下後，擔任攻蜀的總指揮\n，但在戰場上中了流箭，死於落鳳坡。",
     "abilities": {
       "command": 80,
       "strength": 15,
@@ -14285,6 +14828,7 @@
       "庞德",
       "龐德"
     ],
+    "biographyTraditional": "魏將。原本是馬超的屬下，但當馬超寄身\n於張魯處時，他由於生病，便與馬超主僕\n分離。後來投入曹操軍中，大戰關羽。",
     "abilities": {
       "command": 75,
       "strength": 94,
@@ -14314,6 +14858,7 @@
       "鲍隆",
       "鮑隆"
     ],
+    "biographyTraditional": "趙範麾下之將，桂陽的管軍校尉。武勇過\n人，曾用弓箭射殺二虎。詐降前來攻打桂\n陽的趙雲，但是被識破，遭斬首。",
     "abilities": {
       "command": 63,
       "strength": 74,
@@ -14339,6 +14884,7 @@
       "步协",
       "步協"
     ],
+    "biographyTraditional": "公孫瓚的長史，只出現在正史裡。當公孫\n瓚被袁紹包圍自殺後，他率一軍殺入袁紹\n軍中，戰死殉主。",
     "abilities": {
       "command": 73,
       "strength": 48,
@@ -14366,6 +14912,7 @@
       "穆顺",
       "穆順"
     ],
+    "biographyTraditional": "上黨太守張楊麾下的武將。在虎牢關之戰\n中，單騎迎戰呂布，一招就被了結了性命\n。與仕奉獻帝的宦官穆順同名，但不是同\n一人。",
     "abilities": {
       "command": 55,
       "strength": 76,
@@ -14391,6 +14938,7 @@
       "濮阳兴",
       "濮陽興"
     ],
+    "biographyTraditional": "吳臣，丞相。無視吳帝孫休的遺旨，擁立\n年長的孫皓為帝，但因勸諫孫皓的暴政，\n致使孫皓大怒而將之滿門抄斬。",
     "abilities": {
       "command": 34,
       "strength": 32,
@@ -14416,6 +14964,7 @@
     "searchAliases": [
       "木鹿大王"
     ],
+    "biographyTraditional": "南蠻八納洞的洞主。能使法術，呼風喚雨\n，操縱猛獸，自己騎巨象出戰，擊退了蜀\n漢軍，但後來被諸葛亮破了法術，最終戰\n死。",
     "abilities": {
       "command": 54,
       "strength": 72,
@@ -14442,6 +14991,7 @@
       "步骘",
       "步隲"
     ],
+    "biographyTraditional": "吳臣。攻打荊州時，確切分析了關羽和曹\n仁大軍的情況，為東吳帶來勝利。孫權即\n帝位後，被任命為驃騎將軍，後來擔任丞\n相。",
     "abilities": {
       "command": 77,
       "strength": 56,
@@ -14472,6 +15022,7 @@
       "步阐",
       "步闡"
     ],
+    "biographyTraditional": "東吳的黃門侍郎，全尚之子。２５８年，\n受孫亮的密令準備誅殺孫綝，返家後告知\n父親，卻因此洩露計劃，全族皆被殺害。",
     "abilities": {
       "command": 69,
       "strength": 64,
@@ -14499,6 +15050,7 @@
       "满宠",
       "滿寵"
     ],
+    "biographyTraditional": "魏臣。樊城被關羽的兵馬包圍時，進言曹\n仁死守城池，成功地擊退了關羽軍。後又\n阻止東吳呼應蜀漢北伐的行動，大勝。",
     "abilities": {
       "command": 79,
       "strength": 53,
@@ -14529,6 +15081,7 @@
     "searchAliases": [
       "毛玠"
     ],
+    "biographyTraditional": "曹操麾下的大臣。經滿寵推薦，成為曹操\n的屬下。擅長內政，建議重視農業。駐紮\n在荊州時，和于禁一起被任命為水軍都督\n，取代遭處斬的蔡瑁。",
     "abilities": {
       "command": 60,
       "strength": 41,
@@ -14556,6 +15109,7 @@
       "孟获",
       "孟獲"
     ],
+    "biographyTraditional": "南蠻之王。劉備死後，發動叛亂攻打蜀國\n，與遠征而來的諸葛亮頑抗，遭七擒七縱\n，直到第七次時，才終於誠心歸順。",
     "abilities": {
       "command": 75,
       "strength": 82,
@@ -14584,6 +15138,7 @@
       "毛炅",
       "孟炅"
     ],
+    "biographyTraditional": "東吳皇丈（天子的岳父）。妻為孫綝之姊\n。得知兒子全紀受孫亮之命將要誅殺孫綝\n後，把此事告知妻子，不料妻子密告孫綝\n，因而連坐遭處死。",
     "abilities": {
       "command": 73,
       "strength": 72,
@@ -14611,6 +15166,7 @@
     "searchAliases": [
       "孟宗"
     ],
+    "biographyTraditional": "晉將，與毛炅一起守備交趾。２７１年，\n被吳國的虞汜和陶璜包圍後投降，於發監\n送往吳都途中，在合浦吐血而亡。",
     "abilities": {
       "command": 52,
       "strength": 47,
@@ -14637,6 +15193,7 @@
       "孟达",
       "孟達"
     ],
+    "biographyTraditional": "先後為劉璋、劉備、曹丕效力的武將。對\n劉備入蜀多有貢獻，但是對關羽見死不救\n，反而投降了魏國。曹丕死後欲返回蜀漢\n，但是被司馬懿所殺。",
     "abilities": {
       "command": 72,
       "strength": 74,
@@ -14665,6 +15222,7 @@
       "孟优",
       "孟優"
     ],
+    "biographyTraditional": "南蠻王孟獲之弟。向與諸葛亮的南征軍交\n戰，卻不斷吃敗仗的兄長推薦朵思大王，\n勸兄長借朵思之力與蜀軍對抗。後來與兄\n長一起發誓歸順蜀漢。",
     "abilities": {
       "command": 63,
       "strength": 62,
@@ -14689,6 +15247,7 @@
     "searchAliases": [
       "俞涉"
     ],
+    "biographyTraditional": "袁術麾下之將。隨袁術參加了反董卓聯盟\n的汜水關戰役，誇口要打敗汜水關的守將\n華雄，但反而被殺死。",
     "abilities": {
       "command": 68,
       "strength": 79,
@@ -14715,6 +15274,7 @@
       "杨怀",
       "楊懷"
     ],
+    "biographyTraditional": "劉璋麾下之將，鎮守白水關的都督。與同\n僚高沛一起計劃謀害劉備，可是事跡敗露\n，被劉備捉住問斬。",
     "abilities": {
       "command": 70,
       "strength": 71,
@@ -14743,6 +15303,7 @@
       "雍闿",
       "雍闓"
     ],
+    "biographyTraditional": "建寧太守。與孟獲勾結背叛蜀漢，發動叛\n亂，但中了諸葛亮之計，與越雋太守高定\n失和，被高定屬下鄂煥殺死，叛亂因而平\n定。",
     "abilities": {
       "command": 74,
       "strength": 71,
@@ -14772,6 +15333,7 @@
       "杨仪",
       "楊儀"
     ],
+    "biographyTraditional": "蜀漢大臣，以長史之職隨軍北伐。與魏延\n不睦，更在諸葛亮死後與魏延對立，造成\n促使魏延謀反的原因之一。後來對地位不\n滿，出言不遜，被貶為庶民。",
     "abilities": {
       "command": 66,
       "strength": 49,
@@ -14799,6 +15361,7 @@
       "杨欣",
       "楊欣"
     ],
+    "biographyTraditional": "吳將。２５８年，受察知孫綝有謀反之意\n的孫休之命，和丁奉逮捕孫綝一族。",
     "abilities": {
       "command": 65,
       "strength": 69,
@@ -14824,6 +15387,7 @@
     "searchAliases": [
       "羊祜"
     ],
+    "biographyTraditional": "晉將。拜官都督。在襄陽前線抗吳，與吳\n國的名將陸抗惺惺相惜。後來向主推薦杜\n預，病死榻中。",
     "abilities": {
       "command": 87,
       "strength": 69,
@@ -14858,6 +15422,7 @@
       "杨弘",
       "楊弘"
     ],
+    "biographyTraditional": "袁術的幕僚。引用周文王雖擁有三分之二\n的天下，卻還向殷稱臣的典故，勸諫想藉\n玉璽稱帝的袁術。",
     "abilities": {
       "command": 15,
       "strength": 14,
@@ -14883,6 +15448,7 @@
       "杨昂",
       "楊昂"
     ],
+    "biographyTraditional": "張魯麾下將士。隨張英把守陽平關，以抗\n曹軍。不聽楊任的勸告，追擊曹軍主力衝\n入霧中，腹背受敵被張郃所殺。",
     "abilities": {
       "command": 66,
       "strength": 70,
@@ -14909,6 +15475,7 @@
       "杨济",
       "楊濟"
     ],
+    "biographyTraditional": "晉的荊州刺史。東吳的步闡降晉時，驅兵\n前往救援，和討伐步闡的陸抗等人在西陵\n交戰，結果敗陣而退。",
     "abilities": {
       "command": 71,
       "strength": 66,
@@ -14937,6 +15504,7 @@
       "杨丑",
       "楊醜"
     ],
+    "biographyTraditional": "張楊麾下之將。當曹操與呂布作戰時，殺\n死了支援呂布的張楊，並準備帶著張楊的\n首級向曹操投降，但被同僚眭固所殺。",
     "abilities": {
       "command": 56,
       "strength": 64,
@@ -14962,6 +15530,7 @@
       "杨修",
       "楊修"
     ],
+    "biographyTraditional": "曹操麾下大臣，東漢的太尉楊彪之子。雖\n有才，但是被曹操疏遠，有一說是因為他\n是袁術外甥的關係，另一說則是他曾給曹\n植出主意之故。",
     "abilities": {
       "command": 14,
       "strength": 7,
@@ -14988,6 +15557,7 @@
       "杨秋",
       "楊秋"
     ],
+    "biographyTraditional": "韓遂麾下的「旗本八騎」之一。原是與曹\n操講和的使者，後來韓遂與馬超失和，則\n成為使者去向曹操請降。馬超敗走後，被\n封為列侯。",
     "abilities": {
       "command": 64,
       "strength": 67,
@@ -15015,6 +15585,7 @@
       "杨松",
       "楊松"
     ],
+    "biographyTraditional": "張魯麾下的幕僚，是個貪婪、見錢眼開的\n小人。接受敵人的賄賂，孤立馬超，使得\n龐德反叛。後來被曹操以賣主之罪處斬。",
     "abilities": {
       "command": 2,
       "strength": 1,
@@ -15037,6 +15608,7 @@
       "杨稷",
       "楊謖"
     ],
+    "biographyTraditional": "韓遂的武將。２１１年和馬超一起攻破長\n安，但曹操軍趁韓遂與馬超對峙中襲擊，\n因此大敗而逃，途中，被于禁本來要射馬\n超的箭射死。",
     "abilities": {
       "command": 76,
       "strength": 53,
@@ -15064,6 +15636,7 @@
       "杨任",
       "楊任"
     ],
+    "biographyTraditional": "張魯麾下將士。隨張衛把守陽平關，以抗\n曹軍。英勇頑強地抵抗夏侯淵、張郃，但\n在陽平關被攻破後，死在夏侯淵之手。",
     "abilities": {
       "command": 71,
       "strength": 77,
@@ -15090,6 +15663,7 @@
       "杨祚",
       "楊祚"
     ],
+    "biographyTraditional": "公孫淵麾下之將。與卑衍一起率領八萬兵\n馬為先鋒，用持久戰與司馬懿對壘，但是\n被司馬懿用計誘出，大敗逃回。",
     "abilities": {
       "command": 56,
       "strength": 63,
@@ -15115,6 +15689,7 @@
       "杨肇",
       "楊肇"
     ],
+    "biographyTraditional": "魏國的相國參軍。２６３年，送出鍾會和\n鄧艾的蜀國討伐軍，預言鍾會與鄧艾必能\n破蜀，但兩人皆不得生還。",
     "abilities": {
       "command": 73,
       "strength": 69,
@@ -15145,6 +15720,7 @@
       "杨柏",
       "楊柏"
     ],
+    "biographyTraditional": "張魯麾下之將，楊松之弟。在馬超以張魯\n的部屬出陣作戰時，他負責監視，後來馬\n超歸順劉備，就把他殺了以表歸順之意。",
     "abilities": {
       "command": 38,
       "strength": 46,
@@ -15169,6 +15745,7 @@
       "杨阜",
       "楊阜"
     ],
+    "biographyTraditional": "曹操的武將。在曹操和張繡、劉表作戰時\n，投效於曹操。演義中，與為了報馬騰之\n仇而來的馬超交手，幾個回合就被刺死於\n馬下。",
     "abilities": {
       "command": 65,
       "strength": 46,
@@ -15196,6 +15773,7 @@
       "杨奉",
       "楊奉"
     ],
+    "biographyTraditional": "東漢的騎都尉。本來是李傕的部屬，因為\n對獎賞不滿而逃走。曾協助獻帝逃出長安\n有功，後來與曹操爭權失敗，逃去投奔了\n袁術。",
     "abilities": {
       "command": 59,
       "strength": 68,
@@ -15221,6 +15799,7 @@
       "雷铜",
       "雷銅"
     ],
+    "biographyTraditional": "劉璋麾下之將。與吳懿等人一起防衛劉備\n軍，但是被包圍後投降。守備巴西時，與\n魏軍張郃奮勇對戰，但由於被伏兵切斷退\n路，戰敗身亡。",
     "abilities": {
       "command": 70,
       "strength": 75,
@@ -15247,6 +15826,7 @@
     "searchAliases": [
       "雷薄"
     ],
+    "biographyTraditional": "袁術麾下之將。離開稱帝後昏庸奢靡的袁\n術，與陳蘭一起佔據嵩山為山賊，後來襲\n擊兵敗的袁術，搶奪其財寶。",
     "abilities": {
       "command": 66,
       "strength": 73,
@@ -15273,6 +15853,7 @@
       "骆统",
       "駱統"
     ],
+    "biographyTraditional": "孫權麾下大臣，會稽烏傷人士。對後母極\n孝，生活清貧，其名為世人傳頌。欲與赴\n東吳的諸葛亮辯論，被黃蓋勸阻。",
     "abilities": {
       "command": 76,
       "strength": 64,
@@ -15303,6 +15884,7 @@
       "罗宪",
       "羅憲"
     ],
+    "biographyTraditional": "劉禪的長子，２３８年立為皇太子。蜀滅\n亡後，被捲入鍾會的叛亂，因而被殺。",
     "abilities": {
       "command": 80,
       "strength": 70,
@@ -15333,6 +15915,7 @@
       "李异",
       "李異"
     ],
+    "biographyTraditional": "吳將，上陣時慣使鍍金大斧。跟隨孫桓參\n加對蜀作戰時，在舉斧劈向落馬的張苞那\n一瞬間，被從後方趕來的關興砍去首級。",
     "abilities": {
       "command": 66,
       "strength": 76,
@@ -15358,6 +15941,7 @@
     "searchAliases": [
       "李恢"
     ],
+    "biographyTraditional": "蜀漢大臣。預料到劉璋終將失敗，便投降\n劉備，並勸說前來救援劉璋的馬超，使其\n歸順劉備。隨軍參加了南征、北伐。",
     "abilities": {
       "command": 77,
       "strength": 65,
@@ -15388,6 +15972,7 @@
     "searchAliases": [
       "李傕"
     ],
+    "biographyTraditional": "董卓麾下之將。董卓被誅殺後，與同黨郭\n汜等人殺死王允，挾獻帝，亂行於朝中。\n後來中了楊彪的離間計，與郭汜相爭，自\n取滅亡。",
     "abilities": {
       "command": 66,
       "strength": 72,
@@ -15412,6 +15997,7 @@
     "searchAliases": [
       "李球"
     ],
+    "biographyTraditional": "魯肅的遺腹子。贊賞守衛濡須的張承，說\n他將來必是取代自己抗魏的人材。歷任武\n昌、夏口之督。",
     "abilities": {
       "command": 66,
       "strength": 71,
@@ -15438,6 +16024,7 @@
     "searchAliases": [
       "李歆"
     ],
+    "biographyTraditional": "晉將，負責守備交趾。２６８年，斬殺攻\n打交趾的劉俊和脩則；２７１年，被虞汜\n與陶璜軍包圍，糧盡而降，被脩則之子脩\n允所殺。",
     "abilities": {
       "command": 65,
       "strength": 68,
@@ -15460,6 +16047,7 @@
       "陆凯",
       "陸凱"
     ],
+    "biographyTraditional": "吳國左丞相，陸遜的族子。在內政方面和\n討伐山越時建立功勳，曾勸諫暴虐的吳帝\n孫皓，但不被採納。",
     "abilities": {
       "command": 65,
       "strength": 57,
@@ -15490,6 +16078,7 @@
       "陆景",
       "陸景"
     ],
+    "biographyTraditional": "魏將，鍾會的心腹，原本是胡烈的部屬。\n蜀滅亡後，鍾會企圖謀反，把胡烈等人監\n禁在獄中時，他將此事急報給胡烈之子胡\n淵。",
     "abilities": {
       "command": 72,
       "strength": 65,
@@ -15515,6 +16104,7 @@
       "陆抗",
       "陸抗"
     ],
+    "biographyTraditional": "吳將，陸遜的次子，東吳最後的名將。在\n西陵之戰遭受魏軍和叛軍挾擊，但仍能不\n慌不亂築起兩道城牆，最終獲得勝利。",
     "abilities": {
       "command": 90,
       "strength": 55,
@@ -15550,6 +16140,7 @@
       "陆绩",
       "陸績"
     ],
+    "biographyTraditional": "吳臣。陸遜的同族，擅長易經和曆學。年\n幼的時候，在謁見袁術之際將席上的蜜柑\n偷藏入袖中，被問及，才說出是要帶回去\n給母親享用。",
     "abilities": {
       "command": 17,
       "strength": 6,
@@ -15575,6 +16166,7 @@
       "陆逊",
       "陸遜"
     ],
+    "biographyTraditional": "吳將，孫策的女婿。與呂蒙謀劃，生擒了\n關羽。夷陵之戰中，成為大都督，擊敗蜀\n漢的大軍。受命守衛荊州，後來成為東吳\n的丞相。",
     "abilities": {
       "command": 98,
       "strength": 66,
@@ -15611,6 +16203,7 @@
       "李严",
       "李嚴"
     ],
+    "biographyTraditional": "蜀漢將軍。本是劉璋屬下，劉備入蜀後歸\n順劉備。諸葛亮對他評價極高，稱他是不\n在陸遜之下，但在北伐時因補給不利，遭\n到撤職免官。",
     "abilities": {
       "command": 81,
       "strength": 83,
@@ -15639,6 +16232,7 @@
     "searchAliases": [
       "李儒"
     ],
+    "biographyTraditional": "董卓麾下的謀士，也是董卓的女婿。經常\n向董卓進言，助紂為虐。識破貂蟬等人的\n連環計，但董卓不聽勸諫，後來董卓被誅\n，他也同罪受斬。",
     "abilities": {
       "command": 61,
       "strength": 29,
@@ -15668,6 +16262,7 @@
       "李肃",
       "李肅"
     ],
+    "biographyTraditional": "董卓麾下大臣。以赤兔馬為禮物，憑藉三\n寸不爛之舌勸說呂布歸降董卓。後來參加\n了暗殺董卓的計劃，擔任欽差，成功地將\n董卓騙到宮中。",
     "abilities": {
       "command": 47,
       "strength": 68,
@@ -15693,6 +16288,7 @@
       "李胜",
       "李勝"
     ],
+    "biographyTraditional": "涼州的參軍。反叛入冀城的馬超，得夏侯\n淵之助，殺退了馬超。後來曹真攻蜀時大\n雨難行，便勸說退兵；日後也勸諫曹叡不\n可建造宮殿無度，但遭貶為庶人。",
     "abilities": {
       "command": 13,
       "strength": 23,
@@ -15716,6 +16312,7 @@
     "searchAliases": [
       "李堪"
     ],
+    "biographyTraditional": "「超三國志」中的架空人物，馬騰之女，\n馬超之妹。嫁給趙雲為妻，和兄長夫君一\n同英勇作戰。",
     "abilities": {
       "command": 62,
       "strength": 70,
@@ -15741,6 +16338,7 @@
     "searchAliases": [
       "李通"
     ],
+    "biographyTraditional": "黃承彥之女，諸葛亮之妻，諸葛瞻之母。\n精通天文、地理、兵法，以豐富的學識協\n助諸葛亮謀略。諸葛亮死後，不久也追隨\n九泉之下。",
     "abilities": {
       "command": 72,
       "strength": 81,
@@ -15767,6 +16365,7 @@
     "searchAliases": [
       "李典"
     ],
+    "biographyTraditional": "曹操麾下的武將，曹操起兵時就開始跟隨\n征戰。喜好學問，性格冷靜慎重，曾多次\n制止同僚的躁動。與張遼、樂進一起守衛\n合淝。",
     "abilities": {
       "command": 77,
       "strength": 78,
@@ -15798,6 +16397,7 @@
       "李辅",
       "李輔"
     ],
+    "biographyTraditional": "　",
     "abilities": {
       "command": 61,
       "strength": 67,
@@ -15823,6 +16423,7 @@
       "李丰",
       "李豐（蜀）"
     ],
+    "biographyTraditional": "蜀臣，李嚴之子。父親李嚴因補給糧草不\n利被免官後，由他代任父職，被任命為長\n史，負責儲備軍糧。",
     "abilities": {
       "command": 64,
       "strength": 46,
@@ -15848,6 +16449,7 @@
       "李丰",
       "李豐（魏）"
     ],
+    "biographyTraditional": "魏將。２６３年，當鄧艾與鍾會遠征蜀國\n時，包圍了蜀將王含防守的樂城。",
     "abilities": {
       "command": 24,
       "strength": 34,
@@ -15873,6 +16475,7 @@
       "刘焉",
       "劉焉"
     ],
+    "biographyTraditional": "東漢的益州牧，漢室的宗親。看到漢室逐\n漸沒落，以州牧之身赴有「天子之氣」的\n巴蜀就任，建立了獨立的勢力。",
     "abilities": {
       "command": 51,
       "strength": 36,
@@ -15899,6 +16502,7 @@
       "刘璝",
       "劉璝"
     ],
+    "biographyTraditional": "劉璋麾下將士。與張任等人共同對抗劉備\n軍，張任被擒後，雖然孤立無援，但依然\n拼死抵抗，後來被同僚張翼斬殺。",
     "abilities": {
       "command": 71,
       "strength": 74,
@@ -15926,6 +16530,7 @@
       "刘琦",
       "劉琦"
     ],
+    "biographyTraditional": "劉表的長子。因後母蔡夫人欲讓其弟劉琮\n繼承荊州，他命在旦夕，得諸葛亮妙計，\n去守備江夏而逃過劫難。後來成為荊州刺\n史。",
     "abilities": {
       "command": 46,
       "strength": 10,
@@ -15952,6 +16557,7 @@
       "刘虞",
       "劉虞"
     ],
+    "biographyTraditional": "東漢的一族。因為平息張舉之亂被任命為\n幽州牧。接受劉恢的推薦，起用逃亡中的\n劉備。因為平亂有功，被任命為太尉。",
     "abilities": {
       "command": 56,
       "strength": 44,
@@ -15980,6 +16586,7 @@
       "刘勋",
       "劉勳"
     ],
+    "biographyTraditional": "袁術麾下的廬江太守。遭到統御江東的孫\n策進攻，被趕出廬江。據正史記載，他後\n來投靠舊識曹操，雖為親信，但因為態度\n不遜遭肅清。",
     "abilities": {
       "command": 48,
       "strength": 63,
@@ -16007,6 +16614,7 @@
       "刘贤",
       "劉賢"
     ],
+    "biographyTraditional": "零陵太守劉度之子。與劉備軍交戰，被張\n飛生擒，以說降父親為條件而釋放。後來\n果真說服其父投降，所以被赦免其罪，從\n此為劉備效力。",
     "abilities": {
       "command": 53,
       "strength": 60,
@@ -16032,6 +16640,7 @@
       "留赞",
       "留贊"
     ],
+    "biographyTraditional": "吳將。孫權死後不久，魏軍隨即入侵，於\n是受諸葛恪之命迎戰。據正史記載，是當\n時守衛東興郡右城的留略之父。",
     "abilities": {
       "command": 73,
       "strength": 74,
@@ -16059,6 +16668,7 @@
       "刘俊",
       "劉俊"
     ],
+    "biographyTraditional": "　",
     "abilities": {
       "command": 62,
       "strength": 58,
@@ -16085,6 +16695,7 @@
       "刘循",
       "劉循"
     ],
+    "biographyTraditional": "劉璋的長子。向父親劉璋請命去成都迎擊\n劉備軍，但是戰敗。正史記載，他阻擋劉\n備的進攻將近一年之久。",
     "abilities": {
       "command": 46,
       "strength": 51,
@@ -16110,6 +16721,7 @@
       "刘璋",
       "劉璋"
     ],
+    "biographyTraditional": "東漢的益州牧，劉焉之子。為了防備張魯\n的進侵，請來荊州的劉備，可是，反而遭\n到劉備軍的進攻，為了減輕臣民的痛苦，\n終於投降。",
     "abilities": {
       "command": 3,
       "strength": 3,
@@ -16132,6 +16744,7 @@
       "刘劭",
       "劉劭"
     ],
+    "biographyTraditional": "魏將。在諸葛亮第五次北伐，孫權攻打魏\n國時，他前去守衛江夏，並受曹叡之命破\n了陸遜之計，牽制住吳軍，擊退了孫權。",
     "abilities": {
       "command": 71,
       "strength": 62,
@@ -16160,6 +16773,7 @@
       "刘丞",
       "劉丞"
     ],
+    "biographyTraditional": "東吳的交州刺史。２６８年，與脩則等人\n一起攻打晉的交趾，敗於毛炅手中戰死。",
     "abilities": {
       "command": 59,
       "strength": 64,
@@ -16186,6 +16800,7 @@
       "刘寔",
       "劉寔"
     ],
+    "biographyTraditional": "　",
     "abilities": {
       "command": 42,
       "strength": 23,
@@ -16211,6 +16826,7 @@
       "刘谌",
       "劉諶"
     ],
+    "biographyTraditional": "劉禪的五子，北地王。反對譙周投降魏國\n的提議，被劉禪命近臣逐出宮門，後來蜀\n漢降魏，大哭「羞見基業棄於他人」，與\n妻兒自刎而死。",
     "abilities": {
       "command": 62,
       "strength": 65,
@@ -16239,6 +16855,7 @@
       "刘璿",
       "劉璿"
     ],
+    "biographyTraditional": "　",
     "abilities": {
       "command": 19,
       "strength": 52,
@@ -16264,6 +16881,7 @@
       "刘禅",
       "劉禪"
     ],
+    "biographyTraditional": "蜀漢二代皇帝，平庸敦厚之人。晚年沉迷\n於酒色之中，寵愛宦官黃皓，成為蜀漢滅\n亡的主要原因之一。其幼名「阿斗」，成\n為昏庸無能的代名詞。",
     "abilities": {
       "command": 3,
       "strength": 2,
@@ -16286,6 +16904,7 @@
       "刘琮",
       "劉琮"
     ],
+    "biographyTraditional": "劉表的次子。被蔡瑁等人推為後繼者，雖\n然投降南下的曹操，並被任命為青州刺史\n，但在前往青州的途中，便被曹操的手下\n暗殺身亡。",
     "abilities": {
       "command": 22,
       "strength": 22,
@@ -16313,6 +16932,7 @@
       "刘岱",
       "劉岱"
     ],
+    "biographyTraditional": "東漢的兗州刺史。討伐董卓聯軍的第四鎮\n諸侯。初平四年（西元一九二年）在與青\n州黃巾黨作戰時陣亡。與演義中曹操的屬\n下劉岱同名同姓同字，但不是同一個人。",
     "abilities": {
       "command": 56,
       "strength": 64,
@@ -16338,6 +16958,7 @@
       "刘度",
       "劉度"
     ],
+    "biographyTraditional": "零陵太守。與前來攻打的劉備軍對抗，命\n令兒子劉賢和邢道榮迎戰，後來因為劉賢\n敗北而投降，但仍以太守身份受命留任。",
     "abilities": {
       "command": 11,
       "strength": 25,
@@ -16363,6 +16984,7 @@
       "刘巴",
       "劉巴"
     ],
+    "biographyTraditional": "蜀漢之臣。原本是劉璋的幕僚，劉備入蜀\n後，出於對劉璋的忠誠拒不為官，劉備親\n自上門拜訪才請他出仕，後來也參加了北\n伐。",
     "abilities": {
       "command": 19,
       "strength": 20,
@@ -16389,6 +17011,7 @@
       "刘备",
       "劉備"
     ],
+    "biographyTraditional": "蜀漢的開國皇帝。西漢的中山靖王劉勝之\n後裔。組織義軍，參與討伐黃巾黨，轉戰\n各地，終於鼎立於三國之中。諡號蜀漢昭\n烈帝。",
     "abilities": {
       "command": 75,
       "strength": 74,
@@ -16418,6 +17041,7 @@
       "刘表",
       "劉表"
     ],
+    "biographyTraditional": "東漢的荊州牧。名士的代名詞「江夏八俊\n」之一。儘管中原大亂，他治理的荊州卻\n很安定。因為其優柔寡斷的性格，屢屢錯\n過問鼎中原的良機。",
     "abilities": {
       "command": 46,
       "strength": 28,
@@ -16443,6 +17067,7 @@
     "searchAliases": [
       "留平"
     ],
+    "biographyTraditional": "原是蜀漢的武將。２４９年，和李歆一起\n參加姜維的北伐，但在陳泰用計斷了糧道\n後，隨即降魏，後來鍾會發兵討蜀，便以\n魏將的身份參戰。",
     "abilities": {
       "command": 70,
       "strength": 69,
@@ -16472,6 +17097,7 @@
       "刘辟",
       "劉辟"
     ],
+    "biographyTraditional": "黃巾黨將領。黃巾之亂後，與龔都一起率\n領賊軍盤踞在汝南。欲追隨劉備，將汝南\n交給劉備。在與曹操的部將高覽交戰時，\n為保護劉備而戰死。",
     "abilities": {
       "command": 73,
       "strength": 70,
@@ -16498,6 +17124,7 @@
       "刘封",
       "劉封"
     ],
+    "biographyTraditional": "劉備的義子。守備上庸之時，拒絕發兵去\n援救關羽，導致關羽父子戰死。劉備盛怒\n之下，在成都將其處死。",
     "abilities": {
       "command": 76,
       "strength": 77,
@@ -16526,6 +17153,7 @@
       "刘晔",
       "劉曄"
     ],
+    "biographyTraditional": "魏臣。經郭嘉推舉，為曹操效力。對袁紹\n作戰時提出用發石車，擊退了敵人來自箭\n樓的攻擊。曹氏三代元老，獻過許多妙計\n。官拜魏國太中大夫。",
     "abilities": {
       "command": 36,
       "strength": 68,
@@ -16554,6 +17182,7 @@
       "刘繇",
       "劉繇"
     ],
+    "biographyTraditional": "東漢的揚州刺史。旗下有同鄉的勇將太史\n慈為部屬，卻不能盡用其才。遭到孫策攻\n擊，戰敗，落荒逃往豫章。",
     "abilities": {
       "command": 54,
       "strength": 67,
@@ -16579,6 +17208,7 @@
     "searchAliases": [
       "留略"
     ],
+    "biographyTraditional": "吳將。守備東興郡的右城。魏將胡遵的大\n軍來攻時，率領少數士兵死守右城，直到\n丁奉的援軍到達，成功的守住城池。",
     "abilities": {
       "command": 72,
       "strength": 70,
@@ -16607,6 +17237,7 @@
       "吕威璜",
       "呂威璜"
     ],
+    "biographyTraditional": "袁紹麾下的武將。擔任淳于瓊的副將之一\n，守衛烏巢的糧倉。淳于瓊酒醉之時受到\n曹操軍的奇襲，這一失策與官渡之戰的失\n敗有很大的關係。",
     "abilities": {
       "command": 64,
       "strength": 66,
@@ -16631,6 +17262,7 @@
     "searchAliases": [
       "廖化"
     ],
+    "biographyTraditional": "蜀漢之將。原是黃巾黨，欲追隨千里尋兄\n的關羽，但關羽不允。後來為劉備效力，\n轉戰各地，直至蜀漢滅亡。",
     "abilities": {
       "command": 75,
       "strength": 76,
@@ -16659,6 +17291,7 @@
       "梁兴",
       "梁興"
     ],
+    "biographyTraditional": "韓遂麾下的「旗本八騎」之一。馬超中了\n賈詡的離間計，正殺入營中時，他出面應\n戰，但一回合就被斬了。",
     "abilities": {
       "command": 66,
       "strength": 68,
@@ -16684,6 +17317,7 @@
       "梁绪",
       "梁緒"
     ],
+    "biographyTraditional": "魏國的中書令。２５４年，與曹芳、夏侯\n玄、張緝一起商議誅殺司馬師，但曹芳的\n血詔被發覺，三族皆斬。",
     "abilities": {
       "command": 60,
       "strength": 64,
@@ -16709,6 +17343,7 @@
     "searchAliases": [
       "凌操"
     ],
+    "biographyTraditional": "孫策麾下之將，凌統之父。大破吳郡的嚴\n白虎後，歸順孫策擔任從征校尉，後來在\n與黃祖交戰中，被甘寧射死。",
     "abilities": {
       "command": 76,
       "strength": 79,
@@ -16737,6 +17372,7 @@
       "凌统",
       "凌統"
     ],
+    "biographyTraditional": "吳將，凌操之子。為報父仇，屢屢向歸順\n東吳的甘寧滋事，後來與魏將樂進對陣時\n，被甘寧救下性命，二人才合解，結為生\n死之交。",
     "abilities": {
       "command": 78,
       "strength": 87,
@@ -16766,6 +17402,7 @@
       "吕凯",
       "呂凱"
     ],
+    "biographyTraditional": "蜀漢之臣。永昌郡的功曹。抵抗雍闓等人\n的攻擊，死守永昌郡。向南征的諸葛亮獻\n上「平蠻指掌圖」，被聘為行軍教授。",
     "abilities": {
       "command": 62,
       "strength": 26,
@@ -16792,6 +17429,7 @@
       "吕据",
       "呂據"
     ],
+    "biographyTraditional": "吳將。孫權死後，魏軍就來入侵，於是受\n諸葛恪之命出征東興，跟隨丁奉作戰，後\n來被孫綝所殺。在正史中，是吳國幕僚呂\n範的次子。",
     "abilities": {
       "command": 73,
       "strength": 56,
@@ -16821,6 +17459,7 @@
       "吕虔",
       "呂虔"
     ],
+    "biographyTraditional": "曹操麾下的將軍。和滿寵一起受到劉曄的\n推薦，任校尉。主要率軍後援，參加過許\n多戰役。",
     "abilities": {
       "command": 45,
       "strength": 72,
@@ -16848,6 +17487,7 @@
       "吕旷",
       "呂曠"
     ],
+    "biographyTraditional": "袁尚麾下之將，呂翔之兄。投降袁譚，接\n受了將軍印綬，但是將印綬獻給曹操，歸\n順了曹氏。後來與呂翔一起攻打新野，卻\n被勇將趙雲刺死。",
     "abilities": {
       "command": 64,
       "strength": 64,
@@ -16874,6 +17514,7 @@
       "吕翔",
       "呂翔"
     ],
+    "biographyTraditional": "袁尚麾下之將，呂曠之弟，經常與兄長一\n起行動。投降曹操之後，成為曹仁的部屬\n，陪同兄長攻打新野的劉備，但一個回合\n就被張飛殺死。",
     "abilities": {
       "command": 61,
       "strength": 68,
@@ -16900,6 +17541,7 @@
       "吕岱",
       "呂岱"
     ],
+    "biographyTraditional": "吳將。孫權臨終時，把後事託付給他與太\n傅諸葛恪。正史記載，他在孫權時代任大\n將軍，孫亮時代任大司馬，老當益壯。",
     "abilities": {
       "command": 76,
       "strength": 72,
@@ -16930,6 +17572,7 @@
       "吕范",
       "呂範"
     ],
+    "biographyTraditional": "吳臣。原是袁術的幕僚，但對袁術失去信\n心，改投入孫策的麾下。出任劉備與孫權\n之妹婚事的使者，去向劉備提親。",
     "abilities": {
       "command": 74,
       "strength": 61,
@@ -16959,6 +17602,7 @@
       "吕布",
       "呂布"
     ],
+    "biographyTraditional": "東漢之將。人稱「人中呂布，馬中赤兔」\n的猛將。論其武勇，三國之中無人能出其\n右，但為人反覆無常。雖征戰各地建立了\n勢力，郤因部下叛變而被擒處死。",
     "abilities": {
       "command": 94,
       "strength": 100,
@@ -16989,6 +17633,7 @@
       "吕蒙",
       "呂蒙"
     ],
+    "biographyTraditional": "吳將。原來只是一名猛夫，但是在孫權的\n激勵下努力研究學問，終於成為智勇兼備\n的名將。在他擔任東吳的都督時，指揮大\n軍奪回荊州，並生擒關羽。",
     "abilities": {
       "command": 93,
       "strength": 80,
@@ -17021,6 +17666,7 @@
       "伦直",
       "倫直"
     ],
+    "biographyTraditional": "公孫淵麾下大臣，擔任參軍。勸諫公孫淵\n不要反叛魏國，因而遭到斬首。後來司馬\n懿討伐了公孫淵，便封給其子孫爵位。",
     "abilities": {
       "command": 51,
       "strength": 42,
@@ -17047,6 +17693,7 @@
       "泠苞",
       "冷苞"
     ],
+    "biographyTraditional": "劉璋麾下之將。與鄧賢共同對抗劉備軍的\n黃忠、魏延。被擒詐降後逃走，後又被擒\n回處死。",
     "abilities": {
       "command": 72,
       "strength": 83,
@@ -17075,6 +17722,7 @@
       "楼玄",
       "樓玄"
     ],
+    "biographyTraditional": "魏將，胡烈之子，胡遵之孫。曾隨軍參加\n鍾會的伐蜀作戰，蜀滅亡後，由父親遣人\n告知鍾會企圖謀反，便和衛瓘一起誅殺鍾\n會。",
     "abilities": {
       "command": 26,
       "strength": 25,
@@ -17102,6 +17750,7 @@
       "鲁肃",
       "魯肅"
     ],
+    "biographyTraditional": "吳臣。經周瑜推舉，為孫權效力。赤壁之\n戰時，主張與劉備聯合抗敵。周瑜死後，\n他被任命為都督。擅長陸戰。",
     "abilities": {
       "command": 90,
       "strength": 57,
@@ -17135,6 +17784,7 @@
       "鲁淑",
       "魯淑"
     ],
+    "biographyTraditional": "　",
     "abilities": {
       "command": 74,
       "strength": 52,
@@ -17164,6 +17814,7 @@
       "卢植",
       "盧植"
     ],
+    "biographyTraditional": "東漢的忠臣，劉備、公孫瓚的學問之師。\n擔任中郎將統軍討伐黃巾黨，建立功勳。\n後來，以尚書身份勸阻董卓廢少帝。",
     "abilities": {
       "command": 89,
       "strength": 50,

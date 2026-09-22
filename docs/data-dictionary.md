@@ -5,10 +5,10 @@
 ## officers.json
 
 - `id`：游戏人物槽位 ID。
-- `nameSimplified`：当前已验证的简体姓名。
+- `nameSimplified`：以游戏槽位为锚点校订后的简体显示姓名；不以整串繁简转换推定异体字。
 - `nameTraditional`：与游戏槽位一一验证后的繁体姓名。
 - `searchAliases`：网页检索用别名；包括经验证的简体和繁体姓名。拼音尚未加入。
-- 游戏内人物小传尚未提取，因此当前不提供 `biography` 字段。
+- `biographyTraditional`：从游戏 `M_RtdnPK.s9` 解压取得的原作繁体中文人物小传。每条以同一武将记录中的小传编号关联，保留原有换行与用字，不进行繁简转换。
 - `abilities`：统率、武力、智力、政治。
 - `affinity`：0–149 的环状相性值。
 - `tactics`：已掌握兵法。
