@@ -72,26 +72,16 @@ h3 { font-size:1.35rem; }
 .affinity-ring-wrap { max-width:620px; margin:auto; padding:1.25rem; background:#faf7ef; }
 #affinity-ring svg { display:block; width:100%; max-width:500px; margin:auto; }
 .affinity-guide { fill:none; stroke:var(--line); stroke-width:3; }
-.affinity-region { fill:none; stroke-width:7; opacity:.24; pointer-events:none; }
 .affinity-ring-hit-target { fill:none; stroke:transparent; stroke-width:24; cursor:pointer; pointer-events:stroke; }
 .affinity-tick { fill:#c9c0b3; cursor:pointer; outline:none; }
-.affinity-tick.has-officers { filter:saturate(1.15); }
+.affinity-tick.has-officers { fill:#668382; }
 .affinity-tick:hover,.affinity-tick:focus,.affinity-tick.is-selected { fill:var(--vermilion); }
-.affinity-center,.affinity-value,.affinity-label,.affinity-region-label { fill:var(--ink); font-family:Arial,sans-serif; text-anchor:middle; }
+.affinity-center,.affinity-value,.affinity-label,.affinity-anchor { fill:var(--ink); font-family:Arial,sans-serif; text-anchor:middle; }
 .affinity-center { font-size:12px; letter-spacing:1px; }
 .affinity-value { fill:var(--vermilion); font-size:32px; font-weight:700; }
 .affinity-label { fill:var(--muted); font-size:10px; }
-.affinity-region-label { font-size:10px; font-weight:700; letter-spacing:1px; }
-.affinity-region.region-yellow-turban { stroke:#c8942e; }
-.affinity-region.region-wei { stroke:#4f759b; }
-.affinity-region.region-shu { stroke:#4f855f; }
-.affinity-region.region-warlords { stroke:#85627e; }
-.affinity-region.region-wu { stroke:#bd5b43; }
-.affinity-tick.region-yellow-turban,.affinity-region-label.region-yellow-turban { fill:#c8942e; }
-.affinity-tick.region-wei,.affinity-region-label.region-wei { fill:#4f759b; }
-.affinity-tick.region-shu,.affinity-region-label.region-shu { fill:#4f855f; }
-.affinity-tick.region-warlords,.affinity-region-label.region-warlords { fill:#85627e; }
-.affinity-tick.region-wu,.affinity-region-label.region-wu { fill:#bd5b43; }
+.affinity-anchor { fill:var(--jade); font-size:10px; font-weight:700; letter-spacing:.04em; pointer-events:none; }
+.affinity-anchor-marker { fill:var(--jade); stroke:#faf7ef; stroke-width:1.5; pointer-events:none; }
 .affinity-officer-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.75rem; }
 .affinity-officer { padding:.9rem; border:1px solid var(--line); background:#faf7ef; color:var(--ink); text-align:left; cursor:pointer; }
 .affinity-officer:hover,.affinity-officer[aria-pressed="true"] { border-color:var(--jade); box-shadow:3px 4px 0 rgba(30,85,84,.16); }

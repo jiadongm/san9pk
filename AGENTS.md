@@ -43,7 +43,7 @@ Run `python3 -m json.tool data/manifest.json` and inspect the generator's valida
 - Reviewed display-name corrections are keyed by officer slot ID. In particular, use `王沈` (not `王沉`), `沈莹` (not `沉莹`) and `孔伷` (not `孔侑`) as display names; preserve old game spellings only as search aliases where useful.
 - Scenario start availability for 20 scenarios. Only records marked `presentAtStart` enter recommendations.
 - Scenario and verified-force filters, three/five-person toggles, and user-set highest-value thresholds for command, strength, intelligence and politics.
-- The 0–149 interactive affinity ring, keyboard-selectable positions and non-official colour reference regions.
+- The 0–149 interactive affinity ring, keyboard-selectable positions and six neutral, named position anchors. Do not colour continuous affinity ranges as factions.
 - 28 formation names and raw records. The semantic meaning of the raw formation fields is not fully decoded.
 - Positive quantified relationships and known negative pairs. Negative pairs are excluded from recommendations; Zhong Hui plus Deng Ai is an important test case.
 - Recommendation scores use circular affinity distance plus quantified intimacy. Ability values are a tie-breaker only. Five-person teams are bounded-search high-scoring candidates, not a proof of global optimum.
