@@ -69,13 +69,20 @@ h3 { font-size:1.35rem; }
 .affinity-ring-wrap { max-width:620px; margin:auto; padding:1.25rem; background:#faf7ef; }
 #affinity-ring svg { display:block; width:100%; max-width:500px; margin:auto; }
 .affinity-guide { fill:none; stroke:var(--line); stroke-width:3; }
+.affinity-region { fill:none; stroke-width:7; opacity:.24; pointer-events:none; }
 .affinity-tick { fill:#c9c0b3; cursor:pointer; outline:none; }
-.affinity-tick.has-officers { fill:var(--jade); }
+.affinity-tick.has-officers { filter:saturate(1.15); }
 .affinity-tick:hover,.affinity-tick:focus,.affinity-tick.is-selected { fill:var(--vermilion); }
-.affinity-center,.affinity-value,.affinity-label { fill:var(--ink); font-family:Arial,sans-serif; text-anchor:middle; }
+.affinity-center,.affinity-value,.affinity-label,.affinity-region-label { fill:var(--ink); font-family:Arial,sans-serif; text-anchor:middle; }
 .affinity-center { font-size:12px; letter-spacing:1px; }
 .affinity-value { fill:var(--vermilion); font-size:32px; font-weight:700; }
 .affinity-label { fill:var(--muted); font-size:10px; }
+.affinity-region-label { font-size:10px; font-weight:700; letter-spacing:1px; }
+.region-yellow-turban { fill:#c8942e; stroke:#c8942e; }
+.region-wei { fill:#4f759b; stroke:#4f759b; }
+.region-shu { fill:#4f855f; stroke:#4f855f; }
+.region-warlords { fill:#85627e; stroke:#85627e; }
+.region-wu { fill:#bd5b43; stroke:#bd5b43; }
 .affinity-officer-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.75rem; }
 .affinity-officer { padding:.9rem; border:1px solid var(--line); background:#faf7ef; color:var(--ink); text-align:left; cursor:pointer; }
 .affinity-officer:hover,.affinity-officer[aria-pressed="true"] { border-color:var(--jade); box-shadow:3px 4px 0 rgba(30,85,84,.16); }

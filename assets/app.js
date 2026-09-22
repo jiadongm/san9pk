@@ -1,6 +1,14 @@
 const $ = (id) => document.getElementById(id);
 const state = { officers: [], scenarios: [], availability: [], factions: [], relationships: [], recommendations: [], selectedOfficerId: null, selectedAffinity: 25, officerVisibleLimit: 24, recommendationVisibleLimit: 10 };
 const dataVersion = new URL(import.meta.url).searchParams.get("v") || "1";
+const affinityRegions = [
+  { id: "yellow-turban", label: "黄巾", start: 0, end: 14 },
+  { id: "wei", label: "魏", start: 15, end: 49 },
+  { id: "shu", label: "蜀", start: 50, end: 95 },
+  { id: "warlords", label: "群雄", start: 96, end: 116 },
+  { id: "wu", label: "吴", start: 117, end: 140 },
+  { id: "warlords", label: "群雄", start: 141, end: 149 },
+];
 
 async function loadData() {
   const names = ["officers", "scenarios", "scenario-availability", "factions", "relationships", "recommendations", "manifest"];
@@ -77,18 +85,26 @@ function renderAffinityRing() {
   const selected = state.selectedAffinity;
   const counts = new Map(state.officers.map((officer) => [officer.affinity, 0]));
   state.officers.forEach((officer) => counts.set(officer.affinity, (counts.get(officer.affinity) || 0) + 1));
+  const regionForPosition = (position) => affinityRegions.find((region) => position >= region.start && position <= region.end);
+  const arcs = affinityRegions.map((region) => `<circle class="affinity-region region-${region.id}" cx="200" cy="200" r="151" pathLength="150" stroke-dasharray="${region.end - region.start + 1} ${150 - (region.end - region.start + 1)}" stroke-dashoffset="${-region.start}" transform="rotate(-90 200 200)" />`).join("");
   const points = Array.from({ length: 150 }, (_, position) => {
     const angle = -Math.PI / 2 + (Math.PI * 2 * position) / 150;
     const x = 200 + Math.cos(angle) * 151;
     const y = 200 + Math.sin(angle) * 151;
     const count = counts.get(position) || 0;
-    return `<circle class="affinity-tick${position === selected ? " is-selected" : ""}${count ? " has-officers" : ""}" data-affinity-position="${position}" cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="${position === selected ? 6 : count ? 3.5 : 2}" tabindex="0" role="button" aria-label="相性位置 ${position}，${count} 名武将" />`;
+    const region = regionForPosition(position);
+    return `<circle class="affinity-tick region-${region.id}${position === selected ? " is-selected" : ""}${count ? " has-officers" : ""}" data-affinity-position="${position}" cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="${position === selected ? 6 : count ? 3.5 : 2}" tabindex="0" role="button" aria-label="相性位置 ${position}，${region.label}参考区域，${count} 名武将" />`;
+  }).join("");
+  const regionLabels = affinityRegions.filter((region) => region.start !== 141).map((region) => {
+    const position = (region.start + region.end) / 2;
+    const angle = -Math.PI / 2 + (Math.PI * 2 * position) / 150;
+    return `<text class="affinity-region-label region-${region.id}" x="${(200 + Math.cos(angle) * 130).toFixed(2)}" y="${(204 + Math.sin(angle) * 130).toFixed(2)}">${region.label}</text>`;
   }).join("");
   const labels = [0, 25, 50, 75, 100, 125].map((position) => {
     const angle = -Math.PI / 2 + (Math.PI * 2 * position) / 150;
     return `<text class="affinity-label" x="${(200 + Math.cos(angle) * 181).toFixed(2)}" y="${(204 + Math.sin(angle) * 181).toFixed(2)}">${position}</text>`;
   }).join("");
-  $("affinity-ring").innerHTML = `<svg viewBox="0 0 400 400" role="group" aria-label="0 至 149 的相性圆环"><circle class="affinity-guide" cx="200" cy="200" r="151" />${points}${labels}<text class="affinity-center" x="200" y="190">相性位置</text><text class="affinity-value" x="200" y="220">${selected}</text></svg>`;
+  $("affinity-ring").innerHTML = `<svg viewBox="0 0 400 400" role="group" aria-label="0 至 149 的相性圆环"><circle class="affinity-guide" cx="200" cy="200" r="151" />${arcs}${points}${labels}${regionLabels}<text class="affinity-center" x="200" y="190">相性位置</text><text class="affinity-value" x="200" y="220">${selected}</text></svg>`;
   document.querySelectorAll("[data-affinity-position]").forEach((point) => {
     const selectPosition = () => { state.selectedAffinity = Number(point.dataset.affinityPosition); state.selectedOfficerId = null; renderAffinityRing(); renderAffinityOfficers(); renderAffinityDetail(); };
     point.addEventListener("click", selectPosition);
