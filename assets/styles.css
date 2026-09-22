@@ -70,9 +70,10 @@ h3 { font-size:1.35rem; }
 #affinity-ring svg { display:block; width:100%; max-width:500px; margin:auto; }
 .affinity-guide { fill:none; stroke:var(--line); stroke-width:3; }
 .affinity-region { fill:none; stroke-width:7; opacity:.24; pointer-events:none; }
+.affinity-hit-target { fill:transparent; stroke:transparent; cursor:pointer; pointer-events:all; outline:none; }
 .affinity-tick { fill:#c9c0b3; cursor:pointer; outline:none; }
 .affinity-tick.has-officers { filter:saturate(1.15); }
-.affinity-tick:hover,.affinity-tick:focus,.affinity-tick.is-selected { fill:var(--vermilion); }
+.affinity-hit-target:hover + .affinity-tick,.affinity-hit-target:focus + .affinity-tick,.affinity-tick.is-selected { fill:var(--vermilion); }
 .affinity-center,.affinity-value,.affinity-label,.affinity-region-label { fill:var(--ink); font-family:Arial,sans-serif; text-anchor:middle; }
 .affinity-center { font-size:12px; letter-spacing:1px; }
 .affinity-value { fill:var(--vermilion); font-size:32px; font-weight:700; }

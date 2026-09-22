@@ -93,7 +93,7 @@ function renderAffinityRing() {
     const y = 200 + Math.sin(angle) * 151;
     const count = counts.get(position) || 0;
     const region = regionForPosition(position);
-    return `<circle class="affinity-tick region-${region.id}${position === selected ? " is-selected" : ""}${count ? " has-officers" : ""}" data-affinity-position="${position}" cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="${position === selected ? 6 : count ? 3.5 : 2}" tabindex="0" role="button" aria-label="相性位置 ${position}，${region.label}参考区域，${count} 名武将" />`;
+    return `<circle class="affinity-hit-target" data-affinity-position="${position}" cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="11" tabindex="0" role="button" aria-label="相性位置 ${position}，${region.label}参考区域，${count} 名武将" /><circle class="affinity-tick region-${region.id}${position === selected ? " is-selected" : ""}${count ? " has-officers" : ""}" cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="${position === selected ? 6 : count ? 3.5 : 2}" aria-hidden="true" />`;
   }).join("");
   const regionLabels = affinityRegions.filter((region) => region.start !== 141).map((region) => {
     const position = (region.start + region.end) / 2;
@@ -105,10 +105,21 @@ function renderAffinityRing() {
     return `<text class="affinity-label" x="${(200 + Math.cos(angle) * 181).toFixed(2)}" y="${(204 + Math.sin(angle) * 181).toFixed(2)}">${position}</text>`;
   }).join("");
   $("affinity-ring").innerHTML = `<svg viewBox="0 0 400 400" role="group" aria-label="0 至 149 的相性圆环"><circle class="affinity-guide" cx="200" cy="200" r="151" />${arcs}${points}${labels}${regionLabels}<text class="affinity-center" x="200" y="190">相性位置</text><text class="affinity-value" x="200" y="220">${selected}</text></svg>`;
+  const selectPosition = (position) => { state.selectedAffinity = position; state.selectedOfficerId = null; renderAffinityRing(); renderAffinityOfficers(); renderAffinityDetail(); };
   document.querySelectorAll("[data-affinity-position]").forEach((point) => {
-    const selectPosition = () => { state.selectedAffinity = Number(point.dataset.affinityPosition); state.selectedOfficerId = null; renderAffinityRing(); renderAffinityOfficers(); renderAffinityDetail(); };
-    point.addEventListener("click", selectPosition);
-    point.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); selectPosition(); } });
+    const position = Number(point.dataset.affinityPosition);
+    point.addEventListener("click", (event) => { event.stopPropagation(); selectPosition(position); });
+    point.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); selectPosition(position); } });
+  });
+  $("affinity-ring").querySelector("svg").addEventListener("click", (event) => {
+    const svg = event.currentTarget;
+    const rect = svg.getBoundingClientRect();
+    const x = (event.clientX - rect.left) * 400 / rect.width;
+    const y = (event.clientY - rect.top) * 400 / rect.height;
+    const distance = Math.hypot(x - 200, y - 200);
+    if (distance < 132 || distance > 170) return;
+    const angle = (Math.atan2(y - 200, x - 200) + Math.PI / 2 + Math.PI * 2) % (Math.PI * 2);
+    selectPosition(Math.round(angle * 150 / (Math.PI * 2)) % 150);
   });
 }
 
