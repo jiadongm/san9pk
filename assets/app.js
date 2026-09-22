@@ -73,17 +73,29 @@ function renderDetail() {
   $("officer-detail").innerHTML = `<p class="panel-kicker">武将档案 · #${officer.id}</p><h3>${officer.nameSimplified}${traditionalName}</h3><ul class="detail-list"><li><b>能力</b><br>统率 ${officer.abilities.command}　武力 ${officer.abilities.strength}　智力 ${officer.abilities.intelligence}　政治 ${officer.abilities.politics}</li><li><b>最早可用剧本</b><br>${firstAvailableLabel(officer, true)}</li><li><b>相性位置</b><br>${officer.affinity} / 149</li><li><b>兵法</b><br>${officer.tactics.map((tactic) => `<span class="tag">${tactic}</span>`).join("") || "未记录"}</li><li><b>开局可用剧本</b><br>${available} 个</li><li><b>特殊关系</b><br>${relationships}</li></ul>`;
 }
 
+function abilityThresholds() {
+  return Object.fromEntries(["command", "strength", "intelligence", "politics"].map((ability) => [ability, Number($(`threshold-${ability}`).value) || 0]));
+}
+
+function meetsAbilityThresholds(team, thresholds) {
+  return Object.entries(thresholds).every(([ability, minimum]) => !minimum || team.memberIds.some((id) => state.officers.find((officer) => officer.id === id).abilities[ability] >= minimum));
+}
+
 function renderRecommendations() {
   const scenarioId = $("scenario-filter").value;
   const forceId = $("faction-filter").value;
   const teamSize = Number(document.querySelector("input[name='team-size']:checked").value);
   const scenario = state.scenarios.find((item) => item.id === scenarioId);
-  const teams = state.recommendations.filter((item) => item.scenarioId === scenarioId && item.teamSize === teamSize && (forceId ? item.forceId === Number(forceId) : item.forceId === null)).sort((a, b) => a.rank - b.rank);
+  const allTeams = state.recommendations.filter((item) => item.scenarioId === scenarioId && item.teamSize === teamSize && (forceId ? item.forceId === Number(forceId) : item.forceId === null)).sort((a, b) => a.rank - b.rank);
+  const thresholds = abilityThresholds();
+  const teams = allTeams.filter((team) => meetsAbilityThresholds(team, thresholds));
   const faction = forceId ? state.factions.find((item) => item.scenarioId === scenarioId && item.forceId === Number(forceId)) : null;
   const scope = faction ? `${faction.leaderName}势力 · 已验证成员池 ${teams[0]?.candidatePoolSize ?? 0} 人` : "全部开局武将";
   const visibleTeams = teams.slice(0, state.recommendationVisibleLimit);
-  $("recommendation-note").textContent = `${scenario.title}（${scenario.year}年${scenario.month}月） · ${scope} · ${teamSize} 人高分候选，显示 ${visibleTeams.length} / ${teams.length}。联携分不混入能力值；能力均值仅用于同分排序。`;
-  $("recommendation-list").innerHTML = visibleTeams.map((team) => `<article class="team-card"><header><span class="rank">候选 ${team.rank}</span><span class="score">联携分 ${team.linkageScore}</span></header><p class="team-members">${team.members.join(" · ")}</p><ul class="reason-list"><li>最小相性距离：${team.minAffinityDistance}；平均距离：${team.meanAffinityDistance}</li><li>${team.positiveRelationPairs.length ? `正向关系：${team.positiveRelationPairs.join("、")}` : "没有收录的特殊正向关系，以相性接近度为主。"}</li><li>${team.commonTactics.length ? `共同兵法：${team.commonTactics.join("、")}` : "没有三人／五人共同兵法。"}</li><li>${team.tacticSystemCoverage.length ? `兵法覆盖：${team.tacticSystemCoverage.join("；")}` : "未达到两人以上的已标注兵法体系。"}</li></ul></article>`).join("") || "<p>该势力没有足够的已验证成员生成此人数候选。</p>";
+  const thresholdSummary = Object.entries(thresholds).filter(([, minimum]) => minimum).map(([ability, minimum]) => `${{ command: "统", strength: "武", intelligence: "智", politics: "政" }[ability]}≥${minimum}`).join("、");
+  $("recommendation-note").textContent = `${scenario.title}（${scenario.year}年${scenario.month}月） · ${scope} · ${teamSize} 人高分候选${thresholdSummary ? ` · 队内最高值 ${thresholdSummary}` : ""}，显示 ${visibleTeams.length} / ${teams.length}${thresholdSummary ? `（原有 ${allTeams.length}）` : ""}。联携分不混入能力值；能力均值仅用于同分排序。`;
+  const emptyMessage = thresholdSummary ? "当前能力门槛下没有符合的组合。" : faction ? "该势力没有足够的已验证成员生成此人数候选。" : "该剧本没有足够的开局武将生成此人数候选。";
+  $("recommendation-list").innerHTML = visibleTeams.map((team) => `<article class="team-card"><header><span class="rank">候选 ${team.rank}</span><span class="score">联携分 ${team.linkageScore}</span></header><p class="team-members">${team.members.join(" · ")}</p><ul class="reason-list"><li>最小相性距离：${team.minAffinityDistance}；平均距离：${team.meanAffinityDistance}</li><li>${team.positiveRelationPairs.length ? `正向关系：${team.positiveRelationPairs.join("、")}` : "没有收录的特殊正向关系，以相性接近度为主。"}</li><li>${team.commonTactics.length ? `共同兵法：${team.commonTactics.join("、")}` : "没有三人／五人共同兵法。"}</li><li>${team.tacticSystemCoverage.length ? `兵法覆盖：${team.tacticSystemCoverage.join("；")}` : "未达到两人以上的已标注兵法体系。"}</li></ul></article>`).join("") || `<p>${emptyMessage}</p>`;
   $("load-more-recommendations").hidden = visibleTeams.length >= teams.length;
 }
 
@@ -97,6 +109,7 @@ function initialiseListeners() {
     $("scenario-filter").addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderFactionFilter(); renderRecommendations(); });
     $("faction-filter").addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); });
     document.querySelectorAll("input[name='team-size']").forEach((input) => input.addEventListener("change", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); }));
+    document.querySelectorAll(".ability-thresholds input").forEach((input) => input.addEventListener("input", () => { state.recommendationVisibleLimit = 10; renderRecommendations(); }));
     $("load-more-recommendations").addEventListener("click", () => { state.recommendationVisibleLimit += 10; renderRecommendations(); });
   }
 }
